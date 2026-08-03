@@ -1,5 +1,5 @@
 '''
-Created on 2026-08-02
+Created on 2 August 2026
 
 download world championship pgns from pgnmentor.com
 
