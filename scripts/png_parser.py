@@ -40,11 +40,11 @@ with open(OUT, 'w', newline='') as f:
                 meta = {
                     'game_id': game_id,
                     'source_file': pgn_file.name,
-                    'event': h.get('Event', ''),
-                    'date': h.get('Date', ''),
-                    'white': h.get('White', ''),
-                    'black': h.get('Black', ''),
-                    'result': h.get('Result', ''),
+                    'event': h['Event'],
+                    'date': h['Date'],
+                    'white': h['White'],
+                    'black': h['Black'],
+                    'result': h['Result'],
                     'eco': h.get('ECO', ''),
                 }
 

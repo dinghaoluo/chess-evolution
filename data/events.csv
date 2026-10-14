@@ -1,0 +1,61 @@
+event_id,year,order,lineage,format,event_status,included,source_file,expected_classical_records,expected_rapid_games,evidence_url,supplement_url,notes
+world_1886,1886,18860,main,match,completed,1,WorldChamp1886.pgn,20,0,https://www.mark-weeks.com/chess/y6sz$wix.htm,,
+world_1889,1889,18890,main,match,completed,1,WorldChamp1889.pgn,17,0,https://www.mark-weeks.com/chess/y9sc$wix.htm,,
+world_1890,1890,18900,main,match,completed,1,WorldChamp1890.pgn,19,0,https://www.mark-weeks.com/chess/z0sg$wix.htm,,game dates span two calendar years
+world_1892,1892,18920,main,match,completed,1,WorldChamp1892.pgn,23,0,https://www.mark-weeks.com/chess/z2sc$wix.htm,,
+world_1894,1894,18940,main,match,completed,1,WorldChamp1894.pgn,19,0,https://www.mark-weeks.com/chess/z4ls$wix.htm,,
+world_1896,1896,18960,main,match,completed,1,WorldChamp1896.pgn,17,0,https://www.mark-weeks.com/chess/z6ls$wix.htm,,game dates span two calendar years
+world_1907,1907,19070,main,match,completed,1,WorldChamp1907.pgn,15,0,https://www.mark-weeks.com/chess/07lm$wix.htm,,
+world_1908,1908,19080,main,match,completed,1,WorldChamp1908.pgn,16,0,https://www.mark-weeks.com/chess/08lt$wix.htm,,
+world_1909,1909,19090,main,match,completed,0,WorldChamp1909.pgn,10,0,https://www.mark-weeks.com/chess/09lj$wix.htm,,excluded by project boundary; non-title match
+world_1910a,1910,19100,main,match,completed,1,WorldChamp1910a.pgn,10,0,https://www.mark-weeks.com/chess/10ls$wix.htm,,
+world_1910b,1910,19101,main,match,completed,1,WorldChamp1910b.pgn,11,0,https://www.mark-weeks.com/chess/10lj$wix.htm,,
+world_1921,1921,19210,main,match,completed,1,WorldChamp1921.pgn,14,0,https://www.mark-weeks.com/chess/21cl$wix.htm,,
+world_1927,1927,19270,main,match,completed,1,WorldChamp1927.pgn,34,0,https://www.mark-weeks.com/chess/27ac$wix.htm,,
+world_1929,1929,19290,main,match,completed,1,WorldChamp1929.pgn,25,0,https://www.mark-weeks.com/chess/29ab$wix.htm,,
+world_1934,1934,19340,main,match,completed,1,WorldChamp1934.pgn,26,0,https://www.mark-weeks.com/chess/34ab$wix.htm,,
+world_1935,1935,19350,main,match,completed,1,WorldChamp1935.pgn,30,0,https://www.mark-weeks.com/chess/35ea$wix.htm,,
+world_1937,1937,19370,main,match,completed,1,WorldChamp1937.pgn,25,0,https://www.mark-weeks.com/chess/37ae$wix.htm,,
+world_1948,1948,19480,main,round_robin,completed,1,WorldChamp1948.pgn,50,0,https://www.mark-weeks.com/chess/48$c$wix.htm,,
+world_1951,1951,19510,main,match,completed,1,WorldChamp1951.pgn,24,0,https://www.mark-weeks.com/chess/4951$wix.htm,,
+world_1954,1954,19540,main,match,completed,1,WorldChamp1954.pgn,24,0,https://www.mark-weeks.com/chess/5254$wix.htm,,
+world_1957,1957,19570,main,match,completed,1,WorldChamp1957.pgn,22,0,https://www.mark-weeks.com/chess/55571wix.htm,,
+world_1958,1958,19580,main,match,completed,1,WorldChamp1958.pgn,23,0,https://www.mark-weeks.com/chess/55572wix.htm,,
+world_1960,1960,19600,main,match,completed,1,WorldChamp1960.pgn,21,0,https://www.mark-weeks.com/chess/58601wix.htm,,
+world_1961,1961,19610,main,match,completed,1,WorldChamp1961.pgn,21,0,https://www.mark-weeks.com/chess/58602wix.htm,,
+world_1963,1963,19630,main,match,completed,1,WorldChamp1963.pgn,22,0,https://www.mark-weeks.com/chess/6163$wix.htm,,
+world_1966,1966,19660,main,match,completed,1,WorldChamp1966.pgn,24,0,https://www.mark-weeks.com/chess/6466$wix.htm,,
+world_1969,1969,19690,main,match,completed,1,WorldChamp1969.pgn,23,0,https://www.mark-weeks.com/chess/6769$wix.htm,,
+world_1972,1972,19720,main,match,completed,1,WorldChamp1972.pgn,21,0,https://www.mark-weeks.com/chess/7072$wix.htm,,one unplayed forfeit included in nominal classical records
+world_1975,1975,19750,main,match,not_played,1,,0,0,https://www.mark-weeks.com/chess/7375$wix.htm,,title awarded to Karpov without games; no raw file expected
+world_1978,1978,19780,main,match,completed,1,WorldChamp1978.pgn,32,0,https://www.mark-weeks.com/chess/7678$wix.htm,,
+world_1981,1981,19810,main,match,completed,1,WorldChamp1981.pgn,18,0,https://www.mark-weeks.com/chess/7981$wix.htm,,
+world_1984,1984,19840,main,match,aborted_after_play,1,WorldChamp1984.pgn,48,0,https://www.mark-weeks.com/chess/82841wix.htm,,game dates span two calendar years
+world_1985,1985,19850,main,match,completed,1,WorldChamp1985.pgn,24,0,https://www.mark-weeks.com/chess/82842wix.htm,,
+world_1986,1986,19860,main,match,completed,1,WorldChamp1986.pgn,24,0,https://www.mark-weeks.com/chess/82843wix.htm,,
+world_1987,1987,19870,main,match,completed,1,WorldChamp1987.pgn,24,0,https://www.mark-weeks.com/chess/8587$wix.htm,,
+world_1990,1990,19900,main,match,completed,1,WorldChamp1990.pgn,24,0,https://www.mark-weeks.com/chess/8890$wix.htm,,
+fide_1993,1993,19930,split_fide,match,completed,1,FideChamp1993.pgn,21,0,https://www.mark-weeks.com/chess/9193fwix.htm,,
+pca_1993,1993,19930,classical,match,completed,1,PCAChamp1993.pgn,20,0,https://www.mark-weeks.com/chess/9193pwix.htm,,
+pca_1995,1995,19950,classical,match,completed,1,PCAChamp1995.pgn,18,0,https://www.mark-weeks.com/chess/9496pwix.htm,,
+fide_1996,1996,19960,split_fide,match,completed,1,FideChamp1996.pgn,18,0,https://www.mark-weeks.com/chess/9496fwix.htm,,
+fide_1998,1998,19980,split_fide,knockout_then_match,completed,1,FideChamp1998.pgn,,,https://brasilbase.pro.br/rot1997w.htm,,331 records; reported 200 regulation games; speed reconciliation pending
+fide_1999,1999,19990,split_fide,knockout,completed,1,FideChamp1999.pgn,,,https://www.mark-weeks.com/chess/9899$wix.htm,,200 explicitly labelled regulation games; sudden-death speed unresolved
+fide_2000,2000,20000,split_fide,knockout,completed,1,FideChamp2000.pgn,,,https://www.mark-weeks.com/chess/a0a1$wix.htm,,per-game speed reconciliation pending
+world_2000,2000,20000,classical,match,completed,1,WorldChamp2000.pgn,15,0,https://www.mark-weeks.com/chess/a0a1kkix.htm,,
+fide_2002,2002,20020,split_fide,knockout,completed,1,FideChamp2002.pgn,,,https://www.fide.com/images/stories/fide_history/2001_Moscow.htm,,418 records: 26 from the separate women title; 392 open games versus 408 in FIDE match totals; dates and rounds unreliable
+fide_2004,2004,20040,split_fide,knockout,completed,1,FideChamp2004.pgn,,,https://www.mark-weeks.com/chess/a3a4$wix.htm,,per-game speed reconciliation pending
+world_2004,2004,20040,classical,match,completed,1,WorldChamp2004.pgn,14,0,https://www.mark-weeks.com/chess/a3a4dnix.htm,,
+fide_2005,2005,20050,split_fide,round_robin,completed,1,FideChamp2005.pgn,56,0,https://www.mark-weeks.com/chess/a4a5$wix.htm,,
+world_2006,2006,20060,bridge,match,completed,1,WorldChamp2006.pgn,12,4,https://www.mark-weeks.com/chess/a5a7uwix.htm,,one unplayed forfeit included in nominal classical records
+world_2007,2007,20070,unified,round_robin,completed,1,WorldChamp2007.pgn,56,0,https://www.mark-weeks.com/chess/a5a7$wix.htm,,
+world_2008,2008,20080,unified,match,completed,1,WorldChamp2008.pgn,11,0,https://www.mark-weeks.com/chess/a7a8$cix.htm,,
+world_2010,2010,20100,unified,match,completed,1,WorldChamp2010.pgn,12,0,https://www.mark-weeks.com/chess/a7a9$wix.htm,,
+world_2012,2012,20120,unified,match,completed,1,WorldChamp2012.pgn,12,4,https://www.mark-weeks.com/chess/a8b0$wix.htm,,
+world_2013,2013,20130,unified,match,completed,1,WorldChamp2013.pgn,10,0,https://www.mark-weeks.com/chess/b1b3$wix.htm,,
+world_2014,2014,20140,unified,match,completed,1,WorldChamp2014.pgn,11,0,https://www.mark-weeks.com/chess/b3b4$wix.htm,,
+world_2016,2016,20160,unified,match,completed,1,WorldChamp2016.pgn,12,4,https://www.mark-weeks.com/chess/b4b6$wix.htm,,
+world_2018,2018,20180,unified,match,completed,1,WorldChamp2018.pgn,12,3,https://www.mark-weeks.com/chess/b7b8$wix.htm,,
+world_2021,2021,20210,unified,match,completed,1,WorldChamp2021.pgn,11,0,https://www.mark-weeks.com/chess/b9c0$wix.htm,,
+world_2023,2023,20230,unified,match,completed,1,WorldChamp2023.pgn,14,4,https://www.mark-weeks.com/chess/c1c2$wix.htm,https://theweekinchess.com/chessnews/events/world-chess-championship-2023/ding-liren-is-the-new-world-chess-champion,
+world_2024,2024,20240,unified,match,completed,1,WorldChamp2024.pgn,14,0,https://handbook.fide.com/files/handbook/FWCM2024.pdf,,
