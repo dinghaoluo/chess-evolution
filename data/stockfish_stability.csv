@@ -1,0 +1,7 @@
+comparison,collection,positions,preferred_move_changes,cp_pairs,median_absolute_cp_change,p95_absolute_cp_change,max_absolute_cp_change,cp_changes_over_20,cp_changes_over_50,median_absolute_expected_score_change,p95_absolute_expected_score_change
+250k_to_1m,championship,720,119,720,6.0,48.049999999999955,162.0,99,33,0.003500000000000003,0.06364999999999986
+250k_to_1m,pal_css_2005,14,2,14,10.0,26.249999999999993,36.0,2,0,0.015250000000000014,0.14834999999999998
+1m_to_4m,championship,69,5,69,7.0,53.799999999999926,142.0,9,4,0.0024999999999999467,0.06440000000000001
+1m_to_4m,pal_css_2005,14,5,14,5.5,17.999999999999993,31.0,1,0,0.008500000000000008,0.03952500000000002
+history_at_250k,championship,69,1,69,0.0,0.0,0.0,0,0,0.0,0.0
+history_at_250k,pal_css_2005,14,0,14,0.0,0.0,0.0,0,0,0.0,0.0
