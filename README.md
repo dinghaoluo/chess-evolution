@@ -14,7 +14,7 @@ Gaessler and Piezunka's [*Training with AI* (2023)](https://doi.org/10.1002/smj.
 
 ### position novelty
 
-The [plot](plots/novelty_over_time.png) shows the first position in each game that had not appeared in earlier championship events.
+The [plot](plots/novelty_over_time.png) shows the yearly median first position absent from earlier recorded games, using [Lumbra's archive](https://lumbrasgigabase.com/en/). Most of the long-run rise disappears when the reference is held at 1,000 games.
 
 ### human decisions with engines
 
