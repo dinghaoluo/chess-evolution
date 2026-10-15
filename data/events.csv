@@ -39,12 +39,12 @@ fide_1993,1993,19930,split_fide,match,completed,1,FideChamp1993.pgn,21,0,https:/
 pca_1993,1993,19930,classical,match,completed,1,PCAChamp1993.pgn,20,0,https://www.mark-weeks.com/chess/9193pwix.htm,,
 pca_1995,1995,19950,classical,match,completed,1,PCAChamp1995.pgn,18,0,https://www.mark-weeks.com/chess/9496pwix.htm,,
 fide_1996,1996,19960,split_fide,match,completed,1,FideChamp1996.pgn,18,0,https://www.mark-weeks.com/chess/9496fwix.htm,,
-fide_1998,1998,19980,split_fide,knockout_then_match,completed,1,FideChamp1998.pgn,,,https://brasilbase.pro.br/rot1997w.htm,,331 records; reported 200 regulation games; speed reconciliation pending
-fide_1999,1999,19990,split_fide,knockout,completed,1,FideChamp1999.pgn,,,https://www.mark-weeks.com/chess/9899$wix.htm,,200 explicitly labelled regulation games; sudden-death speed unresolved
-fide_2000,2000,20000,split_fide,knockout,completed,1,FideChamp2000.pgn,,,https://www.mark-weeks.com/chess/a0a1$wix.htm,,per-game speed reconciliation pending
+fide_1998,1998,19980,split_fide,knockout_then_match,completed,1,FideChamp1998.pgn,,,https://brasilbase.pro.br/rot1997w.htm,,200 classical; 110 rapid; 21 blitz or draw odds; all 331 played scores reconciled against 97 pairings
+fide_1999,1999,19990,split_fide,knockout,completed,1,FideChamp1999.pgn,,,https://www.mark-weeks.com/chess/9899$wix.htm,,200 classical; 100 rapid; 3 blitz; one classical and two rapid records missing; two walkover pairings had no play
+fide_2000,2000,20000,split_fide,knockout,completed,1,FideChamp2000.pgn,,,https://www.mark-weeks.com/chess/a0a1$wix.htm,,204 classical; 131 rapid; 9 distinct blitz scores; one blitz record missing; record 235 is an alternative version of record 231
 world_2000,2000,20000,classical,match,completed,1,WorldChamp2000.pgn,15,0,https://www.mark-weeks.com/chess/a0a1kkix.htm,,
-fide_2002,2002,20020,split_fide,knockout,completed,1,FideChamp2002.pgn,,,https://www.fide.com/images/stories/fide_history/2001_Moscow.htm,,418 records: 26 from the separate women title; 392 open games versus 408 in FIDE match totals; dates and rounds unreliable
-fide_2004,2004,20040,split_fide,knockout,completed,1,FideChamp2004.pgn,,,https://www.mark-weeks.com/chess/a3a4$wix.htm,,per-game speed reconciliation pending
+fide_2002,2002,20020,split_fide,knockout,completed,1,FideChamp2002.pgn,,,https://www.fide.com/images/stories/fide_history/2001_Moscow.htm,,"418 records: 26 from the separate women title; open title has 263 classical, 101 rapid, 28 blitz; 16 tiebreak records missing; duplicate tiebreak slot labels stay within rapid stage"
+fide_2004,2004,20040,split_fide,knockout,completed,1,FideChamp2004.pgn,,,https://www.mark-weeks.com/chess/a3a4$wix.htm,,254 classical; 104 rapid; 50 blitz or draw odds; 123 played pairings reconciled; Karlov in one header is Kharlov
 world_2004,2004,20040,classical,match,completed,1,WorldChamp2004.pgn,14,0,https://www.mark-weeks.com/chess/a3a4dnix.htm,,
 fide_2005,2005,20050,split_fide,round_robin,completed,1,FideChamp2005.pgn,56,0,https://www.mark-weeks.com/chess/a4a5$wix.htm,,
 world_2006,2006,20060,bridge,match,completed,1,WorldChamp2006.pgn,12,4,https://www.mark-weeks.com/chess/a5a7uwix.htm,,one unplayed forfeit included in nominal classical records
