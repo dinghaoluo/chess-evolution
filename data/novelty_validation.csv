@@ -1,0 +1,3 @@
+game_id,event_id,round,archive_first_unseen_ply,archive_first_return_ply,reported_novelty_ply,reported_move,evidence_url,prior_year_position_ply,dated_position_ply,prior_year_move_ply,both_2200_position_ply,both_2200_move_ply,interpretation
+2966,world_2024,7.1,5,10,13,Re1,https://www.fide.com/world-championship-game-7-ding-liren-escapes-by-the-skin-of-his-teeth/,15,15,15,14,13,reported move matches the both-2200 incoming-move measure; its resulting position has a 2009 transposition witness
+2970,world_2024,11.1,5,,10,Bg4,https://www.fide.com/fide-world-championship-game-11-ding-collapses-under-pressure-as-gukesh-takes-the-lead/,10,10,9,9,9,reported move matches the all-games position measure; the incoming move is new one ply earlier

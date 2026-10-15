@@ -1,0 +1,2 @@
+target_game_id,target_ply,batch,source_ordinal,date,white,black,white_elo,black_elo,event,moves_uci,witness_ply,position_fen,comparison,source_url
+2966,13,otb-2005-2009,172412,2009.07.26,"Skrceski, Gavril","Dinev, Dejan",2223,2304,FRM-ch op,g1f3 d7d5 g2g3 g8f6 f1g2 g7g6 e1g1 f8g7 c2c4 c7c6 f1e1 e8g8 d2d4,13,rnbq1rk1/pp2ppbp/2p2np1/3p4/2PP4/5NP1/PP2PPBP/RNBQR1K1 b - -,same position reached through a different move order; external provenance unverified,https://lumbrasgigabase.com/en/download-the-scid-database-en/
