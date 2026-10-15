@@ -1,0 +1,5 @@
+chess==1.11.2
+matplotlib==3.11.1
+numpy==2.5.1
+seaborn==0.13.2
+statsmodels==0.15.0

@@ -1,7 +1,7 @@
 '''
 Created on 4 August 2026
 
-compute position novelty against earlier reviewed championship events
+find the first position absent from earlier championship games
 
 @author: Dinghao Luo
 '''
@@ -16,7 +16,7 @@ from pathlib import Path
 #%% paths
 DATA = Path('data')
 REFERENCE_GAMES = 100
-REPEATS = 20
+REPEATS = 100
 
 
 #%% load
@@ -36,11 +36,13 @@ with (DATA / 'games.csv').open() as source:
         if game_id not in accepted:
             continue
         classification = accepted[game_id]
-        # ignore counters so different move orders can reach the same position
+        # move counters are irrelevant to opening precedent
         positions = [' '.join(row['fen'].split()[:4]) for row in rows]
         games.append((classification, positions))
 assert len(games) == len(accepted)
-games.sort(key=lambda game: int(events[game[0]['event_id']]['order']))
+games.sort(key=lambda game: (
+    int(events[game[0]['event_id']]['order']), int(game[0]['round'].split('.')[0])
+))
 
 
 #%% novelty
@@ -54,40 +56,53 @@ results = []
 sensitivity = []
 
 for event_id, event_games in itertools.groupby(games, key=lambda game: game[0]['event_id']):
-    event_games = list(event_games)
-    references = []
-    if len(history) >= REFERENCE_GAMES:
-        for seed in range(REPEATS):
-            sample = random.Random(seed).sample(history, REFERENCE_GAMES)
-            references.append(set().union(*sample))
-    for game, positions in event_games:
-        novelty = first_novelty(positions, seen)
-        row = {
-            'game_id': game['game_id'],
-            'event_id': event_id,
-            'year': events[event_id]['year'],
-            'date': game['date'],
-            'white': game['white'],
-            'black': game['black'],
-            'plies': len(positions),
-            'reference_games': len(history),
-            'first_novelty_ply': novelty if novelty is not None else '',
-            'censored': int(novelty is None),
-        }
-        results.append(row)
-        for seed, reference in enumerate(references):
-            sampled_novelty = first_novelty(positions, reference)
-            sensitivity.append({
-                **row,
-                'reference_games': REFERENCE_GAMES,
-                'first_novelty_ply': sampled_novelty if sampled_novelty is not None else '',
-                'censored': int(sampled_novelty is None),
-                'seed': seed,
-            })
-    # update between events because many game dates are incomplete
-    for _, positions in event_games:
-        history.append(set(positions))
-        seen.update(positions)
+    event_reference = seen.copy()
+    for _, round_games in itertools.groupby(event_games, key=lambda game: int(game[0]['round'].split('.')[0])):
+        round_games = list(round_games)
+        references = []
+        if len(history) >= REFERENCE_GAMES:
+            for seed in range(REPEATS):
+                sample = random.Random(seed).sample(history, REFERENCE_GAMES)
+                references.append(set().union(*sample))
+        for game, positions in round_games:
+            novelty = first_novelty(positions, seen)
+            event_novelty = first_novelty(positions, event_reference)
+            first_return = next((
+                ply for ply, position in enumerate(positions, 1)
+                if novelty is not None and ply > novelty and position in seen
+            ), '')
+            row = {
+                'game_id': game['game_id'],
+                'event_id': event_id,
+                'round': game['round'],
+                'year': events[event_id]['year'],
+                'date': game['date'],
+                'white': game['white'],
+                'black': game['black'],
+                'plies': len(positions),
+                'reference_games': len(history),
+                'first_novelty_ply': novelty if novelty is not None else '',
+                'censored': int(novelty is None),
+                'first_return_ply': first_return,
+                'earlier_event_novelty_ply': event_novelty if event_novelty is not None else '',
+            }
+            results.append(row)
+            for seed, reference in enumerate(references):
+                sampled_novelty = first_novelty(positions, reference)
+                sensitivity.append({
+                    'game_id': game['game_id'],
+                    'event_id': event_id,
+                    'year': events[event_id]['year'],
+                    'plies': len(positions),
+                    'reference_games': REFERENCE_GAMES,
+                    'first_novelty_ply': sampled_novelty if sampled_novelty is not None else '',
+                    'censored': int(sampled_novelty is None),
+                    'seed': seed,
+                })
+        # same-round games have no ordering, so add them together
+        for _, positions in round_games:
+            history.append(set(positions))
+            seen.update(positions)
 
 
 #%% write
