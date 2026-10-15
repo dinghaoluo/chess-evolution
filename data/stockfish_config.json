@@ -1,0 +1,38 @@
+{
+  "release_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+  "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "engine_id": {
+    "name": "Stockfish 17.1",
+    "author": "the Stockfish developers (see AUTHORS file)"
+  },
+  "options": {
+    "Threads": 1,
+    "Hash": 64,
+    "UCI_ShowWDL": true,
+    "Skill Level": 20,
+    "UCI_LimitStrength": false,
+    "SyzygyPath": ""
+  },
+  "multipv": 1,
+  "ponder": false,
+  "eval_file": "nn-1c0000000000.nnue",
+  "eval_file_small": "nn-37f18f62d772.nnue",
+  "nnue": "embedded in the hashed official binary",
+  "architecture": "arm64",
+  "python_chess_version": "1.11.2",
+  "nodes": 250000,
+  "stability_nodes": 1000000,
+  "hash_policy": "Clear Hash and ucinewgame before every root search",
+  "syzygy": "disabled; no external tablebases",
+  "selection": "first and last played classical games of four named matches",
+  "stability_selection": "every tenth championship ply and all PAL/CSS 2005 positions",
+  "selected_sources": {
+    "WorldChamp1984.pgn": "e202d42cfc997980c3b6b830bd41a2ca1efda13aac6d62d5fd9dcde69a5a1766",
+    "WorldChamp2000.pgn": "1dcf3d75cdfadb0e859d9efd0e70d2800420666aeda663e644443a6d46a6c403",
+    "WorldChamp2008.pgn": "dc2a2fdfe17ad2b3689b07b9363786b394cc7b3190815155c54e3e7ed7c9213c",
+    "WorldChamp2023.pgn": "2969b10819ef07617fbd29963104305fb582e9d3b182ef51e66b7c9e8c3726f8"
+  },
+  "selection_sha256": "c7dafe9ddf8a525a601bc2a7826c4d88c3c8630098af1a856e54803168abb17c",
+  "pal_css_2005_sha256": "8d4b96c53681b5c24c6aa9e7c704f95add5d022cf8aaeceec849edb408059a66",
+  "position_history": "FEN only; halfmove counter retained, prior repetitions unavailable"
+}

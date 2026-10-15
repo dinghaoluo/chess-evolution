@@ -1,0 +1,9 @@
+game_id,raw_game_id,event_id,source_file,source_ordinal,round,date,white,black,result,plies
+2595,WorldChamp1984.pgn:1,world_1984,WorldChamp1984.pgn,1,1,1984.??.??,"Karpov, Anatoly","Kasparov, Gary",1/2-1/2,72
+2642,WorldChamp1984.pgn:48,world_1984,WorldChamp1984.pgn,48,48,1984.??.??,"Kasparov, Gary","Karpov, Anatoly",1-0,133
+2739,WorldChamp2000.pgn:1,world_2000,WorldChamp2000.pgn,1,1,2000.10.08,"Kasparov,G","Kramnik,V",1/2-1/2,50
+2753,WorldChamp2000.pgn:15,world_2000,WorldChamp2000.pgn,15,15,2000.11.02,"Kasparov,G","Kramnik,V",1/2-1/2,76
+2840,WorldChamp2008.pgn:1,world_2008,WorldChamp2008.pgn,1,1,2008.10.14,"Kramnik,V","Anand,V",1/2-1/2,64
+2850,WorldChamp2008.pgn:11,world_2008,WorldChamp2008.pgn,11,11,2008.10.29,"Anand,V","Kramnik,V",1/2-1/2,48
+2942,WorldChamp2023.pgn:1,world_2023,WorldChamp2023.pgn,1,1.1,2023.04.09,"Nepomniachtchi,I",Ding Liren,1/2-1/2,97
+2955,WorldChamp2023.pgn:14,world_2023,WorldChamp2023.pgn,14,14.1,2023.04.29,Ding Liren,"Nepomniachtchi,I",1/2-1/2,180
