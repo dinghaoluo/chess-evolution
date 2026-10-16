@@ -1,0 +1,925 @@
+game_id,edition,year,date,stage,format,round,initial_seconds,winners_source_ordinal,side,player,score,observed_moves,first_2p5pct_move,first_2p5pct_censored,first_2p5pct_missing_before,first_5pct_move,first_5pct_censored,first_5pct_missing_before,first_10pct_move,first_10pct_censored,first_10pct_missing_before,elapsed_first_10_seconds,elapsed_first_17_seconds,elapsed_first_20_seconds
+pal_2005_qualifier:1,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,auryn,1,6,4,0,0,5,0,0,,1,0,,,
+pal_2005_qualifier:1,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,xx_n_e_o_xx,0,5,2,0,0,4,0,0,4,0,0,,,
+pal_2005_qualifier:2,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,az104,0.5,30,22,0,0,22,0,0,,1,0,72.0,114.0,133.0
+pal_2005_qualifier:2,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,klaatu,0.5,30,14,0,0,14,0,0,14,0,0,92.0,357.0,638.0
+pal_2005_qualifier:3,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,ciolcolta,0.5,30,12,0,0,19,0,0,,1,0,170.0,379.0,527.0
+pal_2005_qualifier:3,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,samuelboden,0.5,30,15,0,0,15,0,0,,1,0,79.0,354.0,457.0
+pal_2005_qualifier:4,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,ciolcolta,0.5,30,8,0,0,16,0,0,16,0,0,143.0,537.0,678.0
+pal_2005_qualifier:4,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,vukics,0.5,30,19,0,0,19,0,0,19,0,0,100.0,179.0,534.0
+pal_2005_qualifier:5,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,cjlindgr,0.5,30,10,0,0,19,0,0,24,0,0,139.0,456.0,603.0
+pal_2005_qualifier:5,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,quasiquasimodo,0.5,30,4,0,0,9,0,0,9,0,0,457.0,926.0,1103.0
+pal_2005_qualifier:6,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,cjlindgr,1,30,15,0,0,15,0,0,19,0,0,56.0,376.0,637.0
+pal_2005_qualifier:6,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,wehrwolf1944,0,30,13,0,0,13,0,0,13,0,0,21.0,525.0,794.0
+pal_2005_qualifier:7,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,cuby,1,29,5,0,0,5,0,0,5,0,0,737.0,972.0,1353.0
+pal_2005_qualifier:7,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,mzrahman_chess,0,28,10,0,0,10,0,0,10,0,0,324.0,913.0,1187.0
+pal_2005_qualifier:8,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,klaatu,1,30,11,0,0,11,0,0,16,0,0,79.0,710.0,943.0
+pal_2005_qualifier:8,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,cjlindgr,0,30,11,0,0,11,0,0,,1,0,59.0,523.0,815.0
+pal_2005_qualifier:9,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,klaatu,0.5,30,9,0,0,18,0,0,20,0,0,123.0,206.0,747.0
+pal_2005_qualifier:9,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,quasiquasimodo,0.5,30,7,0,0,7,0,0,7,0,0,334.0,503.0,726.0
+pal_2005_qualifier:10,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,mjhd,0,30,6,0,0,7,0,0,16,0,0,377.0,788.0,897.0
+pal_2005_qualifier:10,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,ciolcolta,1,30,9,0,0,9,0,0,19,0,0,162.0,329.0,501.0
+pal_2005_qualifier:11,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,mjhd,1,30,6,0,0,8,0,0,10,0,0,423.0,938.0,1222.0
+pal_2005_qualifier:11,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,rayiah,0,30,1,0,0,1,0,0,8,0,0,750.0,1494.0,1633.0
+pal_2005_qualifier:12,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,mjhd,1,30,2,0,0,14,0,0,,1,0,379.0,633.0,843.0
+pal_2005_qualifier:12,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,samuelboden,0,30,5,0,0,5,0,0,17,0,0,406.0,797.0,862.0
+pal_2005_qualifier:13,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,quasiquasimodo,1,30,6,0,0,8,0,0,15,0,0,246.0,808.0,998.0
+pal_2005_qualifier:13,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,rayiah,0,30,1,0,0,1,0,0,14,0,0,394.0,1049.0,1202.0
+pal_2005_qualifier:14,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,rayiah,0.5,30,12,0,0,16,0,0,16,0,0,144.0,492.0,559.0
+pal_2005_qualifier:14,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,alexiz,0.5,30,23,0,0,23,0,0,,1,0,127.0,248.0,328.0
+pal_2005_qualifier:15,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,rayiah,1,15,3,0,0,3,0,0,8,0,0,503.0,,
+pal_2005_qualifier:15,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,xx_n_e_o_xx,0,14,1,0,0,1,0,0,1,0,0,888.0,,
+pal_2005_qualifier:16,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,rentner2,1,30,9,0,0,9,0,0,9,0,0,203.0,855.0,1265.0
+pal_2005_qualifier:16,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,mzrahman_chess,0,30,12,0,0,12,0,0,13,0,0,116.0,936.0,1032.0
+pal_2005_qualifier:17,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,rentner2,0.5,30,5,0,0,5,0,0,5,0,0,332.0,1022.0,1516.0
+pal_2005_qualifier:17,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,vukics,0.5,30,16,0,0,16,0,0,16,0,0,68.0,508.0,797.0
+pal_2005_qualifier:18,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,samuelboden,1,22,1,0,0,12,0,0,,1,0,151.0,527.0,638.0
+pal_2005_qualifier:18,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,serafin,0,21,9,0,0,9,0,0,9,0,0,353.0,857.0,952.0
+pal_2005_qualifier:19,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,samuelboden,0,30,12,0,0,16,0,0,,1,0,77.0,371.0,506.0
+pal_2005_qualifier:19,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,thomas100,1,30,4,0,0,11,0,0,23,0,0,265.0,610.0,866.0
+pal_2005_qualifier:20,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,smockyaba,0.5,30,2,0,0,3,0,0,,1,0,568.0,876.0,993.0
+pal_2005_qualifier:20,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,klaatu,0.5,30,8,0,0,10,0,0,10,0,0,388.0,686.0,1076.0
+pal_2005_qualifier:21,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,thomas100,0.5,30,9,0,0,9,0,0,,1,0,217.0,579.0,726.0
+pal_2005_qualifier:21,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,xx_n_e_o_xx,0.5,30,5,0,0,12,0,0,,1,0,106.0,628.0,836.0
+pal_2005_qualifier:22,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,voidchessicc,0.5,30,15,0,0,15,0,0,25,0,0,116.0,361.0,467.0
+pal_2005_qualifier:22,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,rentner2,0.5,30,4,0,0,14,0,0,14,0,0,87.0,1261.0,1394.0
+pal_2005_qualifier:23,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,voidchessicc,1,30,12,0,0,12,0,0,22,0,0,132.0,546.0,633.0
+pal_2005_qualifier:23,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,thomas100,0,30,2,0,0,17,0,0,21,0,0,188.0,450.0,559.0
+pal_2005_qualifier:24,1,2005,2005.05.28,qualifier,swiss,3,1500,1,white,vukics,0,30,14,0,0,14,0,0,16,0,0,78.0,530.0,629.0
+pal_2005_qualifier:24,1,2005,2005.05.28,qualifier,swiss,3,1500,1,black,zacks,1,30,4,0,0,8,0,0,16,0,0,282.0,1249.0,1453.0
+pal_2005_qualifier:25,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,wegerer,0.5,30,11,0,0,15,0,0,23,0,0,58.0,418.0,691.0
+pal_2005_qualifier:25,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,cjlindgr,0.5,30,14,0,0,16,0,0,,1,0,54.0,317.0,372.0
+pal_2005_qualifier:26,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,wegerer,0.5,30,12,0,0,12,0,0,,1,0,98.0,557.0,744.0
+pal_2005_qualifier:26,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,vukics,0.5,30,10,0,0,11,0,0,14,0,0,168.0,549.0,887.0
+pal_2005_qualifier:27,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,wehrwolf1944,0,20,10,0,0,10,0,0,19,0,0,135.0,444.0,882.0
+pal_2005_qualifier:27,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,az104,1,20,16,0,0,16,0,0,,1,0,76.0,270.0,413.0
+pal_2005_qualifier:28,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,xx_n_e_o_xx,1,22,15,0,0,15,0,0,16,0,0,33.0,486.0,804.0
+pal_2005_qualifier:28,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,cuby,0,21,7,0,0,10,0,0,10,0,0,610.0,894.0,1311.0
+pal_2005_qualifier:29,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,xx_n_e_o_xx,1,30,6,0,0,6,0,0,6,0,0,685.0,1104.0,1358.0
+pal_2005_qualifier:29,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,quasiquasimodo,0,30,6,0,0,7,0,0,7,0,0,530.0,800.0,1081.0
+pal_2005_qualifier:30,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,yavine,0.5,30,14,0,0,14,0,0,19,0,0,109.0,447.0,790.0
+pal_2005_qualifier:30,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"deddy, deep shredder 9",0.5,30,6,0,0,13,0,0,13,0,0,199.0,888.0,1209.0
+pal_2005_qualifier:31,1,2005,2005.05.28,qualifier,swiss,2,1500,2,white,zacks,0.5,30,13,0,0,15,0,0,15,0,0,35.0,531.0,1041.0
+pal_2005_qualifier:31,1,2005,2005.05.28,qualifier,swiss,2,1500,2,black,voidchessicc,0.5,30,16,0,0,16,0,0,,1,0,111.0,312.0,593.0
+pal_2005_qualifier:32,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,auryn,1,30,11,0,0,12,0,0,12,0,0,61.0,695.0,721.0
+pal_2005_qualifier:32,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,dr.ex,0,30,2,0,0,14,0,0,14,0,0,210.0,911.0,1043.0
+pal_2005_qualifier:33,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,auryn,1,30,1,0,0,6,0,0,,1,0,317.0,458.0,557.0
+pal_2005_qualifier:33,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,vincentb,0,30,8,0,0,10,0,0,16,0,0,260.0,727.0,874.0
+pal_2005_qualifier:34,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,auryn,0.5,23,12,0,0,12,0,0,,1,0,0.0,409.0,589.0
+pal_2005_qualifier:34,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,voidchessicc,0.5,22,11,0,0,11,0,0,,1,0,6.0,349.0,430.0
+pal_2005_qualifier:35,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,az104,0.5,30,19,0,0,19,0,0,,1,0,71.0,112.0,296.0
+pal_2005_qualifier:35,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,eidolon,0.5,30,1,0,0,19,0,0,19,0,0,166.0,214.0,441.0
+pal_2005_qualifier:36,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,az104,1,30,8,0,0,21,0,0,28,0,0,178.0,384.0,514.0
+pal_2005_qualifier:36,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,"relic, deep junior 9",0,30,9,0,0,9,0,0,11,0,0,204.0,591.0,702.0
+pal_2005_qualifier:37,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,"braincooler, deep shredder 9 uci",1,30,8,0,0,11,0,0,17,0,0,120.0,481.0,626.0
+pal_2005_qualifier:37,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"christian gorals, gandalf 6.x",0,30,11,0,0,11,0,0,11,0,0,1.0,618.0,725.0
+pal_2005_qualifier:38,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,"braincooler, deep shredder 9 uci",0.5,30,18,0,0,18,0,0,23,0,0,0.0,0.0,257.0
+pal_2005_qualifier:38,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"deddy, deep shredder 9",0.5,30,13,0,0,13,0,0,16,0,0,0.0,647.0,762.0
+pal_2005_qualifier:39,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"braincooler, deep shredder 9 uci",1,30,21,0,0,21,0,0,,1,0,0.0,0.0,0.0
+pal_2005_qualifier:39,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,klaatu,0,30,19,0,0,19,0,0,19,0,0,65.0,111.0,464.0
+pal_2005_qualifier:40,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"braincooler, deep shredder 9 uci",1,23,4,0,0,4,0,0,4,0,0,647.0,966.0,1089.0
+pal_2005_qualifier:40,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,serafin,0,23,5,0,0,9,0,0,21,0,0,223.0,425.0,464.0
+pal_2005_qualifier:41,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,"christian gorals, gandalf 6.x",0.5,30,16,0,0,16,0,0,25,0,0,1.0,207.0,538.0
+pal_2005_qualifier:41,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"comchess, deep shredder 9",0.5,30,15,0,0,15,0,0,15,0,0,0.0,311.0,577.0
+pal_2005_qualifier:42,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,"christian gorals, gandalf 6.x",1,30,13,0,0,13,0,0,13,0,0,1.0,418.0,491.0
+pal_2005_qualifier:42,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,mjhd,0,30,1,0,0,2,0,0,14,0,0,330.0,814.0,933.0
+pal_2005_qualifier:43,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,"christian gorals, gandalf 6.x",0.5,30,14,0,0,14,0,0,14,0,0,1.0,557.0,742.0
+pal_2005_qualifier:43,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"neverfail, shredder 9",0.5,30,13,0,0,13,0,0,,1,0,0.0,319.0,551.0
+pal_2005_qualifier:44,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"christian gorals, gandalf 6.x",0.5,30,13,0,0,13,0,0,13,0,0,1.0,348.0,456.0
+pal_2005_qualifier:44,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,t-nolan,0.5,30,11,0,0,12,0,0,,1,0,0.0,481.0,609.0
+pal_2005_qualifier:45,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,ciolcolta,0.5,30,9,0,0,15,0,0,20,0,0,114.0,403.0,723.0
+pal_2005_qualifier:45,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"rumpelstilz, deep junior 9",0.5,30,19,0,0,19,0,0,,1,0,0.0,0.0,151.0
+pal_2005_qualifier:46,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,ciolcolta,0,30,12,0,0,12,0,0,,1,0,130.0,696.0,887.0
+pal_2005_qualifier:46,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,"spaghetti chess, shredder 9.02 uci",1,30,11,0,0,11,0,0,20,0,0,0.0,454.0,898.0
+pal_2005_qualifier:47,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,cjlindgr,0.5,30,19,0,0,19,0,0,,1,0,0.0,0.0,195.0
+pal_2005_qualifier:47,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,sebi-chess,0.5,30,19,0,0,19,0,0,,1,0,0.0,0.0,115.0
+pal_2005_qualifier:48,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"comchess, deep shredder 9",1,30,17,0,0,17,0,0,18,0,0,0.0,81.0,452.0
+pal_2005_qualifier:48,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,ciolcolta,0,30,7,0,0,17,0,0,19,0,0,248.0,441.0,805.0
+pal_2005_qualifier:49,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,"comchess, deep shredder 9",0.5,28,16,0,0,16,0,0,,1,0,0.0,235.0,433.0
+pal_2005_qualifier:49,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"deddy, deep shredder 9",0.5,27,15,0,0,15,0,0,,1,0,0.0,248.0,343.0
+pal_2005_qualifier:50,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"comchess, deep shredder 9",0.5,30,24,0,0,24,0,0,29,0,0,0.0,0.0,0.0
+pal_2005_qualifier:50,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,dergebieter,0.5,30,8,0,0,8,0,0,8,0,0,269.0,661.0,778.0
+pal_2005_qualifier:51,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"comchess, deep shredder 9",0.5,30,20,0,0,20,0,0,22,0,0,0.0,0.0,90.0
+pal_2005_qualifier:51,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,"dieb fritz, deep shredder 9.02 ",0.5,30,20,0,0,20,0,0,20,0,0,0.0,0.0,169.0
+pal_2005_qualifier:52,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,cuby,0.5,13,4,0,0,4,0,0,,1,0,617.0,,
+pal_2005_qualifier:52,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,vincentb,0.5,12,7,0,0,8,0,0,,1,0,270.0,,
+pal_2005_qualifier:53,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"deddy, deep shredder 9",0.5,30,14,0,0,14,0,0,14,0,0,100.0,584.0,688.0
+pal_2005_qualifier:53,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,vincentb,0.5,30,14,0,0,16,0,0,16,0,0,26.0,428.0,607.0
+pal_2005_qualifier:54,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"deddy, deep shredder 9",0,30,11,0,0,19,0,0,19,0,0,108.0,334.0,746.0
+pal_2005_qualifier:54,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,"wilger, deep shredder 9.02 ",1,30,19,0,0,19,0,0,,1,0,0.0,0.0,141.0
+pal_2005_qualifier:55,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"deddy, deep shredder 9",1,30,14,0,0,14,0,0,,1,0,0.0,347.0,423.0
+pal_2005_qualifier:55,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,traka,0,30,13,0,0,15,0,0,,1,0,65.0,299.0,483.0
+pal_2005_qualifier:56,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,dergebieter,1,30,3,0,0,6,0,0,19,0,0,320.0,434.0,1105.0
+pal_2005_qualifier:56,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,az104,0,30,16,0,0,16,0,0,,1,0,83.0,287.0,412.0
+pal_2005_qualifier:57,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,dergebieter,0,30,3,0,0,3,0,0,17,0,0,275.0,883.0,1579.0
+pal_2005_qualifier:57,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,katzenmaier,1,30,11,0,0,15,0,0,18,0,0,123.0,533.0,1043.0
+pal_2005_qualifier:58,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,dergebieter,0.5,30,3,0,0,8,0,0,16,0,0,364.0,943.0,1322.0
+pal_2005_qualifier:58,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"relic, deep junior 9",0.5,30,10,0,0,11,0,0,,1,0,114.0,416.0,563.0
+pal_2005_qualifier:59,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,dergebieter,0.5,30,4,0,0,8,0,0,16,0,0,292.0,760.0,809.0
+pal_2005_qualifier:59,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,"wilger, deep shredder 9.02 ",0.5,30,13,0,0,13,0,0,,1,0,0.0,298.0,484.0
+pal_2005_qualifier:60,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"dieb fritz, deep shredder 9.02 ",0.5,30,17,0,0,17,0,0,18,0,0,0.0,101.0,316.0
+pal_2005_qualifier:60,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,az104,0.5,30,18,0,0,19,0,0,,1,0,69.0,136.0,285.0
+pal_2005_qualifier:61,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"dieb fritz, deep shredder 9.02 ",1,30,15,0,0,15,0,0,,1,0,0.0,312.0,680.0
+pal_2005_qualifier:61,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,"christian gorals, gandalf 6.x",0,30,13,0,0,13,0,0,14,0,0,1.0,442.0,632.0
+pal_2005_qualifier:62,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,"dieb fritz, deep shredder 9.02 ",1,30,11,0,0,11,0,0,12,0,0,0.0,452.0,584.0
+pal_2005_qualifier:62,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,team aldersbach,0,30,11,0,0,11,0,0,21,0,0,0.0,465.0,588.0
+pal_2005_qualifier:63,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,"dieb fritz, deep shredder 9.02 ",1,12,,1,0,,1,0,,1,0,0.0,,
+pal_2005_qualifier:63,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,voidchessicc,0,11,,1,0,,1,0,,1,0,8.0,,
+pal_2005_qualifier:64,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,dr.ex,1,30,8,0,0,12,0,0,15,0,0,117.0,877.0,1090.0
+pal_2005_qualifier:64,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"dieb fritz, deep shredder 9.02 ",0,30,2,0,0,2,0,0,6,0,0,660.0,914.0,1100.0
+pal_2005_qualifier:65,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,dr.ex,1,30,2,0,0,3,0,0,3,0,0,746.0,1403.0,1424.0
+pal_2005_qualifier:65,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,katzenmaier,0,30,3,0,0,10,0,0,16,0,0,235.0,922.0,1175.0
+pal_2005_qualifier:66,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,dr.ex,1,30,1,0,0,5,0,0,11,0,0,617.0,1306.0,1517.0
+pal_2005_qualifier:66,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,mcgisel,0,30,6,0,0,8,0,0,11,0,0,438.0,978.0,1353.0
+pal_2005_qualifier:67,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,dr.ex,0.5,30,7,0,0,7,0,0,7,0,0,439.0,1083.0,1337.0
+pal_2005_qualifier:67,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,mhoffpauir,0.5,30,1,0,0,3,0,0,15,0,0,419.0,1181.0,1228.0
+pal_2005_qualifier:68,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,eidolon,1,30,28,0,0,,1,0,,1,0,93.0,170.0,200.0
+pal_2005_qualifier:68,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,cjlindgr,0,30,5,0,0,5,0,0,,1,0,456.0,975.0,1051.0
+pal_2005_qualifier:69,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,eidolon,0.5,30,19,0,0,19,0,0,28,0,0,78.0,155.0,342.0
+pal_2005_qualifier:69,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"comchess, deep shredder 9",0.5,30,12,0,0,12,0,0,17,0,0,0.0,399.0,552.0
+pal_2005_qualifier:70,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,eidolon,0,30,8,0,0,8,0,0,8,0,0,298.0,870.0,1146.0
+pal_2005_qualifier:70,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,voidchessicc,1,30,4,0,0,4,0,0,24,0,0,592.0,1015.0,1101.0
+pal_2005_qualifier:71,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,feldi,0,26,9,0,0,10,0,0,17,0,0,272.0,750.0,897.0
+pal_2005_qualifier:71,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,mcgisel,1,26,2,0,0,4,0,0,,1,0,614.0,1125.0,1333.0
+pal_2005_qualifier:72,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,feldi,0,30,7,0,0,8,0,0,,1,0,248.0,554.0,655.0
+pal_2005_qualifier:72,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,samuelboden,1,30,9,0,0,9,0,0,,1,0,299.0,537.0,685.0
+pal_2005_qualifier:73,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,feldi,0,30,6,0,0,8,0,0,8,0,0,493.0,710.0,827.0
+pal_2005_qualifier:73,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,smockyaba,1,30,1,0,0,1,0,0,,1,0,496.0,847.0,999.0
+pal_2005_qualifier:74,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,feldi,1,27,3,0,0,11,0,0,,1,0,219.0,507.0,607.0
+pal_2005_qualifier:74,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,wehrwolf1944,0,26,10,0,0,15,0,0,,1,0,83.0,307.0,399.0
+pal_2005_qualifier:75,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,katzenmaier,1,30,11,0,0,11,0,0,11,0,0,121.0,890.0,1019.0
+pal_2005_qualifier:75,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"rumpelstilz, deep junior 9",0,30,10,0,0,10,0,0,16,0,0,90.0,545.0,697.0
+pal_2005_qualifier:76,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,katzenmaier,1,30,3,0,0,8,0,0,14,0,0,283.0,925.0,1201.0
+pal_2005_qualifier:76,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,"spaghetti chess, shredder 9.02 uci",0,30,8,0,0,8,0,0,14,0,0,160.0,698.0,1074.0
+pal_2005_qualifier:77,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,katzenmaier,0.5,26,7,0,0,15,0,0,15,0,0,165.0,876.0,1273.0
+pal_2005_qualifier:77,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"wilger, deep shredder 9.02 ",0.5,26,13,0,0,13,0,0,18,0,0,0.0,323.0,589.0
+pal_2005_qualifier:78,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,klaatu,0.5,30,14,0,0,14,0,0,15,0,0,105.0,599.0,803.0
+pal_2005_qualifier:78,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,mendheim,0.5,30,8,0,0,11,0,0,18,0,0,163.0,396.0,613.0
+pal_2005_qualifier:79,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,"mascu, deep shredder 9",0.5,30,10,0,0,10,0,0,,1,0,90.0,456.0,716.0
+pal_2005_qualifier:79,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,thomas100,0.5,30,6,0,0,16,0,0,17,0,0,177.0,791.0,846.0
+pal_2005_qualifier:80,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,"mascu, deep shredder 9",0,15,,1,0,,1,0,,1,0,0.0,,
+pal_2005_qualifier:80,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,ciolcolta,1,15,10,0,0,,1,0,,1,0,107.0,,
+pal_2005_qualifier:81,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,"mascu, deep shredder 9",0,30,4,0,0,4,0,0,21,0,0,132.0,132.0,248.0
+pal_2005_qualifier:81,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,"deddy, deep shredder 9",1,30,21,0,0,21,0,0,28,0,0,0.0,0.0,0.0
+pal_2005_qualifier:82,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,mcgisel,0,30,5,0,0,12,0,0,15,0,0,265.0,910.0,1201.0
+pal_2005_qualifier:82,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,"mascu, deep shredder 9",1,30,8,0,0,8,0,0,19,0,0,237.0,498.0,974.0
+pal_2005_qualifier:83,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,mcgisel,0.5,30,8,0,0,15,0,0,15,0,0,146.0,540.0,806.0
+pal_2005_qualifier:83,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,rainer zufall,0.5,30,1,0,0,24,0,0,,1,0,217.0,470.0,547.0
+pal_2005_qualifier:84,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,mendheim,0.5,30,6,0,0,12,0,0,,1,0,191.0,848.0,1078.0
+pal_2005_qualifier:84,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,eidolon,0.5,30,11,0,0,11,0,0,19,0,0,82.0,635.0,964.0
+pal_2005_qualifier:85,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,mendheim,1,30,2,0,0,15,0,0,,1,0,208.0,569.0,682.0
+pal_2005_qualifier:85,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,mcgisel,0,30,6,0,0,7,0,0,25,0,0,299.0,719.0,809.0
+pal_2005_qualifier:86,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,mendheim,0,30,7,0,0,9,0,0,11,0,0,356.0,1112.0,1259.0
+pal_2005_qualifier:86,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"neverfail, shredder 9",1,30,1,0,0,1,0,0,,1,0,697.0,1060.0,1164.0
+pal_2005_qualifier:87,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,mendheim,0.5,30,4,0,0,13,0,0,28,0,0,213.0,498.0,641.0
+pal_2005_qualifier:87,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,"spaghetti chess, shredder 9.02 uci",0.5,30,1,0,0,14,0,0,20,0,0,325.0,538.0,864.0
+pal_2005_qualifier:88,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,mhoffpauir,1,30,3,0,0,15,0,0,17,0,0,189.0,770.0,922.0
+pal_2005_qualifier:88,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,alexiz,0,30,11,0,0,15,0,0,,1,0,156.0,471.0,609.0
+pal_2005_qualifier:89,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,mhoffpauir,0.5,3,,1,0,,1,0,,1,0,,,
+pal_2005_qualifier:89,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,auryn,0.5,3,,1,0,,1,0,,1,0,,,
+pal_2005_qualifier:90,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,mhoffpauir,1,30,5,0,0,9,0,0,17,0,0,466.0,829.0,994.0
+pal_2005_qualifier:90,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,sebi-chess,0,30,3,0,0,10,0,0,,1,0,201.0,818.0,1020.0
+pal_2005_qualifier:91,1,2005,2005.05.29,qualifier,swiss,6,1500,3,white,mhoffpauir,0.5,22,4,0,0,13,0,0,17,0,0,252.0,618.0,701.0
+pal_2005_qualifier:91,1,2005,2005.05.29,qualifier,swiss,6,1500,3,black,zacks,0.5,22,8,0,0,10,0,0,15,0,0,207.0,532.0,949.0
+pal_2005_qualifier:92,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,mzrahman_chess,0,30,2,0,0,2,0,0,2,0,0,362.0,653.0,780.0
+pal_2005_qualifier:92,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,thomas100,1,30,2,0,0,10,0,0,10,0,0,521.0,930.0,1005.0
+pal_2005_qualifier:93,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,"neverfail, shredder 9",0,30,21,0,0,21,0,0,21,0,0,1.0,1.0,1.0
+pal_2005_qualifier:93,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,rainer zufall,1,30,15,0,0,16,0,0,23,0,0,123.0,367.0,573.0
+pal_2005_qualifier:94,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"neverfail, shredder 9",0.5,30,7,0,0,7,0,0,19,0,0,291.0,622.0,925.0
+pal_2005_qualifier:94,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,dergebieter,0.5,30,6,0,0,6,0,0,13,0,0,408.0,779.0,996.0
+pal_2005_qualifier:95,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"neverfail, shredder 9",1,30,1,0,0,1,0,0,,1,0,879.0,1006.0,1031.0
+pal_2005_qualifier:95,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,t-nolan,0,30,8,0,0,8,0,0,9,0,0,396.0,926.0,1111.0
+pal_2005_qualifier:96,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,quasiquasimodo,1,30,4,0,0,4,0,0,8,0,0,493.0,1551.0,1636.0
+pal_2005_qualifier:96,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,t-nolan,0,30,5,0,0,5,0,0,20,0,0,355.0,646.0,1064.0
+pal_2005_qualifier:97,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,quasiquasimodo,0,30,4,0,0,10,0,0,10,0,0,400.0,1699.0,1835.0
+pal_2005_qualifier:97,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"wilger, deep shredder 9.02 ",1,30,9,0,0,9,0,0,11,0,0,220.0,952.0,1138.0
+pal_2005_qualifier:98,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,rainer zufall,0,30,18,0,0,18,0,0,21,0,0,33.0,160.0,418.0
+pal_2005_qualifier:98,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,"braincooler, deep shredder 9 uci",1,30,15,0,0,15,0,0,,1,0,0.0,287.0,516.0
+pal_2005_qualifier:99,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,rainer zufall,0,30,6,0,0,12,0,0,,1,0,290.0,879.0,1096.0
+pal_2005_qualifier:99,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,mendheim,1,30,5,0,0,5,0,0,12,0,0,312.0,1071.0,1219.0
+pal_2005_qualifier:100,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,rainer zufall,1,16,13,0,0,15,0,0,,1,0,125.0,,
+pal_2005_qualifier:100,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,yavine,0,15,13,0,0,,1,0,,1,0,106.0,,
+pal_2005_qualifier:101,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,rayiah,1,30,4,0,0,6,0,0,9,0,0,668.0,1098.0,1652.0
+pal_2005_qualifier:101,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,feldi,0,30,6,0,0,7,0,0,14,0,0,418.0,1087.0,1527.0
+pal_2005_qualifier:102,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,rayiah,0,30,1,0,0,1,0,0,9,0,0,818.0,1327.0,1772.0
+pal_2005_qualifier:102,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"neverfail, shredder 9",1,30,1,0,0,1,0,0,12,0,0,592.0,1079.0,1096.0
+pal_2005_qualifier:103,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,"relic, deep junior 9",1,30,14,0,0,14,0,0,,1,0,0.0,183.0,315.0
+pal_2005_qualifier:103,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,eidolon,0,30,2,0,0,10,0,0,29,0,0,253.0,703.0,982.0
+pal_2005_qualifier:104,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"relic, deep junior 9",1,30,11,0,0,11,0,0,14,0,0,0.0,416.0,467.0
+pal_2005_qualifier:104,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,sebi-chess,0,29,8,0,0,14,0,0,18,0,0,152.0,550.0,776.0
+pal_2005_qualifier:105,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"relic, deep junior 9",0.5,28,12,0,0,16,0,0,27,0,0,0.0,293.0,414.0
+pal_2005_qualifier:105,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,traka,0.5,28,12,0,0,,1,0,,1,0,65.0,338.0,468.0
+pal_2005_qualifier:106,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,rentner2,1,30,6,0,0,8,0,0,8,0,0,463.0,1200.0,1441.0
+pal_2005_qualifier:106,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"mascu, deep shredder 9",0,30,8,0,0,8,0,0,,1,0,91.0,445.0,646.0
+pal_2005_qualifier:107,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,rentner2,0,30,5,0,0,5,0,0,5,0,0,560.0,1699.0,1743.0
+pal_2005_qualifier:107,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,mhoffpauir,1,30,2,0,0,2,0,0,9,0,0,554.0,987.0,1157.0
+pal_2005_qualifier:108,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"rumpelstilz, deep junior 9",0,30,14,0,0,15,0,0,,1,0,0.0,207.0,335.0
+pal_2005_qualifier:108,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,eidolon,1,30,1,0,0,13,0,0,,1,0,84.0,559.0,798.0
+pal_2005_qualifier:109,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,"rumpelstilz, deep junior 9",1,30,10,0,0,12,0,0,23,0,0,63.0,319.0,364.0
+pal_2005_qualifier:109,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,feldi,0,30,3,0,0,4,0,0,,1,0,372.0,669.0,729.0
+pal_2005_qualifier:110,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,"rumpelstilz, deep junior 9",0.5,30,9,0,0,10,0,0,,1,0,150.0,450.0,528.0
+pal_2005_qualifier:110,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,"relic, deep junior 9",0.5,30,10,0,0,27,0,0,,1,0,62.0,373.0,514.0
+pal_2005_qualifier:111,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"rumpelstilz, deep junior 9",1,30,7,0,0,8,0,0,15,0,0,271.0,712.0,765.0
+pal_2005_qualifier:111,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,wegerer,0,30,4,0,0,4,0,0,5,0,0,797.0,1181.0,1338.0
+pal_2005_qualifier:112,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,samuelboden,0,30,10,0,0,16,0,0,19,0,0,146.0,371.0,611.0
+pal_2005_qualifier:112,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,rainer zufall,1,30,9,0,0,12,0,0,14,0,0,67.0,587.0,793.0
+pal_2005_qualifier:113,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,sebi-chess,0.5,30,29,0,0,29,0,0,,1,0,110.0,179.0,209.0
+pal_2005_qualifier:113,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"braincooler, deep shredder 9 uci",0.5,30,27,0,0,27,0,0,28,0,0,0.0,0.0,0.0
+pal_2005_qualifier:114,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,sebi-chess,0.5,24,3,0,0,12,0,0,12,0,0,190.0,842.0,1186.0
+pal_2005_qualifier:114,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,rentner2,0.5,23,4,0,0,4,0,0,10,0,0,336.0,988.0,1108.0
+pal_2005_qualifier:115,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,sebi-chess,1,30,10,0,0,12,0,0,,1,0,148.0,589.0,766.0
+pal_2005_qualifier:115,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,samuelboden,0,30,11,0,0,12,0,0,,1,0,84.0,440.0,583.0
+pal_2005_qualifier:116,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,sebi-chess,0.5,30,17,0,0,17,0,0,17,0,0,76.0,443.0,748.0
+pal_2005_qualifier:116,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,smockyaba,0.5,30,1,0,0,1,0,0,,1,0,634.0,1027.0,1040.0
+pal_2005_qualifier:117,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,smockyaba,0,30,2,0,0,2,0,0,,1,0,724.0,1095.0,1291.0
+pal_2005_qualifier:117,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,katzenmaier,1,30,5,0,0,5,0,0,28,0,0,292.0,731.0,957.0
+pal_2005_qualifier:118,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,smockyaba,0.5,30,2,0,0,3,0,0,,1,0,507.0,848.0,1019.0
+pal_2005_qualifier:118,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,"neverfail, shredder 9",0.5,30,9,0,0,9,0,0,10,0,0,238.0,914.0,1038.0
+pal_2005_qualifier:119,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,"spaghetti chess, shredder 9.02 uci",0,30,18,0,0,18,0,0,18,0,0,0.0,0.0,316.0
+pal_2005_qualifier:119,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,auryn,1,30,16,0,0,16,0,0,16,0,0,46.0,369.0,443.0
+pal_2005_qualifier:120,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,"spaghetti chess, shredder 9.02 uci",0.5,30,11,0,0,11,0,0,,1,0,0.0,484.0,687.0
+pal_2005_qualifier:120,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,klaatu,0.5,30,11,0,0,11,0,0,16,0,0,72.0,691.0,986.0
+pal_2005_qualifier:121,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,"spaghetti chess, shredder 9.02 uci",1,30,12,0,0,12,0,0,17,0,0,0.0,574.0,769.0
+pal_2005_qualifier:121,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,wegerer,0,30,5,0,0,5,0,0,18,0,0,275.0,524.0,815.0
+pal_2005_qualifier:122,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,t-nolan,0,30,14,0,0,14,0,0,25,0,0,0.0,385.0,631.0
+pal_2005_qualifier:122,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,"dieb fritz, deep shredder 9.02 ",1,30,14,0,0,14,0,0,18,0,0,0.0,115.0,325.0
+pal_2005_qualifier:123,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,t-nolan,1,8,8,0,0,8,0,0,,1,0,,,
+pal_2005_qualifier:123,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,mcgisel,0,8,,1,0,,1,0,,1,0,,,
+pal_2005_qualifier:124,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,t-nolan,1,30,1,0,0,1,0,0,3,0,0,911.0,1215.0,1401.0
+pal_2005_qualifier:124,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,mjhd,0,30,5,0,0,5,0,0,5,0,0,514.0,1392.0,1551.0
+pal_2005_qualifier:125,1,2005,2005.05.29,qualifier,swiss,6,1500,,white,t-nolan,0.5,30,23,0,0,23,0,0,,1,0,0.0,0.0,0.0
+pal_2005_qualifier:125,1,2005,2005.05.29,qualifier,swiss,6,1500,,black,cjlindgr,0.5,30,22,0,0,22,0,0,,1,0,0.0,0.0,0.0
+pal_2005_qualifier:126,1,2005,2005.05.28,qualifier,swiss,1,1500,4,white,team aldersbach,0,30,3,0,0,3,0,0,,1,0,452.0,630.0,762.0
+pal_2005_qualifier:126,1,2005,2005.05.28,qualifier,swiss,1,1500,4,black,zacks,1,30,15,0,0,30,0,0,30,0,0,50.0,158.0,171.0
+pal_2005_qualifier:127,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,team aldersbach,1,30,8,0,0,8,0,0,,1,0,116.0,585.0,757.0
+pal_2005_qualifier:127,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,cuby,0,30,5,0,0,10,0,0,10,0,0,394.0,1143.0,1369.0
+pal_2005_qualifier:128,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,thomas100,0,30,13,0,0,20,0,0,25,0,0,134.0,284.0,442.0
+pal_2005_qualifier:128,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,"rumpelstilz, deep junior 9",1,30,12,0,0,13,0,0,,1,0,0.0,317.0,455.0
+pal_2005_qualifier:129,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,thomas100,0,30,9,0,0,9,0,0,9,0,0,685.0,1102.0,1386.0
+pal_2005_qualifier:129,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,team aldersbach,1,30,3,0,0,5,0,0,16,0,0,413.0,958.0,1028.0
+pal_2005_qualifier:130,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,traka,0.5,30,20,0,0,24,0,0,,1,0,64.0,114.0,198.0
+pal_2005_qualifier:130,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,"comchess, deep shredder 9",0.5,30,19,0,0,19,0,0,,1,0,0.0,0.0,203.0
+pal_2005_qualifier:131,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,traka,1,30,13,0,0,19,0,0,,1,0,62.0,357.0,544.0
+pal_2005_qualifier:131,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,mendheim,0,30,12,0,0,13,0,0,,1,0,107.0,441.0,605.0
+pal_2005_qualifier:132,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,traka,0.5,30,12,0,0,14,0,0,,1,0,76.0,400.0,582.0
+pal_2005_qualifier:132,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,mhoffpauir,0.5,30,5,0,0,5,0,0,,1,0,445.0,731.0,837.0
+pal_2005_qualifier:133,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,vincentb,0.5,30,5,0,0,11,0,0,16,0,0,147.0,594.0,806.0
+pal_2005_qualifier:133,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,quasiquasimodo,0.5,30,5,0,0,5,0,0,5,0,0,414.0,1342.0,1426.0
+pal_2005_qualifier:134,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,voidchessicc,1,30,12,0,0,12,0,0,,1,0,2.0,284.0,329.0
+pal_2005_qualifier:134,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,katzenmaier,0,30,7,0,0,7,0,0,21,0,0,228.0,768.0,925.0
+pal_2005_qualifier:135,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,vukics,0,30,1,0,0,1,0,0,10,0,0,455.0,662.0,841.0
+pal_2005_qualifier:135,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,dergebieter,1,30,8,0,0,8,0,0,8,0,0,545.0,1054.0,1459.0
+pal_2005_qualifier:136,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,vukics,1,30,8,0,0,8,0,0,22,0,0,292.0,720.0,868.0
+pal_2005_qualifier:136,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,rainer zufall,0,30,8,0,0,9,0,0,9,0,0,303.0,835.0,1003.0
+pal_2005_qualifier:137,1,2005,2005.05.29,qualifier,swiss,7,1500,,white,vukics,0,30,10,0,0,10,0,0,22,0,0,179.0,231.0,301.0
+pal_2005_qualifier:137,1,2005,2005.05.29,qualifier,swiss,7,1500,,black,"spaghetti chess, shredder 9.02 uci",1,30,25,0,0,25,0,0,25,0,0,0.0,0.0,0.0
+pal_2005_qualifier:138,1,2005,2005.05.28,qualifier,swiss,1,1500,,white,wegerer,1,30,11,0,0,11,0,0,16,0,0,71.0,710.0,881.0
+pal_2005_qualifier:138,1,2005,2005.05.28,qualifier,swiss,1,1500,,black,"mascu, deep shredder 9",0,30,12,0,0,12,0,0,19,0,0,34.0,510.0,850.0
+pal_2005_qualifier:139,1,2005,2005.05.28,qualifier,swiss,3,1500,,white,wehrwolf1944,0,30,9,0,0,9,0,0,24,0,0,167.0,439.0,463.0
+pal_2005_qualifier:139,1,2005,2005.05.28,qualifier,swiss,3,1500,,black,"mascu, deep shredder 9",1,30,5,0,0,7,0,0,11,0,0,305.0,957.0,1191.0
+pal_2005_qualifier:140,1,2005,2005.05.28,qualifier,swiss,2,1500,,white,"wilger, deep shredder 9.02 ",0,30,10,0,0,10,0,0,29,0,0,160.0,629.0,826.0
+pal_2005_qualifier:140,1,2005,2005.05.28,qualifier,swiss,2,1500,,black,dr.ex,1,29,1,0,0,1,0,0,16,0,0,187.0,587.0,1022.0
+pal_2005_qualifier:141,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,"wilger, deep shredder 9.02 ",1,30,17,0,0,17,0,0,17,0,0,0.0,162.0,365.0
+pal_2005_qualifier:141,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,rentner2,0,30,26,0,0,26,0,0,26,0,0,32.0,49.0,86.0
+pal_2005_qualifier:142,1,2005,2005.05.28,qualifier,swiss,4,1500,,white,"wilger, deep shredder 9.02 ",0.5,30,18,0,0,18,0,0,18,0,0,0.0,0.0,510.0
+pal_2005_qualifier:142,1,2005,2005.05.28,qualifier,swiss,4,1500,,black,wegerer,0.5,30,12,0,0,13,0,0,14,0,0,36.0,715.0,766.0
+pal_2005_qualifier:143,1,2005,2005.05.29,qualifier,swiss,5,1500,,white,xx_n_e_o_xx,0.5,30,10,0,0,11,0,0,18,0,0,101.0,608.0,896.0
+pal_2005_qualifier:143,1,2005,2005.05.29,qualifier,swiss,5,1500,,black,feldi,0.5,30,12,0,0,14,0,0,,1,0,128.0,452.0,594.0
+pal_2005_qualifier:144,1,2005,2005.05.29,qualifier,swiss,5,1500,6,white,zacks,1,30,10,0,0,10,0,0,10,0,0,338.0,844.0,943.0
+pal_2005_qualifier:144,1,2005,2005.05.29,qualifier,swiss,5,1500,6,black,auryn,0,30,28,0,0,28,0,0,29,0,0,0.0,0.0,0.0
+pal_2005_qualifier:145,1,2005,2005.05.28,qualifier,swiss,4,1500,5,white,zacks,1,30,10,0,0,12,0,0,21,0,0,126.0,344.0,449.0
+pal_2005_qualifier:145,1,2005,2005.05.28,qualifier,swiss,4,1500,5,black,"braincooler, deep shredder 9 uci",0,30,18,0,0,18,0,0,,1,0,0.0,0.0,111.0
+pal_2005_qualifier:146,1,2005,2005.05.29,qualifier,swiss,7,1500,7,white,zacks,1,12,8,0,0,12,0,0,12,0,0,121.0,,
+pal_2005_qualifier:146,1,2005,2005.05.29,qualifier,swiss,7,1500,7,black,dr.ex,0,11,9,0,0,10,0,0,10,0,0,447.0,,
+pal_2005_main:1,1,2005,2005.06.03,main,swiss,1,3600,,white,indianwomen,0,25,13,0,0,13,0,0,13,0,0,91.0,1390.0,1818.0
+pal_2005_main:1,1,2005,2005.06.03,main,swiss,1,3600,,black,talib,1,25,6,0,0,13,0,0,13,0,0,383.0,1551.0,1625.0
+pal_2005_main:2,1,2005,2005.06.03,main,swiss,1,3600,8,white,engineer,0.5,30,14,0,0,14,0,0,24,0,0,69.0,496.0,569.0
+pal_2005_main:2,1,2005,2005.06.03,main,swiss,1,3600,8,black,zacks,0.5,30,14,0,0,22,0,0,22,0,0,55.0,330.0,465.0
+pal_2005_main:3,1,2005,2005.06.03,main,swiss,1,3600,,white,mikhail umansky,0,30,5,0,0,16,0,0,,1,0,492.0,1612.0,1737.0
+pal_2005_main:3,1,2005,2005.06.03,main,swiss,1,3600,,black,voidchessicc,1,30,9,0,0,10,0,0,,1,0,426.0,1136.0,1289.0
+pal_2005_main:4,1,2005,2005.06.03,main,swiss,1,3600,,white,credit,1,30,10,0,0,14,0,0,,1,0,476.0,1028.0,1265.0
+pal_2005_main:4,1,2005,2005.06.03,main,swiss,1,3600,,black,auryn,0,30,10,0,0,14,0,0,23,0,0,244.0,627.0,799.0
+pal_2005_main:5,1,2005,2005.06.03,main,swiss,2,3600,,white,ares01,0,20,4,0,0,8,0,0,,1,0,757.0,1846.0,2097.0
+pal_2005_main:5,1,2005,2005.06.03,main,swiss,2,3600,,black,voidchessicc,1,19,5,0,0,,1,0,,1,0,629.0,1363.0,
+pal_2005_main:6,1,2005,2005.06.03,main,swiss,2,3600,,white,tank1,1,30,12,0,0,12,0,0,,1,0,112.0,817.0,1193.0
+pal_2005_main:6,1,2005,2005.06.03,main,swiss,2,3600,,black,indianwomen,0,30,5,0,0,5,0,0,,1,0,780.0,1520.0,1780.0
+pal_2005_main:7,1,2005,2005.06.03,main,swiss,2,3600,,white,rentner2,1,26,6,0,0,6,0,0,16,0,0,258.0,1828.0,2351.0
+pal_2005_main:7,1,2005,2005.06.03,main,swiss,2,3600,,black,sommer power,0,25,2,0,0,6,0,0,15,0,0,481.0,1966.0,2377.0
+pal_2005_main:8,1,2005,2005.06.03,main,swiss,2,3600,,white,auryn,1,30,24,0,0,24,0,0,26,0,0,39.0,63.0,222.0
+pal_2005_main:8,1,2005,2005.06.03,main,swiss,2,3600,,black,mattini,0,30,18,0,0,18,0,0,26,0,0,174.0,244.0,650.0
+pal_2005_main:9,1,2005,2005.06.03,main,swiss,2,3600,,white,t-sygulski,1,30,9,0,0,9,0,0,10,0,0,1470.0,2210.0,2296.0
+pal_2005_main:9,1,2005,2005.06.03,main,swiss,2,3600,,black,engineer,0,30,7,0,0,7,0,0,10,0,0,1092.0,2546.0,2556.0
+pal_2005_main:11,1,2005,2005.06.03,main,swiss,1,3600,,white,pepekan,0,9,6,0,0,9,0,0,,1,0,,,
+pal_2005_main:11,1,2005,2005.06.03,main,swiss,1,3600,,black,lev psakhis,1,9,8,0,0,,1,0,,1,0,,,
+pal_2005_main:12,1,2005,2005.06.03,main,swiss,1,3600,,white,volodja,1,30,8,0,0,11,0,0,,1,0,276.0,929.0,1069.0
+pal_2005_main:12,1,2005,2005.06.03,main,swiss,1,3600,,black,jon levitt,0,30,12,0,0,23,0,0,23,0,0,244.0,874.0,1023.0
+pal_2005_main:14,1,2005,2005.06.03,main,swiss,1,3600,,white,sergei azarov,0,30,18,0,0,21,0,0,21,0,0,30.0,195.0,424.0
+pal_2005_main:14,1,2005,2005.06.03,main,swiss,1,3600,,black,absinthe,1,30,9,0,0,9,0,0,,1,0,595.0,1529.0,1614.0
+pal_2005_main:15,1,2005,2005.06.03,main,swiss,1,3600,,white,chessfriendotcom,0,30,8,0,0,9,0,0,,1,0,588.0,1222.0,1734.0
+pal_2005_main:15,1,2005,2005.06.03,main,swiss,1,3600,,black,sergey volkov,1,30,11,0,0,12,0,0,,1,0,249.0,1171.0,1450.0
+pal_2005_main:16,1,2005,2005.06.03,main,swiss,1,3600,,white,"alinasir, shredder 8",0,14,8,0,0,,1,0,,1,0,450.0,,
+pal_2005_main:16,1,2005,2005.06.03,main,swiss,1,3600,,black,sasikiran,1,14,6,0,0,8,0,0,,1,0,869.0,,
+pal_2005_main:17,1,2005,2005.06.03,main,swiss,1,3600,,white,mattini,0,30,6,0,0,11,0,0,12,0,0,366.0,2299.0,3072.0
+pal_2005_main:17,1,2005,2005.06.03,main,swiss,1,3600,,black,oligarckh,1,30,12,0,0,12,0,0,12,0,0,38.0,1269.0,1778.0
+pal_2005_main:18,1,2005,2005.06.03,main,swiss,1,3600,,white,mnovik,1,30,12,0,0,18,0,0,20,0,0,102.0,451.0,1340.0
+pal_2005_main:18,1,2005,2005.06.03,main,swiss,1,3600,,black,"braincooler, deep shredder 9",0,30,18,0,0,18,0,0,,1,0,0.0,0.0,498.0
+pal_2005_main:19,1,2005,2005.06.03,main,swiss,1,3600,,white,konstantinlanda,0.5,30,9,0,0,15,0,0,15,0,0,236.0,1187.0,2225.0
+pal_2005_main:19,1,2005,2005.06.03,main,swiss,1,3600,,black,zor_champ,0.5,30,1,0,0,10,0,0,,1,0,565.0,1867.0,2325.0
+pal_2005_main:20,1,2005,2005.06.03,main,swiss,2,3600,,white,"dieb fritz, deep shredder 9.02 ",0.5,30,15,0,0,15,0,0,,1,0,0.0,668.0,1150.0
+pal_2005_main:20,1,2005,2005.06.03,main,swiss,2,3600,,black,volodja,0.5,30,23,0,0,27,0,0,,1,0,89.0,233.0,291.0
+pal_2005_main:21,1,2005,2005.06.03,main,swiss,2,3600,,white,absinthe,0.5,30,9,0,0,27,0,0,,1,0,394.0,856.0,971.0
+pal_2005_main:21,1,2005,2005.06.03,main,swiss,2,3600,,black,oligarckh,0.5,30,16,0,0,16,0,0,,1,0,100.0,514.0,642.0
+pal_2005_main:22,1,2005,2005.06.03,main,swiss,2,3600,,white,sasikiran,1,30,9,0,0,18,0,0,,1,0,451.0,683.0,1146.0
+pal_2005_main:22,1,2005,2005.06.03,main,swiss,2,3600,,black,mnovik,0,30,8,0,0,8,0,0,21,0,0,511.0,585.0,647.0
+pal_2005_main:23,1,2005,2005.06.03,main,swiss,2,3600,9,white,zacks,1,30,9,0,0,9,0,0,12,0,0,426.0,2598.0,2864.0
+pal_2005_main:23,1,2005,2005.06.03,main,swiss,2,3600,9,black,konstantinlanda,0,30,4,0,0,4,0,0,12,0,0,864.0,2044.0,2544.0
+pal_2005_main:24,1,2005,2005.06.03,main,swiss,2,3600,,white,sergey volkov,1,30,15,0,0,17,0,0,,1,0,146.0,758.0,878.0
+pal_2005_main:24,1,2005,2005.06.03,main,swiss,2,3600,,black,credit,0,30,14,0,0,14,0,0,14,0,0,126.0,1412.0,1481.0
+pal_2005_main:25,1,2005,2005.06.03,main,swiss,2,3600,,white,alexwojt,0.5,30,15,0,0,15,0,0,21,0,0,81.0,646.0,1073.0
+pal_2005_main:25,1,2005,2005.06.03,main,swiss,2,3600,,black,ciron,0.5,30,5,0,0,18,0,0,21,0,0,448.0,947.0,1463.0
+pal_2005_main:26,1,2005,2005.06.03,main,swiss,2,3600,,white,"zor_champ, hydra/chimera-1.12c",0,30,7,0,0,,1,0,,1,0,190.0,1087.0,1333.0
+pal_2005_main:26,1,2005,2005.06.03,main,swiss,2,3600,,black,katzenmaier,1,30,6,0,0,10,0,0,10,0,0,862.0,1520.0,1680.0
+pal_2005_main:27,1,2005,2005.06.04,main,swiss,3,3600,,white,tank1,0.5,30,16,0,0,22,0,0,24,0,0,185.0,557.0,820.0
+pal_2005_main:27,1,2005,2005.06.04,main,swiss,3,3600,,black,ares01,0.5,30,12,0,0,16,0,0,16,0,0,228.0,1093.0,1318.0
+pal_2005_main:28,1,2005,2005.06.04,main,swiss,3,3600,10,white,zacks,1,30,5,0,0,13,0,0,13,0,0,212.0,1332.0,2384.0
+pal_2005_main:28,1,2005,2005.06.04,main,swiss,3,3600,10,black,talib,0,30,5,0,0,12,0,0,12,0,0,401.0,1805.0,3415.0
+pal_2005_main:29,1,2005,2005.06.04,main,swiss,4,3600,11,white,voidchessicc,0,30,17,0,0,17,0,0,30,0,0,94.0,425.0,863.0
+pal_2005_main:29,1,2005,2005.06.04,main,swiss,4,3600,11,black,zacks,1,30,18,0,0,18,0,0,18,0,0,55.0,147.0,1861.0
+pal_2005_main:30,1,2005,2005.06.04,main,swiss,5,3600,,white,v_dobrov,1,30,3,0,0,22,0,0,22,0,0,506.0,653.0,667.0
+pal_2005_main:30,1,2005,2005.06.04,main,swiss,5,3600,,black,auryn,0,30,3,0,0,14,0,0,,1,0,517.0,1214.0,1326.0
+pal_2005_main:31,1,2005,2005.06.04,main,swiss,5,3600,,white,t-sygulski,0.5,30,8,0,0,8,0,0,9,0,0,807.0,1478.0,1577.0
+pal_2005_main:31,1,2005,2005.06.04,main,swiss,5,3600,,black,rentner2,0.5,30,12,0,0,12,0,0,15,0,0,119.0,1351.0,2366.0
+pal_2005_main:32,1,2005,2005.06.04,main,swiss,5,3600,,white,tank1,0.5,30,5,0,0,5,0,0,24,0,0,434.0,1218.0,1369.0
+pal_2005_main:32,1,2005,2005.06.04,main,swiss,5,3600,,black,voidchessicc,0.5,30,8,0,0,8,0,0,8,0,0,767.0,1231.0,1476.0
+pal_2005_main:33,1,2005,2005.06.04,main,swiss,3,3600,,white,mnovik,0.5,20,8,0,0,11,0,0,13,0,0,298.0,1310.0,2316.0
+pal_2005_main:33,1,2005,2005.06.04,main,swiss,3,3600,,black,mhoffpauir,0.5,20,4,0,0,4,0,0,,1,0,764.0,1507.0,1555.0
+pal_2005_main:34,1,2005,2005.06.04,main,swiss,3,3600,,white,volodja,0.5,30,13,0,0,13,0,0,22,0,0,169.0,458.0,1076.0
+pal_2005_main:34,1,2005,2005.06.04,main,swiss,3,3600,,black,"wilger, deep shredder 9",0.5,30,13,0,0,14,0,0,,1,0,0.0,680.0,782.0
+pal_2005_main:35,1,2005,2005.06.04,main,swiss,3,3600,,white,sergey volkov,1,30,10,0,0,10,0,0,,1,0,426.0,669.0,1099.0
+pal_2005_main:35,1,2005,2005.06.04,main,swiss,3,3600,,black,rentner2,0,30,10,0,0,10,0,0,10,0,0,977.0,2127.0,2910.0
+pal_2005_main:36,1,2005,2005.06.04,main,swiss,3,3600,,white,oligarckh,1,30,15,0,0,15,0,0,15,0,0,57.0,690.0,878.0
+pal_2005_main:36,1,2005,2005.06.04,main,swiss,3,3600,,black,katzenmaier,0,30,9,0,0,9,0,0,12,0,0,610.0,1643.0,2253.0
+pal_2005_main:37,1,2005,2005.06.04,main,swiss,3,3600,,white,voidchessicc,0.5,30,16,0,0,21,0,0,,1,0,119.0,378.0,474.0
+pal_2005_main:37,1,2005,2005.06.04,main,swiss,3,3600,,black,sasikiran,0.5,30,8,0,0,8,0,0,21,0,0,473.0,864.0,1094.0
+pal_2005_main:38,1,2005,2005.06.04,main,swiss,3,3600,,white,konstantinlanda,1,30,11,0,0,13,0,0,13,0,0,175.0,1141.0,2210.0
+pal_2005_main:38,1,2005,2005.06.04,main,swiss,3,3600,,black,engineer,0,30,15,0,0,16,0,0,16,0,0,69.0,1071.0,1362.0
+pal_2005_main:39,1,2005,2005.06.04,main,swiss,3,3600,,white,ciron,0.5,30,11,0,0,14,0,0,16,0,0,168.0,1280.0,1637.0
+pal_2005_main:39,1,2005,2005.06.04,main,swiss,3,3600,,black,"zor_champ, hydra/chimera-1.12c",0.5,30,14,0,0,15,0,0,,1,0,0.0,616.0,926.0
+pal_2005_main:40,1,2005,2005.06.04,main,swiss,4,3600,,white,"zor_champ, hydra/chimera-1.12c",0,30,19,0,0,23,0,0,,1,0,0.0,0.0,122.0
+pal_2005_main:40,1,2005,2005.06.04,main,swiss,4,3600,,black,mattini,1,30,19,0,0,19,0,0,19,0,0,59.0,200.0,1111.0
+pal_2005_main:41,1,2005,2005.06.04,main,swiss,4,3600,,white,oligarckh,1,30,9,0,0,13,0,0,13,0,0,196.0,1302.0,1838.0
+pal_2005_main:41,1,2005,2005.06.04,main,swiss,4,3600,,black,sergey volkov,0,30,9,0,0,13,0,0,13,0,0,339.0,1417.0,1590.0
+pal_2005_main:42,1,2005,2005.06.04,main,swiss,4,3600,,white,rentner2,0.5,30,3,0,0,4,0,0,4,0,0,1799.0,3182.0,3385.0
+pal_2005_main:42,1,2005,2005.06.04,main,swiss,4,3600,,black,volodja,0.5,30,7,0,0,12,0,0,12,0,0,372.0,1026.0,1353.0
+pal_2005_main:43,1,2005,2005.06.04,main,swiss,4,3600,,white,katzenmaier,0.5,30,12,0,0,12,0,0,13,0,0,309.0,1831.0,2443.0
+pal_2005_main:43,1,2005,2005.06.04,main,swiss,4,3600,,black,mnovik,0.5,30,6,0,0,18,0,0,24,0,0,490.0,708.0,996.0
+pal_2005_main:44,1,2005,2005.06.04,main,swiss,4,3600,,white,chessfriendotcom,0,30,9,0,0,13,0,0,22,0,0,382.0,1010.0,1430.0
+pal_2005_main:44,1,2005,2005.06.04,main,swiss,4,3600,,black,konstantinlanda,1,30,10,0,0,14,0,0,18,0,0,224.0,514.0,1058.0
+pal_2005_main:45,1,2005,2005.06.04,main,swiss,5,3600,,white,sergey volkov,0.5,19,7,0,0,7,0,0,,1,0,447.0,726.0,
+pal_2005_main:45,1,2005,2005.06.04,main,swiss,5,3600,,black,"dieb fritz, deep shredder 9.02 ",0.5,19,18,0,0,,1,0,,1,0,0.0,0.0,
+pal_2005_main:46,1,2005,2005.06.04,main,swiss,5,3600,,white,"zor_champ, hydra/chimera-1.12c",1,30,12,0,0,26,0,0,26,0,0,0.0,316.0,669.0
+pal_2005_main:46,1,2005,2005.06.04,main,swiss,5,3600,,black,mikhail umansky,0,29,15,0,0,17,0,0,21,0,0,135.0,655.0,887.0
+pal_2005_main:47,1,2005,2005.06.04,main,swiss,5,3600,12,white,zacks,1,30,10,0,0,13,0,0,16,0,0,274.0,1688.0,2112.0
+pal_2005_main:47,1,2005,2005.06.04,main,swiss,5,3600,12,black,oligarckh,0,30,14,0,0,17,0,0,18,0,0,87.0,460.0,1828.0
+pal_2005_main:48,1,2005,2005.06.04,main,swiss,5,3600,,white,konstantinlanda,1,30,12,0,0,13,0,0,16,0,0,211.0,1115.0,1762.0
+pal_2005_main:48,1,2005,2005.06.04,main,swiss,5,3600,,black,"neverfail, shredder 9",0,30,12,0,0,13,0,0,,1,0,0.0,1074.0,1315.0
+pal_2005_main:49,1,2005,2005.06.04,main,swiss,5,3600,,white,mnovik,1,30,9,0,0,18,0,0,18,0,0,387.0,650.0,2317.0
+pal_2005_main:49,1,2005,2005.06.04,main,swiss,5,3600,,black,klosterfrau,0,30,16,0,0,16,0,0,16,0,0,114.0,705.0,2335.0
+pal_2005_main:50,1,2005,2005.06.04,main,swiss,5,3600,,white,volodja,0.5,30,19,0,0,22,0,0,23,0,0,115.0,222.0,536.0
+pal_2005_main:50,1,2005,2005.06.04,main,swiss,5,3600,,black,ares01,0.5,30,16,0,0,21,0,0,25,0,0,207.0,633.0,879.0
+pal_2005_main:51,1,2005,2005.06.05,main,swiss,6,3600,13,white,zacks,1,30,6,0,0,6,0,0,13,0,0,910.0,2764.0,3580.0
+pal_2005_main:51,1,2005,2005.06.05,main,swiss,6,3600,13,black,v_dobrov,0,30,9,0,0,10,0,0,10,0,0,1410.0,2179.0,2303.0
+pal_2005_main:52,1,2005,2005.06.05,main,swiss,6,3600,,white,rentner2,0.5,30,11,0,0,15,0,0,15,0,0,158.0,1196.0,1374.0
+pal_2005_main:52,1,2005,2005.06.05,main,swiss,6,3600,,black,tank1,0.5,30,10,0,0,15,0,0,26,0,0,209.0,739.0,939.0
+pal_2005_main:53,1,2005,2005.06.05,main,swiss,6,3600,,white,ares01,0,30,11,0,0,12,0,0,26,0,0,153.0,1138.0,1460.0
+pal_2005_main:53,1,2005,2005.06.05,main,swiss,6,3600,,black,t-sygulski,1,30,7,0,0,13,0,0,15,0,0,472.0,1856.0,2899.0
+pal_2005_main:54,1,2005,2005.06.05,main,swiss,6,3600,,white,klosterfrau,0.5,30,10,0,0,10,0,0,10,0,0,560.0,3560.0,3754.0
+pal_2005_main:54,1,2005,2005.06.05,main,swiss,6,3600,,black,talib,0.5,30,6,0,0,12,0,0,12,0,0,440.0,2193.0,2972.0
+pal_2005_main:55,1,2005,2005.06.05,main,swiss,7,3600,,white,v_dobrov,1,30,15,0,0,15,0,0,,1,0,191.0,984.0,1111.0
+pal_2005_main:55,1,2005,2005.06.05,main,swiss,7,3600,,black,voidchessicc,0,30,11,0,0,15,0,0,,1,0,91.0,748.0,978.0
+pal_2005_main:56,1,2005,2005.06.05,main,swiss,7,3600,,white,yellowman,0,30,6,0,0,15,0,0,16,0,0,447.0,2165.0,2221.0
+pal_2005_main:56,1,2005,2005.06.05,main,swiss,7,3600,,black,rentner2,1,30,4,0,0,14,0,0,14,0,0,237.0,2704.0,3368.0
+pal_2005_main:57,1,2005,2005.06.05,main,swiss,8,3600,,white,auryn,0.5,30,19,0,0,19,0,0,,1,0,20.0,82.0,308.0
+pal_2005_main:57,1,2005,2005.06.05,main,swiss,8,3600,,black,ares01,0.5,30,15,0,0,18,0,0,,1,0,147.0,541.0,909.0
+pal_2005_main:58,1,2005,2005.06.05,main,swiss,8,3600,,white,engineer,1,30,16,0,0,16,0,0,17,0,0,110.0,841.0,1052.0
+pal_2005_main:58,1,2005,2005.06.05,main,swiss,8,3600,,black,yellowman,0,30,7,0,0,11,0,0,27,0,0,266.0,884.0,1204.0
+pal_2005_main:59,1,2005,2005.06.05,main,swiss,8,3600,,white,t-sygulski,0,30,10,0,0,10,0,0,15,0,0,397.0,1625.0,2161.0
+pal_2005_main:59,1,2005,2005.06.05,main,swiss,8,3600,,black,tank1,1,30,12,0,0,12,0,0,,1,0,123.0,1117.0,1660.0
+pal_2005_main:60,1,2005,2005.06.05,main,swiss,6,3600,,white,chessfriendotcom,0.5,24,7,0,0,9,0,0,12,0,0,381.0,1135.0,1573.0
+pal_2005_main:60,1,2005,2005.06.05,main,swiss,6,3600,,black,"zor_champ, hydra/chimera-1.12c",0.5,24,10,0,0,18,0,0,,1,0,261.0,760.0,1249.0
+pal_2005_main:61,1,2005,2005.06.05,main,swiss,6,3600,,white,"dieb fritz, deep shredder 9.02 ",0.5,27,9,0,0,9,0,0,,1,0,295.0,677.0,992.0
+pal_2005_main:61,1,2005,2005.06.05,main,swiss,6,3600,,black,konstantinlanda,0.5,27,6,0,0,10,0,0,10,0,0,1059.0,1877.0,2060.0
+pal_2005_main:62,1,2005,2005.06.05,main,swiss,6,3600,,white,"wilger, deep shredder 9",0.5,30,8,0,0,8,0,0,11,0,0,641.0,1588.0,1799.0
+pal_2005_main:62,1,2005,2005.06.05,main,swiss,6,3600,,black,sergey volkov,0.5,30,10,0,0,10,0,0,15,0,0,489.0,1303.0,1510.0
+pal_2005_main:63,1,2005,2005.06.05,main,swiss,6,3600,,white,voidchessicc,1,30,18,0,0,21,0,0,,1,0,97.0,166.0,367.0
+pal_2005_main:63,1,2005,2005.06.05,main,swiss,6,3600,,black,mnovik,0,30,1,0,0,1,0,0,11,0,0,673.0,1628.0,2109.0
+pal_2005_main:64,1,2005,2005.06.05,main,swiss,6,3600,,white,katzenmaier,0,30,4,0,0,4,0,0,7,0,0,2263.0,3163.0,3446.0
+pal_2005_main:64,1,2005,2005.06.05,main,swiss,6,3600,,black,volodja,1,30,5,0,0,5,0,0,6,0,0,1629.0,2556.0,2585.0
+pal_2005_main:65,1,2005,2005.06.05,main,swiss,7,3600,,white,oligarckh,0.5,30,5,0,0,6,0,0,6,0,0,1270.0,1999.0,2472.0
+pal_2005_main:65,1,2005,2005.06.05,main,swiss,7,3600,,black,volodja,0.5,30,1,0,0,1,0,0,5,0,0,1454.0,2501.0,2636.0
+pal_2005_main:66,1,2005,2005.06.05,main,swiss,7,3600,,white,konstantinlanda,1,30,11,0,0,22,0,0,22,0,0,83.0,471.0,536.0
+pal_2005_main:66,1,2005,2005.06.05,main,swiss,7,3600,,black,"wilger, deep shredder 9",0,30,21,0,0,21,0,0,21,0,0,0.0,0.0,0.0
+pal_2005_main:67,1,2005,2005.06.05,main,swiss,7,3600,14,white,sergey volkov,0.5,30,8,0,0,15,0,0,22,0,0,292.0,684.0,952.0
+pal_2005_main:67,1,2005,2005.06.05,main,swiss,7,3600,14,black,zacks,0.5,30,7,0,0,17,0,0,17,0,0,310.0,1054.0,1517.0
+pal_2005_main:68,1,2005,2005.06.05,main,swiss,7,3600,,white,engineer,1,30,17,0,0,23,0,0,23,0,0,25.0,249.0,381.0
+pal_2005_main:68,1,2005,2005.06.05,main,swiss,7,3600,,black,"zor_champ, hydra/chimera-1.12c",0,30,15,0,0,16,0,0,,1,0,0.0,462.0,776.0
+pal_2005_main:69,1,2005,2005.06.05,main,swiss,7,3600,,white,mnovik,1,30,7,0,0,8,0,0,20,0,0,722.0,1114.0,1781.0
+pal_2005_main:69,1,2005,2005.06.05,main,swiss,7,3600,,black,credit,0,30,8,0,0,9,0,0,20,0,0,474.0,884.0,1441.0
+pal_2005_main:70,1,2005,2005.06.05,main,swiss,8,3600,,white,v_dobrov,0.5,10,,1,0,,1,0,,1,0,44.0,,
+pal_2005_main:70,1,2005,2005.06.05,main,swiss,8,3600,,black,konstantinlanda,0.5,10,,1,0,,1,0,,1,0,49.0,,
+pal_2005_main:71,1,2005,2005.06.05,main,swiss,8,3600,,white,"zor_champ, hydra/chimera-1.12c",1,30,11,0,0,19,0,0,,1,0,0.0,687.0,1153.0
+pal_2005_main:71,1,2005,2005.06.05,main,swiss,8,3600,,black,"braincooler, deep shredder 9",0,30,14,0,0,14,0,0,25,0,0,0.0,578.0,1178.0
+pal_2005_main:72,1,2005,2005.06.05,main,swiss,8,3600,,white,volodja,0.5,30,1,0,0,1,0,0,16,0,0,863.0,2072.0,2526.0
+pal_2005_main:72,1,2005,2005.06.05,main,swiss,8,3600,,black,sergey volkov,0.5,30,9,0,0,10,0,0,21,0,0,519.0,1124.0,1163.0
+pal_2005_main:73,1,2005,2005.06.05,main,swiss,8,3600,,white,voidchessicc,0,30,13,0,0,20,0,0,,1,0,82.0,390.0,628.0
+pal_2005_main:73,1,2005,2005.06.05,main,swiss,8,3600,,black,oligarckh,1,30,12,0,0,12,0,0,24,0,0,19.0,299.0,594.0
+pal_2005_main:74,1,2005,2005.06.05,main,swiss,8,3600,,white,mnovik,0.5,30,13,0,0,14,0,0,18,0,0,45.0,742.0,1471.0
+pal_2005_main:74,1,2005,2005.06.05,main,swiss,8,3600,,black,relic,0.5,30,19,0,0,21,0,0,,1,0,0.0,0.0,312.0
+pal_2005_main:75,1,2005,2005.06.03,main,swiss,1,3600,,white,v_dobrov,1,30,7,0,0,7,0,0,,1,0,801.0,1247.0,1422.0
+pal_2005_main:75,1,2005,2005.06.03,main,swiss,1,3600,,black,mhoffpauir,0,30,5,0,0,12,0,0,,1,0,456.0,1361.0,1690.0
+pal_2005_main:76,1,2005,2005.06.03,main,swiss,1,3600,,white,"wilger, deep shredder 9",1,30,18,0,0,20,0,0,,1,0,0.0,0.0,580.0
+pal_2005_main:76,1,2005,2005.06.03,main,swiss,1,3600,,black,tank1,0,30,8,0,0,8,0,0,22,0,0,289.0,435.0,526.0
+pal_2005_main:77,1,2005,2005.06.03,main,swiss,1,3600,,white,rentner2,1,23,4,0,0,9,0,0,13,0,0,845.0,2504.0,3033.0
+pal_2005_main:77,1,2005,2005.06.03,main,swiss,1,3600,,black,ciron,0,22,7,0,0,11,0,0,16,0,0,636.0,2153.0,2871.0
+pal_2005_main:78,1,2005,2005.06.03,main,swiss,1,3600,,white,katzenmaier,0.5,26,7,0,0,7,0,0,8,0,0,1355.0,2739.0,2979.0
+pal_2005_main:78,1,2005,2005.06.03,main,swiss,1,3600,,black,t-sygulski,0.5,26,8,0,0,8,0,0,8,0,0,633.0,1837.0,2339.0
+pal_2005_main:79,1,2005,2005.06.03,main,swiss,1,3600,,white,"neverfail, shredder 9",1,30,1,0,0,1,0,0,,1,0,1766.0,2487.0,2589.0
+pal_2005_main:79,1,2005,2005.06.03,main,swiss,1,3600,,black,h. dronavalli,0,30,9,0,0,9,0,0,9,0,0,2197.0,2663.0,2776.0
+pal_2005_main:80,1,2005,2005.06.03,main,swiss,1,3600,,white,"dieb fritz, deep shredder 9.02 ",1,30,9,0,0,9,0,0,,1,0,605.0,1172.0,1289.0
+pal_2005_main:80,1,2005,2005.06.03,main,swiss,1,3600,,black,dr.ex,0,30,3,0,0,4,0,0,4,0,0,2242.0,2900.0,3585.0
+pal_2005_main:81,1,2005,2005.06.03,main,swiss,1,3600,,white,sommer power,1,30,10,0,0,10,0,0,10,0,0,655.0,1819.0,2558.0
+pal_2005_main:81,1,2005,2005.06.03,main,swiss,1,3600,,black,klosterfrau,0,30,13,0,0,16,0,0,16,0,0,59.0,1537.0,3194.0
+pal_2005_main:82,1,2005,2005.06.03,main,swiss,1,3600,,white,rainerzufall,0,30,10,0,0,11,0,0,29,0,0,440.0,1437.0,1845.0
+pal_2005_main:82,1,2005,2005.06.03,main,swiss,1,3600,,black,ares01,1,30,4,0,0,10,0,0,,1,0,1076.0,1705.0,2090.0
+pal_2005_main:83,1,2005,2005.06.03,main,swiss,2,3600,,white,"relic, deep junior 9",1,30,5,0,0,12,0,0,,1,0,633.0,1458.0,1738.0
+pal_2005_main:83,1,2005,2005.06.03,main,swiss,2,3600,,black,mikhail umansky,0,30,8,0,0,10,0,0,21,0,0,508.0,984.0,1068.0
+pal_2005_main:84,1,2005,2005.06.03,main,swiss,2,3600,,white,"wilger, deep shredder 9",0.5,30,15,0,0,17,0,0,,1,0,0.0,524.0,1022.0
+pal_2005_main:84,1,2005,2005.06.03,main,swiss,2,3600,,black,v_dobrov,0.5,30,8,0,0,10,0,0,10,0,0,701.0,903.0,1035.0
+pal_2005_main:85,1,2005,2005.06.03,main,swiss,2,3600,,white,"braincooler, deep shredder 9",0.5,30,14,0,0,14,0,0,22,0,0,0.0,530.0,992.0
+pal_2005_main:85,1,2005,2005.06.03,main,swiss,2,3600,,black,chessfriendotcom,0.5,30,13,0,0,15,0,0,,1,0,167.0,607.0,1083.0
+pal_2005_main:86,1,2005,2005.06.03,main,swiss,2,3600,,white,mhoffpauir,1,30,4,0,0,14,0,0,,1,0,677.0,1289.0,1596.0
+pal_2005_main:86,1,2005,2005.06.03,main,swiss,2,3600,,black,rainerzufall,0,30,11,0,0,11,0,0,,1,0,295.0,833.0,1222.0
+pal_2005_main:87,1,2005,2005.06.03,main,swiss,2,3600,,white,klosterfrau,0.5,30,4,0,0,4,0,0,4,0,0,1293.0,3190.0,3301.0
+pal_2005_main:87,1,2005,2005.06.03,main,swiss,2,3600,,black,dr.ex,0.5,30,1,0,0,6,0,0,6,0,0,1487.0,2617.0,2958.0
+pal_2005_main:88,1,2005,2005.06.03,main,swiss,2,3600,,white,talib,0.5,30,5,0,0,5,0,0,5,0,0,1078.0,1691.0,2521.0
+pal_2005_main:88,1,2005,2005.06.03,main,swiss,2,3600,,black,"neverfail, shredder 9",0.5,30,1,0,0,2,0,0,,1,0,1223.0,1992.0,2310.0
+pal_2005_main:90,1,2005,2005.06.04,main,swiss,3,3600,,white,absinthe,0.5,30,17,0,0,18,0,0,26,0,0,31.0,284.0,561.0
+pal_2005_main:90,1,2005,2005.06.04,main,swiss,3,3600,,black,auryn,0.5,30,14,0,0,16,0,0,17,0,0,93.0,936.0,1032.0
+pal_2005_main:91,1,2005,2005.06.04,main,swiss,3,3600,,white,credit,0.5,30,5,0,0,13,0,0,19,0,0,283.0,1040.0,1425.0
+pal_2005_main:91,1,2005,2005.06.04,main,swiss,3,3600,,black,"relic, deep junior 9",0.5,30,5,0,0,20,0,0,,1,0,590.0,1317.0,1797.0
+pal_2005_main:92,1,2005,2005.06.04,main,swiss,3,3600,,white,rainerzufall,0.5,30,9,0,0,13,0,0,23,0,0,283.0,1000.0,1254.0
+pal_2005_main:92,1,2005,2005.06.04,main,swiss,3,3600,,black,klosterfrau,0.5,30,7,0,0,7,0,0,7,0,0,1230.0,2422.0,2843.0
+pal_2005_main:93,1,2005,2005.06.04,main,swiss,3,3600,,white,"neverfail, shredder 9",0.5,30,1,0,0,1,0,0,,1,0,1816.0,2181.0,2578.0
+pal_2005_main:93,1,2005,2005.06.04,main,swiss,3,3600,,black,t-sygulski,0.5,30,1,0,0,1,0,0,18,0,0,1060.0,1936.0,2524.0
+pal_2005_main:94,1,2005,2005.06.04,main,swiss,3,3600,,white,mattini,1,30,13,0,0,13,0,0,19,0,0,186.0,714.0,1820.0
+pal_2005_main:94,1,2005,2005.06.04,main,swiss,3,3600,,black,"alinasir, shredder 8",0,30,16,0,0,16,0,0,,1,0,0.0,331.0,568.0
+pal_2005_main:95,1,2005,2005.06.04,main,swiss,3,3600,,white,yellowman,1,30,13,0,0,20,0,0,,1,0,80.0,477.0,927.0
+pal_2005_main:95,1,2005,2005.06.04,main,swiss,3,3600,,black,"braincooler, deep shredder 9",0,30,11,0,0,12,0,0,,1,0,0.0,948.0,989.0
+pal_2005_main:96,1,2005,2005.06.04,main,swiss,3,3600,,white,dr.ex,0.5,30,5,0,0,5,0,0,5,0,0,1410.0,2307.0,2692.0
+pal_2005_main:96,1,2005,2005.06.04,main,swiss,3,3600,,black,chessfriendotcom,0.5,30,6,0,0,7,0,0,,1,0,621.0,1061.0,1507.0
+pal_2005_main:97,1,2005,2005.06.04,main,swiss,3,3600,,white,v_dobrov,0.5,30,6,0,0,14,0,0,14,0,0,229.0,1861.0,2080.0
+pal_2005_main:97,1,2005,2005.06.04,main,swiss,3,3600,,black,"dieb fritz, deep shredder 9.02 ",0.5,30,13,0,0,13,0,0,,1,0,0.0,660.0,1018.0
+pal_2005_main:98,1,2005,2005.06.04,main,swiss,4,3600,,white,t-sygulski,0.5,30,13,0,0,13,0,0,16,0,0,83.0,1564.0,2262.0
+pal_2005_main:98,1,2005,2005.06.04,main,swiss,4,3600,,black,"wilger, deep shredder 9",0.5,29,13,0,0,13,0,0,,1,0,0.0,1151.0,1402.0
+pal_2005_main:99,1,2005,2005.06.04,main,swiss,4,3600,,white,mhoffpauir,0,30,6,0,0,6,0,0,13,0,0,798.0,2040.0,2287.0
+pal_2005_main:99,1,2005,2005.06.04,main,swiss,4,3600,,black,tank1,1,30,7,0,0,7,0,0,17,0,0,515.0,1052.0,1569.0
+pal_2005_main:100,1,2005,2005.06.04,main,swiss,4,3600,,white,"dieb fritz, deep shredder 9.02 ",1,30,16,0,0,17,0,0,23,0,0,0.0,371.0,945.0
+pal_2005_main:100,1,2005,2005.06.04,main,swiss,4,3600,,black,absinthe,0,30,20,0,0,20,0,0,21,0,0,36.0,54.0,248.0
+pal_2005_main:101,1,2005,2005.06.04,main,swiss,4,3600,,white,ares01,1,30,6,0,0,20,0,0,20,0,0,365.0,493.0,1299.0
+pal_2005_main:101,1,2005,2005.06.04,main,swiss,4,3600,,black,"relic, deep junior 9",0,30,9,0,0,13,0,0,16,0,0,317.0,1639.0,1999.0
+pal_2005_main:102,1,2005,2005.06.04,main,swiss,4,3600,,white,"neverfail, shredder 9",0,30,1,0,0,2,0,0,,1,0,1540.0,2039.0,2377.0
+pal_2005_main:102,1,2005,2005.06.04,main,swiss,4,3600,,black,v_dobrov,1,30,2,0,0,14,0,0,14,0,0,470.0,1334.0,1437.0
+pal_2005_main:103,1,2005,2005.06.04,main,swiss,4,3600,,white,auryn,1,30,21,0,0,21,0,0,22,0,0,54.0,104.0,147.0
+pal_2005_main:103,1,2005,2005.06.04,main,swiss,4,3600,,black,yellowman,0,30,21,0,0,23,0,0,,1,0,37.0,162.0,206.0
+pal_2005_main:104,1,2005,2005.06.04,main,swiss,4,3600,,white,engineer,0.5,30,9,0,0,9,0,0,,1,0,410.0,1214.0,1625.0
+pal_2005_main:104,1,2005,2005.06.04,main,swiss,4,3600,,black,"alinasir, shredder 9 zor cham",0.5,30,10,0,0,10,0,0,18,0,0,279.0,1305.0,1914.0
+pal_2005_main:105,1,2005,2005.06.04,main,swiss,4,3600,,white,mikhail umansky,0,30,7,0,0,7,0,0,11,0,0,407.0,1210.0,1836.0
+pal_2005_main:105,1,2005,2005.06.04,main,swiss,4,3600,,black,dr.ex,1,30,2,0,0,2,0,0,23,0,0,1029.0,1949.0,2232.0
+pal_2005_main:106,1,2005,2005.06.04,main,swiss,4,3600,,white,talib,0,30,4,0,0,4,0,0,4,0,0,1677.0,2086.0,2210.0
+pal_2005_main:106,1,2005,2005.06.04,main,swiss,4,3600,,black,credit,1,30,5,0,0,12,0,0,19,0,0,420.0,857.0,1515.0
+pal_2005_main:107,1,2005,2005.06.04,main,swiss,4,3600,,white,klosterfrau,1,30,8,0,0,8,0,0,11,0,0,746.0,3346.0,3391.0
+pal_2005_main:107,1,2005,2005.06.04,main,swiss,4,3600,,black,ciron,0,30,5,0,0,6,0,0,11,0,0,874.0,2832.0,3227.0
+pal_2005_main:108,1,2005,2005.06.04,main,swiss,4,3600,,white,"braincooler, deep shredder 9",0.5,30,25,0,0,25,0,0,,1,0,0.0,0.0,0.0
+pal_2005_main:108,1,2005,2005.06.04,main,swiss,4,3600,,black,"rainerzufall, toga ii 0.93",0.5,30,19,0,0,,1,0,,1,0,0.0,0.0,243.0
+pal_2005_main:109,1,2005,2005.06.04,main,swiss,5,3600,,white,"alinasir, shredder 9 zor cham",1,30,17,0,0,17,0,0,23,0,0,0.0,303.0,695.0
+pal_2005_main:109,1,2005,2005.06.04,main,swiss,5,3600,,black,indianwomen,0,30,1,0,0,10,0,0,,1,0,523.0,870.0,927.0
+pal_2005_main:110,1,2005,2005.06.04,main,swiss,5,3600,,white,relic,0.5,30,8,0,0,12,0,0,,1,0,359.0,1392.0,1602.0
+pal_2005_main:110,1,2005,2005.06.04,main,swiss,5,3600,,black,talib,0.5,30,8,0,0,8,0,0,8,0,0,1025.0,2469.0,2732.0
+pal_2005_main:111,1,2005,2005.06.04,main,swiss,5,3600,,white,ciron,0.5,30,9,0,0,9,0,0,,1,0,533.0,1284.0,1519.0
+pal_2005_main:111,1,2005,2005.06.04,main,swiss,5,3600,,black,"braincooler, deep shredder 9",0.5,30,16,0,0,19,0,0,,1,0,0.0,143.0,751.0
+pal_2005_main:112,1,2005,2005.06.04,main,swiss,5,3600,,white,"rainerzufall, toga ii 0.93",0,30,16,0,0,21,0,0,,1,0,0.0,245.0,566.0
+pal_2005_main:112,1,2005,2005.06.04,main,swiss,5,3600,,black,chessfriendotcom,1,30,6,0,0,16,0,0,,1,0,254.0,835.0,1111.0
+pal_2005_main:113,1,2005,2005.06.04,main,swiss,5,3600,,white,mattini,0,30,9,0,0,9,0,0,9,0,0,1075.0,3103.0,3673.0
+pal_2005_main:113,1,2005,2005.06.04,main,swiss,5,3600,,black,katzenmaier,1,30,5,0,0,11,0,0,14,0,0,743.0,2137.0,2622.0
+pal_2005_main:114,1,2005,2005.06.04,main,swiss,5,3600,,white,mhoffpauir,0,30,5,0,0,8,0,0,23,0,0,978.0,1898.0,1907.0
+pal_2005_main:114,1,2005,2005.06.04,main,swiss,5,3600,,black,engineer,1,30,6,0,0,6,0,0,12,0,0,653.0,1670.0,1720.0
+pal_2005_main:115,1,2005,2005.06.04,main,swiss,5,3600,,white,dr.ex,0,30,2,0,0,2,0,0,2,0,0,1660.0,2940.0,3127.0
+pal_2005_main:115,1,2005,2005.06.04,main,swiss,5,3600,,black,yellowman,1,30,6,0,0,10,0,0,16,0,0,668.0,1896.0,2204.0
+pal_2005_main:116,1,2005,2005.06.04,main,swiss,5,3600,,white,"wilger, deep shredder 9",1,30,7,0,0,8,0,0,,1,0,609.0,1276.0,1568.0
+pal_2005_main:116,1,2005,2005.06.04,main,swiss,5,3600,,black,credit,0,30,4,0,0,8,0,0,24,0,0,819.0,1488.0,1612.0
+pal_2005_main:117,1,2005,2005.06.05,main,swiss,6,3600,,white,yellowman,0.5,30,12,0,0,12,0,0,19,0,0,56.0,935.0,1661.0
+pal_2005_main:117,1,2005,2005.06.05,main,swiss,6,3600,,black,relic,0.5,30,10,0,0,10,0,0,18,0,0,283.0,911.0,1492.0
+pal_2005_main:118,1,2005,2005.06.05,main,swiss,6,3600,,white,"neverfail, shredder 9",1,28,15,0,0,21,0,0,21,0,0,0.0,424.0,640.0
+pal_2005_main:118,1,2005,2005.06.05,main,swiss,6,3600,,black,mattini,0,27,7,0,0,7,0,0,19,0,0,951.0,1767.0,2259.0
+pal_2005_main:119,1,2005,2005.06.05,main,swiss,6,3600,,white,braincooler,0.5,30,7,0,0,,1,0,,1,0,740.0,1345.0,1548.0
+pal_2005_main:119,1,2005,2005.06.05,main,swiss,6,3600,,black,"alinasir, shredder 9 zor cham",0.5,30,7,0,0,23,0,0,,1,0,303.0,986.0,1210.0
+pal_2005_main:120,1,2005,2005.06.05,main,swiss,6,3600,,white,mikhail umansky,0.5,30,9,0,0,20,0,0,,1,0,308.0,724.0,1056.0
+pal_2005_main:120,1,2005,2005.06.05,main,swiss,6,3600,,black,rainerzufall,0.5,30,12,0,0,15,0,0,,1,0,89.0,708.0,1084.0
+pal_2005_main:121,1,2005,2005.06.05,main,swiss,6,3600,,white,ciron,1,30,8,0,0,8,0,0,8,0,0,882.0,2071.0,2338.0
+pal_2005_main:121,1,2005,2005.06.05,main,swiss,6,3600,,black,"mhoffpauir, deep shredder 9",0,30,11,0,0,12,0,0,,1,0,45.0,1108.0,1461.0
+pal_2005_main:122,1,2005,2005.06.05,main,swiss,6,3600,,white,credit,0.5,30,14,0,0,14,0,0,14,0,0,232.0,1269.0,1542.0
+pal_2005_main:122,1,2005,2005.06.05,main,swiss,6,3600,,black,engineer,0.5,30,4,0,0,4,0,0,24,0,0,978.0,1750.0,1864.0
+pal_2005_main:123,1,2005,2005.06.05,main,swiss,6,3600,,white,"auryn, shredder 9",0,30,5,0,0,5,0,0,5,0,0,1481.0,2434.0,2658.0
+pal_2005_main:123,1,2005,2005.06.05,main,swiss,6,3600,,black,dr.ex,1,30,14,0,0,14,0,0,14,0,0,175.0,2781.0,3156.0
+pal_2005_main:124,1,2005,2005.06.05,main,swiss,7,3600,,white,dr.ex,0.5,30,3,0,0,8,0,0,11,0,0,925.0,2722.0,3122.0
+pal_2005_main:124,1,2005,2005.06.05,main,swiss,7,3600,,black,ares01,0.5,30,11,0,0,11,0,0,,1,0,213.0,1219.0,1758.0
+pal_2005_main:125,1,2005,2005.06.05,main,swiss,7,3600,,white,talib,0.5,30,7,0,0,11,0,0,11,0,0,403.0,1509.0,1695.0
+pal_2005_main:125,1,2005,2005.06.05,main,swiss,7,3600,,black,chessfriendotcom,0.5,30,9,0,0,14,0,0,,1,0,337.0,1332.0,1578.0
+pal_2005_main:126,1,2005,2005.06.05,main,swiss,7,3600,,white,rainerzufall,0,30,14,0,0,24,0,0,,1,0,93.0,492.0,703.0
+pal_2005_main:126,1,2005,2005.06.05,main,swiss,7,3600,,black,"alinasir, shredder 9 zor cham",1,30,14,0,0,14,0,0,,1,0,0.0,670.0,964.0
+pal_2005_main:127,1,2005,2005.06.05,main,swiss,7,3600,,white,klosterfrau,0.5,30,1,0,0,1,0,0,14,0,0,202.0,1444.0,1658.0
+pal_2005_main:127,1,2005,2005.06.05,main,swiss,7,3600,,black,"braincooler, deep shredder 9",0.5,30,12,0,0,13,0,0,15,0,0,0.0,1459.0,1707.0
+pal_2005_main:128,1,2005,2005.06.05,main,swiss,7,3600,,white,tank1,1,30,12,0,0,12,0,0,,1,0,124.0,939.0,1086.0
+pal_2005_main:128,1,2005,2005.06.05,main,swiss,7,3600,,black,"neverfail, shredder 9",0,30,15,0,0,18,0,0,,1,0,0.0,316.0,1114.0
+pal_2005_main:129,1,2005,2005.06.05,main,swiss,7,3600,,white,"relic, deep junior 9",1,30,6,0,0,6,0,0,,1,0,479.0,1384.0,1578.0
+pal_2005_main:129,1,2005,2005.06.05,main,swiss,7,3600,,black,ciron,0,30,1,0,0,6,0,0,24,0,0,788.0,1788.0,2017.0
+pal_2005_main:130,1,2005,2005.06.05,main,swiss,7,3600,,white,katzenmaier,0.5,30,10,0,0,13,0,0,,1,0,412.0,1602.0,1791.0
+pal_2005_main:130,1,2005,2005.06.05,main,swiss,7,3600,,black,auryn,0.5,30,15,0,0,15,0,0,,1,0,112.0,497.0,802.0
+pal_2005_main:131,1,2005,2005.06.05,main,swiss,7,3600,,white,t-sygulski,0.5,30,14,0,0,14,0,0,15,0,0,86.0,779.0,1083.0
+pal_2005_main:131,1,2005,2005.06.05,main,swiss,7,3600,,black,"dieb fritz, deep shredder 9.02 ",0.5,30,13,0,0,17,0,0,,1,0,0.0,836.0,1205.0
+pal_2005_main:132,1,2005,2005.06.05,main,swiss,7,3600,,white,mattini,0.5,30,3,0,0,11,0,0,15,0,0,397.0,1506.0,2121.0
+pal_2005_main:132,1,2005,2005.06.05,main,swiss,7,3600,,black,mikhail umansky,0.5,30,6,0,0,11,0,0,11,0,0,636.0,1711.0,1801.0
+pal_2005_main:133,1,2005,2005.06.05,main,swiss,8,3600,,white,mattini,0.5,3,,1,0,,1,0,,1,0,,,
+pal_2005_main:133,1,2005,2005.06.05,main,swiss,8,3600,,black,"rainerzufall, toga ii 0.93",0.5,3,,1,0,,1,0,,1,0,,,
+pal_2005_main:134,1,2005,2005.06.05,main,swiss,8,3600,15,white,"dieb fritz, deep shredder 9.02 ",0.5,16,14,0,0,14,0,0,,1,0,0.0,,
+pal_2005_main:134,1,2005,2005.06.05,main,swiss,8,3600,15,black,zacks,0.5,15,,1,0,,1,0,,1,0,95.0,,
+pal_2005_main:135,1,2005,2005.06.05,main,swiss,8,3600,,white,"alinasir, shredder 9 zor cham",0.5,30,18,0,0,18,0,0,,1,0,0.0,0.0,303.0
+pal_2005_main:135,1,2005,2005.06.05,main,swiss,8,3600,,black,talib,0.5,30,6,0,0,6,0,0,30,0,0,590.0,1445.0,1483.0
+pal_2005_main:136,1,2005,2005.06.05,main,swiss,8,3600,,white,ciron,0.5,30,8,0,0,9,0,0,19,0,0,809.0,1378.0,1845.0
+pal_2005_main:136,1,2005,2005.06.05,main,swiss,8,3600,,black,chessfriendotcom,0.5,30,6,0,0,6,0,0,21,0,0,555.0,1078.0,1354.0
+pal_2005_main:137,1,2005,2005.06.05,main,swiss,8,3600,,white,dr.ex,0,27,1,0,0,1,0,0,13,0,0,1227.0,3385.0,3760.0
+pal_2005_main:137,1,2005,2005.06.05,main,swiss,8,3600,,black,katzenmaier,1,27,8,0,0,8,0,0,9,0,0,1211.0,2134.0,2299.0
+pal_2005_main:138,1,2005,2005.06.05,main,swiss,8,3600,,white,"wilger, deep shredder 9",0.5,30,17,0,0,18,0,0,23,0,0,0.0,152.0,536.0
+pal_2005_main:138,1,2005,2005.06.05,main,swiss,8,3600,,black,rentner2,0.5,30,17,0,0,17,0,0,19,0,0,23.0,228.0,1069.0
+pal_2005_main:139,1,2005,2005.06.05,main,swiss,8,3600,,white,mikhail umansky,0,30,12,0,0,13,0,0,20,0,0,141.0,523.0,1312.0
+pal_2005_main:139,1,2005,2005.06.05,main,swiss,8,3600,,black,"mhoffpauir, deep shredder 9",1,30,15,0,0,17,0,0,,1,0,0.0,481.0,700.0
+pal_2005_main:140,1,2005,2005.06.05,main,swiss,8,3600,,white,"neverfail, shredder 9",0,30,10,0,0,10,0,0,,1,0,192.0,1418.0,1855.0
+pal_2005_main:140,1,2005,2005.06.05,main,swiss,8,3600,,black,klosterfrau,1,30,7,0,0,7,0,0,9,0,0,1103.0,2083.0,2558.0
+pal_final:2,1,2005,2005.06.18,knockout,knockout,2,3600,,white,KonstantinLanda,0.5,30,6,0,0,18,0,0,19,0,0,340.0,587.0,1867.0
+pal_final:2,1,2005,2005.06.18,knockout,knockout,2,3600,,black,V_Dobrov,0.5,30,8,0,0,8,0,0,29,0,0,394.0,1266.0,1604.0
+pal_final:3,1,2005,2005.06.18,knockout,knockout,4,3600,,white,KonstantinLanda,0.5,30,6,0,0,6,0,0,23,0,0,686.0,1953.0,2029.0
+pal_final:3,1,2005,2005.06.18,knockout,knockout,4,3600,,black,V_Dobrov,0.5,30,12,0,0,12,0,0,12,0,0,65.0,1440.0,1556.0
+pal_final:5,1,2005,2005.06.18,knockout,knockout,4,3600,22,white,Tank1,0,30,14,0,0,18,0,0,,1,0,287.0,715.0,1249.0
+pal_final:5,1,2005,2005.06.18,knockout,knockout,4,3600,22,black,ZackS,1,30,14,0,0,16,0,0,17,0,0,44.0,979.0,1584.0
+pal_final:6,1,2005,2005.06.18,knockout,knockout,2,3600,23,white,Tank1,0,30,4,0,0,4,0,0,13,0,0,689.0,1851.0,1869.0
+pal_final:6,1,2005,2005.06.18,knockout,knockout,2,3600,23,black,ZackS,1,30,12,0,0,20,0,0,23,0,0,192.0,437.0,795.0
+pal_final:7,1,2005,2005.06.18,knockout,knockout,1,3600,,white,V_Dobrov,0.5,23,3,0,0,16,0,0,16,0,0,445.0,1637.0,1812.0
+pal_final:7,1,2005,2005.06.18,knockout,knockout,1,3600,,black,KonstantinLanda,0.5,22,13,0,0,15,0,0,22,0,0,193.0,608.0,743.0
+pal_final:9,1,2005,2005.06.18,knockout,knockout,3,3600,,white,V_Dobrov,0.5,30,6,0,0,6,0,0,19,0,0,477.0,714.0,1253.0
+pal_final:9,1,2005,2005.06.18,knockout,knockout,3,3600,,black,KonstantinLanda,0.5,30,1,0,0,13,0,0,26,0,0,265.0,831.0,1013.0
+pal_final:11,1,2005,2005.06.18,knockout,knockout,?,3600,21,white,ZackS,0,30,9,0,0,9,0,0,9,0,0,440.0,2802.0,3498.0
+pal_final:11,1,2005,2005.06.18,knockout,knockout,?,3600,21,black,Tank1,1,30,14,0,0,16,0,0,17,0,0,284.0,1438.0,2203.0
+pal_final:12,1,2005,2005.06.18,knockout,knockout,1,3600,20,white,ZackS,1,30,13,0,0,13,0,0,13,0,0,101.0,1590.0,2055.0
+pal_final:12,1,2005,2005.06.18,knockout,knockout,1,3600,20,black,Tank1,0,30,8,0,0,8,0,0,8,0,0,631.0,2434.0,2537.0
+pal_final:13,1,2005,2005.06.19,knockout,knockout,1,3600,24,white,ZackS,0.5,30,10,0,0,19,0,0,28,0,0,173.0,423.0,773.0
+pal_final:13,1,2005,2005.06.19,knockout,knockout,1,3600,24,black,V_Dobrov,0.5,30,10,0,0,10,0,0,,1,0,424.0,869.0,914.0
+pal_final:14,1,2005,2005.06.19,knockout,knockout,1,3600,,white,KonstantinLanda,0.5,30,10,0,0,20,0,0,20,0,0,210.0,597.0,1087.0
+pal_final:14,1,2005,2005.06.19,knockout,knockout,1,3600,,black,Tank1,0.5,30,1,0,0,1,0,0,20,0,0,312.0,423.0,828.0
+pal_final:15,1,2005,2005.06.19,knockout,knockout,3,3600,,white,KonstantinLanda,0.5,30,10,0,0,10,0,0,,1,0,307.0,380.0,424.0
+pal_final:15,1,2005,2005.06.19,knockout,knockout,3,3600,,black,Tank1,0.5,30,1,0,0,15,0,0,15,0,0,352.0,855.0,884.0
+pal_final:16,1,2005,2005.06.19,knockout,knockout,2,3600,,white,Tank1,0.5,14,9,0,0,9,0,0,9,0,0,815.0,,
+pal_final:16,1,2005,2005.06.19,knockout,knockout,2,3600,,black,KonstantinLanda,0.5,13,7,0,0,7,0,0,,1,0,1071.0,,
+pal_final:17,1,2005,2005.06.19,knockout,knockout,2,3600,25,white,V_Dobrov,0.5,30,13,0,0,13,0,0,13,0,0,21.0,820.0,1172.0
+pal_final:17,1,2005,2005.06.19,knockout,knockout,2,3600,25,black,ZackS,0.5,30,15,0,0,22,0,0,22,0,0,22.0,170.0,246.0
+pal_final:18,1,2005,2005.06.19,knockout,knockout,3,3600,26,white,ZackS,1,30,18,0,0,18,0,0,18,0,0,42.0,120.0,1096.0
+pal_final:18,1,2005,2005.06.19,knockout,knockout,3,3600,26,black,V_Dobrov,0,30,2,0,0,16,0,1,16,0,1,609.0,,
+pal_final:19,1,2005,2005.06.19,knockout,knockout,4,3600,,white,Tank1,0.5,30,3,0,0,3,0,0,14,0,0,615.0,1651.0,1680.0
+pal_final:19,1,2005,2005.06.19,knockout,knockout,4,3600,,black,KonstantinLanda,0.5,30,4,0,0,4,0,0,14,0,0,491.0,2014.0,2100.0
+pal_final:20,1,2005,2005.06.19,knockout,knockout,4,3600,27,white,V_Dobrov,0.5,22,4,0,0,11,0,0,11,0,0,190.0,954.0,1428.0
+pal_final:20,1,2005,2005.06.19,knockout,knockout,4,3600,27,black,ZackS,0.5,22,8,0,0,8,0,0,8,0,0,1141.0,1848.0,2185.0
+pal_2006_final2:1,2,2006,2006.04.08,final,round_robin,1,2700,,white,Klosterfrau,0,30,7,0,0,7,0,0,13,0,0,477.0,2168.0,2237.0
+pal_2006_final2:1,2,2006,2006.04.08,final,round_robin,1,2700,,black,Equidistance,1,30,8,0,0,11,0,0,,1,0,414.0,793.0,1070.0
+pal_2006_final2:2,2,2006,2006.04.08,final,round_robin,1,2700,,white,Rajlich,1,30,13,0,0,17,0,0,28,0,0,53.0,554.0,906.0
+pal_2006_final2:2,2,2006,2006.04.08,final,round_robin,1,2700,,black,Ciron,0,30,10,0,0,10,0,0,30,0,0,342.0,993.0,1008.0
+pal_2006_final2:3,2,2006,2006.04.08,final,round_robin,1,2700,,white,"Vvarkey, Rybka 1.1",0.5,30,16,0,0,26,0,0,26,0,0,0.0,91.0,297.0
+pal_2006_final2:3,2,2006,2006.04.08,final,round_robin,1,2700,,black,"Relic, Rybka 1.1",0.5,30,16,0,0,16,0,0,24,0,0,0.0,278.0,373.0
+pal_2006_final2:4,2,2006,2006.04.08,final,round_robin,1,2700,,white,Zor_champ,1,30,17,0,0,17,0,0,23,0,0,58.0,262.0,347.0
+pal_2006_final2:4,2,2006,2006.04.08,final,round_robin,1,2700,,black,"King Crusher, Rybka 1.1",0,30,17,0,0,28,0,0,30,0,0,0.0,89.0,404.0
+pal_2006_final2:5,2,2006,2006.04.08,final,round_robin,2,2700,,white,Ciron,0.5,30,9,0,0,11,0,0,14,0,0,333.0,1531.0,1796.0
+pal_2006_final2:5,2,2006,2006.04.08,final,round_robin,2,2700,,black,Klosterfrau,0.5,30,12,0,0,12,0,0,12,0,0,27.0,1263.0,1468.0
+pal_2006_final2:6,2,2006,2006.04.08,final,round_robin,2,2700,,white,"King Crusher, Rybka 1.1",0.5,30,14,0,0,14,0,0,,1,0,0.0,626.0,871.0
+pal_2006_final2:6,2,2006,2006.04.08,final,round_robin,2,2700,,black,Rajlich,0.5,30,14,0,0,27,0,0,,1,0,41.0,205.0,336.0
+pal_2006_final2:7,2,2006,2006.04.08,final,round_robin,2,2700,,white,"Relic, Rybka 1.1",0.5,30,23,0,0,23,0,0,,1,0,0.0,0.0,0.0
+pal_2006_final2:7,2,2006,2006.04.08,final,round_robin,2,2700,,black,Equidistance,0.5,30,20,0,0,29,0,0,,1,0,65.0,108.0,225.0
+pal_2006_final2:8,2,2006,2006.04.08,final,round_robin,2,2700,,white,"Vvarkey, Rybka 1.1",0.5,30,17,0,0,27,0,0,,1,0,0.0,108.0,345.0
+pal_2006_final2:8,2,2006,2006.04.08,final,round_robin,2,2700,,black,Zor_champ,0.5,30,14,0,0,17,0,0,17,0,0,66.0,631.0,715.0
+pal_2006_final2:9,2,2006,2006.04.08,final,round_robin,3,2700,,white,Equidistance,0,30,7,0,0,8,0,0,9,0,0,979.0,1753.0,1982.0
+pal_2006_final2:9,2,2006,2006.04.08,final,round_robin,3,2700,,black,Ciron,1,30,6,0,0,9,0,0,9,0,0,740.0,1077.0,1370.0
+pal_2006_final2:10,2,2006,2006.04.08,final,round_robin,3,2700,,white,Klosterfrau,0.5,30,6,0,0,6,0,0,10,0,0,1047.0,1714.0,2035.0
+pal_2006_final2:10,2,2006,2006.04.08,final,round_robin,3,2700,,black,"King Crusher, Rybka 1.1",0.5,30,7,0,0,27,0,0,,1,0,370.0,862.0,983.0
+pal_2006_final2:11,2,2006,2006.04.08,final,round_robin,3,2700,,white,Rajlich,0.5,30,14,0,0,14,0,0,14,0,0,55.0,509.0,526.0
+pal_2006_final2:11,2,2006,2006.04.08,final,round_robin,3,2700,,black,"Vvarkey, Rybka 1.1",0.5,30,11,0,0,12,0,0,15,0,0,0.0,909.0,1114.0
+pal_2006_final2:12,2,2006,2006.04.08,final,round_robin,3,2700,,white,Zor_champ,1,30,25,0,0,25,0,0,25,0,0,56.0,145.0,260.0
+pal_2006_final2:12,2,2006,2006.04.08,final,round_robin,3,2700,,black,"Relic, Rybka 1.1",0,30,16,0,0,23,0,0,27,0,0,0.0,119.0,264.0
+pal_2006_final2:13,2,2006,2006.04.08,final,round_robin,4,2700,,white,"Vvarkey, Rybka 1.1",0,30,11,0,0,11,0,0,,1,0,0.0,1085.0,1320.0
+pal_2006_final2:13,2,2006,2006.04.08,final,round_robin,4,2700,,black,Klosterfrau,1,30,11,0,0,11,0,0,11,0,0,134.0,1515.0,2189.0
+pal_2006_final2:14,2,2006,2006.04.08,final,round_robin,4,2700,,white,Zor_champ,0.5,30,19,0,0,25,0,0,25,0,0,71.0,144.0,357.0
+pal_2006_final2:14,2,2006,2006.04.08,final,round_robin,4,2700,,black,Rajlich,0.5,30,17,0,0,18,0,0,18,0,0,31.0,152.0,504.0
+pal_2006_final2:15,2,2006,2006.04.08,final,round_robin,4,2700,,white,"Relic, Rybka 1.1",1,30,15,0,0,15,0,0,,1,0,0.0,464.0,764.0
+pal_2006_final2:15,2,2006,2006.04.08,final,round_robin,4,2700,,black,Ciron,0,30,5,0,0,11,0,0,21,0,0,292.0,800.0,920.0
+pal_2006_final2:16,2,2006,2006.04.08,final,round_robin,4,2700,,white,"King Crusher, Rybka 1.1",0.5,30,13,0,0,15,0,0,,1,0,0.0,470.0,830.0
+pal_2006_final2:16,2,2006,2006.04.08,final,round_robin,4,2700,,black,Equidistance,0.5,30,9,0,0,10,0,0,24,0,0,340.0,675.0,749.0
+pal_2006_final2:17,2,2006,2006.04.09,final,round_robin,5,2700,,white,Ciron,0.5,30,6,0,0,7,0,0,7,0,0,637.0,1312.0,1898.0
+pal_2006_final2:17,2,2006,2006.04.09,final,round_robin,5,2700,,black,"King Crusher, Rybka 1.1",0.5,30,6,0,0,6,0,0,,1,0,754.0,1110.0,1144.0
+pal_2006_final2:18,2,2006,2006.04.09,final,round_robin,5,2700,,white,Equidistance,0,30,12,0,0,12,0,0,12,0,0,54.0,1732.0,1940.0
+pal_2006_final2:18,2,2006,2006.04.09,final,round_robin,5,2700,,black,"Vvarkey, Rybka 1.1",1,30,10,0,0,27,0,0,27,0,0,91.0,410.0,531.0
+pal_2006_final2:19,2,2006,2006.04.09,final,round_robin,5,2700,,white,Klosterfrau,0.5,30,7,0,0,9,0,0,9,0,0,861.0,1610.0,1915.0
+pal_2006_final2:19,2,2006,2006.04.09,final,round_robin,5,2700,,black,Zor_champ,0.5,30,19,0,0,19,0,0,23,0,0,136.0,365.0,571.0
+pal_2006_final2:20,2,2006,2006.04.09,final,round_robin,5,2700,,white,Rajlich,0.5,30,13,0,0,13,0,0,16,0,0,40.0,683.0,914.0
+pal_2006_final2:20,2,2006,2006.04.09,final,round_robin,5,2700,,black,"Relic, Rybka 1.1",0.5,30,8,0,0,8,0,0,13,0,0,272.0,1222.0,1328.0
+pal_2006_final2:21,2,2006,2006.04.09,final,round_robin,6,2700,,white,"Relic, Rybka 1.1",0.5,30,16,0,0,29,0,0,29,0,0,0.0,106.0,188.0
+pal_2006_final2:21,2,2006,2006.04.09,final,round_robin,6,2700,,black,"King Crusher, Rybka 1.1",0.5,30,16,0,0,16,0,0,,1,0,0.0,292.0,556.0
+pal_2006_final2:22,2,2006,2006.04.09,final,round_robin,6,2700,,white,Rajlich,0.5,30,7,0,0,7,0,0,21,0,0,273.0,310.0,416.0
+pal_2006_final2:22,2,2006,2006.04.09,final,round_robin,6,2700,,black,Klosterfrau,0.5,30,5,0,0,5,0,0,5,0,0,447.0,1374.0,1480.0
+pal_2006_final2:23,2,2006,2006.04.09,final,round_robin,6,2700,,white,Zor_champ,1,30,10,0,0,10,0,0,26,0,0,354.0,691.0,749.0
+pal_2006_final2:23,2,2006,2006.04.09,final,round_robin,6,2700,,black,Equidistance,0,30,5,0,0,5,0,0,14,0,0,595.0,1754.0,1827.0
+pal_2006_final2:24,2,2006,2006.04.09,final,round_robin,6,2700,,white,"Vvarkey, Rybka 1.1",0.5,30,13,0,0,18,0,0,18,0,0,0.0,419.0,968.0
+pal_2006_final2:24,2,2006,2006.04.09,final,round_robin,6,2700,,black,Ciron,0.5,30,7,0,0,8,0,0,15,0,0,413.0,956.0,1287.0
+pal_2006_final2:25,2,2006,2006.04.09,final,round_robin,7,2700,,white,"King Crusher, Rybka 1.1",1,30,18,0,0,18,0,0,,1,0,0.0,0.0,412.0
+pal_2006_final2:25,2,2006,2006.04.09,final,round_robin,7,2700,,black,"Vvarkey, Rybka 1.1",0,30,16,0,0,17,0,0,17,0,0,0.0,368.0,832.0
+pal_2006_final2:26,2,2006,2006.04.09,final,round_robin,7,2700,,white,Equidistance,0,30,11,0,0,11,0,0,13,0,0,121.0,1756.0,1920.0
+pal_2006_final2:26,2,2006,2006.04.09,final,round_robin,7,2700,,black,Rajlich,1,30,10,0,0,12,0,0,12,0,0,154.0,1096.0,1285.0
+pal_2006_final2:27,2,2006,2006.04.09,final,round_robin,7,2700,,white,Klosterfrau,0,30,8,0,0,8,0,0,8,0,0,426.0,2348.0,2439.0
+pal_2006_final2:27,2,2006,2006.04.09,final,round_robin,7,2700,,black,"Relic, Rybka 1.1",1,30,8,0,0,12,0,0,,1,0,302.0,851.0,1024.0
+pal_2006_final2:28,2,2006,2006.04.09,final,round_robin,7,2700,,white,Ciron,0,30,13,0,0,14,0,0,16,0,0,96.0,727.0,1085.0
+pal_2006_final2:28,2,2006,2006.04.09,final,round_robin,7,2700,,black,Zor_champ,1,30,5,0,0,14,0,0,15,0,0,415.0,1092.0,1392.0
+pal_2006_final4:1,4,2006,2006.10.20,final,round_robin,1,3600,,white,"Jazzled, Rybka 2.1d3 mp",0.5,30,29,0,0,,1,0,,1,0,0.0,0.0,0.0
+pal_2006_final4:1,4,2006,2006.10.20,final,round_robin,1,3600,,black,Elissa,0.5,30,,1,0,,1,0,,1,0,74.0,133.0,178.0
+pal_2006_final4:2,4,2006,2006.10.20,final,round_robin,1,3600,,white,"Nebula, Rybka 2.1o mp",0.5,30,9,0,0,,1,0,,1,0,167.0,641.0,897.0
+pal_2006_final4:2,4,2006,2006.10.20,final,round_robin,1,3600,,black,Xakru,0.5,30,7,0,0,9,0,0,10,0,0,1496.0,2191.0,2311.0
+pal_2006_final4:3,4,2006,2006.10.20,final,round_robin,1,3600,,white,Frigderi,0.5,30,21,0,0,22,0,0,22,0,0,144.0,283.0,327.0
+pal_2006_final4:3,4,2006,2006.10.20,final,round_robin,1,3600,,black,Ibermax,0.5,30,11,0,0,11,0,0,22,0,0,166.0,836.0,1235.0
+pal_2006_final4:4,4,2006,2006.10.20,final,round_robin,1,3600,,white,Icy45,0.5,30,11,0,0,16,0,0,16,0,0,102.0,1169.0,1431.0
+pal_2006_final4:4,4,2006,2006.10.20,final,round_robin,1,3600,,black,Flying Saucers,0.5,30,4,0,0,10,0,0,10,0,0,1207.0,2457.0,2529.0
+pal_2006_final4:5,4,2006,2006.10.20,final,round_robin,1,3600,,white,Rentner2,0,30,10,0,0,10,0,0,14,0,0,284.0,2465.0,2792.0
+pal_2006_final4:5,4,2006,2006.10.20,final,round_robin,1,3600,,black,Zor_champ,1,30,10,0,0,16,0,0,21,0,0,231.0,803.0,882.0
+pal_2006_final4:6,4,2006,2006.10.20,final,round_robin,2,3600,,white,"Nebula, Rybka 2.1o mp",1,30,25,0,0,25,0,0,25,0,0,0.0,0.0,0.0
+pal_2006_final4:6,4,2006,2006.10.20,final,round_robin,2,3600,,black,Icy45,0,30,17,0,0,19,0,0,,1,0,79.0,276.0,804.0
+pal_2006_final4:7,4,2006,2006.10.20,final,round_robin,2,3600,,white,Ibermax,0.5,30,12,0,0,12,0,0,12,0,0,67.0,2212.0,2484.0
+pal_2006_final4:7,4,2006,2006.10.20,final,round_robin,2,3600,,black,"Jazzled, Rybka 2.1d3 mp",0.5,30,9,0,0,,1,0,,1,0,340.0,639.0,865.0
+pal_2006_final4:8,4,2006,2006.10.20,final,round_robin,2,3600,,white,Zor_champ,0.5,30,14,0,0,14,0,0,14,0,0,216.0,1258.0,2156.0
+pal_2006_final4:8,4,2006,2006.10.20,final,round_robin,2,3600,,black,Frigderi,0.5,30,14,0,0,14,0,0,14,0,0,98.0,1582.0,1588.0
+pal_2006_final4:9,4,2006,2006.10.20,final,round_robin,2,3600,,white,Xakru,1,30,8,0,0,10,0,0,10,0,0,832.0,1024.0,1297.0
+pal_2006_final4:9,4,2006,2006.10.20,final,round_robin,2,3600,,black,Elissa,0,30,8,0,0,9,0,0,12,0,0,588.0,1353.0,2240.0
+pal_2006_final4:10,4,2006,2006.10.20,final,round_robin,2,3600,,white,Flying Saucers,0.5,30,11,0,0,13,0,0,13,0,0,63.0,2235.0,2894.0
+pal_2006_final4:10,4,2006,2006.10.20,final,round_robin,2,3600,,black,Rentner2,0.5,30,11,0,0,11,0,0,11,0,0,161.0,2285.0,2374.0
+pal_2006_final4:11,4,2006,2006.10.20,final,round_robin,3,3600,,white,Rentner2,1,30,24,0,0,25,0,0,,1,0,41.0,102.0,133.0
+pal_2006_final4:11,4,2006,2006.10.20,final,round_robin,3,3600,,black,"Nebula, Rybka 2.1o mp",0,30,11,0,0,12,0,0,16,0,0,0.0,1363.0,1998.0
+pal_2006_final4:12,4,2006,2006.10.20,final,round_robin,3,3600,,white,Icy45,0,30,11,0,0,13,0,0,,1,0,96.0,839.0,1227.0
+pal_2006_final4:12,4,2006,2006.10.20,final,round_robin,3,3600,,black,Xakru,1,30,2,0,0,11,0,0,22,0,0,505.0,1359.0,1682.0
+pal_2006_final4:13,4,2006,2006.10.20,final,round_robin,3,3600,,white,Frigderi,0.5,30,12,0,0,12,0,0,12,0,0,109.0,1171.0,2798.0
+pal_2006_final4:13,4,2006,2006.10.20,final,round_robin,3,3600,,black,Flying Saucers,0.5,30,4,0,0,8,0,0,8,0,0,840.0,2822.0,2888.0
+pal_2006_final4:14,4,2006,2006.10.20,final,round_robin,3,3600,,white,"Jazzled, Rybka 2.1d3 mp",0.5,30,15,0,0,15,0,0,,1,0,0.0,735.0,980.0
+pal_2006_final4:14,4,2006,2006.10.20,final,round_robin,3,3600,,black,Zor_champ,0.5,30,16,0,0,16,0,0,28,0,0,355.0,911.0,970.0
+pal_2006_final4:15,4,2006,2006.10.20,final,round_robin,3,3600,,white,Elissa,0.5,30,5,0,0,5,0,0,5,0,0,650.0,2429.0,2835.0
+pal_2006_final4:15,4,2006,2006.10.20,final,round_robin,3,3600,,black,Ibermax,0.5,30,7,0,0,7,0,0,17,0,0,568.0,1958.0,2383.0
+pal_2006_final4:16,4,2006,2006.10.21,final,round_robin,4,3600,,white,Icy45,0.5,30,19,0,0,20,0,0,,1,0,83.0,168.0,646.0
+pal_2006_final4:16,4,2006,2006.10.21,final,round_robin,4,3600,,black,Rentner2,0.5,30,16,0,0,19,0,0,19,0,0,83.0,335.0,859.0
+pal_2006_final4:17,4,2006,2006.10.21,final,round_robin,4,3600,,white,"Nebula, Rybka 2.1o mp",0.5,30,9,0,0,,1,0,,1,0,272.0,941.0,1138.0
+pal_2006_final4:17,4,2006,2006.10.21,final,round_robin,4,3600,,black,Frigderi,0.5,30,3,0,0,13,0,0,13,0,0,220.0,1996.0,3073.0
+pal_2006_final4:18,4,2006,2006.10.21,final,round_robin,4,3600,,white,Flying Saucers,0,30,8,0,0,8,0,0,11,0,0,613.0,1721.0,1776.0
+pal_2006_final4:18,4,2006,2006.10.21,final,round_robin,4,3600,,black,"Jazzled, Rybka 2.1d3 mp",1,30,14,0,0,14,0,0,14,0,0,0.0,717.0,809.0
+pal_2006_final4:19,4,2006,2006.10.21,final,round_robin,4,3600,,white,Zor_champ,0.5,30,15,0,0,15,0,0,19,0,0,156.0,609.0,1472.0
+pal_2006_final4:19,4,2006,2006.10.21,final,round_robin,4,3600,,black,Elissa,0.5,30,15,0,0,18,0,0,18,0,0,26.0,357.0,2256.0
+pal_2006_final4:20,4,2006,2006.10.21,final,round_robin,4,3600,,white,Xakru,1,30,7,0,0,7,0,0,7,0,0,644.0,1588.0,2364.0
+pal_2006_final4:20,4,2006,2006.10.21,final,round_robin,4,3600,,black,Ibermax,0,30,6,0,0,9,0,0,9,0,0,809.0,2288.0,2397.0
+pal_2006_final4:21,4,2006,2006.10.21,final,round_robin,5,3600,,white,"Jazzled, Rybka 2.1d3 mp",0.5,30,24,0,0,,1,0,,1,0,0.0,0.0,0.0
+pal_2006_final4:21,4,2006,2006.10.21,final,round_robin,5,3600,,black,"Nebula, Rybka 2.1o mp",0.5,30,25,0,0,,1,0,,1,0,0.0,0.0,0.0
+pal_2006_final4:22,4,2006,2006.10.21,final,round_robin,5,3600,,white,Elissa,0.5,30,11,0,0,13,0,0,13,0,0,37.0,2592.0,3019.0
+pal_2006_final4:22,4,2006,2006.10.21,final,round_robin,5,3600,,black,Flying Saucers,0.5,30,14,0,0,14,0,0,14,0,0,159.0,1976.0,2061.0
+pal_2006_final4:23,4,2006,2006.10.21,final,round_robin,5,3600,,white,Frigderi,0.5,30,12,0,0,12,0,0,12,0,0,61.0,908.0,1062.0
+pal_2006_final4:23,4,2006,2006.10.21,final,round_robin,5,3600,,black,Icy45,0.5,30,13,0,0,16,0,0,,1,0,0.0,769.0,1034.0
+pal_2006_final4:24,4,2006,2006.10.21,final,round_robin,5,3600,,white,Rentner2,0.5,30,11,0,0,11,0,0,11,0,0,172.0,2498.0,3014.0
+pal_2006_final4:24,4,2006,2006.10.21,final,round_robin,5,3600,,black,Xakru,0.5,30,5,0,0,5,0,0,19,0,0,632.0,1510.0,2354.0
+pal_2006_final4:25,4,2006,2006.10.21,final,round_robin,5,3600,,white,Ibermax,1,30,19,0,0,21,0,0,21,0,0,60.0,197.0,341.0
+pal_2006_final4:25,4,2006,2006.10.21,final,round_robin,5,3600,,black,Zor_champ,0,30,19,0,0,19,0,0,30,0,0,140.0,272.0,556.0
+pal_2006_final4:26,4,2006,2006.10.21,final,round_robin,6,3600,,white,Icy45,0.5,30,14,0,0,26,0,0,30,0,0,1.0,301.0,464.0
+pal_2006_final4:26,4,2006,2006.10.21,final,round_robin,6,3600,,black,"Jazzled, Rybka 2.1d3 mp",0.5,30,8,0,0,27,0,0,,1,0,286.0,1000.0,1077.0
+pal_2006_final4:27,4,2006,2006.10.21,final,round_robin,6,3600,,white,Xakru,1,30,15,0,0,15,0,0,15,0,0,119.0,1730.0,2286.0
+pal_2006_final4:27,4,2006,2006.10.21,final,round_robin,6,3600,,black,Zor_champ,0,30,15,0,0,17,0,0,17,0,0,249.0,1511.0,1748.0
+pal_2006_final4:28,4,2006,2006.10.21,final,round_robin,6,3600,,white,Rentner2,0,30,3,0,0,4,0,0,9,0,0,1062.0,2206.0,3539.0
+pal_2006_final4:28,4,2006,2006.10.21,final,round_robin,6,3600,,black,Frigderi,1,30,18,0,0,18,0,0,18,0,0,119.0,249.0,1199.0
+pal_2006_final4:29,4,2006,2006.10.21,final,round_robin,6,3600,,white,"Nebula, Rybka 2.1o mp",0.5,30,27,0,0,,1,0,,1,0,0.0,0.0,0.0
+pal_2006_final4:29,4,2006,2006.10.21,final,round_robin,6,3600,,black,Elissa,0.5,30,,1,0,,1,0,,1,0,22.0,41.0,49.0
+pal_2006_final4:30,4,2006,2006.10.21,final,round_robin,6,3600,,white,Flying Saucers,1,30,10,0,0,10,0,0,10,0,0,1336.0,2226.0,3152.0
+pal_2006_final4:30,4,2006,2006.10.21,final,round_robin,6,3600,,black,Ibermax,0,30,15,0,0,15,0,0,16,0,0,208.0,1160.0,2106.0
+pal_2006_final4:31,4,2006,2006.10.22,final,round_robin,7,3600,,white,Frigderi,0.5,16,,1,0,,1,0,,1,0,104.0,,
+pal_2006_final4:31,4,2006,2006.10.22,final,round_robin,7,3600,,black,Xakru,0.5,15,,1,0,,1,0,,1,0,132.0,,
+pal_2006_final4:32,4,2006,2006.10.22,final,round_robin,7,3600,,white,Ibermax,0,30,11,0,0,11,0,0,20,0,0,197.0,1247.0,2041.0
+pal_2006_final4:32,4,2006,2006.10.22,final,round_robin,7,3600,,black,"Nebula, Rybka 2.1o mp",1,30,6,0,0,9,0,0,9,0,0,1046.0,1756.0,2029.0
+pal_2006_final4:33,4,2006,2006.10.22,final,round_robin,7,3600,,white,Zor_champ,0.5,30,8,0,0,12,0,0,15,0,0,476.0,2108.0,2124.0
+pal_2006_final4:33,4,2006,2006.10.22,final,round_robin,7,3600,,black,Flying Saucers,0.5,30,6,0,0,6,0,0,6,0,0,1137.0,2645.0,3019.0
+pal_2006_final4:34,4,2006,2006.10.22,final,round_robin,7,3600,,white,Elissa,1,30,10,0,0,17,0,0,17,0,0,294.0,1435.0,2155.0
+pal_2006_final4:34,4,2006,2006.10.22,final,round_robin,7,3600,,black,Icy45,0,30,16,0,0,22,0,0,,1,0,0.0,122.0,390.0
+pal_2006_final4:35,4,2006,2006.10.22,final,round_robin,7,3600,,white,"Jazzled, Rybka 2.1d3 mp",0.5,30,12,0,0,14,0,0,,1,0,0.0,739.0,888.0
+pal_2006_final4:35,4,2006,2006.10.22,final,round_robin,7,3600,,black,Rentner2,0.5,30,13,0,0,17,0,0,20,0,0,16.0,628.0,1751.0
+pal_2006_final4:36,4,2006,2006.10.22,final,round_robin,8,3600,,white,"Nebula, Rybka 2.1o mp",1,30,23,0,0,27,0,0,,1,0,0.0,0.0,0.0
+pal_2006_final4:36,4,2006,2006.10.22,final,round_robin,8,3600,,black,Zor_champ,0,30,10,0,0,10,0,0,,1,0,451.0,627.0,710.0
+pal_2006_final4:37,4,2006,2006.10.22,final,round_robin,8,3600,,white,Frigderi,0.5,30,13,0,0,13,0,0,13,0,0,30.0,2202.0,3518.0
+pal_2006_final4:37,4,2006,2006.10.22,final,round_robin,8,3600,,black,"Jazzled, Rybka 2.1d3 mp",0.5,30,9,0,0,11,0,0,11,0,0,408.0,1774.0,1952.0
+pal_2006_final4:38,4,2006,2006.10.22,final,round_robin,8,3600,,white,Xakru,0,30,15,0,0,15,0,0,17,0,0,111.0,1257.0,2060.0
+pal_2006_final4:38,4,2006,2006.10.22,final,round_robin,8,3600,,black,Flying Saucers,1,30,19,0,0,20,0,0,20,0,0,111.0,278.0,1602.0
+pal_2006_final4:39,4,2006,2006.10.22,final,round_robin,8,3600,,white,Rentner2,0,30,8,0,0,10,0,0,10,0,0,560.0,2773.0,3103.0
+pal_2006_final4:39,4,2006,2006.10.22,final,round_robin,8,3600,,black,Elissa,1,30,9,0,0,9,0,0,9,0,0,680.0,1588.0,3256.0
+pal_2006_final4:40,4,2006,2006.10.22,final,round_robin,8,3600,,white,Icy45,0.5,30,16,0,0,23,0,0,29,0,0,1.0,271.0,538.0
+pal_2006_final4:40,4,2006,2006.10.22,final,round_robin,8,3600,,black,Ibermax,0.5,30,20,0,0,24,0,0,24,0,0,79.0,142.0,262.0
+pal_2006_final4:41,4,2006,2006.10.22,final,round_robin,9,3600,,white,Flying Saucers,1,30,14,0,0,14,0,0,15,0,0,76.0,1306.0,1679.0
+pal_2006_final4:41,4,2006,2006.10.22,final,round_robin,9,3600,,black,"Nebula, Rybka 2.1o mp",0,30,14,0,0,,1,0,,1,0,0.0,468.0,659.0
+pal_2006_final4:42,4,2006,2006.10.22,final,round_robin,9,3600,,white,Zor_champ,0,30,13,0,0,13,0,0,13,0,0,282.0,1660.0,1782.0
+pal_2006_final4:42,4,2006,2006.10.22,final,round_robin,9,3600,,black,Icy45,1,30,12,0,0,16,0,0,,1,0,0.0,529.0,1094.0
+pal_2006_final4:43,4,2006,2006.10.22,final,round_robin,9,3600,,white,Elissa,0.5,30,7,0,0,11,0,0,11,0,0,265.0,1935.0,2532.0
+pal_2006_final4:43,4,2006,2006.10.22,final,round_robin,9,3600,,black,Frigderi,0.5,30,6,0,0,6,0,0,6,0,0,1324.0,2912.0,3306.0
+pal_2006_final4:44,4,2006,2006.10.22,final,round_robin,9,3600,,white,Ibermax,0.5,30,9,0,0,14,0,0,17,0,0,210.0,1290.0,1403.0
+pal_2006_final4:44,4,2006,2006.10.22,final,round_robin,9,3600,,black,Rentner2,0.5,30,1,0,0,13,0,0,13,0,0,332.0,1314.0,1699.0
+pal_2006_final4:45,4,2006,2006.10.22,final,round_robin,9,3600,,white,"Jazzled, Rybka 2.1d3 mp",0.5,30,14,0,0,,1,0,,1,0,0.0,297.0,490.0
+pal_2006_final4:45,4,2006,2006.10.22,final,round_robin,9,3600,,black,Xakru,0.5,30,15,0,0,15,0,0,15,0,0,26.0,1081.0,1464.0
+pal_2007_final5:1,5,2007,2007.03.23,final,round_robin,1,3600,,white,Ciron,0.5,23,11,0,0,11,0,0,14,0,0,179.0,1384.0,2581.0
+pal_2007_final5:1,5,2007,2007.03.23,final,round_robin,1,3600,,black,Zacks,0.5,22,9,0,0,9,0,0,9,0,0,576.0,1975.0,2120.0
+pal_2007_final5:2,5,2007,2007.03.23,final,round_robin,1,3600,,white,Rodo,0,30,25,0,0,25,0,0,25,0,0,114.0,238.0,287.0
+pal_2007_final5:2,5,2007,2007.03.23,final,round_robin,1,3600,,black,Flying Saucers,1,30,27,0,0,,1,0,,1,0,120.0,224.0,264.0
+pal_2007_final5:3,5,2007,2007.03.23,final,round_robin,1,3600,,white,The Wizard of Os,0.5,30,13,0,0,,1,0,,1,0,222.0,492.0,536.0
+pal_2007_final5:3,5,2007,2007.03.23,final,round_robin,1,3600,,black,Kaputtze,0.5,30,12,0,0,12,0,0,12,0,0,112.0,759.0,990.0
+pal_2007_final5:4,5,2007,2007.03.23,final,round_robin,1,3600,,white,Etaoin Shrdlu,1,30,12,0,0,14,0,0,19,0,0,224.0,908.0,1758.0
+pal_2007_final5:4,5,2007,2007.03.23,final,round_robin,1,3600,,black,Engineer,0,30,16,0,0,16,0,0,21,0,0,53.0,367.0,926.0
+pal_2007_final5:5,5,2007,2007.03.23,final,round_robin,1,3600,,white,Cato the Younger,1,30,10,0,0,10,0,0,10,0,0,519.0,2438.0,2785.0
+pal_2007_final5:5,5,2007,2007.03.23,final,round_robin,1,3600,,black,Hercules01,0,30,12,0,0,12,0,0,12,0,0,0.0,1265.0,1425.0
+pal_2007_final5:6,5,2007,2007.03.23,final,round_robin,2,3600,,white,Flying Saucers,0.5,15,14,0,0,14,0,0,14,0,0,290.0,,
+pal_2007_final5:6,5,2007,2007.03.23,final,round_robin,2,3600,,black,The Wizard of Os,0.5,14,13,0,0,14,0,0,14,0,0,234.0,,
+pal_2007_final5:7,5,2007,2007.03.23,final,round_robin,2,3600,,white,Hercules01,0.5,30,27,0,0,,1,0,,1,0,0.0,0.0,0.0
+pal_2007_final5:7,5,2007,2007.03.23,final,round_robin,2,3600,,black,Etaoin Shrdlu,0.5,30,25,0,0,25,0,0,25,0,0,89.0,147.0,162.0
+pal_2007_final5:8,5,2007,2007.03.23,final,round_robin,2,3600,,white,Ciron,0.5,30,5,0,0,5,0,0,11,0,0,903.0,2630.0,2781.0
+pal_2007_final5:8,5,2007,2007.03.23,final,round_robin,2,3600,,black,Rodo,0.5,30,10,0,0,10,0,0,10,0,0,863.0,2964.0,3008.0
+pal_2007_final5:9,5,2007,2007.03.23,final,round_robin,2,3600,,white,Zacks,1,30,15,0,0,17,0,0,17,0,0,110.0,1134.0,1194.0
+pal_2007_final5:9,5,2007,2007.03.23,final,round_robin,2,3600,,black,Engineer,0,30,14,0,0,14,0,0,14,0,0,50.0,1447.0,2101.0
+pal_2007_final5:10,5,2007,2007.03.23,final,round_robin,2,3600,,white,Kaputtze,0.5,30,14,0,0,16,0,0,22,0,0,193.0,825.0,1000.0
+pal_2007_final5:10,5,2007,2007.03.23,final,round_robin,2,3600,,black,Cato the Younger,0.5,30,7,0,0,7,0,0,7,0,0,827.0,2233.0,2784.0
+pal_2007_final5:11,5,2007,2007.03.23,final,round_robin,3,3600,,white,Etaoin Shrdlu,0.5,18,12,0,0,17,0,0,17,0,0,183.0,1351.0,
+pal_2007_final5:11,5,2007,2007.03.23,final,round_robin,3,3600,,black,Kaputtze,0.5,18,11,0,0,11,0,0,12,0,0,281.0,1548.0,
+pal_2007_final5:12,5,2007,2007.03.23,final,round_robin,3,3600,,white,Rodo,0.5,30,18,0,0,18,0,0,19,0,0,55.0,195.0,1115.0
+pal_2007_final5:12,5,2007,2007.03.23,final,round_robin,3,3600,,black,Zacks,0.5,30,25,0,0,25,0,0,25,0,0,46.0,81.0,113.0
+pal_2007_final5:13,5,2007,2007.03.23,final,round_robin,3,3600,,white,The Wizard of Os,0.5,30,16,0,0,16,0,0,16,0,0,134.0,1189.0,1455.0
+pal_2007_final5:13,5,2007,2007.03.23,final,round_robin,3,3600,,black,Ciron,0.5,30,11,0,0,14,0,0,17,0,0,271.0,1690.0,2030.0
+pal_2007_final5:14,5,2007,2007.03.23,final,round_robin,3,3600,,white,Cato the Younger,0.5,30,8,0,0,8,0,0,8,0,0,1089.0,2242.0,2649.0
+pal_2007_final5:14,5,2007,2007.03.23,final,round_robin,3,3600,,black,Flying Saucers,0.5,30,1,0,0,1,0,0,1,0,0,1397.0,2772.0,2941.0
+pal_2007_final5:15,5,2007,2007.03.23,final,round_robin,3,3600,,white,Engineer,1,30,6,0,0,10,0,0,14,0,0,437.0,2089.0,2554.0
+pal_2007_final5:15,5,2007,2007.03.23,final,round_robin,3,3600,,black,Hercules01,0,30,9,0,0,13,0,0,13,0,0,108.0,867.0,1278.0
+pal_2007_final5:16,5,2007,2007.03.24,final,round_robin,4,3600,,white,Flying Saucers,0.5,29,4,0,0,14,0,0,14,0,0,328.0,1869.0,1908.0
+pal_2007_final5:16,5,2007,2007.03.24,final,round_robin,4,3600,,black,Etaoin Shrdlu,0.5,29,20,0,0,21,0,0,21,0,0,74.0,169.0,396.0
+pal_2007_final5:17,5,2007,2007.03.24,final,round_robin,4,3600,,white,Kaputtze,0.5,30,4,0,0,12,0,0,16,0,0,487.0,1697.0,2716.0
+pal_2007_final5:17,5,2007,2007.03.24,final,round_robin,4,3600,,black,Engineer,0.5,30,8,0,0,10,0,0,10,0,0,662.0,1073.0,1690.0
+pal_2007_final5:18,5,2007,2007.03.24,final,round_robin,4,3600,,white,Ciron,0.5,30,8,0,0,8,0,0,8,0,0,1210.0,3118.0,3473.0
+pal_2007_final5:18,5,2007,2007.03.24,final,round_robin,4,3600,,black,Cato the Younger,0.5,30,7,0,0,7,0,0,15,0,0,534.0,2864.0,2978.0
+pal_2007_final5:19,5,2007,2007.03.24,final,round_robin,4,3600,,white,Rodo,1,30,,1,0,,1,0,,1,0,73.0,139.0,196.0
+pal_2007_final5:19,5,2007,2007.03.24,final,round_robin,4,3600,,black,The Wizard of Os,0,30,23,0,0,23,0,0,26,0,0,245.0,409.0,462.0
+pal_2007_final5:20,5,2007,2007.03.24,final,round_robin,4,3600,,white,Zacks,0.5,30,8,0,0,8,0,0,8,0,0,563.0,1812.0,2778.0
+pal_2007_final5:20,5,2007,2007.03.24,final,round_robin,4,3600,,black,Hercules01,0.5,30,9,0,0,16,0,0,18,0,0,251.0,1057.0,1622.0
+pal_2007_final5:21,5,2007,2007.03.24,final,round_robin,5,3600,,white,The Wizard of Os,0.5,20,6,0,0,8,0,0,13,0,0,477.0,1584.0,1908.0
+pal_2007_final5:21,5,2007,2007.03.24,final,round_robin,5,3600,,black,Zacks,0.5,20,9,0,0,9,0,0,14,0,0,338.0,1608.0,1752.0
+pal_2007_final5:22,5,2007,2007.03.24,final,round_robin,5,3600,,white,Cato the Younger,0.5,30,10,0,0,10,0,0,10,0,0,428.0,2224.0,2250.0
+pal_2007_final5:22,5,2007,2007.03.24,final,round_robin,5,3600,,black,Rodo,0.5,30,6,0,0,10,0,0,22,0,0,355.0,996.0,1457.0
+pal_2007_final5:23,5,2007,2007.03.24,final,round_robin,5,3600,,white,Etaoin Shrdlu,0.5,30,7,0,0,7,0,0,10,0,0,858.0,2027.0,2444.0
+pal_2007_final5:23,5,2007,2007.03.24,final,round_robin,5,3600,,black,Ciron,0.5,30,3,0,0,4,0,0,21,0,0,1049.0,1825.0,2197.0
+pal_2007_final5:24,5,2007,2007.03.24,final,round_robin,5,3600,,white,Engineer,0,30,11,0,0,11,0,0,11,0,0,204.0,2716.0,3002.0
+pal_2007_final5:24,5,2007,2007.03.24,final,round_robin,5,3600,,black,Flying Saucers,1,30,12,0,0,12,0,0,12,0,0,158.0,1952.0,2425.0
+pal_2007_final5:25,5,2007,2007.03.24,final,round_robin,5,3600,,white,Hercules01,0.5,30,26,0,0,,1,0,,1,0,87.0,146.0,193.0
+pal_2007_final5:25,5,2007,2007.03.24,final,round_robin,5,3600,,black,Kaputtze,0.5,30,15,0,0,18,0,0,30,0,0,125.0,327.0,894.0
+pal_2007_final5:26,5,2007,2007.03.24,final,round_robin,6,3600,,white,Zacks,0.5,30,7,0,0,7,0,0,15,0,0,317.0,1382.0,1498.0
+pal_2007_final5:26,5,2007,2007.03.24,final,round_robin,6,3600,,black,Kaputtze,0.5,30,12,0,0,18,0,0,22,0,0,181.0,582.0,810.0
+pal_2007_final5:27,5,2007,2007.03.24,final,round_robin,6,3600,,white,Ciron,0.5,30,8,0,0,13,0,0,13,0,0,495.0,1591.0,1700.0
+pal_2007_final5:27,5,2007,2007.03.24,final,round_robin,6,3600,,black,Engineer,0.5,30,13,0,0,13,0,0,23,0,0,42.0,918.0,1374.0
+pal_2007_final5:28,5,2007,2007.03.24,final,round_robin,6,3600,,white,Flying Saucers,1,30,8,0,0,11,0,0,,1,0,472.0,1206.0,1357.0
+pal_2007_final5:28,5,2007,2007.03.24,final,round_robin,6,3600,,black,Hercules01,0,30,10,0,0,10,0,0,,1,0,387.0,1035.0,1319.0
+pal_2007_final5:29,5,2007,2007.03.24,final,round_robin,6,3600,,white,Rodo,0.5,30,20,0,0,20,0,0,20,0,0,106.0,193.0,755.0
+pal_2007_final5:29,5,2007,2007.03.24,final,round_robin,6,3600,,black,Etaoin Shrdlu,0.5,30,13,0,0,13,0,0,13,0,0,70.0,637.0,1726.0
+pal_2007_final5:30,5,2007,2007.03.24,final,round_robin,6,3600,,white,The wizard of Os,0.5,25,6,0,0,6,0,0,6,0,0,2007.0,2867.0,2914.0
+pal_2007_final5:30,5,2007,2007.03.24,final,round_robin,6,3600,,black,Cato the Younger,0.5,24,7,0,0,7,0,0,13,0,0,525.0,1574.0,2772.0
+pal_2007_final5:31,5,2007,2007.03.25,final,round_robin,7,3600,,white,Etaoin Shrdlu,1,30,14,0,0,17,0,0,20,0,0,99.0,482.0,1272.0
+pal_2007_final5:31,5,2007,2007.03.25,final,round_robin,7,3600,,black,The Wizard of Os,0,30,13,0,0,13,0,0,18,0,0,183.0,720.0,2269.0
+pal_2007_final5:32,5,2007,2007.03.25,final,round_robin,7,3600,,white,Engineer,0.5,30,7,0,0,7,0,0,11,0,0,564.0,2890.0,2927.0
+pal_2007_final5:32,5,2007,2007.03.25,final,round_robin,7,3600,,black,Rodo,0.5,30,7,0,0,10,0,0,10,0,0,776.0,1978.0,2439.0
+pal_2007_final5:33,5,2007,2007.03.25,final,round_robin,7,3600,,white,Kaputtze,0.5,30,14,0,0,14,0,0,14,0,0,122.0,612.0,1218.0
+pal_2007_final5:33,5,2007,2007.03.25,final,round_robin,7,3600,,black,Flying Saucers,0.5,30,12,0,0,12,0,0,12,0,0,225.0,1701.0,2520.0
+pal_2007_final5:34,5,2007,2007.03.25,final,round_robin,7,3600,,white,Cato the Younger,0.5,30,9,0,0,9,0,0,16,0,0,410.0,1460.0,2171.0
+pal_2007_final5:34,5,2007,2007.03.25,final,round_robin,7,3600,,black,Zacks,0.5,30,7,0,0,7,0,0,7,0,0,1568.0,1727.0,1898.0
+pal_2007_final5:35,5,2007,2007.03.25,final,round_robin,7,3600,,white,Hercules01,0.5,30,6,0,0,6,0,0,11,0,0,586.0,1404.0,1983.0
+pal_2007_final5:35,5,2007,2007.03.25,final,round_robin,7,3600,,black,Ciron,0.5,30,5,0,0,16,0,0,28,0,0,358.0,1290.0,1419.0
+pal_2007_final5:36,5,2007,2007.03.25,final,round_robin,8,3600,,white,Rodo,1,24,,1,0,,1,0,,1,0,79.0,144.0,176.0
+pal_2007_final5:36,5,2007,2007.03.25,final,round_robin,8,3600,,black,Hercules01,0,24,17,0,0,21,0,0,21,0,0,128.0,323.0,384.0
+pal_2007_final5:37,5,2007,2007.03.25,final,round_robin,8,3600,,white,Ciron,0.5,29,4,0,0,11,0,0,13,0,0,740.0,2547.0,2773.0
+pal_2007_final5:37,5,2007,2007.03.25,final,round_robin,8,3600,,black,Kaputtze,0.5,29,9,0,0,9,0,0,11,0,0,369.0,2064.0,2369.0
+pal_2007_final5:38,5,2007,2007.03.25,final,round_robin,8,3600,,white,The Wizard of Os,1,30,21,0,0,,1,0,,1,0,191.0,325.0,368.0
+pal_2007_final5:38,5,2007,2007.03.25,final,round_robin,8,3600,,black,Engineer,0,30,10,0,0,20,0,0,20,0,0,175.0,387.0,1418.0
+pal_2007_final5:39,5,2007,2007.03.25,final,round_robin,8,3600,,white,Cato the Younger,1,30,18,0,0,22,0,0,26,0,0,328.0,437.0,617.0
+pal_2007_final5:39,5,2007,2007.03.25,final,round_robin,8,3600,,black,Etaoin Shrdlu,0,30,1,0,0,8,0,0,11,0,0,591.0,2267.0,2424.0
+pal_2007_final5:40,5,2007,2007.03.25,final,round_robin,8,3600,,white,Zacks,0,30,14,0,0,16,0,0,17,0,0,43.0,1672.0,2504.0
+pal_2007_final5:40,5,2007,2007.03.25,final,round_robin,8,3600,,black,Flying Saucers,1,30,7,0,0,7,0,0,20,0,0,533.0,1299.0,2027.0
+pal_2007_final5:41,5,2007,2007.03.25,final,round_robin,9,3600,,white,Kaputtze,0.5,30,,1,0,,1,0,,1,0,124.0,247.0,275.0
+pal_2007_final5:41,5,2007,2007.03.25,final,round_robin,9,3600,,black,Rodo,0.5,30,19,0,0,,1,0,,1,0,148.0,280.0,454.0
+pal_2007_final5:42,5,2007,2007.03.25,final,round_robin,9,3600,,white,Etaoin Shrdlu,0.5,30,9,0,0,9,0,0,9,0,0,642.0,2482.0,3014.0
+pal_2007_final5:42,5,2007,2007.03.25,final,round_robin,9,3600,,black,Zacks,0.5,30,6,0,0,6,0,0,6,0,0,985.0,1245.0,1663.0
+pal_2007_final5:43,5,2007,2007.03.25,final,round_robin,9,3600,,white,Engineer,0,30,9,0,0,9,0,0,16,0,0,414.0,1314.0,1708.0
+pal_2007_final5:43,5,2007,2007.03.25,final,round_robin,9,3600,,black,Cato the Younger,1,30,5,0,0,12,0,0,16,0,0,394.0,2239.0,2766.0
+pal_2007_final5:44,5,2007,2007.03.25,final,round_robin,9,3600,,white,Hercules01,0,30,9,0,0,11,0,0,11,0,0,224.0,1393.0,1685.0
+pal_2007_final5:44,5,2007,2007.03.25,final,round_robin,9,3600,,black,The Wizard of Os,1,30,7,0,0,7,0,0,13,0,0,702.0,1638.0,2000.0
+pal_2007_final5:45,5,2007,2007.03.25,final,round_robin,9,3600,,white,Flying Saucers,0.5,30,5,0,0,6,0,0,6,0,0,885.0,2550.0,2588.0
+pal_2007_final5:45,5,2007,2007.03.25,final,round_robin,9,3600,,black,Ciron,0.5,30,3,0,0,7,0,0,20,0,0,619.0,1600.0,2201.0
+pal_2007_final6:1,6,2007,2007.06.22,final,round_robin,1.1,3600,,white,Flyingfatman,1,26,24,0,0,,1,0,,1,0,136.0,280.0,313.0
+pal_2007_final6:1,6,2007,2007.06.22,final,round_robin,1.1,3600,,black,Mission control,0,26,21,0,0,26,0,0,26,0,0,0.0,0.0,0.0
+pal_2007_final6:2,6,2007,2007.06.22,final,round_robin,1.1,3600,,white,Klosterfrau,0.5,26,13,0,0,23,0,0,,1,0,0.0,423.0,635.0
+pal_2007_final6:2,6,2007,2007.06.22,final,round_robin,1.1,3600,,black,Cato the Younger,0.5,25,9,0,0,9,0,0,,1,0,398.0,1422.0,1792.0
+pal_2007_final6:3,6,2007,2007.06.22,final,round_robin,1.1,3600,,white,New Man,0.5,30,13,0,0,18,0,0,19,0,0,0.0,353.0,1311.0
+pal_2007_final6:3,6,2007,2007.06.22,final,round_robin,1.1,3600,,black,PvP,0.5,30,12,0,0,,1,0,,1,0,0.0,491.0,683.0
+pal_2007_final6:4,6,2007,2007.06.22,final,round_robin,1.1,3600,,white,Rentner2,0.5,30,21,0,0,21,0,0,21,0,0,66.0,139.0,156.0
+pal_2007_final6:4,6,2007,2007.06.22,final,round_robin,1.1,3600,,black,Kreuzfahrtschiff,0.5,30,24,0,0,27,0,0,27,0,0,50.0,122.0,157.0
+pal_2007_final6:5,6,2007,2007.06.22,final,round_robin,1.1,3600,,white,Ultra-d,0.5,23,5,0,0,5,0,0,12,0,0,744.0,1808.0,2134.0
+pal_2007_final6:5,6,2007,2007.06.22,final,round_robin,1.1,3600,,black,Rajlich,0.5,23,8,0,0,8,0,0,8,0,0,2107.0,2391.0,2587.0
+pal_2007_final6:6,6,2007,2007.06.22,final,round_robin,2,3600,,white,Flyingfatman,1,30,8,0,0,16,0,0,16,0,0,299.0,1042.0,1092.0
+pal_2007_final6:6,6,2007,2007.06.22,final,round_robin,2,3600,,black,New Man,0,30,17,0,0,17,0,0,29,0,0,0.0,269.0,318.0
+pal_2007_final6:7,6,2007,2007.06.22,final,round_robin,2,3600,,white,Kreuzfahrtschiff,0.5,30,4,0,0,4,0,0,9,0,0,1353.0,1655.0,1696.0
+pal_2007_final6:7,6,2007,2007.06.22,final,round_robin,2,3600,,black,Klosterfrau,0.5,30,4,0,0,7,0,0,22,0,0,540.0,893.0,1034.0
+pal_2007_final6:8,6,2007,2007.06.22,final,round_robin,2,3600,,white,Mission control,0.5,30,13,0,0,17,0,0,17,0,0,0.0,845.0,1105.0
+pal_2007_final6:8,6,2007,2007.06.22,final,round_robin,2,3600,,black,Cato the Younger,0.5,30,17,0,0,17,0,0,18,0,0,126.0,527.0,2910.0
+pal_2007_final6:9,6,2007,2007.06.22,final,round_robin,2,3600,,white,PvP,1,30,10,0,0,10,0,0,17,0,0,261.0,1767.0,2186.0
+pal_2007_final6:9,6,2007,2007.06.22,final,round_robin,2,3600,,black,Ultra-d,0,30,7,0,0,9,0,0,14,0,0,689.0,2075.0,2288.0
+pal_2007_final6:10,6,2007,2007.06.22,final,round_robin,2,3600,,white,Rajlich,1,21,13,0,0,,1,0,,1,0,291.0,759.0,846.0
+pal_2007_final6:10,6,2007,2007.06.22,final,round_robin,2,3600,,black,Rentner2,0,20,11,0,0,11,0,0,11,0,0,64.0,3394.0,3747.0
+pal_2007_final6:11,6,2007,2007.06.22,final,round_robin,3,3600,,white,Cato the Younger,1,30,2,0,0,8,0,0,19,0,0,699.0,1280.0,2221.0
+pal_2007_final6:11,6,2007,2007.06.22,final,round_robin,3,3600,,black,Kreuzfahrtschiff,0,30,3,0,0,12,0,0,,1,0,649.0,1145.0,1463.0
+pal_2007_final6:12,6,2007,2007.06.22,final,round_robin,3,3600,,white,Klosterfrau,0.5,24,12,0,0,12,0,0,13,0,0,51.0,2660.0,3320.0
+pal_2007_final6:12,6,2007,2007.06.22,final,round_robin,3,3600,,black,Rajlich,0.5,23,12,0,0,12,0,0,12,0,0,161.0,2667.0,2876.0
+pal_2007_final6:13,6,2007,2007.06.22,final,round_robin,3,3600,,white,New Man,0.5,28,13,0,0,24,0,0,,1,0,0.0,475.0,712.0
+pal_2007_final6:13,6,2007,2007.06.22,final,round_robin,3,3600,,black,Mission control,0.5,27,18,0,0,25,0,0,,1,0,0.0,279.0,478.0
+pal_2007_final6:14,6,2007,2007.06.22,final,round_robin,3,3600,,white,Rentner2,1,30,,1,0,,1,0,,1,0,52.0,135.0,150.0
+pal_2007_final6:14,6,2007,2007.06.22,final,round_robin,3,3600,,black,PvP,0,30,13,0,0,18,0,0,,1,0,0.0,500.0,887.0
+pal_2007_final6:15,6,2007,2007.06.22,final,round_robin,3,3600,,white,Ultra-d,0.5,30,16,0,0,16,0,0,16,0,0,149.0,1162.0,1208.0
+pal_2007_final6:15,6,2007,2007.06.22,final,round_robin,3,3600,,black,Flyingfatman,0.5,30,10,0,0,10,0,0,10,0,0,989.0,2473.0,2810.0
+pal_2007_final6:16,6,2007,2007.06.23,final,round_robin,4,3600,,white,Flyingfatman,0.5,30,13,0,0,13,0,0,13,0,0,185.0,821.0,1118.0
+pal_2007_final6:16,6,2007,2007.06.23,final,round_robin,4,3600,,black,Rentner2,0.5,30,24,0,0,25,0,0,25,0,0,107.0,157.0,177.0
+pal_2007_final6:17,6,2007,2007.06.23,final,round_robin,4,3600,,white,New Man,1,22,16,0,0,18,0,0,21,0,0,0.0,234.0,805.0
+pal_2007_final6:17,6,2007,2007.06.23,final,round_robin,4,3600,,black,Ultra-d,0,22,14,0,0,14,0,0,18,0,0,186.0,899.0,2579.0
+pal_2007_final6:18,6,2007,2007.06.23,final,round_robin,4,3600,,white,PvP,0.5,30,12,0,0,14,0,0,,1,0,0.0,836.0,1232.0
+pal_2007_final6:18,6,2007,2007.06.23,final,round_robin,4,3600,,black,Klosterfrau,0.5,30,16,0,0,16,0,0,,1,0,0.0,286.0,454.0
+pal_2007_final6:19,6,2007,2007.06.23,final,round_robin,4,3600,,white,Rajlich,0.5,30,6,0,0,6,0,0,6,0,0,1404.0,1955.0,2003.0
+pal_2007_final6:19,6,2007,2007.06.23,final,round_robin,4,3600,,black,Cato the Younger,0.5,30,12,0,0,12,0,0,14,0,0,250.0,1421.0,1444.0
+pal_2007_final6:20,6,2007,2007.06.23,final,round_robin,5,3600,,white,Cato the Younger,0.5,30,2,0,0,9,0,0,17,0,0,881.0,2294.0,2764.0
+pal_2007_final6:20,6,2007,2007.06.23,final,round_robin,5,3600,,black,PvP,0.5,30,15,0,0,,1,0,,1,0,0.0,404.0,557.0
+pal_2007_final6:21,6,2007,2007.06.23,final,round_robin,5,3600,,white,Klosterfrau,0.5,30,23,0,0,,1,0,,1,0,1.0,1.0,1.0
+pal_2007_final6:21,6,2007,2007.06.23,final,round_robin,5,3600,,black,Flyingfatman,0.5,30,14,0,0,22,0,0,22,0,0,253.0,764.0,880.0
+pal_2007_final6:22,6,2007,2007.06.23,final,round_robin,5,3600,,white,Kreuzfahrtschiff,0,30,6,0,0,9,0,0,20,0,0,426.0,613.0,2027.0
+pal_2007_final6:22,6,2007,2007.06.23,final,round_robin,5,3600,,black,Rajlich,1,30,13,0,0,15,0,0,15,0,0,206.0,1111.0,1912.0
+pal_2007_final6:23,6,2007,2007.06.23,final,round_robin,5,3600,,white,Rentner2,1,30,7,0,0,7,0,0,7,0,0,1035.0,2384.0,3047.0
+pal_2007_final6:23,6,2007,2007.06.23,final,round_robin,5,3600,,black,New Man,0,30,7,0,0,20,0,0,20,0,0,401.0,910.0,1479.0
+pal_2007_final6:24,6,2007,2007.06.23,final,round_robin,5,3600,,white,Ultra-d,0,19,12,0,0,13,0,0,18,0,0,78.0,1077.0,
+pal_2007_final6:24,6,2007,2007.06.23,final,round_robin,5,3600,,black,Mission control,1,18,12,0,0,12,0,0,,1,0,0.0,458.0,
+pal_2007_final6:25,6,2007,2007.06.23,final,round_robin,6,3600,,white,Flyingfatman,0.5,30,4,0,0,7,0,0,9,0,0,1249.0,2371.0,2514.0
+pal_2007_final6:25,6,2007,2007.06.23,final,round_robin,6,3600,,black,Cato the Younger,0.5,30,4,0,0,11,0,0,11,0,0,520.0,2745.0,2925.0
+pal_2007_final6:26,6,2007,2007.06.23,final,round_robin,6,3600,,white,Mission control,0.5,30,10,0,0,10,0,0,12,0,0,521.0,1983.0,2492.0
+pal_2007_final6:26,6,2007,2007.06.23,final,round_robin,6,3600,,black,Rajlich,0.5,30,5,0,0,7,0,0,8,0,0,1419.0,2486.0,2780.0
+pal_2007_final6:27,6,2007,2007.06.23,final,round_robin,6,3600,,white,New Man,0.5,24,12,0,0,14,0,0,22,0,0,0.0,1125.0,1327.0
+pal_2007_final6:27,6,2007,2007.06.23,final,round_robin,6,3600,,black,Klosterfrau,0.5,23,17,0,0,23,0,0,,1,0,0.0,121.0,378.0
+pal_2007_final6:28,6,2007,2007.06.23,final,round_robin,6,3600,,white,PvP,0,30,13,0,0,18,0,0,18,0,0,0.0,685.0,1432.0
+pal_2007_final6:28,6,2007,2007.06.23,final,round_robin,6,3600,,black,Kreuzfahrtschiff,1,30,10,0,0,16,0,0,20,0,0,127.0,592.0,1485.0
+pal_2007_final6:29,6,2007,2007.06.23,final,round_robin,6,3600,,white,Ultra-d,0.5,30,7,0,0,7,0,0,,1,0,664.0,1252.0,1512.0
+pal_2007_final6:29,6,2007,2007.06.23,final,round_robin,6,3600,,black,Rentner2,0.5,30,5,0,0,5,0,0,5,0,0,1854.0,3315.0,3549.0
+pal_2007_final6:30,6,2007,2007.06.24,final,round_robin,7,3600,,white,Cato the Younger,1,30,5,0,0,11,0,0,12,0,0,620.0,2129.0,2622.0
+pal_2007_final6:30,6,2007,2007.06.24,final,round_robin,7,3600,,black,New Man,0,30,3,0,0,5,0,0,5,0,0,1447.0,1961.0,2283.0
+pal_2007_final6:31,6,2007,2007.06.24,final,round_robin,7,3600,,white,Kreuzfahrtschiff,0.5,26,13,0,0,13,0,0,13,0,0,51.0,1143.0,1564.0
+pal_2007_final6:31,6,2007,2007.06.24,final,round_robin,7,3600,,black,Flyingfatman,0.5,25,14,0,0,22,0,0,22,0,0,211.0,556.0,626.0
+pal_2007_final6:32,6,2007,2007.06.24,final,round_robin,7,3600,,white,Rajlich,1,30,14,0,0,14,0,0,14,0,0,175.0,860.0,1280.0
+pal_2007_final6:32,6,2007,2007.06.24,final,round_robin,7,3600,,black,PvP,0,30,10,0,0,,1,0,,1,0,91.0,627.0,905.0
+pal_2007_final6:33,6,2007,2007.06.24,final,round_robin,7,3600,,white,Rentner2,0.5,30,18,0,0,18,0,0,18,0,0,49.0,143.0,1260.0
+pal_2007_final6:33,6,2007,2007.06.24,final,round_robin,7,3600,,black,Mission control,0.5,30,22,0,0,22,0,0,28,0,0,88.0,274.0,329.0
+pal_2007_final6:34,6,2007,2007.06.24,final,round_robin,8,3600,,white,Flyingfatman,0.5,23,7,0,0,8,0,0,8,0,0,998.0,2977.0,3336.0
+pal_2007_final6:34,6,2007,2007.06.24,final,round_robin,8,3600,,black,Rajlich,0.5,22,9,0,0,13,0,0,13,0,0,259.0,2002.0,2072.0
+pal_2007_final6:35,6,2007,2007.06.24,final,round_robin,8,3600,,white,Mission control,0,30,8,0,0,10,0,0,18,0,0,490.0,1079.0,2186.0
+pal_2007_final6:35,6,2007,2007.06.24,final,round_robin,8,3600,,black,PvP,1,29,12,0,0,15,0,0,,1,0,0.0,525.0,880.0
+pal_2007_final6:36,6,2007,2007.06.24,final,round_robin,8,3600,,white,New Man,1,30,15,0,0,15,0,0,15,0,0,0.0,1054.0,1474.0
+pal_2007_final6:36,6,2007,2007.06.24,final,round_robin,8,3600,,black,Kreuzfahrtschiff,0,30,10,0,0,14,0,0,17,0,0,111.0,867.0,1049.0
+pal_2007_final6:37,6,2007,2007.06.24,final,round_robin,8,3600,,white,Rentner2,0,30,15,0,0,15,0,0,17,0,0,71.0,1097.0,2178.0
+pal_2007_final6:37,6,2007,2007.06.24,final,round_robin,8,3600,,black,Klosterfrau,1,30,18,0,0,18,0,0,19,0,0,0.0,0.0,1009.0
+pal_2007_final6:38,6,2007,2007.06.24,final,round_robin,8,3600,,white,Ultra-d,0.5,30,11,0,0,,1,0,,1,0,0.0,555.0,853.0
+pal_2007_final6:38,6,2007,2007.06.24,final,round_robin,8,3600,,black,Cato the Younger,0.5,30,10,0,0,10,0,0,13,0,0,302.0,2461.0,2945.0
+pal_2007_final6:39,6,2007,2007.06.24,final,round_robin,7,3600,,white,Klosterfrau,1,18,,1,0,,1,0,,1,0,0.0,0.0,
+pal_2007_final6:39,6,2007,2007.06.24,final,round_robin,7,3600,,black,Ultra-d,0,17,12,0,0,14,0,0,15,0,0,0.0,1350.0,
+pal_2007_final6:40,6,2007,2007.06.24,final,round_robin,9,3600,,white,Kreuzfahrtschiff,0.5,23,15,0,0,15,0,0,15,0,0,63.0,868.0,1017.0
+pal_2007_final6:40,6,2007,2007.06.24,final,round_robin,9,3600,,black,Ultra-d,0.5,22,17,0,0,,1,0,,1,0,0.0,229.0,309.0
+pal_2007_final6:41,6,2007,2007.06.24,final,round_robin,9.1,3600,,white,Klosterfrau,0.5,30,17,0,0,18,0,0,18,0,0,111.0,299.0,1285.0
+pal_2007_final6:41,6,2007,2007.06.24,final,round_robin,9.1,3600,,black,Mission control,0.5,30,15,0,0,16,0,0,16,0,0,0.0,527.0,641.0
+pal_2007_final6:42,6,2007,2007.06.24,final,round_robin,9.1,3600,,white,PvP,0.5,30,10,0,0,13,0,0,19,0,0,124.0,1097.0,2053.0
+pal_2007_final6:42,6,2007,2007.06.24,final,round_robin,9.1,3600,,black,Flyingfatman,0.5,30,6,0,0,6,0,0,6,0,0,660.0,1370.0,1634.0
+pal_2007_final6:43,6,2007,2007.06.24,final,round_robin,9.1,3600,,white,Cato the Younger,0.5,30,4,0,0,8,0,0,13,0,0,622.0,1879.0,2227.0
+pal_2007_final6:43,6,2007,2007.06.24,final,round_robin,9.1,3600,,black,Rentner2,0.5,30,2,0,0,2,0,0,18,0,0,712.0,1152.0,2431.0
+pal_2007_final6:44,6,2007,2007.06.24,final,round_robin,9,3600,,white,Rajlich,0.5,30,6,0,0,6,0,0,8,0,0,1148.0,2211.0,2300.0
+pal_2007_final6:44,6,2007,2007.06.24,final,round_robin,9,3600,,black,New Man,0.5,30,5,0,0,5,0,0,7,0,0,1466.0,2346.0,2706.0
+pal_2007_final6:45,6,2007,2007.06.23,final,round_robin,4,3600,,white,Mission control,0.5,18,,1,18,,1,18,,1,18,,,
+pal_2007_final6:45,6,2007,2007.06.23,final,round_robin,4,3600,,black,Kreuzfahrtschiff,0.5,17,,1,17,,1,17,,1,17,,,
