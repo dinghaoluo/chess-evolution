@@ -1,0 +1,13 @@
+baseline,comparison,games,median_difference_seconds,lower_seconds,upper_seconds,positive_games,negative_games,tied_games
+prior_year,reply_minus_departure,39,22.0,-51.0,162.0,23,16,0
+prior_year,responder_after_minus_before,39,123.66666666666663,60.333333333333336,248.66666666666666,31,8,0
+prior_year,introducer_after_minus_before,39,111.33333333333331,47.666666666666664,196.66666666666669,30,9,0
+dated,reply_minus_departure,39,19.0,-58.0,162.0,22,17,0
+dated,responder_after_minus_before,39,114.66666666666666,60.333333333333336,216.66666666666666,30,9,0
+dated,introducer_after_minus_before,39,111.33333333333331,31.999999999999996,205.33333333333334,30,9,0
+both_2200,reply_minus_departure,39,140.0,-47.0,437.0,24,15,0
+both_2200,responder_after_minus_before,39,151.33333333333334,76.66666666666666,219.0,32,7,0
+both_2200,introducer_after_minus_before,38,53.33333333333333,28.333333333333336,196.66666666666669,29,9,0
+prior_year_move,reply_minus_departure,39,75.0,-24.0,235.0,25,14,0
+prior_year_move,responder_after_minus_before,39,151.33333333333334,60.33333333333334,302.66666666666663,31,8,0
+prior_year_move,introducer_after_minus_before,39,98.0,36.666666666666664,151.0,31,8,0

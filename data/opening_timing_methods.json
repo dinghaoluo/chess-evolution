@@ -1,0 +1,13 @@
+{
+  "opening_limit": "first 30 moves per player, before increment or an extra time period in every included match",
+  "long_think": "first move taking at least five minutes; two and ten minutes are sensitivity checks",
+  "sustained_thinking": "first three-move window with two qualifying thinks; a retrospective description",
+  "preparation": "timing thresholds have no preparation label; independent player statements are checked separately",
+  "departure": "first position absent from earlier years, matching the historical plot; exact-date and other baselines retained",
+  "windows": "three moves by the same player before departure and three from departure onward",
+  "uncertainty": "10000 percentile bootstrap samples of complete games, stratified by match; conditional on these players and matches",
+  "time_series": "three matches cannot identify a general trend or an engine effect",
+  "opponent_comparison": "paired descriptions; choices of opening, player, and position difficulty are not randomised",
+  "missing_early_times": "first observed long thinks flagged if an earlier move time is missing; cumulative time uses the recorded endpoint clock",
+  "placebo": "10000 shuffles of departure plies within match and introducer colour; one game with early missing times excluded"
+}

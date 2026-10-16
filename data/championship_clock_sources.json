@@ -1,0 +1,63 @@
+{
+  "retrieved_at": "2026-10-15",
+  "sources": [
+    {
+      "year": 2021,
+      "url": "https://lichess.org/api/broadcast/A6snaCgb.pgn",
+      "cache_file": "wcc_2021_all.pgn",
+      "sha256": "a0f3336a94e28fd297abf0b46497609e8fa01775e57ced0b5cfb194c90334d46",
+      "downloaded_games": 11,
+      "accepted_classical_games": 11,
+      "time_control": "40/7200:20/3600:900+30",
+      "missing_clocks_through_move_40": []
+    },
+    {
+      "year": 2023,
+      "url": "https://lichess.org/api/broadcast/lrdHUzyS.pgn",
+      "cache_file": "wcc_2023_all.pgn",
+      "sha256": "ec7f4fb7598a0a58ca8fcc4dbb74ac091c67f9b1ae3c5ad37bfba4e26dae1278",
+      "downloaded_games": 18,
+      "accepted_classical_games": 14,
+      "time_control": "40/7200:20/3600:900+30",
+      "missing_clocks_through_move_40": [
+        {
+          "game_id": "2944",
+          "ply": 4
+        },
+        {
+          "game_id": "2944",
+          "ply": 9
+        },
+        {
+          "game_id": "2944",
+          "ply": 14
+        },
+        {
+          "game_id": "2944",
+          "ply": 15
+        },
+        {
+          "game_id": "2954",
+          "ply": 79
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://lichess.org/api/broadcast/n3yHJI5Y.pgn",
+      "cache_file": "wcc_2024_all.pgn",
+      "sha256": "f77d27f5984c099fffdd62ed44830c910c832faed418420fa24fef5ed22079c9",
+      "downloaded_games": 14,
+      "accepted_classical_games": 14,
+      "time_control": "40/7200:1800+30",
+      "missing_clocks_through_move_40": []
+    }
+  ],
+  "population": "every audited classical game in the 2021, 2023 and 2024 title matches",
+  "matching": "round and event, followed by equality of the complete main line and result",
+  "elapsed_time": "difference between successive clocks of the same player; missing neighbours stay missing",
+  "move_40": "clock retained; elapsed time omitted because the next period may already have been credited",
+  "older_matches": "official linked studies for 2013, 2014, 2016 and 2018 contain no move clocks",
+  "licence": "public broadcast export; raw annotations kept locally, derived clock measurements only",
+  "help_url": "https://lichess.org/broadcast/help"
+}
