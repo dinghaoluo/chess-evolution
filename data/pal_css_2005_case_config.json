@@ -1,0 +1,37 @@
+{
+  "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "options": {
+    "Threads": 1,
+    "Hash": 64,
+    "UCI_ShowWDL": true,
+    "Skill Level": 20,
+    "UCI_LimitStrength": false,
+    "SyzygyPath": ""
+  },
+  "engine": "Stockfish 17.1",
+  "python_chess_version": "1.11.2",
+  "nodes": [
+    1000000,
+    4000000,
+    16000000
+  ],
+  "score_perspective": "white",
+  "hash_policy": "ucinewgame before each search",
+  "iteration": "last exact completed MultiPV cycle, reset on rank 1; distinct roots at equal depth",
+  "position_history": "complete move stack from the source game",
+  "selection": "all documented decisions, plus the annotated Bf4 alternative and three White plans",
+  "comparisons": "unrestricted MultiPV 3; shared restricted searches for reported alternatives",
+  "reply_check": "unrestricted MultiPV 2 after each move-18 candidate; separate forced Rg8 if absent",
+  "trajectory": "unrestricted single PV, 1M nodes, every supplied position from ply 11 in all three annotated scores",
+  "interpretation": "modern evaluations; trajectories locate changes and do not measure move loss",
+  "inputs": {
+    "pal_css_2005_games.csv": "cf61fb4ce4566473d0953d812a2bdaaf39d3344899734b253c005bbc30e674f1",
+    "pal_css_2005_decisions.csv": "427b4b012977ae963222dff3153a2bc0d743e5480be499478141eb68348acd65"
+  },
+  "turning_points": {
+    "selection": "three largest mover-perspective WDL deteriorations per supplied annotated score at 1M nodes, where the played move differed from the recommendation",
+    "comparison": "shared root search of the played move and the 1M recommendation, at 4M and 16M nodes",
+    "interpretation": "exploratory checks of evaluation changes; not an intervention effect estimate",
+    "trajectory_sha256": "a85fa76c610af47e1326618aef752a369e7ca68bd5500e7de5ca50d5c6d6ba01"
+  }
+}
