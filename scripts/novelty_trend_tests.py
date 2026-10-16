@@ -53,12 +53,31 @@ def main() -> None:
     # test the difference between trends on the same years
     for measure, values in [('full_reference', full_values), ('fixed_1000', fixed_values),
                             ('full_minus_fixed_1000', full_values - fixed_values)]:
-        for since in [1886, 1970]:
+        for since in [1886, 1970, 2000]:
             selected = years >= since
             # decade-scale dependence, checked with shorter and longer windows
             for bandwidth in [5, 10, 20]:
-                results.append({'measure': measure,
+                results.append({'measure': measure, 'omitted_year': '',
+                                'analysis': 'exploratory_recent' if since == 2000 else 'historical',
                                 **calendar_trend(years[selected], values[selected], bandwidth)})
+
+    # the recent window was chosen after seeing the curve, not as an AI adoption date
+    selected = years >= 2000
+    for measure in ['dated_first_new_ply', 'prior_20_years_first_new_ply',
+                    'both_2200_first_new_ply', 'prior_year_move_first_new_ply',
+                    'prior_year_sustained_ply40']:
+        recent = [row for row in full if int(row['year']) >= 2000]
+        assert all(row[measure + '_median_lower'] == row[measure + '_median_upper'] for row in recent)
+        values = np.array([float(row[measure + '_median']) for row in recent])
+        for bandwidth in [5, 10, 20]:
+            results.append({'measure': measure, 'omitted_year': '', 'analysis': 'exploratory_recent',
+                            **calendar_trend(years[selected], values, bandwidth)})
+    for measure, values in [('full_reference', full_values), ('fixed_1000', fixed_values)]:
+        for omitted in years[selected]:
+            keep = selected & (years != omitted)
+            results.append({'measure': measure, 'omitted_year': int(omitted),
+                            'analysis': 'exploratory_recent_leave_one_year_out',
+                            **calendar_trend(years[keep], values[keep], 10)})
 
     with (DATA / 'novelty_trend_tests.csv').open('w', newline='') as destination:
         writer = csv.DictWriter(destination, fieldnames=list(results[0]), lineterminator='\n')
