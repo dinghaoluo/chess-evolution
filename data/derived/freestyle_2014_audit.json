@@ -1,0 +1,35 @@
+{
+  "games": 435,
+  "intagrand_games": 29,
+  "intagrand_points": 20.5,
+  "header_fields": {
+    "Event": 435,
+    "Site": 435,
+    "Date": 435,
+    "Round": 435,
+    "White": 435,
+    "Black": 435,
+    "Result": 435,
+    "ECO": 434,
+    "WhiteElo": 435,
+    "BlackElo": 435,
+    "PlyCount": 435,
+    "EventDate": 435,
+    "EventRounds": 300,
+    "TimeControl": 3
+  },
+  "inputs_sha256": {
+    "cache/research/twic-freestyle14.pgn": "e08236d718d41be900d45a52422f2e9ff36eb93f591493e5efd3dde89a2f0b87"
+  },
+  "outputs_sha256": {
+    "data/derived/freestyle_2014_headers.json": "8b3054c69c3a6007f65da95913eaba6154d997fa85294fc13ffd3e47a85c2cae",
+    "data/derived/freestyle_2014_names.csv": "3eddfab8999109e88c90192f282b05dee565eedc60c7ac663cd306f9d2e7d19e"
+  },
+  "limits": [
+    "435 legal main lines cover a 30-entry single round robin; aliases and replacements need separate identity evidence.",
+    "Engine names occur in White/Black account-name suffixes; no WhiteEngine, BlackEngine, WhiteType or BlackType tags exist.",
+    "A suffix does not prove engine-only play; absence does not prove live human intervention.",
+    "TimeControl appears in three games only; no Termination tags are present.",
+    "TWIC identifies Intagrand as Anson Williams and helpers; the PGNs confirm 20.5/29, not the introductory prose total of 29."
+  ]
+}

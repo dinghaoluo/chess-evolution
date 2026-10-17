@@ -1,0 +1,169 @@
+colour,raw_name,appearances,explicit_name_suffix,live_assistance
+Black,Donkasand,2,,unclassified_from_header
+Black,Donkasand (uciPlug_CTG),12,(uciPlug_CTG),unclassified_from_header
+Black,Erdo,15,,unclassified_from_header
+Black,EtaoinShrdlu,14,,unclassified_from_header
+Black,FrauHolle,1,,unclassified_from_header
+Black,"FrauHolle (Houdini 4 Pro, x64B_CTG)",1,"(Houdini 4 Pro, x64B_CTG)",unclassified_from_header
+Black,"FrauHolle (StockFishRW_, 20140220 (NOAVX))",1,"(StockFishRW_, 20140220 (NOAVX))",unclassified_from_header
+Black,"FrauHolle (Stockfish 070414IP, x64 SSe4.2_CTG)",1,"(Stockfish 070414IP, x64 SSe4.2_CTG)",unclassified_from_header
+Black,FrauHolle (Stockfish 14020920,1,(Stockfish 14020920,unclassified_from_header
+Black,"FrauHolle (Stockfish 14030508, x64_sse42_CTG)",1,"(Stockfish 14030508, x64_sse42_CTG)",unclassified_from_header
+Black,"FrauHolle (Stockfish 14031023, _sse42_CTG)",1,"(Stockfish 14031023, _sse42_CTG)",unclassified_from_header
+Black,"FrauHolle (Stockfish 14031511, _x64_sse42_CTG)",1,"(Stockfish 14031511, _x64_sse42_CTG)",unclassified_from_header
+Black,"FrauHolle (Stockfish 14032911, x64 mod. sse4.2_CTG",1,"(Stockfish 14032911, x64 mod. sse4.2_CTG",unclassified_from_header
+Black,"FrauHolle (Stockfish 240314], IPx2 x64 sse4.2_CTG",1,"(Stockfish 240314], IPx2 x64 sse4.2_CTG",unclassified_from_header
+Black,"FrauHolle (Stockfish IPman, SE2 x64a SSE4.2_CTG",2,"(Stockfish IPman, SE2 x64a SSE4.2_CTG",unclassified_from_header
+Black,"FrauHolle (StockfishRW_140403, (NOAVX)_CTG)",1,"(StockfishRW_140403, (NOAVX)_CTG)",unclassified_from_header
+Black,"FrauHolle (Stockfish_160314, IPx_x64_sse42_CTG)",1,"(Stockfish_160314, IPx_x64_sse42_CTG)",unclassified_from_header
+Black,Idol99,14,,unclassified_from_header
+Black,Intagrand,14,,unclassified_from_header
+Black,LordSirKnight,14,,unclassified_from_header
+Black,MiG29,14,,unclassified_from_header
+Black,Mig2004,13,,unclassified_from_header
+Black,Mig2004 (Stockfish(RW)x64_CTG,1,(Stockfish(RW)x64_CTG,unclassified_from_header
+Black,Neutrino,12,,unclassified_from_header
+Black,Neutrino (Houdini 4 Pro x64B),2,(Houdini 4 Pro x64B),unclassified_from_header
+Black,Neutrino (StockFishRW),1,(StockFishRW),unclassified_from_header
+Black,Ozymandias,14,,unclassified_from_header
+Black,Paul,6,,unclassified_from_header
+Black,Paul (Houdini 4 Pro x64b),1,(Houdini 4 Pro x64b),unclassified_from_header
+Black,Paul (Komodo-tcecr-64bit),3,(Komodo-tcecr-64bit),unclassified_from_header
+Black,"Paul (StockFishRW_20140216, (NOAVX))",1,"(StockFishRW_20140216, (NOAVX))",unclassified_from_header
+Black,"Paul (Stockfish 210214IP, _x64_sse4.2)",1,"(Stockfish 210214IP, _x64_sse4.2)",unclassified_from_header
+Black,"Paul (Stockfish 210214IPx64, SSE4.2)",1,"(Stockfish 210214IPx64, SSE4.2)",unclassified_from_header
+Black,"Paul (Stockfish DD 64 modern, sse)",1,"(Stockfish DD 64 modern, sse)",unclassified_from_header
+Black,Paul (komodo-tcecr-64bit),1,(komodo-tcecr-64bit),unclassified_from_header
+Black,Regina_H.Milch,14,,unclassified_from_header
+Black,Stabiloboss,5,,unclassified_from_header
+Black,"Stabiloboss (Houdini 4 Pro, _ x64B)",1,"(Houdini 4 Pro, _ x64B)",unclassified_from_header
+Black,"Stabiloboss (Houdini_4_Pro, _x64B)",1,"(Houdini_4_Pro, _x64B)",unclassified_from_header
+Black,"Stabiloboss (Komodo tcecr, _64bit)",1,"(Komodo tcecr, _64bit)",unclassified_from_header
+Black,"Stabiloboss (Komodo-tcecr, -64bit)",1,"(Komodo-tcecr, -64bit)",unclassified_from_header
+Black,"Stabiloboss (Komodo-tcecr-, 64bit)",2,"(Komodo-tcecr-, 64bit)",unclassified_from_header
+Black,"Stabiloboss (Komodo-tcecr-], 64bit)",1,"(Komodo-tcecr-], 64bit)",unclassified_from_header
+Black,"Stabiloboss (StockfishRW, (NOAVX))",1,"(StockfishRW, (NOAVX))",unclassified_from_header
+Black,"Stabiloboss (Stockfish_syzygy, 14022223 x64)",1,"(Stockfish_syzygy, 14022223 x64)",unclassified_from_header
+Black,Sun_Zhu,15,,unclassified_from_header
+Black,Sunnytown,15,,unclassified_from_header
+Black,Takker,11,,unclassified_from_header
+Black,Takker (Komodo-tcec-64bit),1,(Komodo-tcec-64bit),unclassified_from_header
+Black,"Takker (Stockfish 14031818, x64_sse42_CTG)",1,"(Stockfish 14031818, x64_sse42_CTG)",unclassified_from_header
+Black,Takker[Komodo-tcec-64bit),1,[Komodo-tcec-64bit),unclassified_from_header
+Black,Thomas_A_Anderson,15,,unclassified_from_header
+Black,Victorious,12,,unclassified_from_header
+Black,"Victorious, (StockfishRW2014020",2,(StockfishRW2014020,unclassified_from_header
+Black,Victorious[StockfishRW2014021,1,[StockfishRW2014021,unclassified_from_header
+Black,Zorchamp  (Cryptic Heroes 1.1,1,(Cryptic Heroes 1.1,unclassified_from_header
+Black,Zorchamp (Cryptic Cyclone2.7),5,(Cryptic Cyclone2.7),unclassified_from_header
+Black,Zorchamp (Cryptic Heroes 1.0),1,(Cryptic Heroes 1.0),unclassified_from_header
+Black,Zorchamp (Cryptic Heroes 1.1),7,(Cryptic Heroes 1.1),unclassified_from_header
+Black,akhtar  (Cryptic Heroes 1.0),1,(Cryptic Heroes 1.0),unclassified_from_header
+Black,akhtar (Cryptic Heroes 1.1),6,(Cryptic Heroes 1.1),unclassified_from_header
+Black,akhtar (Cryptic heroes 1.1),1,(Cryptic heroes 1.1),unclassified_from_header
+Black,akhtar (CrypticCyclone 2.7),7,(CrypticCyclone 2.7),unclassified_from_header
+Black,deepthroat,14,,unclassified_from_header
+Black,flyingfatman,8,,unclassified_from_header
+Black,flyingfatman (ABA_BME_CTG),6,(ABA_BME_CTG),unclassified_from_header
+Black,funvillage,7,,unclassified_from_header
+Black,"funvillage (Stockfish 160314, IPx_x64_CTG)",1,"(Stockfish 160314, IPx_x64_CTG)",unclassified_from_header
+Black,"funvillage (Stockfish 240314, IPx2 x64_CTG)",1,"(Stockfish 240314, IPx2 x64_CTG)",unclassified_from_header
+Black,funvillage (StockfishRWx64CTG,2,(StockfishRWx64CTG,unclassified_from_header
+Black,jobboy,14,,unclassified_from_header
+Black,jobboy (StockfishRW),1,(StockfishRW),unclassified_from_header
+Black,jps7,1,,unclassified_from_header
+Black,mateinfour,14,,unclassified_from_header
+Black,maximus,15,,unclassified_from_header
+Black,newton296,11,,unclassified_from_header
+Black,newton296 (StockfishRWx64 CTG),4,(StockfishRWx64 CTG),unclassified_from_header
+Black,ocirema,5,,unclassified_from_header
+Black,ocirema (Andromeda _C18_CTG),1,(Andromeda _C18_CTG),unclassified_from_header
+Black,ocirema (Andromeda_C03_CTG),1,(Andromeda_C03_CTG),unclassified_from_header
+Black,ocirema (Andromeda_C05_CTG),1,(Andromeda_C05_CTG),unclassified_from_header
+Black,ocirema (Andromeda_C18_CTG),1,(Andromeda_C18_CTG),unclassified_from_header
+Black,ocirema (Andromeda_C24_CTG),1,(Andromeda_C24_CTG),unclassified_from_header
+Black,ocirema (Andromeda_C29_CTG),1,(Andromeda_C29_CTG),unclassified_from_header
+Black,ocirema (Andromeda_D03_CTG),1,(Andromeda_D03_CTG),unclassified_from_header
+Black,ocirema (Andromeda_D06_CTG),1,(Andromeda_D06_CTG),unclassified_from_header
+Black,"ocirema (Stockfish 14020408, _x64 modern sse)",2,"(Stockfish 14020408, _x64 modern sse)",unclassified_from_header
+Black,olivierevan,15,,unclassified_from_header
+Black,rafpier,4,,unclassified_from_header
+White,Donkasand,2,,unclassified_from_header
+White,Donkasand (uciPlug),1,(uciPlug),unclassified_from_header
+White,Donkasand (uciPlug_CTG),12,(uciPlug_CTG),unclassified_from_header
+White,Erdo,14,,unclassified_from_header
+White,EtaoinShrdlu,15,,unclassified_from_header
+White,FrauHolle,3,,unclassified_from_header
+White,"FrauHolle (Houdini 4 Pro, x64B_CTG)",2,"(Houdini 4 Pro, x64B_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish 030414IP, :x64 SSE4.2_CGT)",1,"(Stockfish 030414IP, :x64 SSE4.2_CGT)",unclassified_from_header
+White,"FrauHolle (Stockfish 240314, IPx2 sse4.2_CTG)",1,"(Stockfish 240314, IPx2 sse4.2_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish 290314IP, x64 SSE4.2_CTG)",1,"(Stockfish 290314IP, x64 SSE4.2_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish IPman, SE2 x64a SSE4.2_CTG",1,"(Stockfish IPman, SE2 x64a SSE4.2_CTG",unclassified_from_header
+White,"FrauHolle (Stockfish syzygy_, 14030322_x64_sse42)",1,"(Stockfish syzygy_, 14030322_x64_sse42)",unclassified_from_header
+White,"FrauHolle (Stockfish syzygy_, 14032211_sse42_CTG)",1,"(Stockfish syzygy_, 14032211_sse42_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish_070414IP, x64_sse4.2_CTG)",1,"(Stockfish_070414IP, x64_sse4.2_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish_14031312, _x64_sse2_CTG)",1,"(Stockfish_14031312, _x64_sse2_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish_160314, IPx_x64_sse42_CTG)",1,"(Stockfish_160314, IPx_x64_sse42_CTG)",unclassified_from_header
+White,"FrauHolle (Stockfish_syzygy_, 14022101_x64sse42CT",1,"(Stockfish_syzygy_, 14022101_x64sse42CT",unclassified_from_header
+White,Idol99,15,,unclassified_from_header
+White,Intagrand,15,,unclassified_from_header
+White,LordSirKnight,15,,unclassified_from_header
+White,MiG29,15,,unclassified_from_header
+White,Mig2004,9,,unclassified_from_header
+White,Mig2004 (Stockfish RW_CTG),1,(Stockfish RW_CTG),unclassified_from_header
+White,Mig2004 (Stockfish(RW)x64),1,(Stockfish(RW)x64),unclassified_from_header
+White,"Mig2004 (StockfishRW_140408], (X64)_CTG.",1,"(StockfishRW_140408], (X64)_CTG.",unclassified_from_header
+White,Mig2004 (Stockfish_473CORE2),1,(Stockfish_473CORE2),unclassified_from_header
+White,"Mig2004 (Stockfish_syzygy, _14030215_x64_sse42)",1,"(Stockfish_syzygy, _14030215_x64_sse42)",unclassified_from_header
+White,"Mig2004 (Stockfish_syzygy_, 14033100_x64_CTG)",1,"(Stockfish_syzygy_, 14033100_x64_CTG)",unclassified_from_header
+White,Neutrino,12,,unclassified_from_header
+White,Neutrino (Houdini 4 Pro x64B),1,(Houdini 4 Pro x64B),unclassified_from_header
+White,"Neutrino (Houdini_4_Pro_x64B, _CTG)",1,"(Houdini_4_Pro_x64B, _CTG)",unclassified_from_header
+White,Ozymandias,15,,unclassified_from_header
+White,Paul,5,,unclassified_from_header
+White,Paul (Komodo-tcecr-64bit),5,(Komodo-tcecr-64bit),unclassified_from_header
+White,"Paul (StockFishRW_20140216, (NOAVX))",1,"(StockFishRW_20140216, (NOAVX))",unclassified_from_header
+White,"Paul (Stockfish 130214IP_, x64 SSE4.2)",1,"(Stockfish 130214IP_, x64 SSE4.2)",unclassified_from_header
+White,"Paul (Stockfish 210212IP x64, SSe4.2)",1,"(Stockfish 210212IP x64, SSe4.2)",unclassified_from_header
+White,"Paul (Stockfish 240314IPx2, x64 sse4.2",1,"(Stockfish 240314IPx2, x64 sse4.2",unclassified_from_header
+White,Regina_H.Milch,15,,unclassified_from_header
+White,Stabiloboss,6,,unclassified_from_header
+White,"Stabiloboss (Houdini_4_Pro, _x64B)",5,"(Houdini_4_Pro, _x64B)",unclassified_from_header
+White,"Stabiloboss (Komodo-tcecr, -64bit)",1,"(Komodo-tcecr, -64bit)",unclassified_from_header
+White,"Stabiloboss (Komodo-tcecr-, 64bit)",1,"(Komodo-tcecr-, 64bit)",unclassified_from_header
+White,"Stabiloboss (Stockfish_syzygy, 14022101_x64_sse42)",1,"(Stockfish_syzygy, 14022101_x64_sse42)",unclassified_from_header
+White,Sun_Zhu,14,,unclassified_from_header
+White,Sunnytown,14,,unclassified_from_header
+White,Takker,11,,unclassified_from_header
+White,Takker (Komodo tcec 64bit),1,(Komodo tcec 64bit),unclassified_from_header
+White,Takker (Komodo-tcec-64bit),2,(Komodo-tcec-64bit),unclassified_from_header
+White,"Takker (Stockfish 14031818 x6, _sse42_CTG)",1,"(Stockfish 14031818 x6, _sse42_CTG)",unclassified_from_header
+White,Thomas_A_Anderson,14,,unclassified_from_header
+White,Victorious,12,,unclassified_from_header
+White,"Victorious, (StockfishRW2014020",2,(StockfishRW2014020,unclassified_from_header
+White,Zorchamp,1,,unclassified_from_header
+White,Zorchamp (Cryptic Cyclone2.7),7,(Cryptic Cyclone2.7),unclassified_from_header
+White,Zorchamp (Cryptic Heroes 1.1),7,(Cryptic Heroes 1.1),unclassified_from_header
+White,akhtar (Cryptic Heroes 1.1),8,(Cryptic Heroes 1.1),unclassified_from_header
+White,akhtar (CrypticCyclone 2.7),6,(CrypticCyclone 2.7),unclassified_from_header
+White,deepthroat,15,,unclassified_from_header
+White,flyingfatman,12,,unclassified_from_header
+White,flyingfatman (ABA-BME_CTG),1,(ABA-BME_CTG),unclassified_from_header
+White,flyingfatman (ABA_BME_CTG),2,(ABA_BME_CTG),unclassified_from_header
+White,funvillage,8,,unclassified_from_header
+White,funvillage (StockfishRWx64CTG,3,(StockfishRWx64CTG,unclassified_from_header
+White,jobboy,13,,unclassified_from_header
+White,jobboy (Houdini 4 Pro x64B),1,(Houdini 4 Pro x64B),unclassified_from_header
+White,mateinfour,15,,unclassified_from_header
+White,maximus,14,,unclassified_from_header
+White,newton296,13,,unclassified_from_header
+White,newton296 (StockfishRWx64 CTG),1,(StockfishRWx64 CTG),unclassified_from_header
+White,ocirema,8,,unclassified_from_header
+White,ocirema (Andromeda C10_CTG),1,(Andromeda C10_CTG),unclassified_from_header
+White,ocirema (Andromeda C14 CTG),1,(Andromeda C14 CTG),unclassified_from_header
+White,ocirema (AndromedaRC_19_CTG),1,(AndromedaRC_19_CTG),unclassified_from_header
+White,ocirema (Andromeda_C24_CTG),1,(Andromeda_C24_CTG),unclassified_from_header
+White,ocirema (Andromeda_D05_CTG),1,(Andromeda_D05_CTG),unclassified_from_header
+White,ocirema (Critter_1.9b_CTG),1,(Critter_1.9b_CTG),unclassified_from_header
+White,olivierevan,14,,unclassified_from_header
+White,rafpier,3,,unclassified_from_header

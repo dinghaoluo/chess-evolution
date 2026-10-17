@@ -1,0 +1,17 @@
+account,entry_type,game_id,round,side,opponent,score,opponent_type,source_url
+zor_champ,engine_only,pal_2005_main:19,1,black,konstantinlanda,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:26,2,white,katzenmaier,0,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:39,3,black,ciron,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:40,4,white,mattini,0,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:46,5,white,mikhail umansky,1,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:60,6,black,chessfriendotcom,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:68,7,black,engineer,0,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+zor_champ,engine_only,pal_2005_main:71,8,white,"braincooler, deep shredder 9",1,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:5,2,white,voidchessicc,0,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:27,3,black,tank1,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:50,5,black,volodja,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:53,6,white,t-sygulski,0,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:57,8,black,auryn,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:82,1,black,rainerzufall,1,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:101,4,white,"relic, deep junior 9",1,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament
+ares01,human_engine,pal_2005_main:124,7,black,dr.ex,0.5,unclassified,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament

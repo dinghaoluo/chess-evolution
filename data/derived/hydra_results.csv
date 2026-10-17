@@ -1,0 +1,3 @@
+edition,stage,account,entry_type,engine,source_url,limit,games,wins,draws,losses,points
+1,main,zor_champ,engine_only,Hydra Chimera,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament,team reports no human involvement,8,2,3,3,3.5
+1,main,ares01,human_engine,Hydra Scylla,https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament,team reports human intervention and untested software,8,2,4,2,4.0

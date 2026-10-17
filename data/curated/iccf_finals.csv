@@ -1,0 +1,3 @@
+edition,start_year,end_year,games,draws,decisive_recorded,administrative_decisive,co_champions,source_url,administrative_source_url,limit
+32,2020,2022,136,119,17,,1,https://www.iccf.com/event?id=85042&order=s,,crosstable has seventeen total wins; administrative outcomes not audited; two finals cannot identify an engine-progress effect
+33,2022,2025,136,126,10,10,10,https://www.iccf.com/event?id=100104,https://webfiles.iccf.com/congress/2024/reports/ICCF%20-%20Title%20Tournament%20Commissioner%20-%20Report%20-%20Congress%20-%202024.pdf,all decisive scores awarded after Dronov died; one final cannot identify an engine-progress trend; PGN download link exists but retrieval failed

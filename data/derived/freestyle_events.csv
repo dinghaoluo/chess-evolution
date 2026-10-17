@@ -1,0 +1,10 @@
+event_id,edition,year,winner,entry_type,winner_points,format,source_url,limit
+pal_1,1,2005,ZackS,human_engine,,knockout,https://en.chessbase.com/post/dark-horse-zacks-wins-freestyle-che-tournament,winner verified; no complete field classification
+pal_2,2,2006,Zor_champ,human_involvement_unknown,5.5,round_robin,https://en.chessbase.com/post/zor-champ-wins-freestyle-tournament,Hydra-run account; report does not specify live human assistance
+pal_3,3,2006,Rajlich,human_engine,,round_robin,https://en.chessbase.com/post/rajlich-wins-sixth-pal-c-freestyle-tournament,third-edition winner identified retrospectively; games not recovered
+pal_4,4,2006,Xakru,human_engine,6.0,round_robin,https://en.chessbase.com/post/the-freestyle-champion-is-xakru-dammit-,increment disputed between announcement and report
+pal_5,5,2007,Flying Saucers,human_engine,6.5,round_robin,https://en.chessbase.com/post/freestyle-che-teaching-an-engine-how-to-fly,participant accounts and final scores
+pal_6,6,2007,Rajlich,human_engine,6.0,round_robin,https://en.chessbase.com/post/rajlich-wins-sixth-pal-c-freestyle-tournament,Vasik and Iweta Rajlich; independent entrants changed mode during the main event
+pal_7,7,2007,Ibermax (Anson Williams),human_engine,7,round_robin,https://en.chessbase.com/post/che-festival-in-benidorm-where-a-new-genre-is-born,Nelson Hernandez identifies Williams as captain of winning Ibermax team; +6 =2 -1; no final PGN archive recovered
+pal_8,8,2008,,unverified,,round_robin,https://en.chessbase.com/post/eighth-pal-c-freestyle-qualifier,qualifier and announcement verified; final winner not verified from a primary report
+infinity_2014,,2014,Intagrand,human_engine,20.5,round_robin,https://theweekinchess.com/chessnews/events/intagrand-wins-the-freestyle-battle-2014,TWIC crosstable gives 20.5/29; prose incorrectly says 29 points

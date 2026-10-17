@@ -1,0 +1,2 @@
+event_id,stage,human_wins,draws,engine_wins,human_white_games,human_black_games,source_url,limit
+infinity_2014,after_round_18_of_29,24,59,13,54,42,https://gwern.net/doc/www/www.infinitychess.com/2e38d048d76721a8837bf0bd309978835692c242.html,reported interim aggregate; entrants could change mode by round; unequal colours and hardware; no per-game mode labels recovered

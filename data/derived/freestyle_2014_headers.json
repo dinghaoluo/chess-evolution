@@ -1,0 +1,8134 @@
+[
+  {
+    "source_ordinal": 1,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "mateinfour",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2552",
+      "BlackElo": "2480",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 2,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "flyingfatman",
+      "Black": "Paul (Stockfish DD 64 modern, sse)",
+      "Result": "1-0",
+      "ECO": "B65",
+      "WhiteElo": "2596",
+      "BlackElo": "2450",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 3,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "deepthroat",
+      "Black": "Victorious, (StockfishRW2014020",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2570",
+      "BlackElo": "2470",
+      "PlyCount": "72",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 72
+  },
+  {
+    "source_ordinal": 4,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "C78",
+      "WhiteElo": "2683",
+      "BlackElo": "2350",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 5,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Takker",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2530",
+      "BlackElo": "2500",
+      "PlyCount": "85",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 85
+  },
+  {
+    "source_ordinal": 6,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Regina_H.Milch",
+      "Black": "jps7",
+      "Result": "1-0",
+      "ECO": "E10",
+      "WhiteElo": "2669",
+      "BlackElo": "2367",
+      "PlyCount": "15",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29",
+      "TimeControl": "5400+15"
+    },
+    "plies": 15
+  },
+  {
+    "source_ordinal": 7,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Ozymandias",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2556",
+      "BlackElo": "2476",
+      "PlyCount": "116",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 116
+  },
+  {
+    "source_ordinal": 8,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Mig2004 (Stockfish RW_CTG)",
+      "Black": "rafpier",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2500",
+      "BlackElo": "2500",
+      "PlyCount": "121",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 121
+  },
+  {
+    "source_ordinal": 9,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "MiG29",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2605",
+      "BlackElo": "2419",
+      "PlyCount": "105",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 105
+  },
+  {
+    "source_ordinal": 10,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "LordSirKnight",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2580",
+      "BlackElo": "2450",
+      "PlyCount": "138",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 138
+  },
+  {
+    "source_ordinal": 11,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Intagrand",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "E94",
+      "WhiteElo": "2613",
+      "BlackElo": "2393",
+      "PlyCount": "165",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 165
+  },
+  {
+    "source_ordinal": 12,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Idol99",
+      "Black": "ocirema (Stockfish 14020408, _x64 modern sse)",
+      "Result": "1/2-1/2",
+      "ECO": "B96",
+      "WhiteElo": "2611",
+      "BlackElo": "2400",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 13,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "FrauHolle (Houdini 4 Pro, x64B_CTG)",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2547",
+      "BlackElo": "2500",
+      "PlyCount": "164",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 164
+  },
+  {
+    "source_ordinal": 14,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "EtaoinShrdlu",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "C67",
+      "WhiteElo": "2624",
+      "BlackElo": "2378",
+      "PlyCount": "94",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 94
+  },
+  {
+    "source_ordinal": 15,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.04",
+      "Round": "1",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "C78",
+      "WhiteElo": "2549",
+      "BlackElo": "2500",
+      "PlyCount": "112",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 112
+  },
+  {
+    "source_ordinal": 16,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "olivierevan",
+      "Black": "Intagrand",
+      "Result": "0-1",
+      "ECO": "D00",
+      "WhiteElo": "2378",
+      "BlackElo": "2613",
+      "PlyCount": "120",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 120
+  },
+  {
+    "source_ordinal": 17,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "ocirema",
+      "Black": "MiG29",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2400",
+      "BlackElo": "2605",
+      "PlyCount": "112",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 112
+  },
+  {
+    "source_ordinal": 18,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "newton296",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2455",
+      "BlackElo": "2566",
+      "PlyCount": "87",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 87
+  },
+  {
+    "source_ordinal": 19,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "maximus",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "A20",
+      "WhiteElo": "2483",
+      "BlackElo": "2549",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 20,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "jobboy",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "B06",
+      "WhiteElo": "2501",
+      "BlackElo": "2500",
+      "PlyCount": "165",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 165
+  },
+  {
+    "source_ordinal": 21,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2476",
+      "BlackElo": "2549",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 22,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2683",
+      "BlackElo": "2669",
+      "PlyCount": "159",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 159
+  },
+  {
+    "source_ordinal": 23,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Victorious, (StockfishRW2014020",
+      "Black": "Ozymandias",
+      "Result": "0-1",
+      "ECO": "C84",
+      "WhiteElo": "2470",
+      "BlackElo": "2556",
+      "PlyCount": "132",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 132
+  },
+  {
+    "source_ordinal": 24,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Thomas_A_Anderson",
+      "Black": "FrauHolle (Houdini 4 Pro, x64B_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "D81",
+      "WhiteElo": "2502",
+      "BlackElo": "2545",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 25,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Sunnytown",
+      "Black": "rafpier",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2500",
+      "PlyCount": "107",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 107
+  },
+  {
+    "source_ordinal": 26,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Sun_Zhu",
+      "Black": "Takker",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2500",
+      "BlackElo": "2530",
+      "PlyCount": "0",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29",
+      "TimeControl": "5400+15"
+    },
+    "plies": 0
+  },
+  {
+    "source_ordinal": 27,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Stabiloboss",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2528",
+      "BlackElo": "2624",
+      "PlyCount": "72",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 72
+  },
+  {
+    "source_ordinal": 28,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Paul (Komodo-tcecr-64bit)",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "A84",
+      "WhiteElo": "2450",
+      "BlackElo": "2580",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 29,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Neutrino",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B30",
+      "WhiteElo": "2393",
+      "BlackElo": "2611",
+      "PlyCount": "96",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 96
+  },
+  {
+    "source_ordinal": 30,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.06",
+      "Round": "2",
+      "White": "Erdo",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2419",
+      "BlackElo": "2596",
+      "PlyCount": "168",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 168
+  },
+  {
+    "source_ordinal": 31,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "rafpier",
+      "Black": "jobboy",
+      "Result": "0-1",
+      "ECO": "D10",
+      "WhiteElo": "2500",
+      "BlackElo": "2533",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 32,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "mateinfour",
+      "Black": "Victorious, (StockfishRW2014020",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2552",
+      "BlackElo": "2470",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 33,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "flyingfatman",
+      "Black": "ocirema (Stockfish 14020408, _x64 modern sse)",
+      "Result": "1-0",
+      "ECO": "C90",
+      "WhiteElo": "2596",
+      "BlackElo": "2400",
+      "PlyCount": "187",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 187
+  },
+  {
+    "source_ordinal": 34,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "deepthroat",
+      "Black": "Paul (Houdini 4 Pro x64b)",
+      "Result": "1-0",
+      "ECO": "C63",
+      "WhiteElo": "2562",
+      "BlackElo": "2450",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 35,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Takker",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "E10",
+      "WhiteElo": "2529",
+      "BlackElo": "2504",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 36,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Regina_H.Milch",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "A05",
+      "WhiteElo": "2669",
+      "BlackElo": "2350",
+      "PlyCount": "105",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 105
+  },
+  {
+    "source_ordinal": 37,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Ozymandias",
+      "Black": "newton296",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2556",
+      "BlackElo": "2459",
+      "PlyCount": "83",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 83
+  },
+  {
+    "source_ordinal": 38,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Mig2004 (Stockfish_473CORE2)",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "C78",
+      "WhiteElo": "2500",
+      "BlackElo": "2500",
+      "PlyCount": "175",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 175
+  },
+  {
+    "source_ordinal": 39,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "MiG29",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "B12",
+      "WhiteElo": "2605",
+      "BlackElo": "2393",
+      "PlyCount": "74",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 74
+  },
+  {
+    "source_ordinal": 40,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "LordSirKnight",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "C67",
+      "WhiteElo": "2580",
+      "BlackElo": "2419",
+      "PlyCount": "115",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 115
+  },
+  {
+    "source_ordinal": 41,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Intagrand",
+      "Black": "Stabiloboss",
+      "Result": "1-0",
+      "WhiteElo": "2613",
+      "BlackElo": "2528",
+      "PlyCount": "1",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29",
+      "TimeControl": "5400+15"
+    },
+    "plies": 1
+  },
+  {
+    "source_ordinal": 42,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Idol99",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B75",
+      "WhiteElo": "2611",
+      "BlackElo": "2378",
+      "PlyCount": "139",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 139
+  },
+  {
+    "source_ordinal": 43,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "FrauHolle (Houdini 4 Pro, x64B_CTG)",
+      "Black": "maximus",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2543",
+      "BlackElo": "2486",
+      "PlyCount": "148",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 148
+  },
+  {
+    "source_ordinal": 44,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "EtaoinShrdlu",
+      "Black": "Zorchamp (Cryptic Cyclone2.7)",
+      "Result": "1-0",
+      "ECO": "C10",
+      "WhiteElo": "2624",
+      "BlackElo": "2683",
+      "PlyCount": "138",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 138
+  },
+  {
+    "source_ordinal": 45,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.08",
+      "Round": "?",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1-0",
+      "ECO": "C02",
+      "WhiteElo": "2549",
+      "BlackElo": "2476",
+      "PlyCount": "185",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 185
+  },
+  {
+    "source_ordinal": 46,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "olivierevan",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2378",
+      "BlackElo": "2605",
+      "PlyCount": "106",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 106
+  },
+  {
+    "source_ordinal": 47,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "ocirema",
+      "Black": "LordSirKnight",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2400",
+      "BlackElo": "2580",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 48,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "newton296",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2432",
+      "BlackElo": "2542",
+      "PlyCount": "88",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 88
+  },
+  {
+    "source_ordinal": 49,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "maximus",
+      "Black": "Takker",
+      "Result": "1-0",
+      "ECO": "E00",
+      "WhiteElo": "2518",
+      "BlackElo": "2528",
+      "PlyCount": "57",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 57
+  },
+  {
+    "source_ordinal": 50,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "FrauHolle (Stockfish 14020920",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2476",
+      "BlackElo": "2547",
+      "PlyCount": "124",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 124
+  },
+  {
+    "source_ordinal": 51,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2683",
+      "BlackElo": "2613",
+      "PlyCount": "76",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 76
+  },
+  {
+    "source_ordinal": 52,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Victorious, (StockfishRW2014020",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C84",
+      "WhiteElo": "2470",
+      "BlackElo": "2549",
+      "PlyCount": "242",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 242
+  },
+  {
+    "source_ordinal": 53,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Thomas_A_Anderson",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "A50",
+      "WhiteElo": "2505",
+      "BlackElo": "2500",
+      "PlyCount": "74",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 74
+  },
+  {
+    "source_ordinal": 54,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Sunnytown",
+      "Black": "jobboy",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2563",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 55,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Sun_Zhu",
+      "Black": "rafpier",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2500",
+      "PlyCount": "104",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 104
+  },
+  {
+    "source_ordinal": 56,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Stabiloboss",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B30",
+      "WhiteElo": "2528",
+      "BlackElo": "2611",
+      "PlyCount": "129",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 129
+  },
+  {
+    "source_ordinal": 57,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Regina_H.Milch",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2669",
+      "BlackElo": "2624",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 58,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Paul (Komodo-tcecr-64bit)",
+      "Black": "Ozymandias",
+      "Result": "1-0",
+      "ECO": "E10",
+      "WhiteElo": "2450",
+      "BlackElo": "2556",
+      "PlyCount": "109",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 109
+  },
+  {
+    "source_ordinal": 59,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Neutrino",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2393",
+      "BlackElo": "2596",
+      "PlyCount": "160",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 160
+  },
+  {
+    "source_ordinal": 60,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.11",
+      "Round": "?",
+      "White": "Erdo",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2419",
+      "BlackElo": "2590",
+      "PlyCount": "135",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 135
+  },
+  {
+    "source_ordinal": 61,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "rafpier",
+      "Black": "Thomas_A_Anderson",
+      "Result": "0-1",
+      "ECO": "D10",
+      "WhiteElo": "2500",
+      "BlackElo": "2504",
+      "PlyCount": "120",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 120
+  },
+  {
+    "source_ordinal": 62,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "mateinfour",
+      "Black": "Paul (Komodo-tcecr-64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "A11",
+      "WhiteElo": "2538",
+      "BlackElo": "2450",
+      "PlyCount": "100",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 100
+  },
+  {
+    "source_ordinal": 63,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "jobboy",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "C55",
+      "WhiteElo": "2585",
+      "BlackElo": "2500",
+      "PlyCount": "147",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 147
+  },
+  {
+    "source_ordinal": 64,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "flyingfatman",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "B43",
+      "WhiteElo": "2596",
+      "BlackElo": "2378",
+      "PlyCount": "135",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 135
+  },
+  {
+    "source_ordinal": 65,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "deepthroat",
+      "Black": "ocirema",
+      "Result": "1-0",
+      "ECO": "C90",
+      "WhiteElo": "2584",
+      "BlackElo": "2400",
+      "PlyCount": "135",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 135
+  },
+  {
+    "source_ordinal": 66,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Takker",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1-0",
+      "ECO": "C02",
+      "WhiteElo": "2496",
+      "BlackElo": "2476",
+      "PlyCount": "201",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 201
+  },
+  {
+    "source_ordinal": 67,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Ozymandias",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E60",
+      "WhiteElo": "2556",
+      "BlackElo": "2419",
+      "PlyCount": "155",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 155
+  },
+  {
+    "source_ordinal": 68,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Mig2004",
+      "Black": "maximus",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2500",
+      "BlackElo": "2550",
+      "PlyCount": "204",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 204
+  },
+  {
+    "source_ordinal": 69,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "MiG29",
+      "Black": "Stabiloboss",
+      "Result": "1/2-1/2",
+      "ECO": "C42",
+      "WhiteElo": "2605",
+      "BlackElo": "2528",
+      "PlyCount": "139",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 139
+  },
+  {
+    "source_ordinal": 70,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "LordSirKnight",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2580",
+      "BlackElo": "2393",
+      "PlyCount": "123",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 123
+  },
+  {
+    "source_ordinal": 71,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Intagrand",
+      "Black": "Regina_H.Milch",
+      "Result": "1-0",
+      "ECO": "C90",
+      "WhiteElo": "2613",
+      "BlackElo": "2669",
+      "PlyCount": "157",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 157
+  },
+  {
+    "source_ordinal": 72,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Idol99",
+      "Black": "Zorchamp (Cryptic Cyclone2.7)",
+      "Result": "1-0",
+      "ECO": "C10",
+      "WhiteElo": "2611",
+      "BlackElo": "2683",
+      "PlyCount": "153",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 153
+  },
+  {
+    "source_ordinal": 73,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "FrauHolle",
+      "Black": "Victorious[StockfishRW2014021",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2547",
+      "BlackElo": "2470",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 74,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "EtaoinShrdlu",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "B00",
+      "WhiteElo": "2624",
+      "BlackElo": "2350",
+      "PlyCount": "75",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 75
+  },
+  {
+    "source_ordinal": 75,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.13",
+      "Round": "?",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2549",
+      "BlackElo": "2436",
+      "PlyCount": "47",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 47
+  },
+  {
+    "source_ordinal": 76,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "olivierevan",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2378",
+      "BlackElo": "2580",
+      "PlyCount": "220",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 220
+  },
+  {
+    "source_ordinal": 77,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "ocirema",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2400",
+      "BlackElo": "2556",
+      "PlyCount": "116",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 116
+  },
+  {
+    "source_ordinal": 78,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "newton296",
+      "Black": "FrauHolle",
+      "Result": "1/2-1/2",
+      "ECO": "D10",
+      "WhiteElo": "2441",
+      "BlackElo": "2547",
+      "PlyCount": "94",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 94
+  },
+  {
+    "source_ordinal": 79,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "maximus",
+      "Black": "rafpier",
+      "Result": "1-0",
+      "ECO": "A17",
+      "WhiteElo": "2579",
+      "BlackElo": "2500",
+      "PlyCount": "103",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 103
+  },
+  {
+    "source_ordinal": 80,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2476",
+      "BlackElo": "2500",
+      "PlyCount": "133",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 133
+  },
+  {
+    "source_ordinal": 81,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2683",
+      "BlackElo": "2605",
+      "PlyCount": "104",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 104
+  },
+  {
+    "source_ordinal": 82,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Victorious",
+      "Black": "Takker",
+      "Result": "1-0",
+      "ECO": "C88",
+      "WhiteElo": "2470",
+      "BlackElo": "2526",
+      "PlyCount": "133",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 133
+  },
+  {
+    "source_ordinal": 83,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Thomas_A_Anderson",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2534",
+      "BlackElo": "2581",
+      "PlyCount": "169",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 169
+  },
+  {
+    "source_ordinal": 84,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Sunnytown",
+      "Black": "Sun_Zhu",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2350",
+      "BlackElo": "2500",
+      "PlyCount": "0",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 0
+  },
+  {
+    "source_ordinal": 85,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "A46",
+      "WhiteElo": "2538",
+      "BlackElo": "2596",
+      "PlyCount": "177",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 177
+  },
+  {
+    "source_ordinal": 86,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Regina_H.Milch",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B33",
+      "WhiteElo": "2669",
+      "BlackElo": "2611",
+      "PlyCount": "73",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 73
+  },
+  {
+    "source_ordinal": 87,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Paul (Komodo-tcecr-64bit)",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2450",
+      "BlackElo": "2549",
+      "PlyCount": "110",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 110
+  },
+  {
+    "source_ordinal": 88,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Neutrino",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2393",
+      "BlackElo": "2608",
+      "PlyCount": "121",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 121
+  },
+  {
+    "source_ordinal": 89,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "EtaoinShrdlu",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "C80",
+      "WhiteElo": "2624",
+      "BlackElo": "2613",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 90,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.15",
+      "Round": "?",
+      "White": "Erdo",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "C70",
+      "WhiteElo": "2419",
+      "BlackElo": "2535",
+      "PlyCount": "230",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 230
+  },
+  {
+    "source_ordinal": 91,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "rafpier",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2500",
+      "BlackElo": "2476",
+      "PlyCount": "0",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 0
+  },
+  {
+    "source_ordinal": 92,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "mateinfour",
+      "Black": "ocirema",
+      "Result": "1/2-1/2",
+      "ECO": "A20",
+      "WhiteElo": "2532",
+      "BlackElo": "2400",
+      "PlyCount": "63",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 63
+  },
+  {
+    "source_ordinal": 93,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "jobboy",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2579",
+      "BlackElo": "2605",
+      "PlyCount": "119",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 119
+  },
+  {
+    "source_ordinal": 94,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "7",
+      "White": "flyingfatman",
+      "Black": "Zorchamp (Cryptic Cyclone2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2596",
+      "BlackElo": "2683",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 95,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "deepthroat",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "B40",
+      "WhiteElo": "2597",
+      "BlackElo": "2378",
+      "PlyCount": "100",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 100
+  },
+  {
+    "source_ordinal": 96,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Takker",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "E01",
+      "WhiteElo": "2494",
+      "BlackElo": "2445",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 97,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Sun_Zhu",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "B96",
+      "WhiteElo": "2500",
+      "BlackElo": "2536",
+      "PlyCount": "53",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 53
+  },
+  {
+    "source_ordinal": 98,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Ozymandias",
+      "Black": "Neutrino",
+      "Result": "1/2-1/2",
+      "ECO": "B12",
+      "WhiteElo": "2556",
+      "BlackElo": "2393",
+      "PlyCount": "128",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 128
+  },
+  {
+    "source_ordinal": 99,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Mig2004",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "A06",
+      "WhiteElo": "2500",
+      "BlackElo": "2470",
+      "PlyCount": "66",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 66
+  },
+  {
+    "source_ordinal": 100,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "MiG29",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "B50",
+      "WhiteElo": "2605",
+      "BlackElo": "2669",
+      "PlyCount": "159",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 159
+  },
+  {
+    "source_ordinal": 101,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "LordSirKnight",
+      "Black": "Stabiloboss (Houdini 4 Pro, _ x64B)",
+      "Result": "1/2-1/2",
+      "ECO": "B07",
+      "WhiteElo": "2580",
+      "BlackElo": "2528",
+      "PlyCount": "72",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 72
+  },
+  {
+    "source_ordinal": 102,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Intagrand",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "A05",
+      "WhiteElo": "2613",
+      "BlackElo": "2350",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 103,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "Idol99",
+      "Black": "EtaoinShrdlu",
+      "Result": "0-1",
+      "ECO": "B97",
+      "WhiteElo": "2611",
+      "BlackElo": "2624",
+      "PlyCount": "94",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 94
+  },
+  {
+    "source_ordinal": 104,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "?",
+      "White": "FrauHolle",
+      "Black": "Paul (StockFishRW_20140216, (NOAVX))",
+      "Result": "0-1",
+      "ECO": "C88",
+      "WhiteElo": "2547",
+      "BlackElo": "2450",
+      "PlyCount": "82",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 82
+  },
+  {
+    "source_ordinal": 105,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.18",
+      "Round": "7",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2549",
+      "BlackElo": "2419",
+      "PlyCount": "136",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 136
+  },
+  {
+    "source_ordinal": 106,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "olivierevan",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2378",
+      "BlackElo": "2556",
+      "PlyCount": "115",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 115
+  },
+  {
+    "source_ordinal": 107,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "ocirema",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2400",
+      "BlackElo": "2549",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 108,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "newton296",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "E00",
+      "WhiteElo": "2447",
+      "BlackElo": "2500",
+      "PlyCount": "94",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 94
+  },
+  {
+    "source_ordinal": 109,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "maximus",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "A20",
+      "WhiteElo": "2604",
+      "BlackElo": "2500",
+      "PlyCount": "155",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 155
+  },
+  {
+    "source_ordinal": 110,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "jobboy",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2476",
+      "BlackElo": "2580",
+      "PlyCount": "149",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 149
+  },
+  {
+    "source_ordinal": 111,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2683",
+      "BlackElo": "2580",
+      "PlyCount": "47",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 47
+  },
+  {
+    "source_ordinal": 112,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Victorious",
+      "Black": "funvillage",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2470",
+      "BlackElo": "2434",
+      "PlyCount": "82",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 82
+  },
+  {
+    "source_ordinal": 113,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Sunnytown",
+      "Black": "Thomas_A_Anderson",
+      "Result": "0-1",
+      "ECO": "B20",
+      "WhiteElo": "2350",
+      "BlackElo": "2535",
+      "PlyCount": "62",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 62
+  },
+  {
+    "source_ordinal": 114,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D10",
+      "WhiteElo": "2540",
+      "BlackElo": "2588",
+      "PlyCount": "59",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 59
+  },
+  {
+    "source_ordinal": 115,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Regina_H.Milch",
+      "Black": "flyingfatman",
+      "Result": "1-0",
+      "ECO": "C67",
+      "WhiteElo": "2669",
+      "BlackElo": "2596",
+      "PlyCount": "127",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 127
+  },
+  {
+    "source_ordinal": 116,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Paul (StockFishRW_20140216, (NOAVX))",
+      "Black": "Takker",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2450",
+      "BlackElo": "2492",
+      "PlyCount": "87",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 87
+  },
+  {
+    "source_ordinal": 117,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Neutrino",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "A40",
+      "WhiteElo": "2393",
+      "BlackElo": "2526",
+      "PlyCount": "101",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 101
+  },
+  {
+    "source_ordinal": 118,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Intagrand",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2613",
+      "BlackElo": "2611",
+      "PlyCount": "86",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 86
+  },
+  {
+    "source_ordinal": 119,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "EtaoinShrdlu",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2624",
+      "BlackElo": "2605",
+      "PlyCount": "47",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 47
+  },
+  {
+    "source_ordinal": 120,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.20",
+      "Round": "?",
+      "White": "Erdo",
+      "Black": "FrauHolle (StockFishRW_, 20140220 (NOAVX))",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2419",
+      "BlackElo": "2547",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 121,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "mateinfour",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2519",
+      "BlackElo": "2378",
+      "PlyCount": "137",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 137
+  },
+  {
+    "source_ordinal": 122,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "jobboy",
+      "Black": "Victorious",
+      "Result": "0-1",
+      "ECO": "C84",
+      "WhiteElo": "2548",
+      "BlackElo": "2470",
+      "PlyCount": "137",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 137
+  },
+  {
+    "source_ordinal": 123,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "funvillage",
+      "Black": "newton296 (StockfishRWx64 CTG)",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2434",
+      "BlackElo": "2450",
+      "PlyCount": "154",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 154
+  },
+  {
+    "source_ordinal": 124,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "flyingfatman",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2596",
+      "BlackElo": "2624",
+      "PlyCount": "72",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 72
+  },
+  {
+    "source_ordinal": 125,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "deepthroat",
+      "Black": "Zorchamp (Cryptic Cyclone2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2586",
+      "BlackElo": "2683",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 126,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Thomas_A_Anderson",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "A50",
+      "WhiteElo": "2556",
+      "BlackElo": "2601",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 127,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Takker",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E60",
+      "WhiteElo": "2524",
+      "BlackElo": "2419",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 128,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Sun_Zhu",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2500",
+      "BlackElo": "2476",
+      "PlyCount": "97",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 97
+  },
+  {
+    "source_ordinal": 129,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Ozymandias",
+      "Black": "Stabiloboss",
+      "Result": "1/2-1/2",
+      "ECO": "C43",
+      "WhiteElo": "2556",
+      "BlackElo": "2528",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 130,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Mig2004",
+      "Black": "Paul (Stockfish 210214IPx64, SSE4.2)",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2500",
+      "BlackElo": "2450",
+      "PlyCount": "96",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 96
+  },
+  {
+    "source_ordinal": 131,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "MiG29",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2605",
+      "BlackElo": "2613",
+      "PlyCount": "70",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 70
+  },
+  {
+    "source_ordinal": 132,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "LordSirKnight",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2580",
+      "BlackElo": "2669",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 133,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Idol99",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "C42",
+      "WhiteElo": "2611",
+      "BlackElo": "2350",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 134,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "FrauHolle (Stockfish_syzygy_, 14022101_x64sse42CT",
+      "Black": "ocirema",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2547",
+      "BlackElo": "2400",
+      "PlyCount": "169",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 169
+  },
+  {
+    "source_ordinal": 135,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.22",
+      "Round": "?",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Neutrino",
+      "Result": "1/2-1/2",
+      "ECO": "B04",
+      "WhiteElo": "2549",
+      "BlackElo": "2393",
+      "PlyCount": "127",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 127
+  },
+  {
+    "source_ordinal": 136,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "olivierevan",
+      "Black": "Donkasand",
+      "Result": "1/2-1/2",
+      "ECO": "B97",
+      "WhiteElo": "2378",
+      "BlackElo": "2549",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 137,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "ocirema",
+      "Black": "Takker",
+      "Result": "1/2-1/2",
+      "ECO": "E48",
+      "WhiteElo": "2400",
+      "BlackElo": "2521",
+      "PlyCount": "92",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 92
+  },
+  {
+    "source_ordinal": 138,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "newton296",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2478",
+      "BlackElo": "2516",
+      "PlyCount": "108",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 108
+  },
+  {
+    "source_ordinal": 139,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "A06",
+      "WhiteElo": "2476",
+      "BlackElo": "2558",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 140,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2683",
+      "BlackElo": "2556",
+      "PlyCount": "106",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 106
+  },
+  {
+    "source_ordinal": 141,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Victorious",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2470",
+      "BlackElo": "2500",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 142,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Sunnytown",
+      "Black": "maximus",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2599",
+      "PlyCount": "108",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 108
+  },
+  {
+    "source_ordinal": 143,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Stabiloboss (Stockfish_syzygy, 14022101_x64_sse42)",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "C39",
+      "WhiteElo": "2528",
+      "BlackElo": "2546",
+      "PlyCount": "156",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 156
+  },
+  {
+    "source_ordinal": 144,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Regina_H.Milch",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2669",
+      "BlackElo": "2589",
+      "PlyCount": "100",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 100
+  },
+  {
+    "source_ordinal": 145,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Paul (Stockfish 210212IP x64, SSe4.2)",
+      "Black": "funvillage",
+      "Result": "1-0",
+      "ECO": "C90",
+      "WhiteElo": "2450",
+      "BlackElo": "2434",
+      "PlyCount": "107",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 107
+  },
+  {
+    "source_ordinal": 146,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Neutrino",
+      "Black": "FrauHolle (Stockfish IPman, SE2 x64a SSE4.2_CTG",
+      "Result": "1/2-1/2",
+      "ECO": "D70",
+      "WhiteElo": "2393",
+      "BlackElo": "2547",
+      "PlyCount": "59",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 59
+  },
+  {
+    "source_ordinal": 147,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Intagrand",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "A23",
+      "WhiteElo": "2613",
+      "BlackElo": "2596",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 148,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Idol99",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "B97",
+      "WhiteElo": "2611",
+      "BlackElo": "2605",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 149,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "EtaoinShrdlu",
+      "Black": "LordSirKnight",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2624",
+      "BlackElo": "2580",
+      "PlyCount": "127",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 127
+  },
+  {
+    "source_ordinal": 150,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.25",
+      "Round": "?",
+      "White": "Erdo",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "B33",
+      "WhiteElo": "2419",
+      "BlackElo": "2500",
+      "PlyCount": "163",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 163
+  },
+  {
+    "source_ordinal": 151,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "maximus",
+      "Black": "akhtar  (Cryptic Heroes 1.0)",
+      "Result": "1-0",
+      "ECO": "C02",
+      "WhiteElo": "2617",
+      "BlackElo": "2476",
+      "PlyCount": "171",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 171
+  },
+  {
+    "source_ordinal": 152,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "mateinfour",
+      "Black": "Zorchamp (Cryptic Heroes 1.0)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2546",
+      "BlackElo": "2668",
+      "PlyCount": "96",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 96
+  },
+  {
+    "source_ordinal": 153,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "jobboy",
+      "Black": "Paul (Komodo-tcecr-64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2514",
+      "BlackElo": "2450",
+      "PlyCount": "133",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 133
+  },
+  {
+    "source_ordinal": 154,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "funvillage",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E61",
+      "WhiteElo": "2434",
+      "BlackElo": "2419",
+      "PlyCount": "139",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 139
+  },
+  {
+    "source_ordinal": 155,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "flyingfatman",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B30",
+      "WhiteElo": "2596",
+      "BlackElo": "2611",
+      "PlyCount": "121",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 121
+  },
+  {
+    "source_ordinal": 156,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "deepthroat",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2593",
+      "BlackElo": "2624",
+      "PlyCount": "97",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 97
+  },
+  {
+    "source_ordinal": 157,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Thomas_A_Anderson",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "D44",
+      "WhiteElo": "2555",
+      "BlackElo": "2470",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 158,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Takker",
+      "Black": "Neutrino",
+      "Result": "1/2-1/2",
+      "ECO": "B12",
+      "WhiteElo": "2516",
+      "BlackElo": "2393",
+      "PlyCount": "71",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 71
+  },
+  {
+    "source_ordinal": 159,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Sun_Zhu",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2480",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 160,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Ozymandias",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2556",
+      "BlackElo": "2669",
+      "PlyCount": "132",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 132
+  },
+  {
+    "source_ordinal": 161,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Mig2004",
+      "Black": "ocirema",
+      "Result": "1/2-1/2",
+      "ECO": "A23",
+      "WhiteElo": "2500",
+      "BlackElo": "2400",
+      "PlyCount": "74",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 74
+  },
+  {
+    "source_ordinal": 162,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "MiG29",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "D70",
+      "WhiteElo": "2605",
+      "BlackElo": "2350",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 163,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "LordSirKnight",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2580",
+      "BlackElo": "2613",
+      "PlyCount": "170",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 170
+  },
+  {
+    "source_ordinal": 164,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "FrauHolle (Stockfish IPman, SE2 x64a SSE4.2_CTG",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "C70",
+      "WhiteElo": "2547",
+      "BlackElo": "2378",
+      "PlyCount": "92",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 92
+  },
+  {
+    "source_ordinal": 165,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.02.27",
+      "Round": "?",
+      "White": "Donkasand",
+      "Black": "Stabiloboss (Stockfish_syzygy, 14022223 x64)",
+      "Result": "1-0",
+      "ECO": "B07",
+      "WhiteElo": "2549",
+      "BlackElo": "2528",
+      "PlyCount": "50",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 50
+  },
+  {
+    "source_ordinal": 166,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "olivierevan",
+      "Black": "Takker",
+      "Result": "1/2-1/2",
+      "ECO": "A45",
+      "WhiteElo": "2378",
+      "BlackElo": "2511",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 167,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "ocirema",
+      "Black": "funvillage",
+      "Result": "1/2-1/2",
+      "ECO": "B96",
+      "WhiteElo": "2400",
+      "BlackElo": "2434",
+      "PlyCount": "98",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 98
+  },
+  {
+    "source_ordinal": 168,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "newton296",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2482",
+      "BlackElo": "2552",
+      "PlyCount": "78",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 78
+  },
+  {
+    "source_ordinal": 169,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Zorchamp (Cryptic Cyclone2.7)",
+      "Black": "Donkasand",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2683",
+      "BlackElo": "2549",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 170,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Victorious",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2470",
+      "BlackElo": "2644",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 171,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Black": "FrauHolle (Stockfish IPman, SE2 x64a SSE4.2_CTG",
+      "Result": "1-0",
+      "ECO": "D80",
+      "WhiteElo": "2510",
+      "BlackElo": "2547",
+      "PlyCount": "119",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 119
+  },
+  {
+    "source_ordinal": 172,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Regina_H.Milch",
+      "Black": "mateinfour",
+      "Result": "1-0",
+      "ECO": "C70",
+      "WhiteElo": "2669",
+      "BlackElo": "2550",
+      "PlyCount": "173",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 173
+  },
+  {
+    "source_ordinal": 173,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Paul (Stockfish 130214IP_, x64 SSE4.2)",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2450",
+      "BlackElo": "2500",
+      "PlyCount": "78",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 78
+  },
+  {
+    "source_ordinal": 174,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Neutrino",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "B28",
+      "WhiteElo": "2393",
+      "BlackElo": "2500",
+      "PlyCount": "82",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 82
+  },
+  {
+    "source_ordinal": 175,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "MiG29",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "1-0",
+      "ECO": "C88",
+      "WhiteElo": "2605",
+      "BlackElo": "2596",
+      "PlyCount": "127",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 127
+  },
+  {
+    "source_ordinal": 176,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Intagrand",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2613",
+      "BlackElo": "2598",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 177,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Idol99",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2611",
+      "BlackElo": "2580",
+      "PlyCount": "92",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 92
+  },
+  {
+    "source_ordinal": 178,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "EtaoinShrdlu",
+      "Black": "Ozymandias",
+      "Result": "0-1",
+      "ECO": "C24",
+      "WhiteElo": "2624",
+      "BlackElo": "2556",
+      "PlyCount": "117",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 117
+  },
+  {
+    "source_ordinal": 179,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.01",
+      "Round": "12",
+      "White": "Erdo",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "B55",
+      "WhiteElo": "2419",
+      "BlackElo": "2515",
+      "PlyCount": "141",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 141
+  },
+  {
+    "source_ordinal": 180,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.02",
+      "Round": "12",
+      "White": "Sunnytown",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2350",
+      "BlackElo": "2476",
+      "PlyCount": "330",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 330
+  },
+  {
+    "source_ordinal": 181,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "maximus",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "E20",
+      "WhiteElo": "2638",
+      "BlackElo": "2485",
+      "PlyCount": "137",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 137
+  },
+  {
+    "source_ordinal": 182,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "mateinfour",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2523",
+      "BlackElo": "2624",
+      "PlyCount": "70",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 70
+  },
+  {
+    "source_ordinal": 183,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "jobboy",
+      "Black": "ocirema (Andromeda_C03_CTG)",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2513",
+      "BlackElo": "2400",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 184,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "funvillage (StockfishRWx64CTG",
+      "Black": "Neutrino (StockFishRW)",
+      "Result": "1/2-1/2",
+      "ECO": "A90",
+      "WhiteElo": "2434",
+      "BlackElo": "2393",
+      "PlyCount": "50",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 50
+  },
+  {
+    "source_ordinal": 185,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "flyingfatman",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "A05",
+      "WhiteElo": "2596",
+      "BlackElo": "2350",
+      "PlyCount": "109",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 109
+  },
+  {
+    "source_ordinal": 186,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "deepthroat",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B29",
+      "WhiteElo": "2602",
+      "BlackElo": "2611",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 187,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "akhtar (CrypticCyclone 2.7)",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "A00",
+      "WhiteElo": "2476",
+      "BlackElo": "2470",
+      "PlyCount": "85",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 85
+  },
+  {
+    "source_ordinal": 188,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Thomas_A_Anderson",
+      "Black": "Paul (Komodo-tcecr-64bit)",
+      "Result": "1-0",
+      "ECO": "D20",
+      "WhiteElo": "2549",
+      "BlackElo": "2450",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 189,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Takker",
+      "Black": "Stabiloboss",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2506",
+      "BlackElo": "2528",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 190,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Sun_Zhu",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E97",
+      "WhiteElo": "2500",
+      "BlackElo": "2419",
+      "PlyCount": "119",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 119
+  },
+  {
+    "source_ordinal": 191,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Ozymandias",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "B94",
+      "WhiteElo": "2556",
+      "BlackElo": "2613",
+      "PlyCount": "126",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 126
+  },
+  {
+    "source_ordinal": 192,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Mig2004 (Stockfish_syzygy, _14030215_x64_sse42)",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "B32",
+      "WhiteElo": "2500",
+      "BlackElo": "2378",
+      "PlyCount": "132",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 132
+  },
+  {
+    "source_ordinal": 193,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "LordSirKnight",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2580",
+      "BlackElo": "2605",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 194,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "FrauHolle (Stockfish syzygy_, 14030322_x64_sse42)",
+      "Black": "Zorchamp (Cryptic Cyclone2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2547",
+      "BlackElo": "2683",
+      "PlyCount": "95",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 95
+  },
+  {
+    "source_ordinal": 195,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.04",
+      "Round": "13",
+      "White": "Donkasand",
+      "Black": "Regina_H.Milch",
+      "Result": "0-1",
+      "ECO": "C88",
+      "WhiteElo": "2549",
+      "BlackElo": "2669",
+      "PlyCount": "103",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 103
+  },
+  {
+    "source_ordinal": 196,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "olivierevan",
+      "Black": "funvillage (StockfishRWx64CTG",
+      "Result": "1/2-1/2",
+      "ECO": "B95",
+      "WhiteElo": "2378",
+      "BlackElo": "2434",
+      "PlyCount": "176",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 176
+  },
+  {
+    "source_ordinal": 197,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "ocirema",
+      "Black": "Sun_Zhu",
+      "Result": "0-1",
+      "ECO": "C58",
+      "WhiteElo": "2400",
+      "BlackElo": "2500",
+      "PlyCount": "83",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 83
+  },
+  {
+    "source_ordinal": 198,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "newton296",
+      "Black": "akhtar (CrypticCyclone 2.7)",
+      "Result": "1/2-1/2",
+      "ECO": "C02",
+      "WhiteElo": "2491",
+      "BlackElo": "2476",
+      "PlyCount": "131",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 131
+  },
+  {
+    "source_ordinal": 199,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "flyingfatman",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2596",
+      "BlackElo": "2580",
+      "PlyCount": "124",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 124
+  },
+  {
+    "source_ordinal": 200,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "Takker",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2668",
+      "BlackElo": "2507",
+      "PlyCount": "133",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 133
+  },
+  {
+    "source_ordinal": 201,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Sunnytown",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2470",
+      "PlyCount": "128",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 128
+  },
+  {
+    "source_ordinal": 202,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Stabiloboss",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "B06",
+      "WhiteElo": "2528",
+      "BlackElo": "2500",
+      "PlyCount": "206",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 206
+  },
+  {
+    "source_ordinal": 203,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Regina_H.Milch",
+      "Black": "FrauHolle (Stockfish 14030508, x64_sse42_CTG)",
+      "Result": "1-0",
+      "ECO": "D30",
+      "WhiteElo": "2669",
+      "BlackElo": "2547",
+      "PlyCount": "163",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 163
+  },
+  {
+    "source_ordinal": 204,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Paul",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2450",
+      "BlackElo": "2632",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 205,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Neutrino",
+      "Black": "jobboy (StockfishRW)",
+      "Result": "1/2-1/2",
+      "ECO": "B94",
+      "WhiteElo": "2393",
+      "BlackElo": "2500",
+      "PlyCount": "145",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 145
+  },
+  {
+    "source_ordinal": 206,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "MiG29",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "C80",
+      "WhiteElo": "2605",
+      "BlackElo": "2602",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 207,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Intagrand",
+      "Black": "mateinfour",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2613",
+      "BlackElo": "2529",
+      "PlyCount": "123",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 123
+  },
+  {
+    "source_ordinal": 208,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Idol99",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "B97",
+      "WhiteElo": "2611",
+      "BlackElo": "2556",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 209,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "EtaoinShrdlu",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C44",
+      "WhiteElo": "2624",
+      "BlackElo": "2549",
+      "PlyCount": "108",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 108
+  },
+  {
+    "source_ordinal": 210,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.06",
+      "Round": "14",
+      "White": "Erdo",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2419",
+      "BlackElo": "2580",
+      "PlyCount": "62",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 62
+  },
+  {
+    "source_ordinal": 211,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "maximus",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E84",
+      "WhiteElo": "2627",
+      "BlackElo": "2419",
+      "PlyCount": "106",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 106
+  },
+  {
+    "source_ordinal": 212,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "mateinfour",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "A11",
+      "WhiteElo": "2503",
+      "BlackElo": "2611",
+      "PlyCount": "69",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 69
+  },
+  {
+    "source_ordinal": 213,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "jobboy (Houdini 4 Pro x64B)",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "C58",
+      "WhiteElo": "2500",
+      "BlackElo": "2378",
+      "PlyCount": "117",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 117
+  },
+  {
+    "source_ordinal": 214,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "funvillage",
+      "Black": "Stabiloboss",
+      "Result": "1/2-1/2",
+      "ECO": "B28",
+      "WhiteElo": "2434",
+      "BlackElo": "2528",
+      "PlyCount": "85",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 85
+  },
+  {
+    "source_ordinal": 215,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "deepthroat",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2605",
+      "BlackElo": "2596",
+      "PlyCount": "80",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 80
+  },
+  {
+    "source_ordinal": 216,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "Paul",
+      "Result": "1/2-1/2",
+      "ECO": "A20",
+      "WhiteElo": "2476",
+      "BlackElo": "2450",
+      "PlyCount": "135",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 135
+  },
+  {
+    "source_ordinal": 217,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Victorious",
+      "Black": "newton296 (StockfishRWx64 CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2470",
+      "BlackElo": "2450",
+      "PlyCount": "81",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 81
+  },
+  {
+    "source_ordinal": 218,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Thomas_A_Anderson",
+      "Black": "ocirema (Andromeda_C05_CTG)",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2575",
+      "BlackElo": "2400",
+      "PlyCount": "149",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 149
+  },
+  {
+    "source_ordinal": 219,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Takker",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2512",
+      "BlackElo": "2669",
+      "PlyCount": "110",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 110
+  },
+  {
+    "source_ordinal": 220,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Sun_Zhu",
+      "Black": "Neutrino (Houdini 4 Pro x64B)",
+      "Result": "1/2-1/2",
+      "ECO": "B12",
+      "WhiteElo": "2500",
+      "BlackElo": "2393",
+      "PlyCount": "84",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 84
+  },
+  {
+    "source_ordinal": 221,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Ozymandias",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "E48",
+      "WhiteElo": "2556",
+      "BlackElo": "2605",
+      "PlyCount": "78",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 78
+  },
+  {
+    "source_ordinal": 222,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Mig2004",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "A05",
+      "WhiteElo": "2500",
+      "BlackElo": "2668",
+      "PlyCount": "37",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 37
+  },
+  {
+    "source_ordinal": 223,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "LordSirKnight",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2580",
+      "BlackElo": "2350",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 224,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "FrauHolle",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2547",
+      "BlackElo": "2624",
+      "PlyCount": "75",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 75
+  },
+  {
+    "source_ordinal": 225,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.08",
+      "Round": "15",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2549",
+      "BlackElo": "2613",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 226,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "olivierevan",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "A45",
+      "WhiteElo": "2378",
+      "BlackElo": "2500",
+      "PlyCount": "163",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 163
+  },
+  {
+    "source_ordinal": 227,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "ocirema (Andromeda C10_CTG)",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2400",
+      "BlackElo": "2620",
+      "PlyCount": "219",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 219
+  },
+  {
+    "source_ordinal": 228,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "flyingfatman",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "A46",
+      "WhiteElo": "2596",
+      "BlackElo": "2556",
+      "PlyCount": "109",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 109
+  },
+  {
+    "source_ordinal": 229,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "funvillage (StockfishRWx64CTG",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2668",
+      "BlackElo": "2434",
+      "PlyCount": "35",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 35
+  },
+  {
+    "source_ordinal": 230,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Sunnytown",
+      "Black": "newton296 (StockfishRWx64 CTG)",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2450",
+      "PlyCount": "124",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 124
+  },
+  {
+    "source_ordinal": 231,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Stabiloboss",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2528",
+      "BlackElo": "2503",
+      "PlyCount": "147",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 147
+  },
+  {
+    "source_ordinal": 232,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Regina_H.Milch",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "A50",
+      "WhiteElo": "2669",
+      "BlackElo": "2500",
+      "PlyCount": "153",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 153
+  },
+  {
+    "source_ordinal": 233,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Paul",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2450",
+      "BlackElo": "2470",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 234,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Neutrino (Houdini 4 Pro x64B)",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "D12",
+      "WhiteElo": "2393",
+      "BlackElo": "2598",
+      "PlyCount": "191",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 191
+  },
+  {
+    "source_ordinal": 235,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "MiG29",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2605",
+      "BlackElo": "2507",
+      "PlyCount": "66",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 66
+  },
+  {
+    "source_ordinal": 236,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "LordSirKnight",
+      "Black": "deepthroat",
+      "Result": "0-1",
+      "ECO": "A07",
+      "WhiteElo": "2580",
+      "BlackElo": "2602",
+      "PlyCount": "104",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 104
+  },
+  {
+    "source_ordinal": 237,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Intagrand",
+      "Black": "FrauHolle (Stockfish 14031023, _sse42_CTG)",
+      "Result": "1-0",
+      "ECO": "D30",
+      "WhiteElo": "2613",
+      "BlackElo": "2547",
+      "PlyCount": "69",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 69
+  },
+  {
+    "source_ordinal": 238,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Idol99",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2611",
+      "BlackElo": "2549",
+      "PlyCount": "71",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 71
+  },
+  {
+    "source_ordinal": 239,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "EtaoinShrdlu",
+      "Black": "Takker",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2624",
+      "BlackElo": "2522",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 240,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.11",
+      "Round": "16",
+      "White": "Erdo",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C00",
+      "WhiteElo": "2419",
+      "BlackElo": "2476",
+      "PlyCount": "117",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 117
+  },
+  {
+    "source_ordinal": 241,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "newton296 (StockfishRWx64 CTG)",
+      "Black": "Paul",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2450",
+      "BlackElo": "2450",
+      "PlyCount": "253",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 253
+  },
+  {
+    "source_ordinal": 242,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "maximus",
+      "Black": "Neutrino (Houdini 4 Pro x64B)",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2550",
+      "BlackElo": "2393",
+      "PlyCount": "130",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 130
+  },
+  {
+    "source_ordinal": 243,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "mateinfour",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2513",
+      "BlackElo": "2596",
+      "PlyCount": "76",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 76
+  },
+  {
+    "source_ordinal": 244,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "jobboy",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2504",
+      "BlackElo": "2668",
+      "PlyCount": "71",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 71
+  },
+  {
+    "source_ordinal": 245,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "funvillage (StockfishRWx64CTG",
+      "Black": "Regina_H.Milch",
+      "Result": "0-1",
+      "ECO": "E12",
+      "WhiteElo": "2434",
+      "BlackElo": "2669",
+      "PlyCount": "120",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 120
+  },
+  {
+    "source_ordinal": 246,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "deepthroat",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "E60",
+      "WhiteElo": "2631",
+      "BlackElo": "2350",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 247,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "ocirema",
+      "Result": "1-0",
+      "ECO": "A20",
+      "WhiteElo": "2476",
+      "BlackElo": "2400",
+      "PlyCount": "147",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 147
+  },
+  {
+    "source_ordinal": 248,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Victorious",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "C60",
+      "WhiteElo": "2470",
+      "BlackElo": "2419",
+      "PlyCount": "107",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 107
+  },
+  {
+    "source_ordinal": 249,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Thomas_A_Anderson",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "E15",
+      "WhiteElo": "2591",
+      "BlackElo": "2378",
+      "PlyCount": "129",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 129
+  },
+  {
+    "source_ordinal": 250,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Takker",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "A46",
+      "WhiteElo": "2527",
+      "BlackElo": "2613",
+      "PlyCount": "215",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 215
+  },
+  {
+    "source_ordinal": 251,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Sun_Zhu",
+      "Black": "Stabiloboss (StockfishRW, (NOAVX))",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2500",
+      "BlackElo": "2528",
+      "PlyCount": "133",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 133
+  },
+  {
+    "source_ordinal": 252,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Ozymandias",
+      "Black": "LordSirKnight",
+      "Result": "1-0",
+      "ECO": "C88",
+      "WhiteElo": "2556",
+      "BlackElo": "2580",
+      "PlyCount": "97",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 97
+  },
+  {
+    "source_ordinal": 253,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Mig2004",
+      "Black": "EtaoinShrdlu",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2500",
+      "BlackElo": "2624",
+      "PlyCount": "184",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 184
+  },
+  {
+    "source_ordinal": 254,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "FrauHolle (Stockfish_14031312, _x64_sse2_CTG)",
+      "Black": "Idol99",
+      "Result": "0-1",
+      "ECO": "B29",
+      "WhiteElo": "2547",
+      "BlackElo": "2611",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 255,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.13",
+      "Round": "17",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "MiG29",
+      "Result": "1-0",
+      "ECO": "C65",
+      "WhiteElo": "2549",
+      "BlackElo": "2605",
+      "PlyCount": "96",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 96
+  },
+  {
+    "source_ordinal": 256,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "olivierevan",
+      "Black": "maximus",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2378",
+      "BlackElo": "2608",
+      "PlyCount": "110",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 110
+  },
+  {
+    "source_ordinal": 257,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "ocirema (Andromeda C14 CTG)",
+      "Black": "Victorious",
+      "Result": "1-0",
+      "ECO": "C88",
+      "WhiteElo": "2400",
+      "BlackElo": "2470",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 258,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "flyingfatman (ABA_BME_CTG)",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "0-1",
+      "ECO": "D15",
+      "WhiteElo": "2596",
+      "BlackElo": "2549",
+      "PlyCount": "216",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 216
+  },
+  {
+    "source_ordinal": 259,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "deepthroat",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2648",
+      "BlackElo": "2556",
+      "PlyCount": "81",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 81
+  },
+  {
+    "source_ordinal": 260,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "C70",
+      "WhiteElo": "2668",
+      "BlackElo": "2500",
+      "PlyCount": "46",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 46
+  },
+  {
+    "source_ordinal": 261,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Sunnytown",
+      "Black": "Paul",
+      "Result": "1-0",
+      "ECO": "C11",
+      "WhiteElo": "2350",
+      "BlackElo": "2450",
+      "PlyCount": "110",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 110
+  },
+  {
+    "source_ordinal": 262,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Black": "Thomas_A_Anderson",
+      "Result": "0-1",
+      "ECO": "B52",
+      "WhiteElo": "2495",
+      "BlackElo": "2583",
+      "PlyCount": "206",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 206
+  },
+  {
+    "source_ordinal": 263,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Regina_H.Milch",
+      "Black": "jobboy",
+      "Result": "0-1",
+      "ECO": "D12",
+      "WhiteElo": "2669",
+      "BlackElo": "2508",
+      "PlyCount": "142",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 142
+  },
+  {
+    "source_ordinal": 264,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Neutrino",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2393",
+      "BlackElo": "2476",
+      "PlyCount": "153",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 153
+  },
+  {
+    "source_ordinal": 265,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "MiG29",
+      "Black": "FrauHolle (Stockfish 14031511, _x64_sse42_CTG)",
+      "Result": "1-0",
+      "ECO": "D11",
+      "WhiteElo": "2605",
+      "BlackElo": "2547",
+      "PlyCount": "175",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 175
+  },
+  {
+    "source_ordinal": 266,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "LordSirKnight",
+      "Black": "mateinfour",
+      "Result": "0-1",
+      "ECO": "B23",
+      "WhiteElo": "2580",
+      "BlackElo": "2514",
+      "PlyCount": "118",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 118
+  },
+  {
+    "source_ordinal": 267,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Intagrand",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "B12",
+      "WhiteElo": "2613",
+      "BlackElo": "2500",
+      "PlyCount": "173",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 173
+  },
+  {
+    "source_ordinal": 268,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Idol99",
+      "Black": "Takker",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2611",
+      "BlackElo": "2535",
+      "PlyCount": "55",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 55
+  },
+  {
+    "source_ordinal": 269,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "EtaoinShrdlu",
+      "Black": "funvillage",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2624",
+      "BlackElo": "2434",
+      "PlyCount": "123",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 123
+  },
+  {
+    "source_ordinal": 270,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.15",
+      "Round": "18",
+      "White": "Erdo",
+      "Black": "newton296 (StockfishRWx64 CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "D10",
+      "WhiteElo": "2419",
+      "BlackElo": "2450",
+      "PlyCount": "141",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 141
+  },
+  {
+    "source_ordinal": 271,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "newton296",
+      "Black": "ocirema (Andromeda _C18_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2541",
+      "BlackElo": "2400",
+      "PlyCount": "121",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 121
+  },
+  {
+    "source_ordinal": 272,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "maximus",
+      "Black": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2632",
+      "BlackElo": "2467",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 273,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "mateinfour",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D10",
+      "WhiteElo": "2545",
+      "BlackElo": "2647",
+      "PlyCount": "18",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 18
+  },
+  {
+    "source_ordinal": 274,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "jobboy",
+      "Black": "EtaoinShrdlu",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2540",
+      "BlackElo": "2624",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 275,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "funvillage (StockfishRWx64CTG",
+      "Black": "Intagrand",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2434",
+      "BlackElo": "2613",
+      "PlyCount": "162",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 162
+  },
+  {
+    "source_ordinal": 276,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "A07",
+      "WhiteElo": "2476",
+      "BlackElo": "2378",
+      "PlyCount": "27",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 27
+  },
+  {
+    "source_ordinal": 277,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Victorious",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "B12",
+      "WhiteElo": "2470",
+      "BlackElo": "2393",
+      "PlyCount": "81",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 81
+  },
+  {
+    "source_ordinal": 278,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Thomas_A_Anderson",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "D00",
+      "WhiteElo": "2611",
+      "BlackElo": "2668",
+      "PlyCount": "81",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 81
+  },
+  {
+    "source_ordinal": 279,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Takker",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2506",
+      "BlackElo": "2605",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 280,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Sun_Zhu",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2500",
+      "BlackElo": "2669",
+      "PlyCount": "69",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 69
+  },
+  {
+    "source_ordinal": 281,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Paul (Komodo-tcecr-64bit)",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2450",
+      "BlackElo": "2419",
+      "PlyCount": "115",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 115
+  },
+  {
+    "source_ordinal": 282,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Ozymandias",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "A05",
+      "WhiteElo": "2556",
+      "BlackElo": "2350",
+      "PlyCount": "81",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 81
+  },
+  {
+    "source_ordinal": 283,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Mig2004",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "A30",
+      "WhiteElo": "2500",
+      "BlackElo": "2611",
+      "PlyCount": "51",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 51
+  },
+  {
+    "source_ordinal": 284,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "FrauHolle (Stockfish_160314, IPx_x64_sse42_CTG)",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "B29",
+      "WhiteElo": "2547",
+      "BlackElo": "2596",
+      "PlyCount": "164",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 164
+  },
+  {
+    "source_ordinal": 285,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.18",
+      "Round": "19",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "B56",
+      "WhiteElo": "2549",
+      "BlackElo": "2580",
+      "PlyCount": "203",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 203
+  },
+  {
+    "source_ordinal": 286,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "olivierevan",
+      "Black": "Victorious",
+      "Result": "0-1",
+      "ECO": "C45",
+      "WhiteElo": "2378",
+      "BlackElo": "2470",
+      "PlyCount": "86",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 86
+  },
+  {
+    "source_ordinal": 287,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "ocirema (AndromedaRC_19_CTG)",
+      "Black": "Paul",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2400",
+      "BlackElo": "2450",
+      "PlyCount": "101",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 101
+  },
+  {
+    "source_ordinal": 288,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "flyingfatman (ABA-BME_CTG)",
+      "Black": "Takker",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2596",
+      "BlackElo": "2530",
+      "PlyCount": "123",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 123
+  },
+  {
+    "source_ordinal": 289,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "deepthroat",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1-0",
+      "ECO": "D15",
+      "WhiteElo": "2570",
+      "BlackElo": "2549",
+      "PlyCount": "163",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 163
+  },
+  {
+    "source_ordinal": 290,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2683",
+      "BlackElo": "2480",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 291,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Sunnytown",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "C66",
+      "WhiteElo": "2350",
+      "BlackElo": "2419",
+      "PlyCount": "140",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 140
+  },
+  {
+    "source_ordinal": 292,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Stabiloboss (Houdini_4_Pro, _x64B)",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "0-1",
+      "ECO": "C05",
+      "WhiteElo": "2528",
+      "BlackElo": "2476",
+      "PlyCount": "180",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 180
+  },
+  {
+    "source_ordinal": 293,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Regina_H.Milch",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2669",
+      "BlackElo": "2500",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 294,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Ozymandias",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "E18",
+      "WhiteElo": "2556",
+      "BlackElo": "2552",
+      "PlyCount": "88",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 88
+  },
+  {
+    "source_ordinal": 295,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Neutrino",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2393",
+      "BlackElo": "2450",
+      "PlyCount": "162",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 162
+  },
+  {
+    "source_ordinal": 296,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "MiG29",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "C64",
+      "WhiteElo": "2605",
+      "BlackElo": "2500",
+      "PlyCount": "157",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 157
+  },
+  {
+    "source_ordinal": 297,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "LordSirKnight",
+      "Black": "FrauHolle (Stockfish_160314, IPx_x64_sse42_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C67",
+      "WhiteElo": "2580",
+      "BlackElo": "2547",
+      "PlyCount": "118",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 118
+  },
+  {
+    "source_ordinal": 298,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Intagrand",
+      "Black": "jobboy",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2613",
+      "BlackElo": "2500",
+      "PlyCount": "131",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 131
+  },
+  {
+    "source_ordinal": 299,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "Idol99",
+      "Black": "funvillage (Stockfish 160314, IPx_x64_CTG)",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2611",
+      "BlackElo": "2434",
+      "PlyCount": "131",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 131
+  },
+  {
+    "source_ordinal": 300,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.20",
+      "Round": "20",
+      "White": "EtaoinShrdlu",
+      "Black": "Sun_Zhu",
+      "Result": "1-0",
+      "ECO": "C70",
+      "WhiteElo": "2624",
+      "BlackElo": "2500",
+      "PlyCount": "29",
+      "EventDate": "2014.02.04",
+      "EventRounds": "29"
+    },
+    "plies": 29
+  },
+  {
+    "source_ordinal": 301,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "newton296",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B12",
+      "WhiteElo": "2529",
+      "BlackElo": "2319",
+      "PlyCount": "67",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 67
+  },
+  {
+    "source_ordinal": 302,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "maximus",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "C16",
+      "WhiteElo": "2655",
+      "BlackElo": "2739",
+      "PlyCount": "66",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 66
+  },
+  {
+    "source_ordinal": 303,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "mateinfour",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2553",
+      "BlackElo": "2252",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 304,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "jobboy",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B33",
+      "WhiteElo": "2547",
+      "BlackElo": "2658",
+      "PlyCount": "92",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 92
+  },
+  {
+    "source_ordinal": 305,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "funvillage",
+      "Black": "MiG29",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2320",
+      "BlackElo": "2668",
+      "PlyCount": "130",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 130
+  },
+  {
+    "source_ordinal": 306,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "Zorchamp  (Cryptic Heroes 1.1",
+      "Result": "1/2-1/2",
+      "ECO": "A00",
+      "WhiteElo": "2519",
+      "BlackElo": "2604",
+      "PlyCount": "256",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 256
+  },
+  {
+    "source_ordinal": 307,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Victorious",
+      "Black": "Stabiloboss (Komodo tcecr, _64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2509",
+      "BlackElo": "2412",
+      "PlyCount": "107",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 107
+  },
+  {
+    "source_ordinal": 308,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Thomas_A_Anderson",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2616",
+      "BlackElo": "2690",
+      "PlyCount": "61",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 61
+  },
+  {
+    "source_ordinal": 309,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Takker (Stockfish 14031818 x6, _sse42_CTG)",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2480",
+      "BlackElo": "2451",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 310,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Sun_Zhu",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2544",
+      "BlackElo": "2774",
+      "PlyCount": "69",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 69
+  },
+  {
+    "source_ordinal": 311,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Paul",
+      "Black": "Neutrino",
+      "Result": "1/2-1/2",
+      "ECO": "B07",
+      "WhiteElo": "2436",
+      "BlackElo": "2404",
+      "PlyCount": "98",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 98
+  },
+  {
+    "source_ordinal": 312,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Mig2004",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "0-1",
+      "ECO": "A07",
+      "WhiteElo": "2337",
+      "BlackElo": "2532",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 313,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "FrauHolle (Stockfish syzygy_, 14032211_sse42_CTG)",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2389",
+      "BlackElo": "2674",
+      "PlyCount": "75",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 75
+  },
+  {
+    "source_ordinal": 314,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Erdo",
+      "Black": "ocirema (Andromeda_C18_CTG)",
+      "Result": "1-0",
+      "ECO": "E10",
+      "WhiteElo": "2464",
+      "BlackElo": "2375",
+      "PlyCount": "202",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 202
+  },
+  {
+    "source_ordinal": 315,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.22",
+      "Round": "21",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2581",
+      "BlackElo": "2636",
+      "PlyCount": "165",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 165
+  },
+  {
+    "source_ordinal": 316,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "olivierevan",
+      "Black": "Paul (komodo-tcecr-64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "B20",
+      "WhiteElo": "2378",
+      "BlackElo": "2450",
+      "PlyCount": "153",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 153
+  },
+  {
+    "source_ordinal": 317,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "mateinfour",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2552",
+      "BlackElo": "2549",
+      "PlyCount": "156",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 156
+  },
+  {
+    "source_ordinal": 318,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "flyingfatman",
+      "Black": "funvillage (Stockfish 240314, IPx2 x64_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2596",
+      "BlackElo": "2434",
+      "PlyCount": "229",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 229
+  },
+  {
+    "source_ordinal": 319,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "deepthroat",
+      "Black": "Takker (Stockfish 14031818, x64_sse42_CTG)",
+      "Result": "1-0",
+      "ECO": "C11",
+      "WhiteElo": "2570",
+      "BlackElo": "2530",
+      "PlyCount": "83",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 83
+  },
+  {
+    "source_ordinal": 320,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "Victorious",
+      "Result": "0-1",
+      "ECO": "C88",
+      "WhiteElo": "2683",
+      "BlackElo": "2470",
+      "PlyCount": "164",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 164
+  },
+  {
+    "source_ordinal": 321,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Sunnytown",
+      "Black": "ocirema (Andromeda_C24_CTG)",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2400",
+      "PlyCount": "122",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 122
+  },
+  {
+    "source_ordinal": 322,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Stabiloboss (Komodo-tcecr, -64bit)",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2528",
+      "BlackElo": "2450",
+      "PlyCount": "79",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 79
+  },
+  {
+    "source_ordinal": 323,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Regina_H.Milch",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "1-0",
+      "ECO": "C06",
+      "WhiteElo": "2669",
+      "BlackElo": "2476",
+      "PlyCount": "199",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 199
+  },
+  {
+    "source_ordinal": 324,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Ozymandias",
+      "Black": "FrauHolle (Stockfish 240314], IPx2 x64 sse4.2_CTG",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2556",
+      "BlackElo": "2547",
+      "PlyCount": "148",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 148
+  },
+  {
+    "source_ordinal": 325,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Neutrino",
+      "Black": "Erdo",
+      "Result": "1-0",
+      "ECO": "B75",
+      "WhiteElo": "2393",
+      "BlackElo": "2419",
+      "PlyCount": "149",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 149
+  },
+  {
+    "source_ordinal": 326,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "MiG29",
+      "Black": "jobboy",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2605",
+      "BlackElo": "2500",
+      "PlyCount": "92",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 92
+  },
+  {
+    "source_ordinal": 327,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "LordSirKnight",
+      "Black": "Mig2004 (Stockfish(RW)x64_CTG",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2580",
+      "BlackElo": "2500",
+      "PlyCount": "136",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 136
+  },
+  {
+    "source_ordinal": 328,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Intagrand",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2613",
+      "BlackElo": "2500",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 329,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "Idol99",
+      "Black": "Sun_Zhu",
+      "Result": "0-1",
+      "ECO": "A09",
+      "WhiteElo": "2611",
+      "BlackElo": "2500",
+      "PlyCount": "104",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 104
+  },
+  {
+    "source_ordinal": 330,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.25",
+      "Round": "22",
+      "White": "EtaoinShrdlu",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2624",
+      "BlackElo": "2480",
+      "PlyCount": "48",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 48
+  },
+  {
+    "source_ordinal": 331,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "ocirema (Andromeda_C24_CTG)",
+      "Black": "Neutrino",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2400",
+      "BlackElo": "2393",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 332,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "newton296",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C02",
+      "WhiteElo": "2450",
+      "BlackElo": "2683",
+      "PlyCount": "266",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 266
+  },
+  {
+    "source_ordinal": 333,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "maximus",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "A23",
+      "WhiteElo": "2480",
+      "BlackElo": "2613",
+      "PlyCount": "96",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 96
+  },
+  {
+    "source_ordinal": 334,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "jobboy",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2596",
+      "PlyCount": "129",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 129
+  },
+  {
+    "source_ordinal": 335,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "funvillage",
+      "Black": "LordSirKnight",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2434",
+      "BlackElo": "2580",
+      "PlyCount": "166",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 166
+  },
+  {
+    "source_ordinal": 336,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "A00",
+      "WhiteElo": "2476",
+      "BlackElo": "2624",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 337,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Victorious",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2470",
+      "BlackElo": "2669",
+      "PlyCount": "93",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 93
+  },
+  {
+    "source_ordinal": 338,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Thomas_A_Anderson",
+      "Black": "Idol99",
+      "Result": "1-0",
+      "ECO": "B29",
+      "WhiteElo": "2500",
+      "BlackElo": "2611",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 339,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Takker (Komodo tcec 64bit)",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "C11",
+      "WhiteElo": "2530",
+      "BlackElo": "2556",
+      "PlyCount": "73",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 73
+  },
+  {
+    "source_ordinal": 340,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Sun_Zhu",
+      "Black": "MiG29",
+      "Result": "0-1",
+      "ECO": "E10",
+      "WhiteElo": "2500",
+      "BlackElo": "2605",
+      "PlyCount": "126",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 126
+  },
+  {
+    "source_ordinal": 341,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Paul (Stockfish 240314IPx2, x64 sse4.2",
+      "Black": "Stabiloboss (Komodo-tcecr, -64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "B10",
+      "WhiteElo": "2450",
+      "BlackElo": "2528",
+      "PlyCount": "129",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 129
+  },
+  {
+    "source_ordinal": 342,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Mig2004 (Stockfish(RW)x64)",
+      "Black": "deepthroat",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2570",
+      "PlyCount": "136",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 136
+  },
+  {
+    "source_ordinal": 343,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "FrauHolle (Stockfish 240314, IPx2 sse4.2_CTG)",
+      "Black": "mateinfour",
+      "Result": "0-1",
+      "ECO": "A05",
+      "WhiteElo": "2547",
+      "BlackElo": "2552",
+      "PlyCount": "102",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 102
+  },
+  {
+    "source_ordinal": 344,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Erdo",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B01",
+      "WhiteElo": "2419",
+      "BlackElo": "2378",
+      "PlyCount": "167",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 167
+  },
+  {
+    "source_ordinal": 345,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.27",
+      "Round": "23",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2549",
+      "BlackElo": "2350",
+      "PlyCount": "101",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 101
+  },
+  {
+    "source_ordinal": 346,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "olivierevan",
+      "Black": "ocirema (Andromeda_C29_CTG)",
+      "Result": "0-1",
+      "ECO": "C00",
+      "WhiteElo": "2378",
+      "BlackElo": "2400",
+      "PlyCount": "142",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 142
+  },
+  {
+    "source_ordinal": 347,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "mateinfour",
+      "Black": "Takker",
+      "Result": "0-1",
+      "ECO": "D15",
+      "WhiteElo": "2552",
+      "BlackElo": "2530",
+      "PlyCount": "126",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 126
+  },
+  {
+    "source_ordinal": 348,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "flyingfatman (ABA_BME_CTG)",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "B02",
+      "WhiteElo": "2596",
+      "BlackElo": "2500",
+      "PlyCount": "205",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 205
+  },
+  {
+    "source_ordinal": 349,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "deepthroat",
+      "Black": "funvillage",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2570",
+      "BlackElo": "2434",
+      "PlyCount": "73",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 73
+  },
+  {
+    "source_ordinal": 350,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "Paul (Stockfish 210214IP, _x64_sse4.2)",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2683",
+      "BlackElo": "2450",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 351,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Sunnytown",
+      "Black": "Neutrino",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2393",
+      "PlyCount": "114",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 114
+  },
+  {
+    "source_ordinal": 352,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Stabiloboss",
+      "Black": "Erdo",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2528",
+      "BlackElo": "2419",
+      "PlyCount": "134",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 134
+  },
+  {
+    "source_ordinal": 353,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Regina_H.Milch",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2669",
+      "BlackElo": "2450",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 354,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Ozymandias",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "B06",
+      "WhiteElo": "2556",
+      "BlackElo": "2500",
+      "PlyCount": "181",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 181
+  },
+  {
+    "source_ordinal": 355,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "MiG29",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2605",
+      "BlackElo": "2500",
+      "PlyCount": "42",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 42
+  },
+  {
+    "source_ordinal": 356,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "LordSirKnight",
+      "Black": "jobboy",
+      "Result": "1-0",
+      "ECO": "B23",
+      "WhiteElo": "2580",
+      "BlackElo": "2500",
+      "PlyCount": "143",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 143
+  },
+  {
+    "source_ordinal": 357,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Intagrand",
+      "Black": "akhtar (Cryptic heroes 1.1)",
+      "Result": "1-0",
+      "ECO": "C02",
+      "WhiteElo": "2613",
+      "BlackElo": "2476",
+      "PlyCount": "171",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 171
+  },
+  {
+    "source_ordinal": 358,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Idol99",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2611",
+      "BlackElo": "2480",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 359,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "EtaoinShrdlu",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2624",
+      "BlackElo": "2470",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 360,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.03.29",
+      "Round": "24",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "FrauHolle (Stockfish 14032911, x64 mod. sse4.2_CTG",
+      "Result": "1-0",
+      "ECO": "C65",
+      "WhiteElo": "2549",
+      "BlackElo": "2547",
+      "PlyCount": "55",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 55
+  },
+  {
+    "source_ordinal": 361,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "jobboy",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2500",
+      "BlackElo": "2570",
+      "PlyCount": "74",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 74
+  },
+  {
+    "source_ordinal": 362,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "funvillage",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "D02",
+      "WhiteElo": "2434",
+      "BlackElo": "2556",
+      "PlyCount": "43",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 43
+  },
+  {
+    "source_ordinal": 363,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Victorious",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "C42",
+      "WhiteElo": "2470",
+      "BlackElo": "2613",
+      "PlyCount": "67",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 67
+  },
+  {
+    "source_ordinal": 364,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Thomas_A_Anderson",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2500",
+      "BlackElo": "2596",
+      "PlyCount": "80",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 80
+  },
+  {
+    "source_ordinal": 365,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Takker",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "0-1",
+      "ECO": "D00",
+      "WhiteElo": "2530",
+      "BlackElo": "2549",
+      "PlyCount": "85",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 85
+  },
+  {
+    "source_ordinal": 366,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Sun_Zhu",
+      "Black": "LordSirKnight",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2500",
+      "BlackElo": "2580",
+      "PlyCount": "90",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 90
+  },
+  {
+    "source_ordinal": 367,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Paul",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2450",
+      "BlackElo": "2669",
+      "PlyCount": "65",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 65
+  },
+  {
+    "source_ordinal": 368,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Neutrino (Houdini_4_Pro_x64B, _CTG)",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B94",
+      "WhiteElo": "2393",
+      "BlackElo": "2378",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 369,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Mig2004 (Stockfish_syzygy_, 14033100_x64_CTG)",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2552",
+      "PlyCount": "101",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 101
+  },
+  {
+    "source_ordinal": 370,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.01",
+      "Round": "25",
+      "White": "Erdo",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C00",
+      "WhiteElo": "2419",
+      "BlackElo": "2683",
+      "PlyCount": "101",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 101
+  },
+  {
+    "source_ordinal": 371,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.02",
+      "Round": "25",
+      "White": "ocirema (Critter_1.9b_CTG)",
+      "Black": "Stabiloboss (Komodo-tcecr-], 64bit)",
+      "Result": "1-0",
+      "ECO": "A40",
+      "WhiteElo": "2400",
+      "BlackElo": "2528",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 372,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.02",
+      "Round": "25",
+      "White": "newton296",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C02",
+      "WhiteElo": "2450",
+      "BlackElo": "2624",
+      "PlyCount": "99",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 99
+  },
+  {
+    "source_ordinal": 373,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.02",
+      "Round": "25",
+      "White": "maximus",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2480",
+      "BlackElo": "2605",
+      "PlyCount": "163",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 163
+  },
+  {
+    "source_ordinal": 374,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.02",
+      "Round": "25",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "A04",
+      "WhiteElo": "2476",
+      "BlackElo": "2611",
+      "PlyCount": "172",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 172
+  },
+  {
+    "source_ordinal": 375,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.02",
+      "Round": "25",
+      "White": "FrauHolle (Stockfish 290314IP, x64 SSE4.2_CTG)",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2547",
+      "BlackElo": "2350",
+      "PlyCount": "139",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 139
+  },
+  {
+    "source_ordinal": 376,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.03",
+      "Round": "26",
+      "White": "mateinfour",
+      "Black": "funvillage",
+      "Result": "1/2-1/2",
+      "ECO": "E11",
+      "WhiteElo": "2552",
+      "BlackElo": "2434",
+      "PlyCount": "97",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 97
+  },
+  {
+    "source_ordinal": 377,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.03",
+      "Round": "26",
+      "White": "Stabiloboss (Komodo-tcecr-, 64bit)",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "E38",
+      "WhiteElo": "2528",
+      "BlackElo": "2393",
+      "PlyCount": "111",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 111
+  },
+  {
+    "source_ordinal": 378,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.03",
+      "Round": "26",
+      "White": "Idol99",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2611",
+      "BlackElo": "2470",
+      "PlyCount": "75",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 75
+  },
+  {
+    "source_ordinal": 379,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.03",
+      "Round": "26",
+      "White": "FrauHolle (Stockfish 030414IP, :x64 SSE4.2_CGT)",
+      "Black": "Takker[Komodo-tcec-64bit)",
+      "Result": "1/2-1/2",
+      "ECO": "B97",
+      "WhiteElo": "2547",
+      "BlackElo": "2430",
+      "PlyCount": "131",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 131
+  },
+  {
+    "source_ordinal": 380,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.03",
+      "Round": "26",
+      "White": "EtaoinShrdlu",
+      "Black": "Paul",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2624",
+      "BlackElo": "2450",
+      "PlyCount": "57",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 57
+  },
+  {
+    "source_ordinal": 381,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "flyingfatman",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2596",
+      "BlackElo": "2480",
+      "PlyCount": "103",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 103
+  },
+  {
+    "source_ordinal": 382,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "deepthroat",
+      "Black": "Sun_Zhu",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2570",
+      "BlackElo": "2500",
+      "PlyCount": "135",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 135
+  },
+  {
+    "source_ordinal": 383,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Zorchamp (Cryptic Heroes 1.1)",
+      "Black": "ocirema (Andromeda_D03_CTG)",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2683",
+      "BlackElo": "2400",
+      "PlyCount": "162",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 162
+  },
+  {
+    "source_ordinal": 384,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Sunnytown",
+      "Black": "olivierevan",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2350",
+      "BlackElo": "2378",
+      "PlyCount": "126",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 126
+  },
+  {
+    "source_ordinal": 385,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Regina_H.Milch",
+      "Black": "Erdo",
+      "Result": "1/2-1/2",
+      "ECO": "E73",
+      "WhiteElo": "2669",
+      "BlackElo": "2419",
+      "PlyCount": "131",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 131
+  },
+  {
+    "source_ordinal": 386,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Ozymandias",
+      "Black": "jobboy",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2556",
+      "BlackElo": "2500",
+      "PlyCount": "105",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 105
+  },
+  {
+    "source_ordinal": 387,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "MiG29",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "1-0",
+      "ECO": "C02",
+      "WhiteElo": "2605",
+      "BlackElo": "2476",
+      "PlyCount": "143",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 143
+  },
+  {
+    "source_ordinal": 388,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "LordSirKnight",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2580",
+      "BlackElo": "2500",
+      "PlyCount": "122",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 122
+  },
+  {
+    "source_ordinal": 389,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Intagrand",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "C65",
+      "WhiteElo": "2613",
+      "BlackElo": "2450",
+      "PlyCount": "86",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 86
+  },
+  {
+    "source_ordinal": 390,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.04",
+      "Round": "26",
+      "White": "Donkasand (uciPlug)",
+      "Black": "Mig2004",
+      "Result": "1-0",
+      "ECO": "B10",
+      "WhiteElo": "2549",
+      "BlackElo": "2500",
+      "PlyCount": "139",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 139
+  },
+  {
+    "source_ordinal": 391,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "olivierevan",
+      "Black": "Stabiloboss (Komodo-tcecr-, 64bit)",
+      "Result": "0-1",
+      "ECO": "B07",
+      "WhiteElo": "2378",
+      "BlackElo": "2528",
+      "PlyCount": "166",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 166
+  },
+  {
+    "source_ordinal": 392,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "ocirema (Andromeda_D05_CTG)",
+      "Black": "Regina_H.Milch",
+      "Result": "1/2-1/2",
+      "ECO": "C90",
+      "WhiteElo": "2450",
+      "BlackElo": "2669",
+      "PlyCount": "140",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 140
+  },
+  {
+    "source_ordinal": 393,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "newton296",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B33",
+      "WhiteElo": "2450",
+      "BlackElo": "2611",
+      "PlyCount": "77",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 77
+  },
+  {
+    "source_ordinal": 394,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "maximus",
+      "Black": "LordSirKnight",
+      "Result": "1-0",
+      "ECO": "C11",
+      "WhiteElo": "2480",
+      "BlackElo": "2580",
+      "PlyCount": "91",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 91
+  },
+  {
+    "source_ordinal": 395,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "jobboy",
+      "Black": "mateinfour",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2552",
+      "PlyCount": "108",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 108
+  },
+  {
+    "source_ordinal": 396,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "funvillage",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "A20",
+      "WhiteElo": "2434",
+      "BlackElo": "2549",
+      "PlyCount": "88",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 88
+  },
+  {
+    "source_ordinal": 397,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "flyingfatman (ABA_BME_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "A06",
+      "WhiteElo": "2478",
+      "BlackElo": "2596",
+      "PlyCount": "202",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 202
+  },
+  {
+    "source_ordinal": 398,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Victorious",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2470",
+      "BlackElo": "2605",
+      "PlyCount": "60",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 60
+  },
+  {
+    "source_ordinal": 399,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Thomas_A_Anderson",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "D11",
+      "WhiteElo": "2500",
+      "BlackElo": "2570",
+      "PlyCount": "64",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 64
+  },
+  {
+    "source_ordinal": 400,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Takker (Komodo-tcec-64bit)",
+      "Black": "Sunnytown",
+      "Result": "1-0",
+      "ECO": "B90",
+      "WhiteElo": "2530",
+      "BlackElo": "2350",
+      "PlyCount": "62",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 62
+  },
+  {
+    "source_ordinal": 401,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Sun_Zhu",
+      "Black": "Ozymandias",
+      "Result": "0-1",
+      "ECO": "C88",
+      "WhiteElo": "2500",
+      "BlackElo": "2556",
+      "PlyCount": "87",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 87
+  },
+  {
+    "source_ordinal": 402,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Paul",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "E12",
+      "WhiteElo": "2450",
+      "BlackElo": "2613",
+      "PlyCount": "86",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 86
+  },
+  {
+    "source_ordinal": 403,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Neutrino",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "D30",
+      "WhiteElo": "2393",
+      "BlackElo": "2683",
+      "PlyCount": "73",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 73
+  },
+  {
+    "source_ordinal": 404,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Mig2004",
+      "Black": "FrauHolle (StockfishRW_140403, (NOAVX)_CTG)",
+      "Result": "0-1",
+      "ECO": "A20",
+      "WhiteElo": "2500",
+      "BlackElo": "2547",
+      "PlyCount": "250",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 250
+  },
+  {
+    "source_ordinal": 405,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.06",
+      "Round": "27",
+      "White": "Erdo",
+      "Black": "EtaoinShrdlu",
+      "Result": "1/2-1/2",
+      "ECO": "C00",
+      "WhiteElo": "2419",
+      "BlackElo": "2624",
+      "PlyCount": "82",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 82
+  },
+  {
+    "source_ordinal": 406,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.08",
+      "Round": "28",
+      "White": "mateinfour",
+      "Black": "Sun_Zhu",
+      "Result": "1/2-1/2",
+      "ECO": "A40",
+      "WhiteElo": "2552",
+      "BlackElo": "2500",
+      "PlyCount": "79",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 79
+  },
+  {
+    "source_ordinal": 407,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.08",
+      "Round": "28",
+      "White": "flyingfatman",
+      "Black": "Victorious",
+      "Result": "1/2-1/2",
+      "ECO": "B92",
+      "WhiteElo": "2596",
+      "BlackElo": "2470",
+      "PlyCount": "80",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 80
+  },
+  {
+    "source_ordinal": 408,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.08",
+      "Round": "28",
+      "White": "MiG29",
+      "Black": "newton296",
+      "Result": "1/2-1/2",
+      "ECO": "B90",
+      "WhiteElo": "2605",
+      "BlackElo": "2450",
+      "PlyCount": "77",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 77
+  },
+  {
+    "source_ordinal": 409,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.08",
+      "Round": "28",
+      "White": "Idol99",
+      "Black": "Paul",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2611",
+      "BlackElo": "2450",
+      "PlyCount": "84",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 84
+  },
+  {
+    "source_ordinal": 410,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "deepthroat",
+      "Black": "maximus",
+      "Result": "1/2-1/2",
+      "ECO": "B91",
+      "WhiteElo": "2570",
+      "BlackElo": "2480",
+      "PlyCount": "88",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 88
+  },
+  {
+    "source_ordinal": 411,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Zorchamp",
+      "Black": "olivierevan",
+      "Result": "1/2-1/2",
+      "ECO": "A00",
+      "WhiteElo": "2683",
+      "BlackElo": "2378",
+      "PlyCount": "240",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 240
+  },
+  {
+    "source_ordinal": 412,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Takker (Komodo-tcec-64bit)",
+      "Black": "Mig2004",
+      "Result": "1/2-1/2",
+      "ECO": "C70",
+      "WhiteElo": "2530",
+      "BlackElo": "2500",
+      "PlyCount": "156",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 156
+  },
+  {
+    "source_ordinal": 413,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Sunnytown",
+      "Black": "Stabiloboss (Komodo-tcecr-, 64bit)",
+      "Result": "0-1",
+      "ECO": "B07",
+      "WhiteElo": "2350",
+      "BlackElo": "2528",
+      "PlyCount": "76",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 76
+  },
+  {
+    "source_ordinal": 414,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Regina_H.Milch",
+      "Black": "Neutrino",
+      "Result": "1-0",
+      "ECO": "D86",
+      "WhiteElo": "2669",
+      "BlackElo": "2393",
+      "PlyCount": "108",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 108
+  },
+  {
+    "source_ordinal": 415,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Ozymandias",
+      "Black": "Thomas_A_Anderson",
+      "Result": "1/2-1/2",
+      "ECO": "C42",
+      "WhiteElo": "2556",
+      "BlackElo": "2500",
+      "PlyCount": "118",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 118
+  },
+  {
+    "source_ordinal": 416,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "LordSirKnight",
+      "Black": "akhtar (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C02",
+      "WhiteElo": "2580",
+      "BlackElo": "2476",
+      "PlyCount": "125",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 125
+  },
+  {
+    "source_ordinal": 417,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Intagrand",
+      "Black": "Erdo",
+      "Result": "1-0",
+      "ECO": "E01",
+      "WhiteElo": "2613",
+      "BlackElo": "2419",
+      "PlyCount": "153",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 153
+  },
+  {
+    "source_ordinal": 418,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "FrauHolle (Stockfish_070414IP, x64_sse4.2_CTG)",
+      "Black": "funvillage",
+      "Result": "1/2-1/2",
+      "ECO": "B29",
+      "WhiteElo": "2547",
+      "BlackElo": "2434",
+      "PlyCount": "116",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 116
+  },
+  {
+    "source_ordinal": 419,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "EtaoinShrdlu",
+      "Black": "ocirema (Andromeda_D06_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "B23",
+      "WhiteElo": "2624",
+      "BlackElo": "2400",
+      "PlyCount": "172",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 172
+  },
+  {
+    "source_ordinal": 420,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.09",
+      "Round": "28",
+      "White": "Donkasand (uciPlug_CTG)",
+      "Black": "jobboy",
+      "Result": "0-1",
+      "ECO": "B90",
+      "WhiteElo": "2549",
+      "BlackElo": "2500",
+      "PlyCount": "134",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 134
+  },
+  {
+    "source_ordinal": 421,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.10",
+      "Round": "29",
+      "White": "ocirema",
+      "Black": "Intagrand",
+      "Result": "1/2-1/2",
+      "ECO": "C42",
+      "WhiteElo": "2400",
+      "BlackElo": "2613",
+      "PlyCount": "62",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 62
+  },
+  {
+    "source_ordinal": 422,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.10",
+      "Round": "29",
+      "White": "newton296",
+      "Black": "flyingfatman",
+      "Result": "1/2-1/2",
+      "ECO": "D15",
+      "WhiteElo": "2450",
+      "BlackElo": "2596",
+      "PlyCount": "59",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 59
+  },
+  {
+    "source_ordinal": 423,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.10",
+      "Round": "29",
+      "White": "Thomas_A_Anderson",
+      "Black": "mateinfour",
+      "Result": "1-0",
+      "ECO": "B06",
+      "WhiteElo": "2500",
+      "BlackElo": "2552",
+      "PlyCount": "73",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 73
+  },
+  {
+    "source_ordinal": 424,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.10",
+      "Round": "29",
+      "White": "Sun_Zhu",
+      "Black": "Donkasand (uciPlug_CTG)",
+      "Result": "1/2-1/2",
+      "ECO": "C68",
+      "WhiteElo": "2500",
+      "BlackElo": "2549",
+      "PlyCount": "68",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 68
+  },
+  {
+    "source_ordinal": 425,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.10",
+      "Round": "29",
+      "White": "Stabiloboss",
+      "Black": "Zorchamp (Cryptic Heroes 1.1)",
+      "Result": "1/2-1/2",
+      "ECO": "C10",
+      "WhiteElo": "2528",
+      "BlackElo": "2683",
+      "PlyCount": "104",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 104
+  },
+  {
+    "source_ordinal": 426,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "olivierevan",
+      "Black": "Regina_H.Milch",
+      "Result": "0-1",
+      "ECO": "B20",
+      "WhiteElo": "2378",
+      "BlackElo": "2669",
+      "PlyCount": "244",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 244
+  },
+  {
+    "source_ordinal": 427,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "maximus",
+      "Black": "Ozymandias",
+      "Result": "1/2-1/2",
+      "ECO": "C88",
+      "WhiteElo": "2480",
+      "BlackElo": "2556",
+      "PlyCount": "95",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 95
+  },
+  {
+    "source_ordinal": 428,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "jobboy",
+      "Black": "FrauHolle (Stockfish 070414IP, x64 SSe4.2_CTG)",
+      "Result": "1/2-1/2\")",
+      "ECO": "B90",
+      "WhiteElo": "2500",
+      "BlackElo": "2547",
+      "PlyCount": "205",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 205
+  },
+  {
+    "source_ordinal": 429,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "funvillage",
+      "Black": "Takker (Komodo-tcec-64bit)",
+      "Result": "1-0",
+      "ECO": "B29",
+      "WhiteElo": "2434",
+      "BlackElo": "2530",
+      "PlyCount": "127",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 127
+  },
+  {
+    "source_ordinal": 430,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "akhtar (Cryptic Heroes 1.1)",
+      "Black": "deepthroat",
+      "Result": "1/2-1/2",
+      "ECO": "A00",
+      "WhiteElo": "2476",
+      "BlackElo": "2570",
+      "PlyCount": "77",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 77
+  },
+  {
+    "source_ordinal": 431,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "Victorious",
+      "Black": "LordSirKnight",
+      "Result": "1-0",
+      "ECO": "C11",
+      "WhiteElo": "2470",
+      "BlackElo": "2580",
+      "PlyCount": "107",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 107
+  },
+  {
+    "source_ordinal": 432,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "Paul (Komodo-tcecr-64bit)",
+      "Black": "MiG29",
+      "Result": "1/2-1/2",
+      "ECO": "D13",
+      "WhiteElo": "2473",
+      "BlackElo": "2715",
+      "PlyCount": "70",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 70
+  },
+  {
+    "source_ordinal": 433,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "Neutrino",
+      "Black": "EtaoinShrdlu",
+      "Result": "0-1",
+      "ECO": "A00",
+      "WhiteElo": "2393",
+      "BlackElo": "2624",
+      "PlyCount": "94",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 94
+  },
+  {
+    "source_ordinal": 434,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "Mig2004 (StockfishRW_140408], (X64)_CTG.",
+      "Black": "Sunnytown",
+      "Result": "1/2-1/2",
+      "ECO": "E97",
+      "WhiteElo": "2500",
+      "BlackElo": "2350",
+      "PlyCount": "129",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 129
+  },
+  {
+    "source_ordinal": 435,
+    "headers": {
+      "Event": "Freestyle Battle 2014",
+      "Site": "InfinityChess INT",
+      "Date": "2014.04.11",
+      "Round": "29",
+      "White": "Erdo",
+      "Black": "Idol99",
+      "Result": "1/2-1/2",
+      "ECO": "B24",
+      "WhiteElo": "2419",
+      "BlackElo": "2611",
+      "PlyCount": "184",
+      "EventDate": "2014.02.04"
+    },
+    "plies": 184
+  }
+]
