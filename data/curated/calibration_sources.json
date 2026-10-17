@@ -1,0 +1,23 @@
+[
+  {
+    "url": "https://api.osf.io/v2/nodes/4k52p/",
+    "status": "unavailable",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "url": "https://api.osf.io/v2/nodes/4k52p/files/osfstorage/",
+    "status": "unavailable",
+    "error": "<urlopen error timed out>"
+  },
+  {
+    "file": "cache/research/lichess-accuracy.html",
+    "url": "https://lichess.org/page/accuracy",
+    "sha256": "31668563500aad0b1f1d6c0ab555eef193a7fa959aac1b4d67aab56d6cd7009f",
+    "bytes": 24584
+  },
+  {
+    "url": "https://bpspsychub.onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Fbjop.12750&file=bjop12750-sup-0001-Supinfo.docx",
+    "status": "unavailable",
+    "error": "HTTP Error 403: Forbidden"
+  }
+]

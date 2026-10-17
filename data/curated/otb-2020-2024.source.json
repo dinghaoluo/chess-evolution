@@ -1,0 +1,14 @@
+{
+  "batch": "otb-2020-2024",
+  "download_url": "https://lumbrasgigabase.com/download/otb-2020-2024/?wpdmdl=9159",
+  "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+  "pgn_member": "LumbrasGigabase_OTB_2020-2024.pgn",
+  "licence": "CC BY-NC 4.0",
+  "attribution": "Lumbra Gigabase, Michael Jansen",
+  "file": "cache/learning/otb-2020-2024.7z",
+  "retrieved_at": "2026-10-16",
+  "archived_sha256": "6275b66dfc8da143b7e87f1b994a40ca72a072bdcbee9d6c641baed6dee44661",
+  "sha256": "6275b66dfc8da143b7e87f1b994a40ca72a072bdcbee9d6c641baed6dee44661",
+  "bytes": 254383200,
+  "status": "archived_hash_match"
+}

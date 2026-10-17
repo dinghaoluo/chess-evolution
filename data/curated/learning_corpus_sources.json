@@ -1,0 +1,100 @@
+{
+  "licence": "CC BY-NC 4.0",
+  "licence_url": "https://creativecommons.org/licenses/by-nc/4.0/",
+  "attribution": "Lumbra’s Gigabase, Michael Jansen, https://lumbrasgigabase.com/; source games selected and evaluated for non-commercial research",
+  "inputs_sha256": {
+    "data/local/restored/data/master_database_sources.csv": "3eb9bc806b87bffe274e5edf0cc9859a62cbb8d0115f11143554f5e8c961c2ab",
+    "cache/learning/licence-page.html": "7fb46fafc48bd89954ccfbb197b02ede25c582068a6d7f7b2378895fc9cbac4c"
+  },
+  "sources": [
+    {
+      "batch": "otb-1970-1989",
+      "download_url": "https://lumbrasgigabase.com/download/otb-1970-1989/?wpdmdl=9153",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_1970-1989.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-1970-1989.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "dfd248058043ef6a69051307de8e53401844d379f07f1fb9d25801fc7f1b239b",
+      "sha256": "dfd248058043ef6a69051307de8e53401844d379f07f1fb9d25801fc7f1b239b",
+      "bytes": 120726250,
+      "status": "archived_hash_match"
+    },
+    {
+      "batch": "otb-1990-1999",
+      "download_url": "https://lumbrasgigabase.com/download/otb-1990-1999/?wpdmdl=9154",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_1990-1999.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-1990-1999.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "5b4dbf9d31eebb084c8f15f18883f9a0e3d8ffa31138bf925050d343dbd55c9c",
+      "sha256": "5b4dbf9d31eebb084c8f15f18883f9a0e3d8ffa31138bf925050d343dbd55c9c",
+      "bytes": 318577311,
+      "status": "archived_hash_match"
+    },
+    {
+      "batch": "otb-2000-2004",
+      "download_url": "https://lumbrasgigabase.com/download/otb-2000-2004/?wpdmdl=9155",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_2000-2004.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-2000-2004.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "c97638b3002c9135215842bc1052530b23a724e8173155a74722043dc55e024d",
+      "sha256": "c97638b3002c9135215842bc1052530b23a724e8173155a74722043dc55e024d",
+      "bytes": 258924625,
+      "status": "archived_hash_match"
+    },
+    {
+      "batch": "otb-2005-2009",
+      "download_url": "https://lumbrasgigabase.com/download/otb-2005-2009/?wpdmdl=9156",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_2005-2009.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-2005-2009.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "98e0216203a0c0fa9a55b34f2b32d8d3194c766f7074b7c0a5eb07a2ee2465f4",
+      "sha256": "98e0216203a0c0fa9a55b34f2b32d8d3194c766f7074b7c0a5eb07a2ee2465f4",
+      "bytes": 325484466,
+      "status": "archived_hash_match"
+    },
+    {
+      "batch": "otb-2015-2019",
+      "download_url": "https://lumbrasgigabase.com/download/otb-2015-2019/?wpdmdl=9158",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_2015-2019.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-2015-2019.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "a034f1d0a7cb70b1a4e947534b33d41f9dd9f9565d071f80febf257148879cef",
+      "sha256": "a034f1d0a7cb70b1a4e947534b33d41f9dd9f9565d071f80febf257148879cef",
+      "bytes": 407295575,
+      "status": "archived_hash_match"
+    },
+    {
+      "batch": "otb-2020-2024",
+      "download_url": "https://lumbrasgigabase.com/download/otb-2020-2024/?wpdmdl=9159",
+      "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+      "pgn_member": "LumbrasGigabase_OTB_2020-2024.pgn",
+      "licence": "CC BY-NC 4.0",
+      "attribution": "Lumbra Gigabase, Michael Jansen",
+      "file": "cache/learning/otb-2020-2024.7z",
+      "retrieved_at": "2026-10-16",
+      "archived_sha256": "6275b66dfc8da143b7e87f1b994a40ca72a072bdcbee9d6c641baed6dee44661",
+      "sha256": "6275b66dfc8da143b7e87f1b994a40ca72a072bdcbee9d6c641baed6dee44661",
+      "bytes": 254383200,
+      "status": "archived_hash_match"
+    }
+  ],
+  "limits": [
+    "Changed downloads have new fingerprints; archived exclusion ordinals cannot be applied to them.",
+    "The OTB source label does not verify classical time control or unassisted play for each game.",
+    "Main-database licence is CC BY-NC 4.0; the separately labelled Lichess collection has a different licence."
+  ]
+}

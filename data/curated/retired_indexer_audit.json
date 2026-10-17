@@ -1,0 +1,19 @@
+{
+  "reviewed": "2026-10-16",
+  "archive_sha256": "43b35dc495d5e5db840ece295e7108a17a24db26f17e60f2c7416ecf819e8f1b",
+  "inputs_sha256": {
+    "data/local/retired_indexer/scripts/master_index/src/main.rs": "ef2e5e66d691b181dcce0a984aa42778e1762d5fd97a740df19563afbcb8de50",
+    "data/local/retired_indexer/scripts/build_master_reference.py": "26a205ffe7348fde198393192c974515a85d6fc5b4a07fe1ebbe8ec948c98b5f"
+  },
+  "findings": [
+    {"lines": "30-57", "finding": "Metadata excludes named correspondence and online contexts, but does not read TimeControl or establish classical human play; computer and offline rapid/blitz events can remain."},
+    {"lines": "54-57", "finding": "Any FEN tag is excluded, including a repeated ordinary starting position; non-Standard Variant tags are excluded."},
+    {"lines": "62-79,216", "finding": "The full main line is legally replayed before its position hits are committed; variations do not supply played positions."},
+    {"lines": "87-98", "finding": "Unknown dates become latest possible dates for precedent ordering; they are bounds, not actual playing days."},
+    {"lines": "168-199", "finding": "Championship metadata, exact target-score copies and near copies with at least 70 percent shared positions serve the retired precedent question; they are not the learning sample exclusions."},
+    {"lines": "204", "finding": "The rated subset requires both sides at least 2200; it is not mover-specific Elo-band sampling."},
+    {"lines": "207-215", "finding": "Annual bottom-10000 sampling uses DefaultHasher over an output argument and source ordinal; no frozen 20261016 seed or one-player-year cap."}
+  ],
+  "decision": "Do not reuse exclusion ordinals, rated-subset flags or sample priorities for the new learning analysis.",
+  "limits": ["This is a source-code audit; it does not certify the identities or metadata of retained archive games."]
+}

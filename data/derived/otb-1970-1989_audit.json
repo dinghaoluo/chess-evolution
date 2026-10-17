@@ -1,0 +1,11 @@
+{
+  "batch": "otb-1970-1989",
+  "archive": "cache/learning/otb-1970-1989.7z",
+  "archive_sha256": "dfd248058043ef6a69051307de8e53401844d379f07f1fb9d25801fc7f1b239b",
+  "pgn": "cache/learning/pgn/otb-1970-1989.pgn",
+  "pgn_sha256": "37538797109073ab4e7bf8a83729bd17e68003a34bd3d5e6c0de743fd98f2de9",
+  "pgn_bytes": 591229892,
+  "records": 742151,
+  "header_audit": "data/derived/otb-1970-1989_headers.json",
+  "header_audit_sha256": "aa0604576372cad4618695d8bf6c784900fa2fbb874ce996d22c7f37e585f617"
+}

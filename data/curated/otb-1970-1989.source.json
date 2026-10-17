@@ -1,0 +1,14 @@
+{
+  "batch": "otb-1970-1989",
+  "download_url": "https://lumbrasgigabase.com/download/otb-1970-1989/?wpdmdl=9153",
+  "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+  "pgn_member": "LumbrasGigabase_OTB_1970-1989.pgn",
+  "licence": "CC BY-NC 4.0",
+  "attribution": "Lumbra Gigabase, Michael Jansen",
+  "file": "cache/learning/otb-1970-1989.7z",
+  "retrieved_at": "2026-10-16",
+  "archived_sha256": "dfd248058043ef6a69051307de8e53401844d379f07f1fb9d25801fc7f1b239b",
+  "sha256": "dfd248058043ef6a69051307de8e53401844d379f07f1fb9d25801fc7f1b239b",
+  "bytes": 120726250,
+  "status": "archived_hash_match"
+}

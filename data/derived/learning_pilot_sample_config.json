@@ -1,0 +1,44 @@
+{
+  "seed": 20261016,
+  "target_per_year_band": 50,
+  "player_year_cap": 1,
+  "sampling": "SHA-256 ordering of seed, game ID and colour; cap across all three bands",
+  "inputs_sha256": {
+    "data/curated/learning_classical_events.json": "0567473e7264718cf77a7b350c00474c2300058ccd963d697cf1169ccc742ab0",
+    "data/derived/learning_header_audit_config.json": "acde25129355857771b2ac0426af626b909f8fd7949554feaa3028c80c08daad",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/sample_learning_pilot.py": "68bf03c88f8fd2995d620e9b516a954edd4e61c0c65d3980a5b36c8e4071455f",
+    "cache/research/world-team-1985.html": "15b2423dc4c44adec9a7e5ea5ae68b6d94041950c05b187265f1202e2d4f6eaf",
+    "cache/research/world-team-1985.zip": "be5d92a8ae638d560d20683dde513b3157bb6a73e446e06667f76d658024bb86",
+    "cache/research/world-team-2005.html": "5dd4dc850dff69c3b464100bc6b30928ba45c72c73bb6171659dbae1f3085e59",
+    "cache/research/world-team-2005.zip": "55b02b8153f9839c9d0021dee02073aec24845a0650f48b9b79ba194e0424db3",
+    "cache/research/world-team-2015.html": "85e64b9154acf4e14de44c15b1a5178ad0cdd6bfd491bbd3cf65fbeb60774a6e",
+    "cache/research/world-team-2015.zip": "252158f2856ab4e0d27792a89d3f734663a5b8ac174ab8528ecc7d2361691a12",
+    "cache/research/olympiad-2024-regulations.pdf": "249bceab2d21135188382e11a8be3ecc1d1a10b50e85803d20aab34e7928edbc",
+    "cache/research/2024olm.pgn": "61242d368d2e25a190fb72f1735b4a4db5d83020bcc8a10836971a5c00aa2175",
+    "cache/research/2024olw.pgn": "d6cad62ee6f4ea10be6cb253a7a781cf8248c7575658a8c24c9d73e3882bb5d1"
+  },
+  "pgn_inputs": {
+    "cache/learning/pgn/otb-1970-1989.pgn": "37538797109073ab4e7bf8a83729bd17e68003a34bd3d5e6c0de743fd98f2de9",
+    "cache/learning/pgn/otb-1990-1999.pgn": "457dce15fc41ad7923747948e1b1e51716b52e22cadfc689f31a9a1298f6ca7f",
+    "cache/learning/pgn/otb-2000-2004.pgn": "89080da0ff1ddd1dc024e3f38505127685c3b6074334749f3489896333a23a0c",
+    "cache/learning/pgn/otb-2005-2009.pgn": "36112572a67f4c795df18202828404f37bf18bd8df12c765ca7c3d32519eb53c",
+    "cache/learning/pgn/otb-2015-2019.pgn": "a382b3ea11168a7c2a9d63c7a73e306468f764ce3f810986e4347ffe3fa587c4",
+    "cache/learning/pgn/otb-2020-2024.pgn": "1642c6b3e1189354809880b147c3057ed418916133b0b68ee312694929697196"
+  },
+  "outputs_sha256": {
+    "data/derived/learning_pilot_pool.jsonl": "965f6266af59686e3e7e74b63032d4d9e48772aa56c4b6a6716e99630c261cd4",
+    "data/derived/learning_pilot_exclusions.jsonl": "9138db1c6e729108dad82b4931ff993e7dbfecd2e878eb2adfd6d4559740f624",
+    "data/derived/learning_reference_errors.jsonl": "3c549cea2e7b0f6dadcf8589bd83a0900b95b7745b47227152b0d43100321b82",
+    "data/derived/learning_pilot_sample.csv": "4ac76122d42cf31911a712c25483b952a8b63b1419c310ebde85e4f80a2eab8c",
+    "data/derived/learning_pilot_coverage.csv": "1ee8f3f1b8a563fd760f9142dee5dfe99f5b9d640fe6fa1d22cf06496070be5b",
+    "data/derived/learning_event_audit.csv": "8a0c4688994e69e635b2df12bfd00fcccfc085da8b307dc34c71cd358ebace2b"
+  },
+  "limits": [
+    "Restricted documented-event pool, not representative classical chess; variance and throughput only.",
+    "Conflicting duplicate scores are quarantined; near-copy and truncated scores may still be missing.",
+    "Player-year cap uses independent event-archive names where matched, otherwise supplied FIDE ID or full normalised name; unresolved aliases can evade the cap.",
+    "Reference-archive Elo disagreements are retained beside the original mover PGN Elo; no ratings are silently replaced.",
+    "Independent game archives may share upstream scores; archived events require an exact score/result and compatible participant-name match.",
+    "Only sampled identities will be joined to rating lists; PGN Elo defines the mover band."
+  ]
+}

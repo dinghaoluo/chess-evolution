@@ -1,0 +1,120 @@
+{
+  "recorded": "2026-10-16",
+  "purpose": "initial verified event pool for the variance pilot; incomplete coverage of classical chess",
+  "events": [
+    {
+      "event_id": "world-team-1985",
+      "year": 1985,
+      "start": "1985.11.15",
+      "end": "1985.11.28",
+      "aliases": [
+        "WchT 1st",
+        "Team Ch",
+        "ch-Wereld Teams",
+        "Lucerne",
+        "Olympiad",
+        "Lucerne WTC",
+        "Luzern WCHT",
+        "WchT",
+        "World Team-ch01",
+        "Lucerne WchT",
+        "Lucerne wcht",
+        "Luzern WchT",
+        "Luzern tt",
+        "Luzern tt WCh",
+        "Luzern tt URS-ENG",
+        "03, Luzern tt SWZ-CHI",
+        "07 Luzern tt ROM-CHI",
+        "07 Luzern tt SUI-HUN",
+        "08, Luzern tt HUN-CHI",
+        "5, Lucerne WTC",
+        "Team Ch Lucerne SUI",
+        "Olympiad, Lucerne SUI"
+      ],
+      "source": "https://www.olimpbase.org/1985t/1985in.html",
+      "source_file": "cache/research/world-team-1985.html",
+      "independent_scores": "cache/research/world-team-1985.zip",
+      "classical_evidence": "OlimpBase information, Time control: 40 moves in 150 minutes, then successive 16 moves in 60 minutes. Require an exact mainline and result match to its game archive for broad aliases."
+    },
+    {
+      "event_id": "pan-pacific-1995",
+      "year": 1995,
+      "start": "1995.02.21",
+      "end": "1995.03.04",
+      "aliases": [
+        "Pan Pacific Internat",
+        "Pan Pacific International",
+        "Pan Pacific International Chess Tournament"
+      ],
+      "source": "https://theweekinchess.com/html/twic22.html",
+      "source_file": null,
+      "independent_scores": null,
+      "classical_evidence": "Eric Schiller, event press officer, round reports in TWIC 21 section 18 and TWIC 22 section 4: scheduled daily rounds, an adjourned round-four game, three time controls and GM norms. Classical classification from the contemporary participant report; exact clock allocation not recovered.",
+      "source_limit": "Report read on the public web; direct cache download returns HTTP 406. No independent full-score comparison in this pool."
+    },
+    {
+      "event_id": "world-team-2005",
+      "year": 2005,
+      "start": "2005.10.31",
+      "end": "2005.11.11",
+      "aliases": [
+        "Beer Sheva ISR, World Team Ch",
+        "Ch World team",
+        "WchT 6th",
+        "World Team Ch",
+        "World Team Championship",
+        "World Team Championship 2005"
+      ],
+      "source": "https://www.olimpbase.org/2005t/2005in.html",
+      "source_file": "cache/research/world-team-2005.html",
+      "independent_scores": "cache/research/world-team-2005.zip",
+      "classical_evidence": "OlimpBase information, Time control: 40 moves in 100 minutes, 20 in 50 minutes, then 10 minutes; 30 seconds increment throughout. Require exact mainline and result match to the independent game archive."
+    },
+    {
+      "event_id": "world-team-2015",
+      "year": 2015,
+      "start": "2015.04.18",
+      "end": "2015.04.29",
+      "aliases": [
+        "10. World Teams 2015",
+        "10th World Teams 2015",
+        "Ch World team",
+        "WchT 10th",
+        "World Team Championship 2015"
+      ],
+      "source": "https://www.olimpbase.org/2015t/2015in.html",
+      "source_file": "cache/research/world-team-2015.html",
+      "independent_scores": "cache/research/world-team-2015.zip",
+      "classical_evidence": "OlimpBase information and FIDE 2015 time-control announcement: 40 moves in 90 minutes, then 30 minutes; 30 seconds increment throughout. Require exact mainline and result match to the independent game archive."
+    },
+    {
+      "event_id": "olympiad-2024",
+      "year": 2024,
+      "start": "2024.09.11",
+      "end": "2024.09.22",
+      "aliases": [
+        "45th E Chess Olympiad",
+        "45th E Women's Chess Olympiad",
+        "45th FIDE Chess Olympiad",
+        "45th FIDE Women's Chess Olympiad",
+        "45th Olympiad 2024",
+        "Chess Olympiad 2024",
+        "Chess Olympiad Women 2024",
+        "Olympiad Women 2024"
+      ],
+      "source": "https://www.fide.com/FIDE/handbook/Olympiad2024.pdf",
+      "source_file": "cache/research/olympiad-2024-regulations.pdf",
+      "independent_scores": [
+        "cache/research/2024olm.pgn",
+        "cache/research/2024olw.pgn"
+      ],
+      "classical_evidence": "Official regulations section 4.7.5: 40 moves in 90 minutes, then 30 minutes; 30 seconds increment throughout. TWIC's event report confirms 11–22 September in Budapest and the same control. Exclude training and selection events. Require exact mainline/result and compatible participant names in OlimpBase’s Open or Women PGN archive.",
+      "source_limit": "OlimpBase scores supply the independent archive; TWIC direct downloads return HTTP 406."
+    }
+  ],
+  "limits": [
+    "This ledger verifies named events, not all classical games in the source. Selection is unrelated to engine scores but event coverage differs by year.",
+    "A pilot from this restricted pool estimates event-conditional variance and throughput; it cannot support historical effect estimates or a full-corpus sample size.",
+    "The independent archives can share upstream scores with Lumbra; matching checks score and identity consistency, not independent eyewitness verification."
+  ]
+}

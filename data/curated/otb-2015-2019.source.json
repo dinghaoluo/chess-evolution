@@ -1,0 +1,14 @@
+{
+  "batch": "otb-2015-2019",
+  "download_url": "https://lumbrasgigabase.com/download/otb-2015-2019/?wpdmdl=9158",
+  "source_page": "https://lumbrasgigabase.com/en/download-the-scid-database-en/",
+  "pgn_member": "LumbrasGigabase_OTB_2015-2019.pgn",
+  "licence": "CC BY-NC 4.0",
+  "attribution": "Lumbra Gigabase, Michael Jansen",
+  "file": "cache/learning/otb-2015-2019.7z",
+  "retrieved_at": "2026-10-16",
+  "archived_sha256": "a034f1d0a7cb70b1a4e947534b33d41f9dd9f9565d071f80febf257148879cef",
+  "sha256": "a034f1d0a7cb70b1a4e947534b33d41f9dd9f9565d071f80febf257148879cef",
+  "bytes": 407295575,
+  "status": "archived_hash_match"
+}

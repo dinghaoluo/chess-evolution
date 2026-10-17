@@ -1,0 +1,11 @@
+{
+  "batch": "otb-1990-1999",
+  "archive": "cache/learning/otb-1990-1999.7z",
+  "archive_sha256": "5b4dbf9d31eebb084c8f15f18883f9a0e3d8ffa31138bf925050d343dbd55c9c",
+  "pgn": "cache/learning/pgn/otb-1990-1999.pgn",
+  "pgn_sha256": "457dce15fc41ad7923747948e1b1e51716b52e22cadfc689f31a9a1298f6ca7f",
+  "pgn_bytes": 1519240641,
+  "records": 1881352,
+  "header_audit": "data/derived/otb-1990-1999_headers.json",
+  "header_audit_sha256": "113b19777d65403b9b29dc408901af47c7e4b20667d96bc828c3d0b1fbf29fdf"
+}

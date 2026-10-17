@@ -1,0 +1,131 @@
+{
+  "inputs_sha256": {
+    "data/derived/learning_pilot_sample.csv": "4ac76122d42cf31911a712c25483b952a8b63b1419c310ebde85e4f80a2eab8c",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/join_pilot_birth_years.py": "9c29942a055ae6a2f256fe4858e35b27935ddc2d52536b58cfee83ea21d98069",
+    "scripts/rating_participation.py": "d6cbf16af4f1d604688dbc6891b253b2f10831860c943af7abca45bd40805b74",
+    "scripts/sample_learning_pilot.py": "68bf03c88f8fd2995d620e9b516a954edd4e61c0c65d3980a5b36c8e4071455f",
+    "data/curated/rating_sources.csv": "0bf3d6cb27dd089b1bdc7db772755d7a4ae24c2caf3f089de075e8ad27e78d1d",
+    "data/curated/learning_classical_events.json": "0567473e7264718cf77a7b350c00474c2300058ccd963d697cf1169ccc742ab0",
+    "cache/research/ratings/olimpbase-1986.html": "3e215d26567d043d0ae679d86dc2d3507d8a3eea6c2191114c10d14fd96e5475",
+    "cache/research/ratings/olimpbase-1995.html": "63d50c7d490fcee6f67556b1b1106e3aa2702088e6635b645fc0d8f1f32fee25",
+    "cache/research/ratings/fide-2006.zip": "29a097116289b556cd20e70c11bd3769edf77ac1592788887892733e2271d787",
+    "cache/research/ratings/fide-2015.zip": "0f8e6adab9e93d42a67daca02769a11022859110387e617f58e7346179e838e5",
+    "cache/research/ratings/fide-2025.zip": "fc8a01fc686e3ac1dd80cd6c5b6c892e7d30fdf933c79a9bc888ef5715fceb97"
+  },
+  "outputs_sha256": {
+    "data/derived/learning_pilot_birth_years.csv": "b9b5f2f0c16d5d6e22f640efff2ed3ccfdaffdb6b3a6b9e060ca5a7927f07866"
+  },
+  "counts": [
+    {
+      "year": "1985",
+      "match_status": "exact_name",
+      "birth_year_available": false,
+      "count": 15
+    },
+    {
+      "year": "1985",
+      "match_status": "unmatched",
+      "birth_year_available": false,
+      "count": 6
+    },
+    {
+      "year": "1995",
+      "match_status": "exact_name",
+      "birth_year_available": true,
+      "count": 3
+    },
+    {
+      "year": "1995",
+      "match_status": "id_and_name",
+      "birth_year_available": true,
+      "count": 4
+    },
+    {
+      "year": "1995",
+      "match_status": "id_name_conflict",
+      "birth_year_available": false,
+      "count": 1
+    },
+    {
+      "year": "1995",
+      "match_status": "unmatched",
+      "birth_year_available": false,
+      "count": 6
+    },
+    {
+      "year": "2005",
+      "match_status": "exact_name",
+      "birth_year_available": true,
+      "count": 28
+    },
+    {
+      "year": "2005",
+      "match_status": "id_and_name",
+      "birth_year_available": true,
+      "count": 1
+    },
+    {
+      "year": "2005",
+      "match_status": "unmatched",
+      "birth_year_available": false,
+      "count": 1
+    },
+    {
+      "year": "2015",
+      "match_status": "ambiguous_identity",
+      "birth_year_available": false,
+      "count": 1
+    },
+    {
+      "year": "2015",
+      "match_status": "exact_name",
+      "birth_year_available": true,
+      "count": 32
+    },
+    {
+      "year": "2015",
+      "match_status": "id_and_name",
+      "birth_year_available": true,
+      "count": 2
+    },
+    {
+      "year": "2015",
+      "match_status": "id_name_conflict",
+      "birth_year_available": false,
+      "count": 1
+    },
+    {
+      "year": "2015",
+      "match_status": "unmatched",
+      "birth_year_available": false,
+      "count": 1
+    },
+    {
+      "year": "2024",
+      "match_status": "exact_name",
+      "birth_year_available": true,
+      "count": 1
+    },
+    {
+      "year": "2024",
+      "match_status": "id_and_name",
+      "birth_year_available": true,
+      "count": 148
+    },
+    {
+      "year": "2024",
+      "match_status": "unmatched",
+      "birth_year_available": false,
+      "count": 1
+    }
+  ],
+  "limits": [
+    "Only sampled players are joined; PGN Elo still defines the band.",
+    "Exact supplied ID requires compatible name; otherwise a unique exact normalised full-name match is accepted.",
+    "No fuzzy surname matching, imputed birth year, or full top-100 identity join.",
+    "Two-digit birth years require one candidate aged 0\u2013100 on the list; unresolved centuries remain missing.",
+    "Birth-year ages span one year; under-20 and 25\u201340 groups exclude boundary ambiguity.",
+    "Original game-date intervals are intersected with documented event dates; no exact day is invented.",
+    "List coverage, source identity errors and name changes can reduce the match rate."
+  ]
+}

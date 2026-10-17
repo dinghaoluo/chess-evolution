@@ -1,0 +1,253 @@
+game_id,year,band,colour,player,player_key,pgn_elo,pgn_fide_id,date,event_id,reference_elo,batch,source_ordinal
+e9e91d4b2e4ae2cb4d54,1985,2400-2599,black,"Kouatly, Bachar","kouatly,bachar",2460,600032,1985.11.24,world-team-1985,2470,otb-1970-1989,284905
+b7ecc81e24571d740e55,1985,2400-2599,black,"Sokolov, Andrei","sokolov,andrei",2550,,1985.11.23,world-team-1985,2555,otb-1970-1989,284941
+39f37481a80fe088b2aa,1985,2400-2599,black,"Adorjan, Andras","adorjan,andras",2565,700096,1985.11.21,world-team-1985,2535,otb-1970-1989,284982
+35728cb786feb9e24b64,1985,2400-2599,black,"Yusupov, A","yusupov,artur",2590,,1985.11.??,world-team-1985,2600,otb-1970-1989,285602
+e17b3d806c09e2d63c7c,1985,2400-2599,white,"Bischoff, Klaus","bischoff,klaus",2415,,1985.11.24,world-team-1985,2415,otb-1970-1989,284907
+e0faacf4e69bf735b310,1985,2400-2599,white,"Short, Nigel D","short,nigeldavid",2535,400025,1985.11.22,world-team-1985,2575,otb-1970-1989,284963
+956fd8a6df85124bb104,1985,2400-2599,black,"Barbulescu, Dan","barbulescu,dan",2465,1200097,1985.??.??,world-team-1985,2450,otb-1970-1989,318139
+e9e91d4b2e4ae2cb4d54,1985,2400-2599,white,"Gheorghiu, Florin","gheorghiu,florin",2530,,1985.11.24,world-team-1985,2515,otb-1970-1989,284905
+ecd3bc2e1a49c3fb8510,1985,2200-2399,black,"Afifi, Assem","afifi,assem",2370,10600019,1985.11.22,world-team-1985,2355,otb-1970-1989,284962
+b7ecc81e24571d740e55,1985,2200-2399,white,"Skalli, Kamel","skalli,kamel",2255,,1985.11.23,world-team-1985,,otb-1970-1989,284941
+0ed41a2328b7e3b49d8c,1985,2600+,white,"Ribli, Z","ribli,zoltan",2615,,1985.11.??,world-team-1985,2605,otb-1970-1989,285603
+39f37481a80fe088b2aa,1985,2400-2599,white,"Chernin, Alexander","chernin,alexander",2495,,1985.11.21,world-team-1985,2560,otb-1970-1989,284982
+642ea541f9d67ba8e2cc,1985,2400-2599,white,"Garcia Palermo, Carlos Horacio","garciapalermo,carlos",2520,110124,1985.11.21,world-team-1985,2515,otb-1970-1989,284981
+0ecf87ca41e4f5aa48d6,1985,2400-2599,black,"Suba, Mihai","suba,mihai",2465,,1985.11.21,world-team-1985,2505,otb-1970-1989,284980
+0ecf87ca41e4f5aa48d6,1985,2400-2599,white,"Lobron, Eric","lobron,eric",2505,,1985.11.21,world-team-1985,2525,otb-1970-1989,284980
+ecd3bc2e1a49c3fb8510,1985,2400-2599,white,"Quinteros, Miguel A","quinteros,miguelangel",2530,100021,1985.11.22,world-team-1985,2525,otb-1970-1989,284962
+956fd8a6df85124bb104,1985,2200-2399,white,Xu Jun,xujun,2205,,1985.??.??,world-team-1985,2205,otb-1970-1989,318139
+e0faacf4e69bf735b310,1985,2400-2599,black,"Sharif, Mehrshad","sharif,mehrshad",2420,600121,1985.11.22,world-team-1985,2430,otb-1970-1989,284963
+312b6af81f7575280dc0,1985,2200-2399,white,"Gobet, Fernand","gobet,fernand",2340,1300083,1985.11.24,world-team-1985,2360,otb-1970-1989,284902
+e17b3d806c09e2d63c7c,1985,2400-2599,black,"Rubinetti, Jorge","rubinetti,jorgealberto",2450,100161,1985.11.24,world-team-1985,2440,otb-1970-1989,284907
+642ea541f9d67ba8e2cc,1985,2400-2599,black,"Hug, Werner","hug,werner",2440,,1985.11.21,world-team-1985,2450,otb-1970-1989,284981
+5fa673584b59b029f05f,1995,2400-2599,black,"Xie, Jun","xie,jun",2555,,1995.??.??,pan-pacific-1995,,otb-1990-1999,1118291
+474ee56f1dd4011cd951,1995,2400-2599,black,"De Firmian, Nick",2000105,2590,2000105,1995.02.26,pan-pacific-1995,,otb-1990-1999,989727
+dbe8af0983a6dc87e57f,1995,2400-2599,white,"Browne, Walter S",2000210,2560,2000210,1995.02.23,pan-pacific-1995,,otb-1990-1999,989846
+43a08fd1b4fb6eea6a2f,1995,2600+,white,Viktor Korchnoi,viktorkorchnoi,2635,,1995.03.02,pan-pacific-1995,,otb-1990-1999,988496
+6121658f2ccf7cf398aa,1995,2600+,white,Robert Huebner,roberthuebner,2620,,1995.02.25,pan-pacific-1995,,otb-1990-1999,989779
+43a08fd1b4fb6eea6a2f,1995,2400-2599,black,Joshua Waitzkin,joshuawaitzkin,2435,,1995.03.02,pan-pacific-1995,,otb-1990-1999,988496
+5fa673584b59b029f05f,1995,2400-2599,white,"Waitzkin, Joshua","waitzkin,joshua",2435,,1995.??.??,pan-pacific-1995,,otb-1990-1999,1118291
+4f80cff1a554f965b8eb,1995,2400-2599,black,Xie Jun,xiejun,2555,,1995.02.22,pan-pacific-1995,,otb-1990-1999,989862
+ff4d20a40a7b1788d99d,1995,2600+,white,"Korchnoi, Viktor",1300016,2635,1300016,1995.03.04,pan-pacific-1995,,otb-1990-1999,988472
+a90797a02abbdd7e4127,1995,2600+,black,"Nunn, John D M",400017,2630,400017,1995.02.27,pan-pacific-1995,,otb-1990-1999,989695
+00eb708adbe0f8047ab7,1995,2400-2599,white,Jonathan David Tisdall,jonathandavidtisdall,2470,,1995.03.01,pan-pacific-1995,,otb-1990-1999,988945
+1d1a5e5349f8d94672c3,1995,2400-2599,white,"Christiansen, Larry",2000059,2570,2000059,1995.02.24,pan-pacific-1995,,otb-1990-1999,989815
+292cb0e5e92d7018a8a6,1995,2400-2599,white,"Gulko, Boris F","gulko,borisf",2595,,1995.03.03,pan-pacific-1995,,otb-1990-1999,988489
+ed21385e5af8a57e98ec,1995,2400-2599,black,Zsofia Polgar,zsofiapolgar,2500,,1995.02.24,pan-pacific-1995,,otb-1990-1999,989814
+1c103a2afe8d8d94d359,2005,2600+,white,"Sutovsky, Emil","sutovsky,emil",2654,,2005.11.01,world-team-2005,2654,otb-2005-2009,1530394
+3c0c13584e1c0a426026,2005,2600+,black,"Azmaiparashvili, Zurab","azmaiparashvili,zurab",2658,,2005.11.03,world-team-2005,2658,otb-2005-2009,1529611
+f17c0425ab07c83133a0,2005,2400-2599,black,"Delgado Ramirez, Neuris","delgadoramirez,neuris",2551,,2005.11.07,world-team-2005,2551,otb-2005-2009,1526480
+0f655ba89527f831f36b,2005,2400-2599,black,"Pantsulaia, Levan","pantsulaia,levan",2578,,2005.11.01,world-team-2005,2578,otb-2005-2009,1530396
+d29c2c72e09511ccac05,2005,2400-2599,black,"Erenburg, Sergey","erenburg,sergey",2582,,2005.11.02,world-team-2005,2582,otb-2005-2009,1529798
+31cbe6a76f3eb017d2dd,2005,2600+,black,"Kaidanov, Gregory S","kaidanov,gregory",2629,,2005.11.04,world-team-2005,2608,otb-2005-2009,1529277
+1bcbdfb7000e01963e74,2005,2600+,black,"Jobava, Baadur","jobava,baadur",2640,,2005.11.01,world-team-2005,2601,otb-2005-2009,1530385
+a094ae03de67ce0259d1,2005,2400-2599,white,"Mchedlishvili, Mikheil","mchedlishvili,mikheil",2564,,2005.11.08,world-team-2005,2564,otb-2005-2009,1526363
+2b4b4ab86eb2fd91f817,2005,2600+,black,"Smirin, Ilia","smirin,ilia",2673,,2005.11.08,world-team-2005,2673,otb-2005-2009,1526358
+a6bdd9f4672d414e708f,2005,2600+,white,"Onischuk, Alexander","onischuk,alexander",2640,,2005.11.04,world-team-2005,2640,otb-2005-2009,1529285
+50fe800e6833790dcfc2,2005,2600+,white,"Goldin, Alexander","goldin,alexander",2600,,2005.11.05,world-team-2005,2600,otb-2005-2009,1528955
+a9b2009437da5b9160a4,2005,2600+,white,"Roiz, Michael","roiz,michael",2600,,2005.11.01,world-team-2005,2600,otb-2005-2009,1530384
+d89d9a83ced7ff90991f,2005,2600+,white,"Svidler, Peter","svidler,peter",2740,,2005.11.05,world-team-2005,2740,otb-2005-2009,1528950
+31cbe6a76f3eb017d2dd,2005,2600+,white,"Akopian, Vladimir","akopian,vladimir",2707,,2005.11.04,world-team-2005,2707,otb-2005-2009,1529277
+6aaac890c9edcc1e31a2,2005,2600+,white,"Asrian, Karen","asrian,karen",2645,,2005.11.01,world-team-2005,2645,otb-2005-2009,1530389
+d29c2c72e09511ccac05,2005,2600+,white,"Rublevsky, Sergei","rublevsky,sergei",2652,,2005.11.02,world-team-2005,2652,otb-2005-2009,1529798
+d7dacdfd555c628a2178,2005,2600+,black,"Ponomariov, Ruslan","ponomariov,ruslan",2704,,2005.11.09,world-team-2005,2704,otb-2005-2009,1526157
+8f61fca666f5f508e411,2005,2600+,white,"Aronian, Levon","aronian,levon",2724,,2005.11.07,world-team-2005,2724,otb-2005-2009,1526484
+f7d2936ad88764d3a7b1,2005,2600+,black,"Morozevich, Alexander","morozevich,alexander",2707,,2005.11.02,world-team-2005,2707,otb-2005-2009,1529795
+0603e047c341d41dd527,2005,2600+,black,"Gelfand, Boris","gelfand,boris",2717,,2005.11.01,world-team-2005,2717,otb-2005-2009,1530392
+02b73e7cf65a557dc8b6,2005,2600+,black,"Grischuk, Alexander","grischuk,alexander",2720,,2005.11.07,world-team-2005,2720,otb-2005-2009,1526487
+f1fa5ceeb6d5217ed2d9,2005,2400-2599,black,"Gagunashvili, Merab","gagunashvili,merab",2542,,2005.11.02,world-team-2005,2542,otb-2005-2009,1529796
+c5d8b04c63a47ce8afd4,2005,2400-2599,white,"Gulko, Boris F","gulko,boris",2577,,2005.11.05,world-team-2005,2577,otb-2005-2009,1528952
+e232c748688aa134d3e9,2005,2400-2599,black,"Anastasian, Ashot","anastasian,ashot",2596,,2005.11.07,world-team-2005,2596,otb-2005-2009,1526488
+ca06542fd2c21bb2dc69,2005,2400-2599,black,"Novikov, Igor A","novikov,igor",2580,,2005.11.01,world-team-2005,2580,otb-2005-2009,1530391
+a094ae03de67ce0259d1,2005,2600+,black,"Avrukh, Boris","avrukh,boris",2653,,2005.11.08,world-team-2005,2652,otb-2005-2009,1526363
+e232c748688aa134d3e9,2005,2600+,white,"Bareev, Evgeny","bareev,evgeny",2675,,2005.11.07,world-team-2005,2675,otb-2005-2009,1526488
+470e31565cd3a99b3850,2005,2600+,white,"Ibragimov, Ildar","ibragimov,ildar",2617,,2005.11.02,world-team-2005,2617,otb-2005-2009,1529797
+9ccb852e43dfa2f1b89e,2005,2600+,white,"Eljanov, Pavel","eljanov,pavel",2663,,2005.11.04,world-team-2005,2663,otb-2005-2009,1529288
+a9b2009437da5b9160a4,2005,2600+,black,"Vaganian, Rafael A","vaganian,rafael",2614,13300016,2005.11.01,world-team-2005,2614,otb-2005-2009,1530384
+d7c0d1741184320f00b5,2015,2600+,white,"Kryvoruchko, Yuriy","kryvoruchko,yuriy",2695,,2015.04.21,world-team-2015,2695,otb-2015-2019,1996250
+e4ed3c8167ea51f54c11,2015,2600+,white,"Balogh, Csaba","balogh,csaba",2655,,2015.04.19,world-team-2015,2655,otb-2015-2019,1998160
+3583584ce7e5990cf18c,2015,2600+,black,"Erdos, Viktor","erdos,viktor",2612,719978,2015.04.25,world-team-2015,2613,otb-2015-2019,1992877
+ed788f5f9b885f31f437,2015,2600+,black,"Eljanov, Pavel","eljanov,pavel",2727,,2015.04.20,world-team-2015,2727,otb-2015-2019,1996897
+da49ce1c70451852dc8e,2015,2600+,white,"Almasi, Zoltan","almasi,zoltan",2695,,2015.04.25,world-team-2015,2695,otb-2015-2019,1992922
+c26e671a80bf48eb275d,2015,2600+,black,"Ponomariov, Ruslan","ponomariov,ruslan",2713,,2015.04.20,world-team-2015,2713,otb-2015-2019,1996894
+5a7777fa578b536f6dac,2015,2600+,white,"Tomashevsky, Evgeny","tomashevsky,evgeny",2745,,2015.04.26,world-team-2015,2745,otb-2015-2019,1991254
+35b603a2a4f2d714515c,2015,2600+,white,"Amin, Bassem","amin,bassem",2634,,2015.04.27,world-team-2015,2634,otb-2015-2019,1990387
+e7c7dcc223ae4db1b057,2015,2600+,black,"Smirin, Ilia","smirin,ilia",2644,,2015.04.20,world-team-2015,2644,otb-2015-2019,1996903
+aa034f247f6172b4caff,2015,2600+,white,"Ivanchuk, Vasyl","ivanchuk,vasyl",2731,14100010,2015.04.28,world-team-2015,2731,otb-2015-2019,1989904
+435a0b737c1ea1cb3f74,2015,2400-2599,black,"Shoker, Samy","shoker,samy",2482,,2015.04.28,world-team-2015,2466,otb-2015-2019,1989917
+020ce7533c81d00706f9,2015,2600+,black,"Aronian, Levon","aronian,levon",2770,,2015.04.21,world-team-2015,2770,otb-2015-2019,1996252
+9c982edf215ae4de0f3a,2015,2600+,black,"Sasikiran, Krishnan","sasikiran,krishnan",2682,,2015.04.21,world-team-2015,2682,otb-2015-2019,1996248
+9eae65fd6b3ed10d50b9,2015,2600+,black,"Domínguez Pérez, Leinier","dominguezperez,leinier",2729,,2015.04.22,world-team-2015,2729,otb-2015-2019,1995681
+304d69cfafb34b7d9117,2015,2600+,white,"Rodshtein, Maxim","rodshtein,maxim",2667,,2015.04.20,world-team-2015,2654,otb-2015-2019,1996904
+4eefd66fab0c1b933088,2015,2600+,black,"Leko, Peter","leko,peter",2713,,2015.04.21,world-team-2015,2713,otb-2015-2019,1996263
+f0004cf1160da4876e09,2015,2600+,black,"Naroditsky, Daniel","naroditsky,daniel",2633,,2015.04.21,world-team-2015,2633,otb-2015-2019,1996262
+4f01e36331b65681a89e,2015,2600+,white,"Movsesian, Sergei","movsesian,sergei",2665,,2015.04.23,world-team-2015,2665,otb-2015-2019,1995023
+35b603a2a4f2d714515c,2015,2600+,black,"Grischuk, Alexander","grischuk,alexander",2794,,2015.04.27,world-team-2015,2794,otb-2015-2019,1990387
+e7c7dcc223ae4db1b057,2015,2400-2599,white,"Ezat, Mohamed","ezat,mohamed",2479,,2015.04.20,world-team-2015,2479,otb-2015-2019,1996903
+e4c25a0a6c0dc9568986,2015,2200-2399,white,"Farahat, Ali","farahat,ali",2389,,2015.04.23,world-team-2015,2389,otb-2015-2019,1995008
+1187239efde227f7559a,2015,2600+,black,"Gelfand, Boris","gelfand,boris",2747,,2015.04.23,world-team-2015,2747,otb-2015-2019,1995014
+c49d02f105432a10aaa8,2015,2600+,white,"Sutovsky, Emil","sutovsky,emil",2623,,2015.04.26,world-team-2015,2623,otb-2015-2019,1991250
+75ece2e725e2534e37e2,2015,2600+,white,"Akobian, Varuzhan","akobian,varuzhan",2622,,2015.04.28,world-team-2015,2622,otb-2015-2019,1989906
+4f01e36331b65681a89e,2015,2600+,black,"Lenderman, Aleksandr","lenderman,aleksandr",2617,,2015.04.23,world-team-2015,2617,otb-2015-2019,1995023
+a780dfded26287675f5a,2015,2600+,black,"Onischuk, Alexander","onischuk,alexander",2665,,2015.04.27,world-team-2015,2665,otb-2015-2019,1990395
+e02eb481805f4eacf058,2015,2400-2599,white,"Gonzalez Vidal, Yuri","gonzalezvidal,yuri",2557,3503321,2015.04.28,world-team-2015,2557,otb-2015-2019,1989908
+db8f73a7734229fa0173,2015,2600+,white,"Postny, Evgeny","postny,evgeny",2636,,2015.04.26,world-team-2015,2645,otb-2015-2019,1991248
+f966a3e193da91c8a707,2015,2600+,black,"Vitiugov, Nikita","vitiugov,nikita",2739,,2015.04.20,world-team-2015,2739,otb-2015-2019,1996907
+9f125fd6f355cf412c94,2015,2600+,white,"Shankland, Samuel L","shankland,samuel",2661,,2015.04.28,world-team-2015,2661,otb-2015-2019,1989909
+b14ca5a3ba9f9fbba9ad,2015,2600+,white,"Akopian, Vladimir","akopian,vladimir",2660,,2015.04.19,world-team-2015,2660,otb-2015-2019,1998171
+43298aee9e3c0079b9b7,2015,2400-2599,white,"Adly, Ahmed","adly,ahmed",2589,,2015.04.25,world-team-2015,2589,otb-2015-2019,1992906
+e4c25a0a6c0dc9568986,2015,2400-2599,black,Wang Chen,wangchen,2500,,2015.04.23,world-team-2015,2500,otb-2015-2019,1995008
+e4ed3c8167ea51f54c11,2015,2600+,black,"Ortiz Suarez, Isan Reynaldo","ortizsuarez,isanreynaldo",2625,,2015.04.19,world-team-2015,2625,otb-2015-2019,1998160
+de685f3b00213f03db91,2015,2600+,white,"Rapport, Richárd","rapport,richard",2709,,2015.04.26,world-team-2015,2709,otb-2015-2019,1991258
+1a083139a5bca171da23,2015,2600+,white,"Sargissian, Gabriel","sargissian,gabriel",2668,,2015.04.19,world-team-2015,2668,otb-2015-2019,1998173
+37da4793821e41627a2b,2015,2400-2599,white,"Sengupta, Deep","sengupta,deep",2567,,2015.04.19,world-team-2015,2567,otb-2015-2019,1998158
+66d8e83d4f723b1f4391,2024,2400-2599,white,"Sardana, Rishi","sardana,rishi",2477,25004301,2024.09.21,olympiad-2024,2477,otb-2020-2024,82620
+11045dff291682132880,2024,2200-2399,white,"Baburin, Alexander","baburin,alexander",2376,2500914,2024.09.14,olympiad-2024,2376,otb-2020-2024,89748
+26c80e232534a76d6f40,2024,2400-2599,white,"Schitco, Ivan","schitco,ivan",2527,13905465,2024.09.20,olympiad-2024,2527,otb-2020-2024,83930
+d85f84f342e4071a3ec7,2024,2200-2399,black,"Renjith, Sravan","renjith,sravan",2325,4306783,2024.09.14,olympiad-2024,2325,otb-2020-2024,89669
+a238e3da8855d7850cd8,2024,2200-2399,white,"Mieles Palau, Daniel","mielespalau,daniel",2321,3600467,2024.09.12,olympiad-2024,2321,otb-2020-2024,92658
+3e482c136910c0dec596,2024,2600+,black,"Sjugirov, Sanan","sjugirov,sanan",2644,4189302,2024.09.12,olympiad-2024,2644,otb-2020-2024,92518
+0275ad2fcb748bf6d195,2024,2400-2599,black,"Lu, Miaoyi","lu,miaoyi",2438,8618020,2024.09.13,olympiad-2024,2438,otb-2020-2024,91504
+c9caecdc6771ebc7f28c,2024,2200-2399,black,"Daulyte-Cornette, Deimante","daulytecornette,deimante",2369,12802859,2024.09.14,olympiad-2024,2369,otb-2020-2024,89927
+f3b94d89a937ebc5434a,2024,2200-2399,white,"Djabri, Massinas","djabri,massinas",2280,7905726,2024.09.19,olympiad-2024,2280,otb-2020-2024,85139
+7c182b9e9e61de3c6c02,2024,2400-2599,white,"Wagner, Dinara","wagner,dinara",2452,24157570,2024.09.11,olympiad-2024,2452,otb-2020-2024,93753
+395b6f87f52c1889597d,2024,2200-2399,black,"Kozusek, Daniel","kozusek,daniel",2367,349500,2024.09.15,olympiad-2024,2367,otb-2020-2024,88404
+38694541de1e666380d9,2024,2200-2399,white,"Urh, Zala","urh,zala",2251,14611481,2024.09.22,olympiad-2024,2251,otb-2020-2024,81468
+13e033c2e584250977a6,2024,2200-2399,white,"Krush, Irina","krush,irina",2396,2012782,2024.09.21,olympiad-2024,2396,otb-2020-2024,82906
+385b8852a731a25e3043,2024,2600+,white,"Aronian, Levon","aronian,levon",2729,13300474,2024.09.18,olympiad-2024,2729,otb-2020-2024,86015
+337112c646a60a5f9007,2024,2200-2399,black,"Ahn, Hongjin","ahn,hongjin",2251,13201492,2024.09.18,olympiad-2024,2251,otb-2020-2024,86168
+aed407cf0e498e2e55ba,2024,2200-2399,white,"Waldhausen Gordon, Frederick","waldhausengordon,frederick",2351,2409143,2024.09.21,olympiad-2024,2351,otb-2020-2024,82642
+098faece70966974fee2,2024,2200-2399,white,"Ondozi, Murtez","ondozi,murtez",2371,937576,2024.09.13,olympiad-2024,2371,otb-2020-2024,91836
+47458e48fad13a3bede5,2024,2200-2399,white,"Vega Gutierrez, Sabrina","vegagutierrez,sabrina",2374,2219026,2024.09.16,olympiad-2024,2374,otb-2020-2024,87599
+f6a610b64b04f214b70e,2024,2400-2599,white,"Vandenbussche, Thibaut","vandenbussche,thibaut",2461,204412,2024.09.12,olympiad-2024,2461,otb-2020-2024,92534
+91d628cf1916f8baae54,2024,2200-2399,white,"Kanyamarala, Tarun","kanyamarala,tarun",2361,45004714,2024.09.20,olympiad-2024,2361,otb-2020-2024,83967
+bec80425f9d36e6619a4,2024,2400-2599,white,"Kostolansky, Sebastian Lukas","kostolansky,sebastianlukas",2405,14950596,2024.09.21,olympiad-2024,2405,otb-2020-2024,82601
+d0171333b6c8f408e150,2024,2600+,white,"Carlsen, Magnus","carlsen,magnus",2832,1503014,2024.09.21,olympiad-2024,2832,otb-2020-2024,82575
+954899a6b25905a58281,2024,2200-2399,white,"Blackman, Justin","blackman,justin",2265,11100516,2024.09.18,olympiad-2024,2265,otb-2020-2024,86241
+9728cd8afacdeb95f78e,2024,2400-2599,white,"Rodriguez Vila, Andres","rodriguezvila,andres",2417,3000010,2024.09.21,olympiad-2024,2417,otb-2020-2024,82675
+7536d2be38785a659591,2024,2400-2599,white,"Dzagnidze, Nana","dzagnidze,nana",2508,13601903,2024.09.14,olympiad-2024,2508,otb-2020-2024,89566
+3b4c6ef91c21e1874b91,2024,2200-2399,black,"Newrkla, Katharina","newrkla,katharina",2208,1621629,2024.09.18,olympiad-2024,2208,otb-2020-2024,86758
+df94bd8373aac1b56e41,2024,2400-2599,black,"Jobava, Baadur","jobava,baadur",2582,13601520,2024.09.18,olympiad-2024,2582,otb-2020-2024,86054
+a86861e6493f9d6bb3b7,2024,2200-2399,white,"Karacsonyi, Kata","karacsonyi,katahun2",2233,769584,2024.09.12,olympiad-2024,2233,otb-2020-2024,92974
+cfba381727383c989d48,2024,2200-2399,white,"Tokhirjonova, Gulrukhbegim","tokhirjonova,gulrukhbegim",2380,14203626,2024.09.14,olympiad-2024,2380,otb-2020-2024,89939
+67a434dadcd4bb4fe370,2024,2600+,black,"Vallejo Pons, Francisco","vallejopons,francisco",2657,2205530,2024.09.13,olympiad-2024,2657,otb-2020-2024,91181
+9e7a638445c7eca2707a,2024,2200-2399,white,"Gaal, Zsoka","gaal,zsoka",2385,777765,2024.09.15,olympiad-2024,2385,otb-2020-2024,88576
+885d0d90de8f081e3764,2024,2600+,black,"Theodorou, Nikolas","theodorou,nikolas",2619,4262875,2024.09.22,olympiad-2024,2619,otb-2020-2024,81041
+9b02827fa742d5615c9b,2024,2400-2599,white,"Murphy, Conor E","murphy,conore",2453,421669,2024.09.11,olympiad-2024,2453,otb-2020-2024,93622
+6d8a649aa8b869dd5f5a,2024,2400-2599,white,"Brunello, Sabino","brunello,sabino",2511,813613,2024.09.12,olympiad-2024,2511,otb-2020-2024,92619
+b0fced16a878e01007fe,2024,2200-2399,black,"Nikolovski, Nikola","nikolovski,nikola",2388,15002314,2024.09.12,olympiad-2024,2388,otb-2020-2024,92582
+2fbf55eb600eb9e5d78f,2024,2400-2599,white,"Blohberger, Felix","blohberger,felix",2520,1632051,2024.09.22,olympiad-2024,2520,otb-2020-2024,81133
+e00f4b49019413207659,2024,2400-2599,black,"Suleymenov, Alisher","suleymenov,alisher",2484,13707833,2024.09.18,olympiad-2024,2484,otb-2020-2024,86070
+411327700ee17133ca20,2024,2200-2399,black,"Coppola, Claudio","coppola,claudio",2286,3001717,2024.09.20,olympiad-2024,2286,otb-2020-2024,84608
+d192e6c9051df88ea571,2024,2400-2599,white,"Paehtz, Elisabeth","paehtz,elisabeth",2455,4641833,2024.09.14,olympiad-2024,2455,otb-2020-2024,89968
+d2368423e5202c8a0d26,2024,2600+,black,"Mamedov, Rauf","mamedov,rauf",2637,13401653,2024.09.14,olympiad-2024,2637,otb-2020-2024,89600
+18c66cb8f0eedc9bb543,2024,2400-2599,white,"Kacharava, Nikolozi","kacharava,nikolozi",2511,13611860,2024.09.14,olympiad-2024,2511,otb-2020-2024,89610
+26bb9432fe01d5df2b7d,2024,2600+,black,"Abasov, Nijat","abasov,nijat",2626,13402960,2024.09.18,olympiad-2024,2626,otb-2020-2024,86069
+33b9db43c23d2529c5d4,2024,2600+,white,"Gurel, Ediz","gurel,ediz",2602,44507356,2024.09.16,olympiad-2024,2602,otb-2020-2024,87269
+8514079f4bcc07ab4373,2024,2400-2599,white,"Fawzy, Adham","fawzy,adham",2507,10613129,2024.09.20,olympiad-2024,2507,otb-2020-2024,84024
+783f80b68737a3cb18ad,2024,2200-2399,white,"Klinova, Masha","klinova,masha",2227,2802015,2024.09.16,olympiad-2024,2227,otb-2020-2024,87626
+603b1f20af148fe41bfd,2024,2400-2599,black,"Dragnev, Valentin","dragnev,valentin",2556,1634852,2024.09.16,olympiad-2024,2556,otb-2020-2024,87240
+0d0df776d4b6c7e5dbb4,2024,2200-2399,black,"Sliwicka, Alicja","sliwicka,alicja",2373,1150677,2024.09.15,olympiad-2024,2373,otb-2020-2024,88595
+f72aaa7920b7cfd41fa5,2024,2200-2399,white,"Baasansuren, Erdene","baasansuren,erdene",2368,4902084,2024.09.11,olympiad-2024,2368,otb-2020-2024,93619
+e5bf9b511684a0844a33,2024,2400-2599,white,"Kuybokarov, Temur","kuybokarov,temur",2562,14203049,2024.09.16,olympiad-2024,2562,otb-2020-2024,87300
+9b36520e60b8caa24025,2024,2400-2599,black,"Sahidi, Samir","sahidi,samir",2474,14936372,2024.09.14,olympiad-2024,2474,otb-2020-2024,89608
+5e10bf3443c14ab86ed7,2024,2600+,black,"Navara, David","navara,david",2681,309095,2024.09.14,olympiad-2024,2681,otb-2020-2024,89731
+d13f7882c4b0da855ec2,2024,2400-2599,white,"Pultinevicius, Paulius","pultinevicius,paulius",2587,12809390,2024.09.11,olympiad-2024,2587,otb-2020-2024,93492
+5854b43c4f9455f74c0d,2024,2400-2599,black,"Livaic, Leon","livaic,leon",2550,14531534,2024.09.11,olympiad-2024,2550,otb-2020-2024,93485
+2e9d3662d165818c0463,2024,2400-2599,white,"Stefansson, Vignir Vatnar","stefansson,vignirvatnar",2531,2308649,2024.09.15,olympiad-2024,2531,otb-2020-2024,88278
+d2be353bfb236e529ac6,2024,2400-2599,black,"Nogerbek, Kazybek","nogerbek,kazybek",2519,13710427,2024.09.19,olympiad-2024,2519,otb-2020-2024,85106
+f3c5c7322244368c4ca4,2024,2400-2599,black,"Bersamina, Paulo","bersamina,paulo",2425,5206995,2024.09.19,olympiad-2024,2425,otb-2020-2024,85136
+d94523e099cf6b83157c,2024,2400-2599,black,"Vasquez Schroeder, Rodrigo","vasquezschroeder,rodrigo",2457,3400042,2024.09.15,olympiad-2024,2457,otb-2020-2024,88284
+f5d61442d6e2057e36fd,2024,2600+,white,"Van Foreest, Jorden","vanforeest,jorden",2696,1039784,2024.09.21,olympiad-2024,2696,otb-2020-2024,82557
+575dd107794766881c7d,2024,2200-2399,black,"Gajcin, Marina","gajcin,marina",2253,949086,2024.09.22,olympiad-2024,2253,otb-2020-2024,81444
+ab4ecb2621db797e5067,2024,2400-2599,white,"Yilmaz, Mustafa","yilmaz,mustafa",2587,6302718,2024.09.15,olympiad-2024,2587,otb-2020-2024,88230
+3cd17e286ddabdf39e45,2024,2400-2599,white,"Bok, Benjamin","bok,benjamin",2596,1017063,2024.09.19,olympiad-2024,2596,otb-2020-2024,85045
+226e0804320037155340,2024,2400-2599,black,"Wiedenkeller, Michael","wiedenkeller,michael",2406,1700146,2024.09.15,olympiad-2024,2406,otb-2020-2024,88318
+6f86c07139934ec73280,2024,2200-2399,black,"Ulhaq, Zacky Dhia","ulhaq,zackydhia",2203,7125674,2024.09.14,olympiad-2024,2203,otb-2020-2024,89710
+2dec8d42ff154d23502e,2024,2200-2399,black,"Khoder, Akram","khoder,akram",2239,5306914,2024.09.18,olympiad-2024,2239,otb-2020-2024,86163
+d34d184754fda851646f,2024,2200-2399,white,"Berend, Fred","berend,fred",2230,4000102,2024.09.18,olympiad-2024,2230,otb-2020-2024,86242
+9455aa2cb4401782649c,2024,2400-2599,white,"Albornoz Cabrera, Carlos Daniel","albornozcabrera,carlosdaniel",2579,3518736,2024.09.19,olympiad-2024,2579,otb-2020-2024,85066
+4c192f2c213c596109f8,2024,2200-2399,white,"Kanep, Meelis","kanep,meelis",2367,4501047,2024.09.15,olympiad-2024,2367,otb-2020-2024,88203
+0f8c8ec6679306c805db,2024,2600+,white,"Santos Latasa, Jaime","santoslatasa,jaime",2624,2293307,2024.09.20,olympiad-2024,2624,otb-2020-2024,83905
+2153fb899718face7579,2024,2400-2599,white,"Preotu, Razvan","preotu,razvan",2451,2613280,2024.09.13,olympiad-2024,2451,otb-2020-2024,91218
+ac8cc4da9b2abfcf69d8,2024,2400-2599,black,"Stremavicius, Titas","stremavicius,titas",2527,12804444,2024.09.11,olympiad-2024,2527,otb-2020-2024,93491
+e6b3f8dfe207b695f1d8,2024,2200-2399,white,"Pham, Le Thao Nguyen","pham,lethaonguyen",2380,12401226,2024.09.18,olympiad-2024,2380,otb-2020-2024,86437
+d186e6c942695fbdc1de,2024,2400-2599,black,"Almeida Quintana, Omar","almeidaquintana,omar",2492,3503313,2024.09.19,olympiad-2024,2492,otb-2020-2024,85069
+69364e5b2e85e081c4b1,2024,2200-2399,white,"Li, Yunshan","li,yunshan",2268,8607664,2024.09.21,olympiad-2024,2268,otb-2020-2024,82956
+a63ec8a5312493265563,2024,2400-2599,black,"Rodrigue-Lemieux, Shawn","rodriguelemieux,shawn",2509,2620049,2024.09.19,olympiad-2024,2509,otb-2020-2024,85131
+efba26dfd4a02b4ce31f,2024,2400-2599,black,"Urkedal, Frode Olav Olsen","urkedal,frode",2546,1506102,2024.09.20,olympiad-2024,2546,otb-2020-2024,83893
+80eb391e3992e5ae4af4,2024,2200-2399,black,"Mehmeti, Dritan","mehmeti,dritan",2364,4700600,2024.09.14,olympiad-2024,2364,otb-2020-2024,89636
+a238e3da8855d7850cd8,2024,2400-2599,black,"Di Berardino, Diego Rafael","diberardino,diegorafael",2472,2105446,2024.09.12,olympiad-2024,2472,otb-2020-2024,92658
+852c5958062dfe65a4c5,2024,2200-2399,white,"Yip, Carissa","yip,carissa",2386,2090732,2024.09.13,olympiad-2024,2386,otb-2020-2024,91514
+1cba83b698ea94e79195,2024,2400-2599,white,"Nisipeanu, Liviu-Dieter","nisipeanu,liviudieter",2580,1202758,2024.09.15,olympiad-2024,2580,otb-2020-2024,88272
+375cad1f2d34c8f1672e,2024,2600+,black,"Robson, Ray","robson,ray",2700,2023970,2024.09.16,olympiad-2024,2700,otb-2020-2024,87227
+997dc2800f1ef536b53a,2024,2400-2599,white,"Macovei, Andrei","macovei,andrei",2464,13904680,2024.09.19,olympiad-2024,2464,otb-2020-2024,85063
+eaf041d9350dc5c3a477,2024,2200-2399,black,"Barrish, Daniel","barrish,daniel",2281,14304600,2024.09.16,olympiad-2024,2281,otb-2020-2024,87314
+7f1725363d2e13ffd0bb,2024,2200-2399,black,"Kojima, Shinya","kojima,shinya",2299,7000812,2024.09.21,olympiad-2024,2299,otb-2020-2024,82647
+15a2d7b42e67bd0fcb62,2024,2400-2599,white,"Horvath, Dominik","horvath,dominik",2559,1642561,2024.09.11,olympiad-2024,2559,otb-2020-2024,93496
+ff0ab3f8eda9fb63abea,2024,2200-2399,white,"Zlatkov, Anton","zlatkov,anton",2346,15005402,2024.09.14,olympiad-2024,2346,otb-2020-2024,89621
+efba26dfd4a02b4ce31f,2024,2200-2399,white,"Lavrencic, Matic","lavrencic,matic",2360,14637847,2024.09.20,olympiad-2024,2360,otb-2020-2024,83893
+30b81f349a211b752a20,2024,2200-2399,white,"Oatlhotse, Providence","oatlhotse,providence",2239,11300507,2024.09.13,olympiad-2024,2239,otb-2020-2024,91833
+8060dafa2dc662f28144,2024,2600+,white,"Pichot, Alan","pichot,alan",2628,110973,2024.09.22,olympiad-2024,2628,otb-2020-2024,81063
+cb46e06248d802abe495,2024,2400-2599,black,"Martinovic, Sasa","martinovic,sasa",2563,14509792,2024.09.18,olympiad-2024,2563,otb-2020-2024,86097
+8194a28b840cb914150c,2024,2200-2399,black,"Nanjo, Ryosuke","nanjo,ryosuke",2372,7000634,2024.09.15,olympiad-2024,2372,otb-2020-2024,88375
+e09e29abb6e4f389d0ed,2024,2600+,white,"Indjic, Aleksandar","indjic,aleksandar",2611,911925,2024.09.12,olympiad-2024,2611,otb-2020-2024,92574
+b45544310f693a9ae95d,2024,2200-2399,white,"Ortiz Verdezoto, Anahi","ortizverdezoto,anahi",2229,3614581,2024.09.12,olympiad-2024,2229,otb-2020-2024,92864
+d6a2085f02fa0d3b5a10,2024,2200-2399,white,"Lazov, Toni","lazov,toni",2360,15000770,2024.09.13,olympiad-2024,2360,otb-2020-2024,91291
+4e3fc54db98134ad3254,2024,2200-2399,white,"Cori T., Deysi","corit,deysi",2366,3801934,2024.09.15,olympiad-2024,2366,otb-2020-2024,88616
+1607e919406fc52fe302,2024,2200-2399,black,"Middelburg, Tom","middelburg,tom",2355,1004930,2024.09.19,olympiad-2024,2355,otb-2020-2024,85132
+478c775eb9a8fca10096,2024,2400-2599,white,"Hillarp Persson, Tiger","hillarppersson,tiger",2457,1700812,2024.09.14,olympiad-2024,2457,otb-2020-2024,89604
+6bd06c031e03a23f47ff,2024,2200-2399,black,"Bagheri, Amir","bagheri,amir",2372,12500283,2024.09.22,olympiad-2024,2372,otb-2020-2024,81238
+602c44e5fb2073808408,2024,2200-2399,white,"Sadek, Sameh","sadek,sameh",2269,10602771,2024.09.14,olympiad-2024,2269,otb-2020-2024,89699
+ad6e16e0d2ef0914e21b,2024,2400-2599,black,"Salimova, Nurgyul","salimova,nurgyul",2412,2915138,2024.09.15,olympiad-2024,2412,otb-2020-2024,88609
+3d8baffd7f8b6394b8e1,2024,2400-2599,white,"Cramling, Pia","cramling,pia",2425,1700030,2024.09.21,olympiad-2024,2425,otb-2020-2024,82966
+095a74d26f3a2d95bf35,2024,2600+,black,"Caruana, Fabiano","caruana,fabiano",2798,2020009,2024.09.18,olympiad-2024,2798,otb-2020-2024,86012
+b9b9f021714ed5cb5ecd,2024,2600+,black,"Giri, Anish","giri,anish",2724,24116068,2024.09.21,olympiad-2024,2724,otb-2020-2024,82556
+d24b34cada9c363bcb68,2024,2200-2399,white,"Ilkhomi, Jaloliddin","ilkhomi,jaloliddin",2227,14700948,2024.09.19,olympiad-2024,2227,otb-2020-2024,85160
+3f201ba60f703f8d416f,2024,2200-2399,white,"Chinguun, Sumiya","chinguun,sumiya",2389,4902572,2024.09.12,olympiad-2024,2389,otb-2020-2024,92586
+e07d5bc81e061182b4db,2024,2400-2599,black,"Amartuvshin, Ganzorig","amartuvshin,ganzorig",2402,4902548,2024.09.21,olympiad-2024,2402,otb-2020-2024,82632
+27ae4df57fe1cb364355,2024,2400-2599,black,"Vaishali, Rameshbabu","vaishali,rameshbabu",2498,5091756,2024.09.21,olympiad-2024,2498,otb-2020-2024,82897
+ef16948c93be1b5fb6f3,2024,2400-2599,white,"Agopov, Mikael","agopov,mikael",2451,501840,2024.09.12,olympiad-2024,2451,otb-2020-2024,92559
+c536aed26bf674fad1b9,2024,2400-2599,black,"Bachmann, Axel","bachmann,axel",2560,3700488,2024.09.13,olympiad-2024,2560,otb-2020-2024,91274
+b2c15352003fa2a64da8,2024,2200-2399,white,"O`Gorman, Tom","ogorman,tom",2353,2508249,2024.09.18,olympiad-2024,2353,otb-2020-2024,86155
+9e93fd9d52ca55fc02a2,2024,2400-2599,black,"Makhnev, Denis","makhnev,denis",2551,13707647,2024.09.15,olympiad-2024,2551,otb-2020-2024,88270
+5277f80ca0eb2786e948,2024,2200-2399,white,"Zherebtsova, Alexandra","zherebtsova,alexandra",2239,24129518,2024.09.18,olympiad-2024,2239,otb-2020-2024,86441
+b11c699c2ed555dc78dc,2024,2400-2599,black,"Petrov, Nikita","petrov,nikita",2574,4101286,2024.09.14,olympiad-2024,2574,otb-2020-2024,89599
+837fe14eb4f38cfef6b2,2024,2400-2599,white,"Krysa, Leandro","krysa,leandro",2495,116807,2024.09.14,olympiad-2024,2495,otb-2020-2024,89657
+c338d3f688d270e3ef84,2024,2200-2399,black,"Cabezas Solano, David Alejandro","cabezassolano,davidalejandro",2248,6507522,2024.09.20,olympiad-2024,2248,otb-2020-2024,83992
+d996695a4152d517ce17,2024,2200-2399,black,"Eltigani, Omar","eltigani,omar",2241,738794,2024.09.16,olympiad-2024,2241,otb-2020-2024,87432
+cf31aac441d508bdd42f,2024,2600+,white,"Kozak, Adam","kozak,adamhun2",2609,753246,2024.09.12,olympiad-2024,2609,otb-2020-2024,92605
+b94b1ef7ac76ae55b71e,2024,2400-2599,white,"Vanczak, Tamas","vanczak,tamashun3",2401,759929,2024.09.20,olympiad-2024,2401,otb-2020-2024,84031
+18ef5f22c55e6e4016aa,2024,2600+,white,"Donchenko, Alexander","donchenko,alexander",2638,24603295,2024.09.12,olympiad-2024,2638,otb-2020-2024,92543
+e5e47c27c893a0fc9e59,2024,2600+,white,"Adams, Michael","adams,michael",2661,400041,2024.09.11,olympiad-2024,2661,otb-2020-2024,93421
+92b2573f8153d2f518ac,2024,2600+,white,"Keymer, Vincent","keymer,vincent",2730,12940690,2024.09.19,olympiad-2024,2730,otb-2020-2024,85046
+bc00ae40480c3e9a05fa,2024,2600+,black,"Duda, J","duda,jankrzysztof",2732,,2024.09.13,olympiad-2024,2732,otb-2020-2024,91814
+b8b660db04f107abd548,2024,2600+,black,"So, Wesley","so,wesley",2752,5202213,2024.09.19,olympiad-2024,2752,otb-2020-2024,85031
+4a86482d2e08c1f11be6,2024,2600+,white,"Korobov, Anton","korobov,anton",2650,14105730,2024.09.15,olympiad-2024,2650,otb-2020-2024,88221
+bf929b75bc6b2c748ad4,2024,2600+,black,"Rapport, Richard","rapport,richard",2715,738590,2024.09.20,olympiad-2024,2715,otb-2020-2024,83882
+81e7f58e7d4af4cbc68b,2024,2600+,black,"Papaioannou, Ioannis","papaioannou,ioannis",2615,4201345,2024.09.14,olympiad-2024,2615,otb-2020-2024,89561
+da5fa41364876319cbf6,2024,2600+,white,"Tari, Aryan","tari,aryan",2642,1510045,2024.09.20,olympiad-2024,2642,otb-2020-2024,83892
+9abb0437ad7c31efef35,2024,2600+,white,"Ponomariov, Ruslan","ponomariov,ruslan",2654,14103320,2024.09.19,olympiad-2024,2654,otb-2020-2024,85059
+e7418420062a3a87dec0,2024,2600+,white,"Anton Guijarro, David","antonguijarro,david",2665,2285525,2024.09.20,olympiad-2024,2665,otb-2020-2024,83903
+c60c9421cac91abe0b13,2024,2600+,white,"Cori, Jorge","cori,jorge",2609,3802272,2024.09.22,olympiad-2024,2609,otb-2020-2024,81174
+e0cf5be9510f4ee5d0f9,2024,2600+,black,"Kollars, Dmitrij","kollars,dmitrij",2659,12909572,2024.09.16,olympiad-2024,2659,otb-2020-2024,87273
+0b06767c983d4109b418,2024,2600+,black,"Ragger, Markus","ragger,markus",2601,1610856,2024.09.21,olympiad-2024,2601,otb-2020-2024,82615
+88b323210044f44f30e3,2024,2600+,white,"Grandelius, Nils","grandelius,nils",2653,1710400,2024.09.14,olympiad-2024,2653,otb-2020-2024,89602
+ad97fddd885494f72992,2024,2600+,white,"Abdusattorov, Nodirbek","abdusattorov,nodirbek",2766,14204118,2024.09.22,olympiad-2024,2766,otb-2020-2024,81069
+926b4218eda6c71c1eab,2024,2600+,black,"Brkic, Ante","brkic,ante",2642,14506688,2024.09.16,olympiad-2024,2642,otb-2020-2024,87888
+57908174252352944e99,2024,2600+,white,"Christiansen, Johan-Sebastian","christiansen,johansebastian",2661,1512668,2024.09.15,olympiad-2024,2661,otb-2020-2024,88231
+2b076d4f007ae5f1398b,2024,2600+,black,"Bacrot, Etienne","bacrot,etienne",2665,605506,2024.09.18,olympiad-2024,2665,otb-2020-2024,86053
+9223ead05985062971cd,2024,2600+,black,"Onyshchuk, Volodymyr","onyshchuk,volodymyr",2610,14114038,2024.09.16,olympiad-2024,2610,otb-2020-2024,87259
+5290bb884ba2ea264daf,2024,2600+,white,"Bluebaum, Matthias","bluebaum,matthias",2640,24651516,2024.09.13,olympiad-2024,2640,otb-2020-2024,91164
+66b31b2cfd1723dd9ac2,2024,2600+,white,"Mamedyarov, Shakhriyar","mamedyarov,shakhriyar",2733,13401319,2024.09.14,olympiad-2024,2733,otb-2020-2024,89601
+74484abae235656aae1f,2024,2600+,white,"Deac, Bogdan-Daniel","deac,bogdandaniel",2680,1226380,2024.09.11,olympiad-2024,2680,otb-2020-2024,93454
+a75a236c8cbc29e0a6c5,2024,2600+,white,"Shirov, Alexei","shirov,alexei",2666,,2024.09.12,olympiad-2024,2666,otb-2020-2024,93174
+5a240ac5857a7cd9158f,2024,2600+,black,"Henriquez Villagra, Cristobal","henriquezvillagra,cristobal",2604,3409350,2024.09.15,olympiad-2024,2604,otb-2020-2024,88282
+a642317e612e12b43888,2024,2600+,black,"Salem, A.R. Saleh","salem,arsaleh",2631,9301348,2024.09.12,olympiad-2024,2631,otb-2020-2024,92623
+78f0564900f82f8a25e5,2024,2600+,white,"Tabatabaei, M. Amin","tabatabaei,mamin",2714,12521213,2024.09.16,olympiad-2024,2714,otb-2020-2024,87221
+07b4864314dc6958aa0a,2024,2600+,white,"Ivanchuk, Vasyl","ivanchuk,vasyl",2635,14100010,2024.09.13,olympiad-2024,2635,otb-2020-2024,91188
+70391eb847edc13b29ad,2024,2600+,white,"Gledura, Benjamin","gledura,benjamin",2628,712779,2024.09.20,olympiad-2024,2628,otb-2020-2024,83885
+1064718ac0cea10cf5a3,2024,2600+,black,"Fedoseev, Vladimir","fedoseev,vladimir",2692,24130737,2024.09.14,olympiad-2024,2692,otb-2020-2024,89646
+29478dbbf14194790994,2024,2600+,white,"Fressinet, Laurent","fressinet,laurent",2616,608742,2024.09.11,olympiad-2024,2616,otb-2020-2024,93441
+cd8b0fa22dcc70db10b6,2024,2600+,black,"Nabaty, Tamir","nabaty,tamir",2630,2809052,2024.09.12,olympiad-2024,2630,otb-2020-2024,92591
+f0e15c912627e110e1fa,2024,2600+,white,"Svane, Frederik","svane,frederik",2640,12923044,2024.09.22,olympiad-2024,2640,otb-2020-2024,81084

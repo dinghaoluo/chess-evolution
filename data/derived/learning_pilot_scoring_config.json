@@ -1,0 +1,2356 @@
+{
+  "engine": {
+    "name": "stockfish-17.1",
+    "year": 2025,
+    "engine_id": {
+      "name": "Stockfish 17.1",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon",
+    "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "UCI_ShowWDL": true,
+      "Skill Level": 20,
+      "UCI_LimitStrength": false,
+      "SyzygyPath": ""
+    },
+    "source_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+    "network": "embedded in the official hashed binary",
+    "python_chess_version": "1.11.2",
+    "hash_policy": "new game before every search",
+    "position_history": "complete game move stack",
+    "syzygy": "disabled"
+  },
+  "budgets": [
+    25000,
+    100000
+  ],
+  "primary_window": [
+    9,
+    40
+  ],
+  "secondary_window": [
+    11,
+    60
+  ],
+  "search": "single-PV screening; same-board shared-root comparison when played move differs; fresh hash each search",
+  "bootstrap": "2000 player and game-cluster resamples within each year/band, seed 20261016; cap gives one observation per player-year",
+  "total_worker_seconds": 465.45849987797556,
+  "screened_moves": 8538,
+  "inputs_sha256": {
+    "data/derived/learning_pilot_pool.jsonl": "965f6266af59686e3e7e74b63032d4d9e48772aa56c4b6a6716e99630c261cd4",
+    "data/derived/learning_pilot_sample.csv": "4ac76122d42cf31911a712c25483b952a8b63b1419c310ebde85e4f80a2eab8c",
+    "data/derived/learning_pilot_sample_config.json": "3b98d15ca0bddb13011580b8dc6ede9230916802a29d2e8ad2a473fbbd446ddd",
+    "data/derived/stockfish_config.json": "549ed8bb0bcf0570b051e3aa0c1f7a9d3f8fa871a79a2cadc07e4f2c69201b46",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/score_learning_pilot.py": "7ea08dfff7161d0692a0538475dfc7f6519d0b04ce16a348d013f8bb85d1dd52",
+    "scripts/pal_css_2005_case.py": "c090bacba0405f775aa219a1f69199c8808ccec3e7a832149572a3e855756300",
+    "notes/hypotheses.md": "702d3b3d5e949bcaa3a577832a5b300b373697153b369ab89d81ad057fa8bf66"
+  },
+  "outputs_sha256": {
+    "data/derived/learning_pilot_player_games.csv": "10de185e292277ac0ac790ac176a707ede3db6a0558749bb063e4d1b0fe10873",
+    "data/derived/learning_pilot_variance.csv": "50a7111ca4709e4f4c2834fdefb29ac5239e8ce0f0aafcde1e7673b6a87b8567",
+    "data/derived/learning_pilot_stability.csv": "470edbb07cd7860c65f5736d0002ba7b40a084789802de913b95987fa0172b1f"
+  },
+  "game_outputs": [
+    {
+      "game_id": "00eb708adbe0f8047ab7",
+      "inputs_key": "41152f95dba05bb211e23ca3f2473e13c4712b49975b3d7380b06c3e8a33c09d",
+      "seconds": 1.1364791250089183,
+      "screened_moves": 17,
+      "outputs_sha256": {
+        "data/local/learning_pilot/00eb708adbe0f8047ab7_searches.jsonl": "9e2c0d3ded40cb438b6655f60e0b02a0418d4e8c47aebe83948dd7f683612917",
+        "data/local/learning_pilot/00eb708adbe0f8047ab7_moves.jsonl": "24e90c0d736788b645bc232ce3ba18a48b70ed312adb7c39c43be9b039a8c2e8"
+      }
+    },
+    {
+      "game_id": "020ce7533c81d00706f9",
+      "inputs_key": "31ac7938aca651b80e8a5b4c108528617e14331a2f6b3857d04fbc46eeda49a6",
+      "seconds": 2.6126957499946,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/020ce7533c81d00706f9_searches.jsonl": "45c886bd9324398b4e1908a703de3d9e7b33152be219110142f047b87cf61c64",
+        "data/local/learning_pilot/020ce7533c81d00706f9_moves.jsonl": "b208685dd73c10e8605f0c0f87523e8fdd0c8665b92493218cb70e9a99d623ee"
+      }
+    },
+    {
+      "game_id": "0275ad2fcb748bf6d195",
+      "inputs_key": "9d93242bb59ce4e920e7fdc847aaaa1c3686dafe553fc7b29511d8c6910b50c9",
+      "seconds": 1.5930635420081671,
+      "screened_moves": 28,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0275ad2fcb748bf6d195_searches.jsonl": "dd1ae106aaae819c280b2592a577a059f8df4e96988a8222cebb24d1b7ad9358",
+        "data/local/learning_pilot/0275ad2fcb748bf6d195_moves.jsonl": "ec1ed2e92c6bc4fd254e11382edcd956bac85442d94e6b557340d4a8c31c308f"
+      }
+    },
+    {
+      "game_id": "02b73e7cf65a557dc8b6",
+      "inputs_key": "e41d8635e26a12e9d72bf46f198f81b01774bca06eff9caee695d0f294af6d64",
+      "seconds": 2.132773916993756,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/02b73e7cf65a557dc8b6_searches.jsonl": "5c41b372b4fd9484f183edcf4f852a879c210da0e89af2c503705ae2bdccff2a",
+        "data/local/learning_pilot/02b73e7cf65a557dc8b6_moves.jsonl": "9c21d6f24aa3f97ceccc566a55c5abdcd1b8e69f9f4a071dc614ad7640e29cf7"
+      }
+    },
+    {
+      "game_id": "0603e047c341d41dd527",
+      "inputs_key": "93da7d189809e654a7e3d95d2e06261c74aae367c9ca3fee00629c43bb496a2e",
+      "seconds": 1.6131407499779016,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0603e047c341d41dd527_searches.jsonl": "ea2e408146f6ec57f6dbe3d94628136baeb40818c7027c6dbee05f38f74c0082",
+        "data/local/learning_pilot/0603e047c341d41dd527_moves.jsonl": "458c719f9b3f1773e224ff17830b9aebb1711ef92f244c73112211ba621374af"
+      }
+    },
+    {
+      "game_id": "07b4864314dc6958aa0a",
+      "inputs_key": "ad2898c9187cefeba28ef4e35f42ec7d9d0d857aeba7ca1740e97246cc9c968c",
+      "seconds": 1.8834676669794135,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/07b4864314dc6958aa0a_searches.jsonl": "989e8d29563fd932f6f10f0bc03d19684664ce48251eb4f10d48ce4c296dc9bf",
+        "data/local/learning_pilot/07b4864314dc6958aa0a_moves.jsonl": "4692c73cf1e9e90a5d2c502266b7ae032ba62eed6bb88ac4e0a3cb21c14eff9b"
+      }
+    },
+    {
+      "game_id": "095a74d26f3a2d95bf35",
+      "inputs_key": "c3542402d8e135095b1fc242271081818cc397e04595e58cfcb54ee76f6329e4",
+      "seconds": 2.0324408749875147,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/095a74d26f3a2d95bf35_searches.jsonl": "50f2018fb4b23f10b3bb8cc34a1e3766435d726aeb9ec06b3c720b39db4c8953",
+        "data/local/learning_pilot/095a74d26f3a2d95bf35_moves.jsonl": "38f00e2d3461385653ade5580dc0ee1bfbe5e8ab40cc56ee4ef7a87326deca8a"
+      }
+    },
+    {
+      "game_id": "098faece70966974fee2",
+      "inputs_key": "184bda865ff9ca840835eaa0a24e2b87f28b4c1377a791f055568c5d9e416f72",
+      "seconds": 2.7038722919824068,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/098faece70966974fee2_searches.jsonl": "3d544229320b117254d8a6d970125d06cc291ae4ccd1473cdab537198fc050c0",
+        "data/local/learning_pilot/098faece70966974fee2_moves.jsonl": "74f0e1435615ceb5eb00222990442579462f190bb22838224dafa8f717ebc8c0"
+      }
+    },
+    {
+      "game_id": "0b06767c983d4109b418",
+      "inputs_key": "c5e54b15f7ebc4bba597f06638abda8328e87d58c2b45461086119430051adc4",
+      "seconds": 1.7546801670105197,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0b06767c983d4109b418_searches.jsonl": "f44023761842bb307f18f84f64f75990ebd1f2d39080864ef84dee0f6b0e768a",
+        "data/local/learning_pilot/0b06767c983d4109b418_moves.jsonl": "b8c19fc54e6af02d2cc2388496eea58fd5fe2ba162691a9bb9691d23b0fe58df"
+      }
+    },
+    {
+      "game_id": "0d0df776d4b6c7e5dbb4",
+      "inputs_key": "bc974cf4f402103fefe7c83d0ac009b7fe52b1fb25a92dc513899738aa560033",
+      "seconds": 1.8424667090002913,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0d0df776d4b6c7e5dbb4_searches.jsonl": "41cc7099b6461b55b378debf7c1769f7f923e5b686351aeacd12572c06fde0cc",
+        "data/local/learning_pilot/0d0df776d4b6c7e5dbb4_moves.jsonl": "f1fa20388fbd0cac4a6957b9f2b7275c5886f218d485be5a86f7fa061e54edee"
+      }
+    },
+    {
+      "game_id": "0ecf87ca41e4f5aa48d6",
+      "inputs_key": "f7e93a494333c8e7acdbd5713dc6819cadc0f42b7a9560b4673efc331e10da87",
+      "seconds": 3.8416710839956068,
+      "screened_moves": 84,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0ecf87ca41e4f5aa48d6_searches.jsonl": "7d188c0d6faf836111206f95de0700f2d5eb5eb293e70392cb3d5946b379b7ee",
+        "data/local/learning_pilot/0ecf87ca41e4f5aa48d6_moves.jsonl": "427b400d05da599b9d005f788122ecb95b7f4af6ca3400ba638a816f1cac9905"
+      }
+    },
+    {
+      "game_id": "0ed41a2328b7e3b49d8c",
+      "inputs_key": "9bb50d5fd62340596418ccc4aed222840a39a9b3a5109b5b877bb7a511f39fb5",
+      "seconds": 1.082115832978161,
+      "screened_moves": 14,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0ed41a2328b7e3b49d8c_searches.jsonl": "8351a86d6a9a770348a027de196435e0d5616a1c046dc313b8721b011c909e9b",
+        "data/local/learning_pilot/0ed41a2328b7e3b49d8c_moves.jsonl": "bcf867743445f48eac61863f74ebfe4951caf339c7becf339b0fa287c892dd71"
+      }
+    },
+    {
+      "game_id": "0f655ba89527f831f36b",
+      "inputs_key": "63336edee608cd1e8396aff582ef7162e6c89c50d1594ea00adb195887dab661",
+      "seconds": 2.578552541002864,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0f655ba89527f831f36b_searches.jsonl": "0f14083e06e060225a4d35aa02cbef37a54ef9b8ac9090002c06acae54f6e082",
+        "data/local/learning_pilot/0f655ba89527f831f36b_moves.jsonl": "7931dbd9dc7fe208dcb7ae0c75969e8d60c0551d9e8ff822b9ddb97960b90836"
+      }
+    },
+    {
+      "game_id": "0f8c8ec6679306c805db",
+      "inputs_key": "6b7ee791dd897a1e34dccb8c9102543cc6b11190213904de644bf470ec1ba47d",
+      "seconds": 1.4348099589988124,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/0f8c8ec6679306c805db_searches.jsonl": "4caf42dc8ef10829033a1b675717c74b2a70051db694694f1786d10442d367ba",
+        "data/local/learning_pilot/0f8c8ec6679306c805db_moves.jsonl": "ef9d0ced302ff1e7964c5669d18d13d7f866a6a173abb2d4fdc807feda69dbdb"
+      }
+    },
+    {
+      "game_id": "1064718ac0cea10cf5a3",
+      "inputs_key": "051e9d2a543d9ca0ac8b69dbcd212d292270d4a019314e417c265f8df5c0c827",
+      "seconds": 1.1486122920177877,
+      "screened_moves": 18,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1064718ac0cea10cf5a3_searches.jsonl": "a103ab4cd3903a5b44e75eeae1bfb49e2f9aa45b77a5ca1961fa3f773783bcf4",
+        "data/local/learning_pilot/1064718ac0cea10cf5a3_moves.jsonl": "911dbe1ab0740794a26d85dad5dccc9a09633fbee22f7e25fd76744c5268b2ec"
+      }
+    },
+    {
+      "game_id": "11045dff291682132880",
+      "inputs_key": "4031f147ea49c9f71ba67ff0fb8154f157dbe9d17771b29b728c88d39474f58c",
+      "seconds": 2.2370147079927847,
+      "screened_moves": 50,
+      "outputs_sha256": {
+        "data/local/learning_pilot/11045dff291682132880_searches.jsonl": "a2d1e04ee66806692c848deb03cd02d6c1a7ce8b5b451b00c14f1e221fa103c6",
+        "data/local/learning_pilot/11045dff291682132880_moves.jsonl": "4b0e9bdac24ee6717f2865ee375bb94df8f76aab54123a4bd934f7a60b91437f"
+      }
+    },
+    {
+      "game_id": "1187239efde227f7559a",
+      "inputs_key": "3f496175f69ce6ef0b5e48c28f400ae1ccc8a379b48f140369ff2d65f6425a52",
+      "seconds": 2.393749332986772,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1187239efde227f7559a_searches.jsonl": "0ec7e634f7b90f3734ba788959b40c5bec0e89e7da9a40ff2b481ef9f4819360",
+        "data/local/learning_pilot/1187239efde227f7559a_moves.jsonl": "a2b6fde5a9b4799be0818ec7e29ec00d6569e96ec80d862854f2c8266fd62612"
+      }
+    },
+    {
+      "game_id": "13e033c2e584250977a6",
+      "inputs_key": "ad39d25746d36265c09734a26bff116e864863fec67ada225645df305427a78b",
+      "seconds": 2.4841451670217793,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/13e033c2e584250977a6_searches.jsonl": "a5f744a9fea1c6543b8120595147194ac5275333bf66e99dc607f9c721bb7dee",
+        "data/local/learning_pilot/13e033c2e584250977a6_moves.jsonl": "a29649ae73e1a776c7d976fb4d9a35099681413a2e14e45df003f434c4913132"
+      }
+    },
+    {
+      "game_id": "15a2d7b42e67bd0fcb62",
+      "inputs_key": "e228db2ba6fdaa64257c504996575192f16ade866e4e81927030a39f26c0e470",
+      "seconds": 1.5475390419887844,
+      "screened_moves": 26,
+      "outputs_sha256": {
+        "data/local/learning_pilot/15a2d7b42e67bd0fcb62_searches.jsonl": "3a5d019ac56d26478d4b9ade2d761ec1455eeb8d484d513157d09c17bde12e62",
+        "data/local/learning_pilot/15a2d7b42e67bd0fcb62_moves.jsonl": "d54fb32111d0d288ab35112904a7a09627306e54871d8e1742719ec2730c0a29"
+      }
+    },
+    {
+      "game_id": "1607e919406fc52fe302",
+      "inputs_key": "9c7f7c9fa0aac5fc5c4475d8b9379f233ef78355f44f219ec3a236dd582615a8",
+      "seconds": 1.843377208977472,
+      "screened_moves": 29,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1607e919406fc52fe302_searches.jsonl": "13c8c0bf2d112a8fa1490b3b4b4066e2ee23d56ad73225fb65b99c90ba591268",
+        "data/local/learning_pilot/1607e919406fc52fe302_moves.jsonl": "3bbe4748fbabecb9e1398ccbebe2f043538dab906b4c059c101bf0d354e13300"
+      }
+    },
+    {
+      "game_id": "18c66cb8f0eedc9bb543",
+      "inputs_key": "af17e67d0c66c80507067e11d8c8a1e1c14584cea46488c6152ae509c280e251",
+      "seconds": 2.6971219579863828,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/18c66cb8f0eedc9bb543_searches.jsonl": "2c7fe27c7dc33c897341beef7b463e5c3ed4933266683662b25979f1a6e92af7",
+        "data/local/learning_pilot/18c66cb8f0eedc9bb543_moves.jsonl": "235acec4708c1403d861a8ec6126174cfea506e956daf27455976db74dc98b79"
+      }
+    },
+    {
+      "game_id": "18ef5f22c55e6e4016aa",
+      "inputs_key": "df89dc88683d7a720fa194c0025d600daf6210627c6f7b8c76db084e39463179",
+      "seconds": 1.168105959019158,
+      "screened_moves": 14,
+      "outputs_sha256": {
+        "data/local/learning_pilot/18ef5f22c55e6e4016aa_searches.jsonl": "ac6c420062d505747e157c252dddf5d7ecb8820bb90f77485e72d3034d02c171",
+        "data/local/learning_pilot/18ef5f22c55e6e4016aa_moves.jsonl": "6d434a85e24d83c7b0602a323c45391b7237bbda40f60655260b079a89c1c389"
+      }
+    },
+    {
+      "game_id": "1a083139a5bca171da23",
+      "inputs_key": "330142eeb73b88dee8e84986e4d421ca1a3f81be1faea0c5bd991d12e9d20b27",
+      "seconds": 2.050701125001069,
+      "screened_moves": 40,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1a083139a5bca171da23_searches.jsonl": "6306d805a90a544733cd10e79e9f08d305444665026724cf4e36a742d6e02ead",
+        "data/local/learning_pilot/1a083139a5bca171da23_moves.jsonl": "0357ff3bcae696c046570d71a23d0abbce878e00c7cebf3d1c68c82288aa0ef1"
+      }
+    },
+    {
+      "game_id": "1bcbdfb7000e01963e74",
+      "inputs_key": "4e5b6a00ba7e8aa82ebdb1c4671e3bacda02013d2c2c734edbb0f09ade73a782",
+      "seconds": 2.6541796250094194,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1bcbdfb7000e01963e74_searches.jsonl": "6def46aba354a0d6d953815bb1b3781d641771f6d60bdb6c18bd25ada2a8d6c6",
+        "data/local/learning_pilot/1bcbdfb7000e01963e74_moves.jsonl": "9af341aab48af3051e9b6ce0c4fabd7c87e001e92411cd0dab54428f647d5eb3"
+      }
+    },
+    {
+      "game_id": "1c103a2afe8d8d94d359",
+      "inputs_key": "a9b9b7101079beef4bc4a8d078870cbc172e3a64397e18e98a30ead973316b2c",
+      "seconds": 1.6968465830141213,
+      "screened_moves": 30,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1c103a2afe8d8d94d359_searches.jsonl": "aab540b757ee078536111af340dd8430e967f9f946efaa335ecb1ed2a9113443",
+        "data/local/learning_pilot/1c103a2afe8d8d94d359_moves.jsonl": "e5d4441d84673fc4483401bcb841f751215264b35c7e84cb22ef253f2daebe3e"
+      }
+    },
+    {
+      "game_id": "1cba83b698ea94e79195",
+      "inputs_key": "b136953c4c8675955309fc5e3f1e763be39fe3685e24cf33437b10bc134a095c",
+      "seconds": 1.3433400420180988,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1cba83b698ea94e79195_searches.jsonl": "ce1e4618845acbe6865bc42efd95e9b87fd57d56f30ca7ce45dc800ee9b05aaa",
+        "data/local/learning_pilot/1cba83b698ea94e79195_moves.jsonl": "022113931ed729700ff2dc10963defec80ec0f077e8c2ee2373342518cb03ec8"
+      }
+    },
+    {
+      "game_id": "1d1a5e5349f8d94672c3",
+      "inputs_key": "ab5d6bb5d57af039b4ee00f0ef2e69b500ded6ab0e0915819de49f649301e474",
+      "seconds": 2.9108669580018613,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/1d1a5e5349f8d94672c3_searches.jsonl": "2c23502fb487450d05031fb6cac357eb5368014d88e0445e4b2e12fba5e2c0c8",
+        "data/local/learning_pilot/1d1a5e5349f8d94672c3_moves.jsonl": "65b72a3fe70f22f6e1c59e2c9137e6c9b7bb8799c3d9da62464db9064fa4be3c"
+      }
+    },
+    {
+      "game_id": "2153fb899718face7579",
+      "inputs_key": "dc6e397dbf99a0d293c840887c69180e32b6f24ccc69d1a8b44ccba608e19f78",
+      "seconds": 1.9542574169754516,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2153fb899718face7579_searches.jsonl": "dbff7c8b957808f756b02f29aa575e27f6c60ea5284d18e7219cf3d9d1615c79",
+        "data/local/learning_pilot/2153fb899718face7579_moves.jsonl": "2c350841855cd9466f02a320a54dd26a2472e6748a7f9c00170322b940ecf362"
+      }
+    },
+    {
+      "game_id": "226e0804320037155340",
+      "inputs_key": "956cb67b136e0f528095ed4cd96cb0bd90a80cc270e7fdd776bb7d9e2dfa05a8",
+      "seconds": 1.5996148329868447,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/226e0804320037155340_searches.jsonl": "edcec144ae8101c6953b44e8086fe28128e34778a28548c72c16eaf260ff4867",
+        "data/local/learning_pilot/226e0804320037155340_moves.jsonl": "97855dd02929b26250eb1e6f308f4863e545be373c345b52c52a7fb0de21ce01"
+      }
+    },
+    {
+      "game_id": "26bb9432fe01d5df2b7d",
+      "inputs_key": "60d8a76e0ec35a34c2f36d4976f606bee6a731fc1887cc3496eaf36682035a4d",
+      "seconds": 1.658786667016102,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/26bb9432fe01d5df2b7d_searches.jsonl": "812bc02a832f786a9534e3fe39e944375c237496eaaff5d6b418a8ddd9562dd2",
+        "data/local/learning_pilot/26bb9432fe01d5df2b7d_moves.jsonl": "6201aeaf92507b05297e78c8f8b2374380182fd892a9753b0c0e0a280dd70af7"
+      }
+    },
+    {
+      "game_id": "26c80e232534a76d6f40",
+      "inputs_key": "5f8850366cff170c8f8ec5c99541fc18071a38a532103e4e132c692e892a8612",
+      "seconds": 1.5594515830161981,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/26c80e232534a76d6f40_searches.jsonl": "179729a37363164cd9df625943d5dcd547ab6c5c047b9661a39da88b2bd366ea",
+        "data/local/learning_pilot/26c80e232534a76d6f40_moves.jsonl": "b649cb56b20901c5258af665f3e8631d9bca40ca2374fca4f62fd9df1c0da2f2"
+      }
+    },
+    {
+      "game_id": "27ae4df57fe1cb364355",
+      "inputs_key": "29524c28f6a2f0d6e8fa0c76c11c6e04a32be3c2a246874452a169ba905e5124",
+      "seconds": 2.055211083003087,
+      "screened_moves": 45,
+      "outputs_sha256": {
+        "data/local/learning_pilot/27ae4df57fe1cb364355_searches.jsonl": "233891c6a3f011f3978997eea57d65799247ec11ca003605d961b7219e63bc65",
+        "data/local/learning_pilot/27ae4df57fe1cb364355_moves.jsonl": "40eb4a49d4413eda9a52deb3decd9492c6e369eb910c438bcfae055f673e22c5"
+      }
+    },
+    {
+      "game_id": "292cb0e5e92d7018a8a6",
+      "inputs_key": "cad207dff4c90005bcdb259bdfce138856ddc6cdfb077ab56b220a6030b3f00f",
+      "seconds": 1.6039433340192772,
+      "screened_moves": 26,
+      "outputs_sha256": {
+        "data/local/learning_pilot/292cb0e5e92d7018a8a6_searches.jsonl": "99972db1dce457b5782c5a468abc4374d5139f2c9f4b7fee04e690475b0e6ead",
+        "data/local/learning_pilot/292cb0e5e92d7018a8a6_moves.jsonl": "8785593b7fccf1236c8bfee9e7db01859e52c12d51521d985f4e7f1270a4dd73"
+      }
+    },
+    {
+      "game_id": "29478dbbf14194790994",
+      "inputs_key": "8f28ec6b83fea5ea971acd68d3b28332ffd145a6864db4f2be821e1ce01da5bf",
+      "seconds": 1.6815093750192318,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/29478dbbf14194790994_searches.jsonl": "bd9c1ffe4a524103375255d3175e45d0977fe74eb31fe246915c9d1ffee99049",
+        "data/local/learning_pilot/29478dbbf14194790994_moves.jsonl": "72f657aaf4f631f8cec0b8fedf6536b94315d1af24a4b35536aac0da93f398df"
+      }
+    },
+    {
+      "game_id": "2b076d4f007ae5f1398b",
+      "inputs_key": "f8bb3b92b5198afa0a526092a8168a8922411a45b27a1f2a54297451b2223246",
+      "seconds": 2.519872083008522,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2b076d4f007ae5f1398b_searches.jsonl": "671234f22c8faf0738b5b5b702fe54bbe7cf21e56cdd417ced2e18296146d555",
+        "data/local/learning_pilot/2b076d4f007ae5f1398b_moves.jsonl": "21bf30398b40252fbca4820409887d322d449e4747966484624257d2a05299d7"
+      }
+    },
+    {
+      "game_id": "2b4b4ab86eb2fd91f817",
+      "inputs_key": "750541967fa671dcfe66725d29479e52c8c3f01476be3c576efe1887cafc6d96",
+      "seconds": 2.0577357079891954,
+      "screened_moves": 40,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2b4b4ab86eb2fd91f817_searches.jsonl": "0fbd89d2bdff63fc23227786c9ff56b11b2c00e3f29edf117abcd142fc150c81",
+        "data/local/learning_pilot/2b4b4ab86eb2fd91f817_moves.jsonl": "b9ad9fca680312b025876c75c5778be21f3df8060e00e2a9caac9832eb56645f"
+      }
+    },
+    {
+      "game_id": "2dec8d42ff154d23502e",
+      "inputs_key": "4bd08a80e897d443d60e125e51aa6d12f6733967718ff18f65751d27fe1d0652",
+      "seconds": 1.183494917000644,
+      "screened_moves": 21,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2dec8d42ff154d23502e_searches.jsonl": "f10b13c532578a1be5c53160140f2fad5fabe396db5a777ad409793c0cc303e2",
+        "data/local/learning_pilot/2dec8d42ff154d23502e_moves.jsonl": "2b748f287c75b47f255a0eb7b2c36e626c133b52dcc2312cfc413f6c7fbb233b"
+      }
+    },
+    {
+      "game_id": "2e9d3662d165818c0463",
+      "inputs_key": "8990bbd2ca5b67f9eba189deb3f453458fed6f081ace9646f34de8e6cf2ba44c",
+      "seconds": 1.792918874998577,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2e9d3662d165818c0463_searches.jsonl": "a6f376c7e2b286e2e81a5e7d7fcccd1388aec72cf5eb596d32728e20be0fcd43",
+        "data/local/learning_pilot/2e9d3662d165818c0463_moves.jsonl": "765a6d44ea756f52cd8168d02198b97b450c71948ffc905fe72218c5453e3d66"
+      }
+    },
+    {
+      "game_id": "2fbf55eb600eb9e5d78f",
+      "inputs_key": "26d586bbe9da9e93255c776985c3895a7264a210578d7f599e7cf0fb53d34636",
+      "seconds": 2.6258451670000795,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/2fbf55eb600eb9e5d78f_searches.jsonl": "01a166a5670e6f69dc9cef67ce11500bdb4371f1686605bc1b693e2d3a0f5641",
+        "data/local/learning_pilot/2fbf55eb600eb9e5d78f_moves.jsonl": "b04a9b733dd125941690ed6b77a3cb9db87507661d3e8c0b8b0fbbe3c50d9d91"
+      }
+    },
+    {
+      "game_id": "304d69cfafb34b7d9117",
+      "inputs_key": "75c485b45af0fea479e5ba64a418f5403477a9934e9d27aa36211d8bf89646d6",
+      "seconds": 2.445013500022469,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/304d69cfafb34b7d9117_searches.jsonl": "2f877b6704d83f6a12fe0dcd5dd25dc6c032f52c2060bd8fac7f3d586e61e2eb",
+        "data/local/learning_pilot/304d69cfafb34b7d9117_moves.jsonl": "917577050c8064cd93c1b0992993b871c7a6b41cbeb65e5eb8c598e826fe4718"
+      }
+    },
+    {
+      "game_id": "30b81f349a211b752a20",
+      "inputs_key": "f346687d07e136b47316faa27d7764a29d89b52e1a7016b5c2a0b6fe54142b42",
+      "seconds": 2.675951291981619,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/30b81f349a211b752a20_searches.jsonl": "54e902e9c8e7c261a73a8d2560b8e0de3fcd3d3a60328087a38d1a5a0234c1f1",
+        "data/local/learning_pilot/30b81f349a211b752a20_moves.jsonl": "96719882752b4efca2761a9ea560a8faf37feeaec36f5f87e1c58c84912eb62f"
+      }
+    },
+    {
+      "game_id": "312b6af81f7575280dc0",
+      "inputs_key": "e2757925aac71db3a48184b9defbded819fae684859bac2246eccd9af875487b",
+      "seconds": 2.690909791010199,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/312b6af81f7575280dc0_searches.jsonl": "ef4026262d3ea465f6485cc5c54e77b3614b53c900e3a5d18eec141bf1f36bfd",
+        "data/local/learning_pilot/312b6af81f7575280dc0_moves.jsonl": "928a64fd9e8a6177683cfbac83f96ffc542217b1124d44678442bc19983ab142"
+      }
+    },
+    {
+      "game_id": "31cbe6a76f3eb017d2dd",
+      "inputs_key": "4c062393951d89f31a1f5d23ea2dda8a453c7d972fc1ff741587ecdb0d7601f2",
+      "seconds": 1.4839674589748029,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/31cbe6a76f3eb017d2dd_searches.jsonl": "ed0dbef93160bf976c1dae31e880fcdce6c04836584ce7f8c358f1e7df54412c",
+        "data/local/learning_pilot/31cbe6a76f3eb017d2dd_moves.jsonl": "b3b5fcd267c90701630fa493282557a196e746a151ba97fb830fd521b2b8df2f"
+      }
+    },
+    {
+      "game_id": "337112c646a60a5f9007",
+      "inputs_key": "c47f4b07a5fa2f95a6c422c488d8d47f187df7ca3dc922da80c4dcb745b1a7ad",
+      "seconds": 1.912348000012571,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/337112c646a60a5f9007_searches.jsonl": "7141ee8296c0af9280b911a6d48dcea5914a9c4793096b506f4e4ca3ac216811",
+        "data/local/learning_pilot/337112c646a60a5f9007_moves.jsonl": "2b9776082afc51a54ea38f794911be5b5508f820687e530e1fd185bfff255480"
+      }
+    },
+    {
+      "game_id": "33b9db43c23d2529c5d4",
+      "inputs_key": "d8e18cf4e2ef8f5327bc01d47118385d5e80471e5b9d07123485650bf44e208b",
+      "seconds": 2.796552874991903,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/33b9db43c23d2529c5d4_searches.jsonl": "54eb3ac8d41084518b4022ff34de48a3b111756a4b8512d160bdab3d3b0e4fe4",
+        "data/local/learning_pilot/33b9db43c23d2529c5d4_moves.jsonl": "19d3db96dcb6e7adbc09e6c89709c3cbff71d296cf922f5089bf4ad6cfa9b9d7"
+      }
+    },
+    {
+      "game_id": "35728cb786feb9e24b64",
+      "inputs_key": "4d71fbf7bc70a826604e3e9fe8a8b37c5df8ff342bed59d8e04a10158250f3e2",
+      "seconds": 2.354087667015847,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/35728cb786feb9e24b64_searches.jsonl": "d5268a948176bc8f4d60075f4cb3e96dace07ec1c6f13f7a9a3bbc8d7cc2812e",
+        "data/local/learning_pilot/35728cb786feb9e24b64_moves.jsonl": "f1fcf80254198a47519c47572c4c28b1d35acd60ae6ba61163716fbba949131d"
+      }
+    },
+    {
+      "game_id": "3583584ce7e5990cf18c",
+      "inputs_key": "5e05d4de79107cc77ccb7f489971e2f5e5cd1678e0f8480d85206ba52ef9d4da",
+      "seconds": 2.3610414160066284,
+      "screened_moves": 48,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3583584ce7e5990cf18c_searches.jsonl": "14d6e01e4c09a4106b0d78a62f2f6d8a987d2c0650afae1884b9886f13c625d8",
+        "data/local/learning_pilot/3583584ce7e5990cf18c_moves.jsonl": "be74373bb0075f24b0c0bb1a627bc3e69d8ccbc98ccd6779e5a48c6f5fd33c38"
+      }
+    },
+    {
+      "game_id": "35b603a2a4f2d714515c",
+      "inputs_key": "31bc1bdf331640d8c01baf2cc39d3f8ed9d9b5d119efbd39a8316e05d2064250",
+      "seconds": 4.5252455409790855,
+      "screened_moves": 104,
+      "outputs_sha256": {
+        "data/local/learning_pilot/35b603a2a4f2d714515c_searches.jsonl": "2c0f811c10230e238444b8f429bd82b11c9fbb203763d47c20e65ec019e8d8ba",
+        "data/local/learning_pilot/35b603a2a4f2d714515c_moves.jsonl": "673c4a9a9e7c845ca0c6de401de09426072a5aa02ad4bd9da38c9408c8c74556"
+      }
+    },
+    {
+      "game_id": "375cad1f2d34c8f1672e",
+      "inputs_key": "bd122eb1b698e940b992251729f5a2e1996a39c63cef0c47fb4cf3eaad851110",
+      "seconds": 1.993975874996977,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/375cad1f2d34c8f1672e_searches.jsonl": "dfef9cbdc7b12033d9817904350e77a463d9ad4000f4bdbd7a5840282e84ed04",
+        "data/local/learning_pilot/375cad1f2d34c8f1672e_moves.jsonl": "f5ed44670220ad916ec88cd5cf096da0bfe07b8f5bbaaef3816fd09924be4e73"
+      }
+    },
+    {
+      "game_id": "37da4793821e41627a2b",
+      "inputs_key": "b1d5d1bc29635ddb3a9fd5d902dfa674920eee85a4204610c275495f97e645d5",
+      "seconds": 1.4011080419877544,
+      "screened_moves": 26,
+      "outputs_sha256": {
+        "data/local/learning_pilot/37da4793821e41627a2b_searches.jsonl": "3a558ff30ea2b3d7c021256885365d5af2911d37cbd4071f8426a7fcc722fd36",
+        "data/local/learning_pilot/37da4793821e41627a2b_moves.jsonl": "3756ae6db1fd8e88763cd2eaa47f682cf64b31dd1cb9396e9119068a003b212b"
+      }
+    },
+    {
+      "game_id": "385b8852a731a25e3043",
+      "inputs_key": "a77705e6b61c01cd587282ecfa04bf4e9b5a3f0303262f28e32f3135191b1203",
+      "seconds": 1.7918731670069974,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/385b8852a731a25e3043_searches.jsonl": "95cec504ab0406583aa4e9bb383ee13f0c7c147d82322ac93c2fe463f22a45a5",
+        "data/local/learning_pilot/385b8852a731a25e3043_moves.jsonl": "ca3b82182750dd1869355d7af710a0337e84578afbcfe492ba428cf159795d80"
+      }
+    },
+    {
+      "game_id": "38694541de1e666380d9",
+      "inputs_key": "a9c8ad821117361e37294d3767afa321eb57bfe456fb47a4809cc0c26d7026bf",
+      "seconds": 2.611845000006724,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/38694541de1e666380d9_searches.jsonl": "c3b8e21c049e6c36deb8c5ecf92c9ff5f1ade1d0c2844f89e3e10b7515aec548",
+        "data/local/learning_pilot/38694541de1e666380d9_moves.jsonl": "b263b40442af38bb984fee55875465fe0ff8d47255362cd120642763ec1fd215"
+      }
+    },
+    {
+      "game_id": "395b6f87f52c1889597d",
+      "inputs_key": "6528d3140a976c391b58bc433632489cb9fea3b31c4aad0453b48c440cf48b97",
+      "seconds": 2.5582664579851553,
+      "screened_moves": 49,
+      "outputs_sha256": {
+        "data/local/learning_pilot/395b6f87f52c1889597d_searches.jsonl": "2549c701699b290dce8793e938fc4ebc80f3f977b92cf17c14acfa0cee7de96a",
+        "data/local/learning_pilot/395b6f87f52c1889597d_moves.jsonl": "b68d0d88c462f2ecb362797ef124a0e985cb616863964f01371e4a3ff502c6a5"
+      }
+    },
+    {
+      "game_id": "39f37481a80fe088b2aa",
+      "inputs_key": "35322bd64cc73b2691127a2d9605fcd76eded0f9a0790b3dd9ea6c9a6650d934",
+      "seconds": 1.140474665997317,
+      "screened_moves": 16,
+      "outputs_sha256": {
+        "data/local/learning_pilot/39f37481a80fe088b2aa_searches.jsonl": "437d0a412ab3db67416e73947a04b5b69788ed141459e9eb8bfbfb2c24ad3a13",
+        "data/local/learning_pilot/39f37481a80fe088b2aa_moves.jsonl": "53445e5737ced1222e348d441ed1d405029a8e5e7ced6c18ca3f0e8af3e20ed4"
+      }
+    },
+    {
+      "game_id": "3b4c6ef91c21e1874b91",
+      "inputs_key": "5e90fc22e7ca4872f12af7ffb9240dbef6eb8852447dfe4769efbdacf81fb365",
+      "seconds": 2.2325292080058716,
+      "screened_moves": 42,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3b4c6ef91c21e1874b91_searches.jsonl": "6ee10e5c19ffd4e284b44957b599a0e66a062e940acaec3e4077e1e136367f43",
+        "data/local/learning_pilot/3b4c6ef91c21e1874b91_moves.jsonl": "be74568481b9b5b107e12637cb19c7c31b9bbc8380ee45746cf13da3555b8153"
+      }
+    },
+    {
+      "game_id": "3c0c13584e1c0a426026",
+      "inputs_key": "dd7fb886764783870ad09265e8905eebc84ba503f347cdd2b94b99885c54684d",
+      "seconds": 2.7487016250088345,
+      "screened_moves": 51,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3c0c13584e1c0a426026_searches.jsonl": "b4ce48adda84a9973b6ca02a22e4479135b6081358904b4aebeb1a8ad5af7249",
+        "data/local/learning_pilot/3c0c13584e1c0a426026_moves.jsonl": "2bf9f2e48c800cbaef7863470475b1d0d040e1b485e222a7d72fbeac37aa3f72"
+      }
+    },
+    {
+      "game_id": "3cd17e286ddabdf39e45",
+      "inputs_key": "89e5a5fdd1c7c06fbe7a7243beb5f225caaad409154c80b1c3cf10bb64b285ac",
+      "seconds": 2.220308957999805,
+      "screened_moves": 43,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3cd17e286ddabdf39e45_searches.jsonl": "36cdac636a3670ecd95baa9b652400b725ec7255ec15d8c7e820c0a49b8a2a19",
+        "data/local/learning_pilot/3cd17e286ddabdf39e45_moves.jsonl": "38be1284fb113c28b4c636bf45a14f8369847679a0ac2ee8e72ae630536d6748"
+      }
+    },
+    {
+      "game_id": "3d8baffd7f8b6394b8e1",
+      "inputs_key": "f206fda808af11ce10a33a916db0ddd67d85e323a535d87d39c01324e104dc8f",
+      "seconds": 1.1492924169870093,
+      "screened_moves": 15,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3d8baffd7f8b6394b8e1_searches.jsonl": "3d35a52abe65f888d67ef7591a4089f1b4e1524e415694c9b2921ed090f967cb",
+        "data/local/learning_pilot/3d8baffd7f8b6394b8e1_moves.jsonl": "dfc9562b8677cdf32175bf9d3b10add01bfd8848d4ffef9f78fbda427d333338"
+      }
+    },
+    {
+      "game_id": "3e482c136910c0dec596",
+      "inputs_key": "7505eb2de193d96486db44f1cdbae21b9e26b41dd265b4d003492890d403e759",
+      "seconds": 2.4388904999941587,
+      "screened_moves": 45,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3e482c136910c0dec596_searches.jsonl": "0e28793e7b684db52ecf14e8913b350e75bce7c0d9265cd77033060b9155b45b",
+        "data/local/learning_pilot/3e482c136910c0dec596_moves.jsonl": "d4d49e075324153003ddf7df8ed44e20bc18afb9fe3139b13b2d7acf2afd6e3a"
+      }
+    },
+    {
+      "game_id": "3f201ba60f703f8d416f",
+      "inputs_key": "b7cc8b4ea4d00264fc11ac7fab378124819503f926bfb8bd07205ea926c23c67",
+      "seconds": 1.6097883749753237,
+      "screened_moves": 30,
+      "outputs_sha256": {
+        "data/local/learning_pilot/3f201ba60f703f8d416f_searches.jsonl": "aab5b25ae4c06e0a83ed0bdda114b690e984e7e9781d6d25de213759036a64be",
+        "data/local/learning_pilot/3f201ba60f703f8d416f_moves.jsonl": "de47778c47a2991374ce8922be09f450c5a3935d99746d8eb0682c75deaecf54"
+      }
+    },
+    {
+      "game_id": "411327700ee17133ca20",
+      "inputs_key": "b5269121f446e3a27d389f8e7e10edfc4f532f365f823fd7ed98c71c1991dd8d",
+      "seconds": 1.9714070410118438,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/411327700ee17133ca20_searches.jsonl": "76db213f5a839226ce1ae202c457e66fd502a497bdcc036fa45354f6c9300f76",
+        "data/local/learning_pilot/411327700ee17133ca20_moves.jsonl": "adbbaff6743a562320db3da807c6fd43741f51f2eb86ce2987d29889857eeaf2"
+      }
+    },
+    {
+      "game_id": "43298aee9e3c0079b9b7",
+      "inputs_key": "811fc3f17755f28b75388b9ea3f8fc00db895e309faa3333f8de1466b2202099",
+      "seconds": 2.549086040991824,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/43298aee9e3c0079b9b7_searches.jsonl": "8ab1fec8309826b196bf8886670e37f78e18d7eae089344e31d4e1378dbbefe8",
+        "data/local/learning_pilot/43298aee9e3c0079b9b7_moves.jsonl": "8468aa25d9e8605da11e79dacfd9a75af4dc3aedbca6435369b4b2b438aaab1b"
+      }
+    },
+    {
+      "game_id": "435a0b737c1ea1cb3f74",
+      "inputs_key": "458282aaf8899232572be1251e612696290b52dca7e52b7460d2c522fe494cf3",
+      "seconds": 1.0985118339885958,
+      "screened_moves": 15,
+      "outputs_sha256": {
+        "data/local/learning_pilot/435a0b737c1ea1cb3f74_searches.jsonl": "583952057efb6f56cce413e477d9bb1d34ac34e0e71c677a31dba8946081ea2e",
+        "data/local/learning_pilot/435a0b737c1ea1cb3f74_moves.jsonl": "d033663d289f6ebe339f0a3ea4cf7b04da3be79a4402cdc2af09517e2b525fa8"
+      }
+    },
+    {
+      "game_id": "43a08fd1b4fb6eea6a2f",
+      "inputs_key": "2ddee03f1c9e021f6170cb3b65a35f8f7558b6a011e7c617eb0f0a44b316d7a8",
+      "seconds": 2.1908974160032813,
+      "screened_moves": 39,
+      "outputs_sha256": {
+        "data/local/learning_pilot/43a08fd1b4fb6eea6a2f_searches.jsonl": "92346758edeeb87959526a8888b21b32c0bdb280c6d5c42029c7df1402ef6df9",
+        "data/local/learning_pilot/43a08fd1b4fb6eea6a2f_moves.jsonl": "b233b480cf18783d4e971b6fd34810c58dafaa49a92e66fa99ef6a2868b7b377"
+      }
+    },
+    {
+      "game_id": "470e31565cd3a99b3850",
+      "inputs_key": "4103fe386ddc4611e4808343a403f93ac00f608e6538e15c9d7dfc375466bc95",
+      "seconds": 2.5439042919897474,
+      "screened_moves": 49,
+      "outputs_sha256": {
+        "data/local/learning_pilot/470e31565cd3a99b3850_searches.jsonl": "0c493d7f50271d651a4c6272a8c7e6f4b259963767f1172c7aba7f1b1774afc7",
+        "data/local/learning_pilot/470e31565cd3a99b3850_moves.jsonl": "d48787c84b2b78b8458f4e9de816d48051ce75ab02032d151a748f53b9d230f9"
+      }
+    },
+    {
+      "game_id": "47458e48fad13a3bede5",
+      "inputs_key": "ffb003712638cda914c7ed5a84a65f2074d6a531289e7be282f5607f9197b979",
+      "seconds": 1.265673166984925,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/47458e48fad13a3bede5_searches.jsonl": "533381234fe01b7a4018fdff890e60c1732054e4cfd3fa1b3b26a4c37793d052",
+        "data/local/learning_pilot/47458e48fad13a3bede5_moves.jsonl": "e8408323b20a2c0f309ed892237a7c5d9ec1d89c5f1e59cc077204eb5318c54a"
+      }
+    },
+    {
+      "game_id": "474ee56f1dd4011cd951",
+      "inputs_key": "252cbebc3f6f4ab5b1c9af4b9d74ec1ab27f76fd7977b5a003d1a45543b669fe",
+      "seconds": 2.0096171670011245,
+      "screened_moves": 38,
+      "outputs_sha256": {
+        "data/local/learning_pilot/474ee56f1dd4011cd951_searches.jsonl": "dd529d729fc9f701e81c3a992c3555007fcf9b70cadbb32ec2e7c2a64c8ddaf5",
+        "data/local/learning_pilot/474ee56f1dd4011cd951_moves.jsonl": "0f590340146422b336f7d0023c000ae24c1e6b36758b6f45f28f7860e2ba7200"
+      }
+    },
+    {
+      "game_id": "478c775eb9a8fca10096",
+      "inputs_key": "9a34e80169ede090bfee2febc7f5d7d5c49ba82eab11319ec06ecf6167cb09a3",
+      "seconds": 2.0170650410000235,
+      "screened_moves": 35,
+      "outputs_sha256": {
+        "data/local/learning_pilot/478c775eb9a8fca10096_searches.jsonl": "c43ba5c4d121b8e6da23eb07f831d57f4aee75920e682ebe54a1caaedb644245",
+        "data/local/learning_pilot/478c775eb9a8fca10096_moves.jsonl": "bb251c5832162793ed1bf4e0e50831ca402e543be103a9eea6fdf9f8d57d6f55"
+      }
+    },
+    {
+      "game_id": "4a86482d2e08c1f11be6",
+      "inputs_key": "e3a875fb40834496b93a8773810720471e0e6be05eb1bc73d09d2e008bdca7c9",
+      "seconds": 2.1300997080106754,
+      "screened_moves": 47,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4a86482d2e08c1f11be6_searches.jsonl": "4c7b905f55f4bc119fade88cd88cb2539429d29b3cf7cef39dd2814534610835",
+        "data/local/learning_pilot/4a86482d2e08c1f11be6_moves.jsonl": "3d8058dd15bf24443416a9b40185a5b4cf67bfc4d505a9b9c79433df10380538"
+      }
+    },
+    {
+      "game_id": "4c192f2c213c596109f8",
+      "inputs_key": "d50d0fc8ad1336697eb04589f164058e818bb67d563d7736defe9521906bd911",
+      "seconds": 1.8018169999995735,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4c192f2c213c596109f8_searches.jsonl": "236d998b1565afe6064a0c5a49e42c3cdf81862c2f656965f4ae9ae01514fbf1",
+        "data/local/learning_pilot/4c192f2c213c596109f8_moves.jsonl": "0e5f8fff13a4c7863bf20c2b8ffe563aee81c038e571a39deac80d1ab0335b3f"
+      }
+    },
+    {
+      "game_id": "4e3fc54db98134ad3254",
+      "inputs_key": "1aa78437a3ae36bfad89167592e556fd390f0f5f1d3af56cb9375e10d5c88eb4",
+      "seconds": 2.4369424160104245,
+      "screened_moves": 42,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4e3fc54db98134ad3254_searches.jsonl": "ec18e9c3ab2ac1a8a1c3ea22dd94f344cdd33493820e3a218a9eabb27b5e238b",
+        "data/local/learning_pilot/4e3fc54db98134ad3254_moves.jsonl": "05111ffe8a23e9f7fcae70fb42a27cc3af0cd63116cd0e82d1cef9f85e673ba6"
+      }
+    },
+    {
+      "game_id": "4eefd66fab0c1b933088",
+      "inputs_key": "59d4cfd6f256df9d5435dd46383aaebc7c27151776ac1ec39ca69b841b06c890",
+      "seconds": 0.8690390000119805,
+      "screened_moves": 14,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4eefd66fab0c1b933088_searches.jsonl": "7699cba33a14b3c6c40549977002d27f08fd06aba13ab15c98fd477fade8dab6",
+        "data/local/learning_pilot/4eefd66fab0c1b933088_moves.jsonl": "2056203dda70fb57dfea5b8d5cb1f9f6b7754d5fe87d66ad295a2c3f1b26b782"
+      }
+    },
+    {
+      "game_id": "4f01e36331b65681a89e",
+      "inputs_key": "a2774a544428a6c2f3592e54337a0dff209e2e3e947d34b6bacf29c41eeded6a",
+      "seconds": 3.8524265000014566,
+      "screened_moves": 87,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4f01e36331b65681a89e_searches.jsonl": "9b236964ba34f9acd1bb2b481ab91f78cf0a4a5fe74dae72d8d446a4ac2cb65a",
+        "data/local/learning_pilot/4f01e36331b65681a89e_moves.jsonl": "5ad0c74da944a235621e2e984f70f7748c22c50dd0aef7692e7f8636e425159e"
+      }
+    },
+    {
+      "game_id": "4f80cff1a554f965b8eb",
+      "inputs_key": "ce3b1e94708b3a9527074cf0a98b773d794972dd067e127b6366be1fc78f77b7",
+      "seconds": 2.458690083003603,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/4f80cff1a554f965b8eb_searches.jsonl": "effae68c3b3bf9b5b05ef49b1ba34ed94620c771cd2192200c860e5dab5829ae",
+        "data/local/learning_pilot/4f80cff1a554f965b8eb_moves.jsonl": "d6cdcb71054e40ad8d7d43208e82b4046aa29a62bfece23fd474cd439fbe4251"
+      }
+    },
+    {
+      "game_id": "50fe800e6833790dcfc2",
+      "inputs_key": "5da81fc750879b41f001a6d63a26eff277849f249ca855f5b5f4cabc0007de37",
+      "seconds": 1.430513041006634,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/50fe800e6833790dcfc2_searches.jsonl": "e38789556961835e15a6d8564547d7550e33975389a76406be7c4394aca34bc4",
+        "data/local/learning_pilot/50fe800e6833790dcfc2_moves.jsonl": "501e471709afce3d2a9fd44c6772697a416e85558f6b0f513bd18f29091483da"
+      }
+    },
+    {
+      "game_id": "5277f80ca0eb2786e948",
+      "inputs_key": "0fd0914bd6e827246592e95b34f0c242edf5dce9dba2a0b9aba06868e720f09d",
+      "seconds": 1.6844109170197044,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5277f80ca0eb2786e948_searches.jsonl": "c5019e15b398d2c6058bc652d4bfd28201fa5cb988fccc09177d4996cb7be97b",
+        "data/local/learning_pilot/5277f80ca0eb2786e948_moves.jsonl": "cf8dbb81ce526fdf46232e1f0a4a0fbbd560d0e63d42d0258c3bc4f8be3b5743"
+      }
+    },
+    {
+      "game_id": "5290bb884ba2ea264daf",
+      "inputs_key": "085696ea2c950a987f6158dab81463262df39de83b710a64e607243c35be1cd0",
+      "seconds": 2.3680076250166167,
+      "screened_moves": 51,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5290bb884ba2ea264daf_searches.jsonl": "4ae190f9e7ef0b2e6507ca3600367a287092cb2a7556642d4f57309d278d7b9e",
+        "data/local/learning_pilot/5290bb884ba2ea264daf_moves.jsonl": "808b23b8070528f5436cd89faac4cb554539f18be45dfc1cb0c16d309e8a48b4"
+      }
+    },
+    {
+      "game_id": "575dd107794766881c7d",
+      "inputs_key": "fe953ebe25888c3b5fb7cc33a3e9ff53aea7ea1ed6ee10a1fe8cf8490899ab16",
+      "seconds": 2.063864708004985,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/575dd107794766881c7d_searches.jsonl": "f85220b884a3128b64f6e7f8a61a2580aa7142b934a20592189919c4bbdae292",
+        "data/local/learning_pilot/575dd107794766881c7d_moves.jsonl": "2feada17eb9e45f3d7ec9136d9ca6d5db59cd97b0291e503325b4eb53e5a0623"
+      }
+    },
+    {
+      "game_id": "57908174252352944e99",
+      "inputs_key": "33608a8ee084dbef93eafbecea0ed356c00532a41fa20d8196efda071dd08388",
+      "seconds": 0.9698707500065211,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/57908174252352944e99_searches.jsonl": "80d40ee453a775e7981464fe25541153d81beeb95105d74633d8355c9223a078",
+        "data/local/learning_pilot/57908174252352944e99_moves.jsonl": "b46c5485b152ae8e60b3f1b5036e5f51e40532227562b058d584132b48ec2afa"
+      }
+    },
+    {
+      "game_id": "5854b43c4f9455f74c0d",
+      "inputs_key": "4b4e18433f833dff9dcefa8f0b2190a601387e4de779c93658993aeeb0630f17",
+      "seconds": 2.189959083974827,
+      "screened_moves": 39,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5854b43c4f9455f74c0d_searches.jsonl": "451c9176c7b2966891ec635779f24a65565d0ac0eb1b8360935eb7684a51300f",
+        "data/local/learning_pilot/5854b43c4f9455f74c0d_moves.jsonl": "be6e01700d666cef17ad67371cf598760c230b59d31400cc8d0e4909e9b8fa79"
+      }
+    },
+    {
+      "game_id": "5a240ac5857a7cd9158f",
+      "inputs_key": "6a68e32eb0a6b6bbad5d8739bad41b790c14b4b77a7b7460e2ea377d5eed4d85",
+      "seconds": 1.8128895410045516,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5a240ac5857a7cd9158f_searches.jsonl": "f7c92132b89216bc3959cd577c9e44a676498e21f6c72a66b0c09c7133308c29",
+        "data/local/learning_pilot/5a240ac5857a7cd9158f_moves.jsonl": "ff109713f62c5dccb61c9065d72aa2327ffb0731edbf224272223439a26c85d0"
+      }
+    },
+    {
+      "game_id": "5a7777fa578b536f6dac",
+      "inputs_key": "b3cf24993ba768d2b37640e05918030d299d81672fcf8fb28a0768f3fc527c84",
+      "seconds": 2.771049791976111,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5a7777fa578b536f6dac_searches.jsonl": "78473eaa81caeed0d47a543afaa5f6c1933816cab2c16a74c2e3bfbea759fbc2",
+        "data/local/learning_pilot/5a7777fa578b536f6dac_moves.jsonl": "dbf43ddf9f90af4bf877cb58b971c742a34460443073521695ec68d5d3cba9b6"
+      }
+    },
+    {
+      "game_id": "5e10bf3443c14ab86ed7",
+      "inputs_key": "1ec870a48e733065edfeffb6fa95132c502cc8e0a747add3ba2c0bace183581e",
+      "seconds": 1.2445483329938725,
+      "screened_moves": 18,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5e10bf3443c14ab86ed7_searches.jsonl": "fa11c4f4f7f8a0349b541d0d811f86e6c3f3c4cc18591cb16cb551df8f44ec27",
+        "data/local/learning_pilot/5e10bf3443c14ab86ed7_moves.jsonl": "3aa4c3d5b8dedcd51d0c1ba3d5312163a5ea88d4c2516700a2636f6ccf2476ec"
+      }
+    },
+    {
+      "game_id": "5fa673584b59b029f05f",
+      "inputs_key": "6ea04f0ff3ec1f5ecc14de6c390c3427d2b247050a5b8b885a5b580cb6b89650",
+      "seconds": 2.798744916013675,
+      "screened_moves": 44,
+      "outputs_sha256": {
+        "data/local/learning_pilot/5fa673584b59b029f05f_searches.jsonl": "66d4db30fa08b64b6421c140860b46013b919ca081ef6c4b0ac551d402778a91",
+        "data/local/learning_pilot/5fa673584b59b029f05f_moves.jsonl": "3608194d62136741ab538334031b979d7c1c70518ed789a8ee0e1cd0b347f0b7"
+      }
+    },
+    {
+      "game_id": "602c44e5fb2073808408",
+      "inputs_key": "39333c6c7c22100c3c23348ff3daa69a7fdadc708ed32603497d28b1ca1782fd",
+      "seconds": 1.637715708988253,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/602c44e5fb2073808408_searches.jsonl": "7b6f8db68bc935606ce6fb7a3100c17a8b3fa5b385378bce3ca19300bb1bd5a6",
+        "data/local/learning_pilot/602c44e5fb2073808408_moves.jsonl": "99d243a287f5bca35914eaa5953c04a04ff7b90c453f5bf903ef7dc6b68b5eda"
+      }
+    },
+    {
+      "game_id": "603b1f20af148fe41bfd",
+      "inputs_key": "ba8866fb69272c1e3e8a0bc19d24e63a2638849136d027a64cbab05c58e4bbc9",
+      "seconds": 1.9783864580094814,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/603b1f20af148fe41bfd_searches.jsonl": "14d1317e89357a1448df021c27b6f586acb9023ab0626b020ab62112cafa3f73",
+        "data/local/learning_pilot/603b1f20af148fe41bfd_moves.jsonl": "9de60e7320a35f2b78ceab54837c11ddaa240785c7c529074fe0bbe1d0579015"
+      }
+    },
+    {
+      "game_id": "6121658f2ccf7cf398aa",
+      "inputs_key": "60f645f010cf387a19d88e2f67f8d77595cb72bab607d4e5ada21ad5589fa3ea",
+      "seconds": 0.8502228330180515,
+      "screened_moves": 10,
+      "outputs_sha256": {
+        "data/local/learning_pilot/6121658f2ccf7cf398aa_searches.jsonl": "19e959245e898b844bf08226b49012343bcf57f3d9685220dd9d2c491e7277d0",
+        "data/local/learning_pilot/6121658f2ccf7cf398aa_moves.jsonl": "53bbeddcf4515ae9b2dbb4b7ca0f1e1b4d771ce8bb58e8a0bbe1b103fd1a3ff2"
+      }
+    },
+    {
+      "game_id": "642ea541f9d67ba8e2cc",
+      "inputs_key": "382b10efdd68a3cf198db1914955f03599592a402e84bf0766642edac311839b",
+      "seconds": 3.9839282909815665,
+      "screened_moves": 83,
+      "outputs_sha256": {
+        "data/local/learning_pilot/642ea541f9d67ba8e2cc_searches.jsonl": "41ce443a01a0a98ea0cffd101c773be507f075170cea75496cd89db4e4408a3e",
+        "data/local/learning_pilot/642ea541f9d67ba8e2cc_moves.jsonl": "39fc78d875fd9461b03eece7165b7a68d7f4407e481cee35081ad5011ac1ad21"
+      }
+    },
+    {
+      "game_id": "66b31b2cfd1723dd9ac2",
+      "inputs_key": "940d7bccfe6b133ded5eb54d09979b8faa4d4b9e7c4e4a9dda7590f55d332d6a",
+      "seconds": 1.9038822500151582,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/66b31b2cfd1723dd9ac2_searches.jsonl": "ac29e5a25325dfc73976898cb9cb090b50ffff0508045f6ee6a7f02b2288a390",
+        "data/local/learning_pilot/66b31b2cfd1723dd9ac2_moves.jsonl": "dbf5213782c6572e83a6f49022ad3e5b7e66eb59236c91ca51563174e2b98cc5"
+      }
+    },
+    {
+      "game_id": "66d8e83d4f723b1f4391",
+      "inputs_key": "4c10a7e9a8dd1fed5d29fbaf63f5d821c1f4845944bfbe7bf40b78c857a7d50b",
+      "seconds": 2.2183097079978324,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/66d8e83d4f723b1f4391_searches.jsonl": "791a03cbcf242970147d73db3e897cedee3a4e39ccf93cc22fc808ae413865bb",
+        "data/local/learning_pilot/66d8e83d4f723b1f4391_moves.jsonl": "d791e33eb1279f6b8899420f1abb95211b6e51781ac9e96bf5748ad9a6ad769c"
+      }
+    },
+    {
+      "game_id": "67a434dadcd4bb4fe370",
+      "inputs_key": "cc389e2c08e0fd9f85cf79a9c83e52c9de1c30b3460f6e61d727125a92367855",
+      "seconds": 1.5594063340104185,
+      "screened_moves": 26,
+      "outputs_sha256": {
+        "data/local/learning_pilot/67a434dadcd4bb4fe370_searches.jsonl": "7ea4d793d6b696db09a760ac3ca08ae370c6a4210e4f78833fc11416ea4bcf1f",
+        "data/local/learning_pilot/67a434dadcd4bb4fe370_moves.jsonl": "a3469f908afdf250997fd668e4f58e5b0279f1569f4edfad25e59013b0fb5537"
+      }
+    },
+    {
+      "game_id": "69364e5b2e85e081c4b1",
+      "inputs_key": "1efa8bd99a96ef07084a8de6227a7af26b9ff8777a451620125708bb0332065d",
+      "seconds": 2.0692611249978654,
+      "screened_moves": 36,
+      "outputs_sha256": {
+        "data/local/learning_pilot/69364e5b2e85e081c4b1_searches.jsonl": "f30871ec63f44184f07a60b82ad86732bbfe405aa9398eba4301c321521f3e15",
+        "data/local/learning_pilot/69364e5b2e85e081c4b1_moves.jsonl": "9cb4d50cf5b8f011be84a4cfe4e4accab44a32f665ef39a6c0cdd82101e8a680"
+      }
+    },
+    {
+      "game_id": "6aaac890c9edcc1e31a2",
+      "inputs_key": "9dc70126b66ba44797d259ce5731e5829ecfb25f0171dbb2bfd44cdddd14c2bc",
+      "seconds": 1.7432476250105537,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/6aaac890c9edcc1e31a2_searches.jsonl": "83a9d823f0c04f10be350ad9f6afbeab48c27ba7440a29499d2e2e2341d0f9df",
+        "data/local/learning_pilot/6aaac890c9edcc1e31a2_moves.jsonl": "41bb03c6d3c9fe8cfe0c0c93d9a86351520020d05f27f4438b8cd3940f985a78"
+      }
+    },
+    {
+      "game_id": "6bd06c031e03a23f47ff",
+      "inputs_key": "41c5e39d46830463ab09ae59e5b5a548b8378df632aadfdb7e582053c69e630e",
+      "seconds": 1.6830671670031734,
+      "screened_moves": 29,
+      "outputs_sha256": {
+        "data/local/learning_pilot/6bd06c031e03a23f47ff_searches.jsonl": "1c77c5951b7d871627dbb3eb1f1421d482d3a3d61a14008b9bafb33aa8379a74",
+        "data/local/learning_pilot/6bd06c031e03a23f47ff_moves.jsonl": "b9e42c1eb4f312f203d8151c6393f71f37b07776fdb33515801a2efcb85fae1e"
+      }
+    },
+    {
+      "game_id": "6d8a649aa8b869dd5f5a",
+      "inputs_key": "ebbf09cf276f229235e3acc10470b041f24b3855ad52d9b577dfa3f55bd59d40",
+      "seconds": 1.7331407089950517,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/6d8a649aa8b869dd5f5a_searches.jsonl": "72c4ae832ef954e51b38d945d75d5b151ee06fdecac76a82d28681412df7059f",
+        "data/local/learning_pilot/6d8a649aa8b869dd5f5a_moves.jsonl": "64e6e88429ed44f8dbefd6b95b1f2eb949f462f5b75f0dfb3e5a373a10460b3a"
+      }
+    },
+    {
+      "game_id": "6f86c07139934ec73280",
+      "inputs_key": "a45c055934d9743bbc3e86c020e63aa8fda86a8c956628971808b3bf6dd7e146",
+      "seconds": 2.315665500005707,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/6f86c07139934ec73280_searches.jsonl": "c114837372b55b0053c92e4ed841fbc94f682f409a779a20c6ea058e68942acc",
+        "data/local/learning_pilot/6f86c07139934ec73280_moves.jsonl": "4279038f2ed0e0f24f2be915b6d470e6bef9d85c171eda29852dd9e49572fb09"
+      }
+    },
+    {
+      "game_id": "70391eb847edc13b29ad",
+      "inputs_key": "19b42ebdf4d389189bea2374b875f008e5d1835fc416307a2b14589ed6424a06",
+      "seconds": 1.569698499981314,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/70391eb847edc13b29ad_searches.jsonl": "d846c735446c33965c4fad35ad8e55f70ff35ec2a48d378bcf76db5a4f2dce08",
+        "data/local/learning_pilot/70391eb847edc13b29ad_moves.jsonl": "c5ac76d5d74cfe289b491e27520bf852dd497c1fa1833343159a7543e949d5fc"
+      }
+    },
+    {
+      "game_id": "74484abae235656aae1f",
+      "inputs_key": "46f47dbcf74da547b2aa150cea8966bdf594bb6953a457267916197197faa8dd",
+      "seconds": 2.153477041021688,
+      "screened_moves": 40,
+      "outputs_sha256": {
+        "data/local/learning_pilot/74484abae235656aae1f_searches.jsonl": "f373968c5f635870d7209d5d9cb23ff4a3b01033a1c1258888ef6189ed322433",
+        "data/local/learning_pilot/74484abae235656aae1f_moves.jsonl": "71ba4e8095192e8c1c5c0e4736341691a74c5f7b4b2a5e11ba0b76623ea1181c"
+      }
+    },
+    {
+      "game_id": "7536d2be38785a659591",
+      "inputs_key": "61be1934f2610b00a7fe4b367e2b7f92184c2ba2ba90824bd2950ed88f3bb355",
+      "seconds": 2.1082973750017118,
+      "screened_moves": 39,
+      "outputs_sha256": {
+        "data/local/learning_pilot/7536d2be38785a659591_searches.jsonl": "ce219463317e76a7181d916efa57db10e7838200ea8e869a1e9f90c5950f0c41",
+        "data/local/learning_pilot/7536d2be38785a659591_moves.jsonl": "eda28c3dfaac23beb97d6d2f76f8f0ca1239391be50a7f79fc6faac332f49506"
+      }
+    },
+    {
+      "game_id": "75ece2e725e2534e37e2",
+      "inputs_key": "07acb93a9c56d64f20d337361cbf655af8e75cac3ec911611462180e1239c503",
+      "seconds": 1.4983979589887895,
+      "screened_moves": 28,
+      "outputs_sha256": {
+        "data/local/learning_pilot/75ece2e725e2534e37e2_searches.jsonl": "6980ecf72019a8960437d926786f151e721cda9702799e2c754076696d9d19da",
+        "data/local/learning_pilot/75ece2e725e2534e37e2_moves.jsonl": "a426cfd105bfed7ea09c46624fccc12995b1a141a55c25dbd6408402e65851a5"
+      }
+    },
+    {
+      "game_id": "783f80b68737a3cb18ad",
+      "inputs_key": "b3ec096edd66a19ed3cf7652711aecbae5d089180d688aca06b0dd3833c1614c",
+      "seconds": 1.5745105410169344,
+      "screened_moves": 25,
+      "outputs_sha256": {
+        "data/local/learning_pilot/783f80b68737a3cb18ad_searches.jsonl": "4a391da03677936c365325f40d08086fd949fe4ac1b1e9534fdccdacabaf98c1",
+        "data/local/learning_pilot/783f80b68737a3cb18ad_moves.jsonl": "9d1f3ea6fd3a8b591e917b8357ba49a0f13e9157ea5faffdc43a2f127fc9c722"
+      }
+    },
+    {
+      "game_id": "78f0564900f82f8a25e5",
+      "inputs_key": "828ed37ccb7a614d45f71ec64fd9c59d4664b366b0f90ee137da309f87bc9f9b",
+      "seconds": 2.1955983329971787,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/78f0564900f82f8a25e5_searches.jsonl": "c949a79ad372d251477e9f329c78a594936550bc70f2a86e662056c3822e7938",
+        "data/local/learning_pilot/78f0564900f82f8a25e5_moves.jsonl": "48c686e1a5b721c45c4c6267f9af2586c8dbac521e38b3b0234161cb7233872a"
+      }
+    },
+    {
+      "game_id": "7c182b9e9e61de3c6c02",
+      "inputs_key": "630b29d7fe8d69b7c1bafdbd7259a71ae0850e2a61572d9f78120db7cdd7f2a8",
+      "seconds": 2.2753581250144634,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/7c182b9e9e61de3c6c02_searches.jsonl": "2dde451bf7d7c9f7448449ba1761a07f15d4a0eae68ce7adde2eb4b3f2c95f4c",
+        "data/local/learning_pilot/7c182b9e9e61de3c6c02_moves.jsonl": "f0cbe0eb994b028f93984bed57fb055552567cb441e793b063bf31a433916e21"
+      }
+    },
+    {
+      "game_id": "7f1725363d2e13ffd0bb",
+      "inputs_key": "393bbc6cfa4c21b4f43229460f81d943f8325c05a46719c0875a30470f3a70e4",
+      "seconds": 2.1271494169777725,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/7f1725363d2e13ffd0bb_searches.jsonl": "7a0b61a80ec5d2b109b941a6d87f0480b1d4f3db41916ae7ef3e2e6bdcda944e",
+        "data/local/learning_pilot/7f1725363d2e13ffd0bb_moves.jsonl": "8446f4eadcb9c5a31532133b6a9ba806576a88f39b8ddf78b8a0126da83a5db9"
+      }
+    },
+    {
+      "game_id": "8060dafa2dc662f28144",
+      "inputs_key": "9b66c2088321d479e6bbd319c817575f4eeb2b75e4537dab38714e5c4604196a",
+      "seconds": 1.7475504159810953,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/8060dafa2dc662f28144_searches.jsonl": "b83ef0822be85468955350df3c3176f71d374209f2b632fa35863a41b7a0fd11",
+        "data/local/learning_pilot/8060dafa2dc662f28144_moves.jsonl": "f88543b4eb30461d12cde2d24cad5fdb432f0fdf02f6b02ad6f731a3e991c1e0"
+      }
+    },
+    {
+      "game_id": "80eb391e3992e5ae4af4",
+      "inputs_key": "407c885212ad0839a93ddcc8da8de48c3b860d2ee1043366e23835dedf190100",
+      "seconds": 2.0816579590027686,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/80eb391e3992e5ae4af4_searches.jsonl": "2bee67cb56fe606705d38f22e0758aba09af47ecab656ffdb2a5ffbdc0d3717f",
+        "data/local/learning_pilot/80eb391e3992e5ae4af4_moves.jsonl": "a102e1ec7014735d79f9881bc8465cd77e11c84d0986f557694a330c7c61fb6e"
+      }
+    },
+    {
+      "game_id": "8194a28b840cb914150c",
+      "inputs_key": "e486c90ac305bb335b14a557f886386d80296cc40fbd18008a13bc94698b602d",
+      "seconds": 1.7559481670032255,
+      "screened_moves": 29,
+      "outputs_sha256": {
+        "data/local/learning_pilot/8194a28b840cb914150c_searches.jsonl": "d795f923463942a4fd67bd4c6e0362f3fbefc4ce6be176347baf077418dfdd54",
+        "data/local/learning_pilot/8194a28b840cb914150c_moves.jsonl": "11bd3356be02529c419bd7d7816c56ad830c8662af4f8a294a371152c6e780e9"
+      }
+    },
+    {
+      "game_id": "81e7f58e7d4af4cbc68b",
+      "inputs_key": "7a52f301b36301921a4a49a871678270de441e5f30b889c7a4486d1d909e909a",
+      "seconds": 1.7658395420003217,
+      "screened_moves": 36,
+      "outputs_sha256": {
+        "data/local/learning_pilot/81e7f58e7d4af4cbc68b_searches.jsonl": "5f874e61e21e84f73409f55d794d97cba6e44aea795aa3f1e65525d7498b526a",
+        "data/local/learning_pilot/81e7f58e7d4af4cbc68b_moves.jsonl": "de4640cd73af56e54c5c4b6d3fa8589e2e25726f51f51f253a9d2cd1ca2383ed"
+      }
+    },
+    {
+      "game_id": "837fe14eb4f38cfef6b2",
+      "inputs_key": "ce8876f74d2b143570882568b6cace27843070d21ef31bc625dceaa4dda34f47",
+      "seconds": 2.1052004160010256,
+      "screened_moves": 48,
+      "outputs_sha256": {
+        "data/local/learning_pilot/837fe14eb4f38cfef6b2_searches.jsonl": "d51b451c8b5dc10d2f2f5e2f85300bfce8f922c772e7a3934da54de93bed4a62",
+        "data/local/learning_pilot/837fe14eb4f38cfef6b2_moves.jsonl": "750aa51bcb52f81baf561a92f30f6f84e02f0b5c1b08c3e05ea53d0c9150c00c"
+      }
+    },
+    {
+      "game_id": "8514079f4bcc07ab4373",
+      "inputs_key": "3a12af9fe917c852f3d90139689945b1b01c5d19b968a780c39b2e0cac8b3470",
+      "seconds": 2.700913082982879,
+      "screened_moves": 48,
+      "outputs_sha256": {
+        "data/local/learning_pilot/8514079f4bcc07ab4373_searches.jsonl": "f07c80d41a439c1c5596a8a9a3c9302e83d05f6c34d0f9d9674bb179950db1ce",
+        "data/local/learning_pilot/8514079f4bcc07ab4373_moves.jsonl": "c561b03dba25b15e1cc16c08ee6ee6625aabbdb5f0e8f03370ba1a879db27ea5"
+      }
+    },
+    {
+      "game_id": "852c5958062dfe65a4c5",
+      "inputs_key": "ff94001f778223147b6a24b09ab2edc3731fe0793ac8703cf354baee7f1203b3",
+      "seconds": 1.747085374983726,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/852c5958062dfe65a4c5_searches.jsonl": "dc365a300efe625eebbba081c972af137fe0cbd2533fa9b0a75bce19ae98e6e5",
+        "data/local/learning_pilot/852c5958062dfe65a4c5_moves.jsonl": "9a55282ea5d39723e868ec6b1a23be5f027660ab83e295c9f42e818ebf4ae238"
+      }
+    },
+    {
+      "game_id": "885d0d90de8f081e3764",
+      "inputs_key": "7079ddab8568eab095ed15a37ce7102a940ba287c5eeb455f1ac81aa4dc06dd2",
+      "seconds": 2.1058428329997696,
+      "screened_moves": 37,
+      "outputs_sha256": {
+        "data/local/learning_pilot/885d0d90de8f081e3764_searches.jsonl": "89a2d5ff4e9488480d084547025383b53ed676264871cb45d21c37c16d04225f",
+        "data/local/learning_pilot/885d0d90de8f081e3764_moves.jsonl": "1fdbf41cdfa78a6635c251156a05f7a355d63c3233bb0f17adc1d0de87aef5aa"
+      }
+    },
+    {
+      "game_id": "88b323210044f44f30e3",
+      "inputs_key": "0936c9b8e606124ac9a5826e15396a36d8530138db617aff620f4f4ef413bbf4",
+      "seconds": 1.0443527080060448,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/88b323210044f44f30e3_searches.jsonl": "6ce02c755192e6b9deb224241060946448f2b406cf82e0f7b995d3ce39702491",
+        "data/local/learning_pilot/88b323210044f44f30e3_moves.jsonl": "fa51902ba17611df189240943c246a5e28766b3010880a0b4c6e9f1e3421eca5"
+      }
+    },
+    {
+      "game_id": "8f61fca666f5f508e411",
+      "inputs_key": "edf49704394701313fc0deb8adccc0740d166e4aa91a055c1bb8da290d67ab6f",
+      "seconds": 1.5567896669963375,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/8f61fca666f5f508e411_searches.jsonl": "ba50717f4f3b46b407454707c54adaac1fc84d4ed60c1a24abfbb9775ede2cec",
+        "data/local/learning_pilot/8f61fca666f5f508e411_moves.jsonl": "406f30dd1ac69f1353d18fbcc1fcea7b7d945ad640442b4574fb55a90772725a"
+      }
+    },
+    {
+      "game_id": "91d628cf1916f8baae54",
+      "inputs_key": "542771fc34f0a83bbaaf375a15340a29cd107e7948e039121e6c0e205c880dbd",
+      "seconds": 1.8125384589948226,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/91d628cf1916f8baae54_searches.jsonl": "38b201081fdd211b0f1b0fba0c33444e7825debe31162d9822d7be954064785b",
+        "data/local/learning_pilot/91d628cf1916f8baae54_moves.jsonl": "517c90bef6bc7d5be7fa73fe431de8a238dd6aa996dae24854e9426648d42db7"
+      }
+    },
+    {
+      "game_id": "9223ead05985062971cd",
+      "inputs_key": "aa16950101b72e5ce7efbec1dabded952778abd28f821d29cee697b6d5561fcf",
+      "seconds": 1.4592238340119366,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9223ead05985062971cd_searches.jsonl": "50960b9ca13e37d83aea0cfcd53d006080d4801c5d6490bea15165d49119b28a",
+        "data/local/learning_pilot/9223ead05985062971cd_moves.jsonl": "37e09fcbb2b21a5883b128c208d169ce5932e54f7a55abeadfd8265b649150a9"
+      }
+    },
+    {
+      "game_id": "926b4218eda6c71c1eab",
+      "inputs_key": "98490f14d0cf26aa0f71ec3d721e406e2ee00a0dbd7503fdfafdee11768eac8d",
+      "seconds": 2.4101687080110423,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/926b4218eda6c71c1eab_searches.jsonl": "a10e085babe8c6226c1233b11738140d6964f72b876544ae94ff8d0722cfd9dd",
+        "data/local/learning_pilot/926b4218eda6c71c1eab_moves.jsonl": "ae444e00b2f8878d94e64cc9de08aae7006dead1cc701f1956df2995ab1806bf"
+      }
+    },
+    {
+      "game_id": "92b2573f8153d2f518ac",
+      "inputs_key": "6a82d6e998cf9b9c06e04ff027687d107b921052812ada06234822638d4b48ca",
+      "seconds": 2.384616499999538,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/92b2573f8153d2f518ac_searches.jsonl": "85726030567a610d9d24a9efd709585d2ed51356b7a11e29540740ce0427bd57",
+        "data/local/learning_pilot/92b2573f8153d2f518ac_moves.jsonl": "adf113c2da7683e16bf438f6f858f0f0056526ac12d9cb13a9520a41b097d0fa"
+      }
+    },
+    {
+      "game_id": "9455aa2cb4401782649c",
+      "inputs_key": "494bcc195f183d70fd95fb778bcc1d07d471bd6f448a9cc650a07b6109a0911c",
+      "seconds": 1.3730252909881528,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9455aa2cb4401782649c_searches.jsonl": "19d5431723a8e7584cfa1f3ba6784585f3254b54349d69aa7f79b35ac0a9dcfa",
+        "data/local/learning_pilot/9455aa2cb4401782649c_moves.jsonl": "21ce9434ebf575c226a986b23e19a89b25f9a6ea842b3c1c6f3eccb04625849f"
+      }
+    },
+    {
+      "game_id": "954899a6b25905a58281",
+      "inputs_key": "92b66323fb39e366a837b30f55a4882009aa2513aee8d191ef8bf6e102c871b6",
+      "seconds": 1.8287809169851243,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/954899a6b25905a58281_searches.jsonl": "3f93f71cdcd9663bfd17e4c21e37a6068158a0e728e0fa1700c5204915fe1f26",
+        "data/local/learning_pilot/954899a6b25905a58281_moves.jsonl": "f9ef7842d2966ffc31c1cd2543e3c075240637223dc0e2e99d69176f170c36c6"
+      }
+    },
+    {
+      "game_id": "956fd8a6df85124bb104",
+      "inputs_key": "1c50f1bfc296db87ddbcef32486b91cdd1f94d49895dbd38c6c44f9f0dccc62a",
+      "seconds": 4.248190666985465,
+      "screened_moves": 86,
+      "outputs_sha256": {
+        "data/local/learning_pilot/956fd8a6df85124bb104_searches.jsonl": "dbff78e486d4a0727dbeb7600d0e744c30e1b20c4fa37e1b5b3a9a0af252e971",
+        "data/local/learning_pilot/956fd8a6df85124bb104_moves.jsonl": "019572ea1ff9302db402f82c3454f7e846797c6ef7f921eeb6a569bcd5dc6ace"
+      }
+    },
+    {
+      "game_id": "9728cd8afacdeb95f78e",
+      "inputs_key": "b230df65f85945b72d43b66fba2b07b57a398556de8379675533c9b147461acc",
+      "seconds": 2.5116373340133578,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9728cd8afacdeb95f78e_searches.jsonl": "73355d85a1250e2d73cb3d1d421bf7b5cb09ce9b3e401dceef973740071ccaeb",
+        "data/local/learning_pilot/9728cd8afacdeb95f78e_moves.jsonl": "bcb6c1dfc972c3997270c25951c6ea6646cfeaa8297fe5acbc1edc55f4d1f950"
+      }
+    },
+    {
+      "game_id": "997dc2800f1ef536b53a",
+      "inputs_key": "f38edf8c0a619c73590c601c8ce592c1e538a24c08518fc7b0e8aa3afbc7fa52",
+      "seconds": 1.8899984169984236,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/997dc2800f1ef536b53a_searches.jsonl": "4315b74e2f96b2b14177e940203fbb075397f7d21ebdffe64d5bf3eb0f9dfbfe",
+        "data/local/learning_pilot/997dc2800f1ef536b53a_moves.jsonl": "5080256d9e14c40cab15e72f6abcadfc6bd44f43126885b593654fd94636dd68"
+      }
+    },
+    {
+      "game_id": "9abb0437ad7c31efef35",
+      "inputs_key": "72e7ba8a102c4f09be152158e423830044edfc5bd861fb2d0db67bc4cd8d9ceb",
+      "seconds": 1.575796209013788,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9abb0437ad7c31efef35_searches.jsonl": "4278fcc6d1b3dd8cf8ca4bfd0be200f0476bce76ffeebf6ec7a1408f28529215",
+        "data/local/learning_pilot/9abb0437ad7c31efef35_moves.jsonl": "aba12859a5b74b065798dd6c76cd1473eb77d05f92282a718d95ef6c537fab03"
+      }
+    },
+    {
+      "game_id": "9b02827fa742d5615c9b",
+      "inputs_key": "eedd500bc06834ce2f42f5a63956574a97d7b4363bcbe65c6c5c5e9483706d3e",
+      "seconds": 2.1111001660174225,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9b02827fa742d5615c9b_searches.jsonl": "6fa5105139c1de6d0cad62ee842e6e9eaad9a2f8753adb6233e45368d0e37f19",
+        "data/local/learning_pilot/9b02827fa742d5615c9b_moves.jsonl": "febff85d562fa281357db4fe76575d52b2905b715ade4e6ba95f69733f03a789"
+      }
+    },
+    {
+      "game_id": "9b36520e60b8caa24025",
+      "inputs_key": "f5550deea91c3400f0433ed425278597da8eee41b6b35f652c973cacbaef73e1",
+      "seconds": 1.3763114169996697,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9b36520e60b8caa24025_searches.jsonl": "35f506e8eae8923cf339abf6130a8b9d78bf61f4abcc014e90b0fe0d9b963959",
+        "data/local/learning_pilot/9b36520e60b8caa24025_moves.jsonl": "2992bd561b71db6d53d3c0d3169fec927dd9abed83e015ec7c259d7ddcec555a"
+      }
+    },
+    {
+      "game_id": "9c982edf215ae4de0f3a",
+      "inputs_key": "d72e5efe12a8d8686f8cc4af48f140a938b4e87e3463fc0b0bb0b3d394d4c869",
+      "seconds": 1.8012185840052553,
+      "screened_moves": 26,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9c982edf215ae4de0f3a_searches.jsonl": "918d7a3747a20f457e3f3597b8f3a81e92d7d59dced95a341638d006bf37a07c",
+        "data/local/learning_pilot/9c982edf215ae4de0f3a_moves.jsonl": "d8b439bd250909008c73c2040bc1ca86f7725681e1f06dc2869e50e9e17e1129"
+      }
+    },
+    {
+      "game_id": "9ccb852e43dfa2f1b89e",
+      "inputs_key": "dcf83aed4cc95e6dd59d3d71ce3813891ac51dc1d4e9d7fbb4208ba36da24e7b",
+      "seconds": 1.8362027919793036,
+      "screened_moves": 38,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9ccb852e43dfa2f1b89e_searches.jsonl": "cdf647286f54f85fbe44cdb9ee4cbdedcb95c83723f8e53336c2983ccbf6ba10",
+        "data/local/learning_pilot/9ccb852e43dfa2f1b89e_moves.jsonl": "a767f4584a0ac01672413451dcbf54e6cd918eb5184bf07f888a32d083ac75a3"
+      }
+    },
+    {
+      "game_id": "9e7a638445c7eca2707a",
+      "inputs_key": "7e902bd6ae15f9be51befd2d187eb316d84b334117f2e4b3cc4049be875c5e8e",
+      "seconds": 2.6525149999943096,
+      "screened_moves": 51,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9e7a638445c7eca2707a_searches.jsonl": "1a6478234ec2ba9e5a548a7ce23fc4e8f85c4f63e9e7260b9519df8915e738c2",
+        "data/local/learning_pilot/9e7a638445c7eca2707a_moves.jsonl": "d0a2cb4b39293221f95ace5e757202c10d7c65c5e7ef00dc8456fa120bd6a2da"
+      }
+    },
+    {
+      "game_id": "9e93fd9d52ca55fc02a2",
+      "inputs_key": "25c2d9d4cdbeb229c42885fd7c9eb947c56d9cd98755a29353f8ab0239162512",
+      "seconds": 2.218791624996811,
+      "screened_moves": 42,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9e93fd9d52ca55fc02a2_searches.jsonl": "5dfe05e174742fd92fce500a95a89b8993c8e25ec54132f0675b065d5b7a0ff9",
+        "data/local/learning_pilot/9e93fd9d52ca55fc02a2_moves.jsonl": "2d09f1f10f3db567f217bc5068431401de58fd649483a7a3f2eefe41705114e6"
+      }
+    },
+    {
+      "game_id": "9eae65fd6b3ed10d50b9",
+      "inputs_key": "d2b280e0f1ad2c4fa29403917aa05337dc2a85f12d316fe2a754baf9dbe26f63",
+      "seconds": 1.4032097500166856,
+      "screened_moves": 19,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9eae65fd6b3ed10d50b9_searches.jsonl": "f8193bf0a4d796521fab66d82073c2cad42938fc0d36e5e1e58a71fbc12ff007",
+        "data/local/learning_pilot/9eae65fd6b3ed10d50b9_moves.jsonl": "8abbb0ba88dc10c4d69cd2101657238dd7f24ec2771ccedb327d48c66263a759"
+      }
+    },
+    {
+      "game_id": "9f125fd6f355cf412c94",
+      "inputs_key": "6aa13acefaa0cfb91b17ef8ab70ffe6c9413f6d8f68ad137cb5958f0cc3f2558",
+      "seconds": 2.4818899999954738,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/9f125fd6f355cf412c94_searches.jsonl": "68b7f5f7edb5edc23110f3e836371989c626aef3c0406cd884b2255f52ababf7",
+        "data/local/learning_pilot/9f125fd6f355cf412c94_moves.jsonl": "ac7dae5840f62d1b84c8d9c59496a90102edb40823c5349cbaf565bf94c9e9f6"
+      }
+    },
+    {
+      "game_id": "a094ae03de67ce0259d1",
+      "inputs_key": "10169540da99684cc8526f579eca87e5bfd2c794d465974387d752971bb21003",
+      "seconds": 2.782396875001723,
+      "screened_moves": 53,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a094ae03de67ce0259d1_searches.jsonl": "b87fc09e33d0e2e60abb3ab0a34781fcfd417cb763ba7670eb9bcd38b639ccaa",
+        "data/local/learning_pilot/a094ae03de67ce0259d1_moves.jsonl": "1776ad268efdbf00134b9e5848485d9eea87a02b30cd4a17ac9163d939f5dda4"
+      }
+    },
+    {
+      "game_id": "a238e3da8855d7850cd8",
+      "inputs_key": "657b407089183ca4bb8926fbd990641c23860a452777be08757a850b96fb5e30",
+      "seconds": 1.9722396669967566,
+      "screened_moves": 38,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a238e3da8855d7850cd8_searches.jsonl": "ee02d34be674d746660a1d64c01f08fc61c5e98e086c4f9f3e7aed1c5cb780ce",
+        "data/local/learning_pilot/a238e3da8855d7850cd8_moves.jsonl": "a2bcb707b9d5330d982fd0eaddd572b2c57a2fb4335f89479e9b27f69093e3aa"
+      }
+    },
+    {
+      "game_id": "a63ec8a5312493265563",
+      "inputs_key": "8b3b26fa435fa0e82448f7153c241233d2f9277e42528ac2c167887869399eac",
+      "seconds": 1.2041525410022587,
+      "screened_moves": 21,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a63ec8a5312493265563_searches.jsonl": "1953e9c0128013e678ba366cfe0c0d3fffedce5432340c912e6d4a47c36bc046",
+        "data/local/learning_pilot/a63ec8a5312493265563_moves.jsonl": "6e0b742c389ecf744e568e6cecd31aee34c55cf1b5f96fe78779f67902fc9592"
+      }
+    },
+    {
+      "game_id": "a642317e612e12b43888",
+      "inputs_key": "35c46ff765008eb29b32474b0185fdec79174be938d86f93e1b8eeef5c6d2948",
+      "seconds": 1.6296175830066204,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a642317e612e12b43888_searches.jsonl": "a241e6ffc8d7e5d2df4d9dda86d43f87ac5b94fa6bfa9437d0367402d4dad2a6",
+        "data/local/learning_pilot/a642317e612e12b43888_moves.jsonl": "f6eed2d437d53a7aa290807fa387828e39dde639053731f6d69de9bdf1938451"
+      }
+    },
+    {
+      "game_id": "a6bdd9f4672d414e708f",
+      "inputs_key": "b18fa1990a58cd14401420fe7017d86956f41cc85408d0788233ffcee52ed0c3",
+      "seconds": 1.043972000014037,
+      "screened_moves": 12,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a6bdd9f4672d414e708f_searches.jsonl": "f2da6b8cb8bbb36f0c95f48b71a013b2f2302c83a9483afbb05ff341cdb2ca9b",
+        "data/local/learning_pilot/a6bdd9f4672d414e708f_moves.jsonl": "1c838643b9993e48f2c82a686302b3a77344a16475cdf99778a697c05e0d0041"
+      }
+    },
+    {
+      "game_id": "a75a236c8cbc29e0a6c5",
+      "inputs_key": "3b422778de10fc12d0030230c98e330f321020f3758336a336a8ea53093a4016",
+      "seconds": 1.4916359159979038,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a75a236c8cbc29e0a6c5_searches.jsonl": "d09b4a5456df38de52e4aac0337fcfa1e2f7ec314dc09988e6dba67d398198fe",
+        "data/local/learning_pilot/a75a236c8cbc29e0a6c5_moves.jsonl": "a798f2231a912e0df951350773c4b755c33604c372210a4942d15dd7c3462310"
+      }
+    },
+    {
+      "game_id": "a780dfded26287675f5a",
+      "inputs_key": "9f31a0c0edc2a18e345ecd8e20149a2d99f7f19612ad2c2848d1dabf27afb46d",
+      "seconds": 2.5427381670160685,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a780dfded26287675f5a_searches.jsonl": "e7e735575ed7df3336daef15949638b44f8c87495a9e20f74e9e600cb0ebebc6",
+        "data/local/learning_pilot/a780dfded26287675f5a_moves.jsonl": "2fac93a1ac03e3cf05187f125ddaa8fe0a9b0038bdb80c76421794ccc428ca72"
+      }
+    },
+    {
+      "game_id": "a86861e6493f9d6bb3b7",
+      "inputs_key": "8c1c36915146693bd39023acfb39931f7e88b7fc1ce02bab80b35eccffae1d5c",
+      "seconds": 1.4927557919872925,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a86861e6493f9d6bb3b7_searches.jsonl": "be968e8dd821aa181bcdf97bfe8637b9ffaaf369bed219622c07648e8861a1f6",
+        "data/local/learning_pilot/a86861e6493f9d6bb3b7_moves.jsonl": "d6ecebfb9cea54cb8b1b7acd4b39f946fca4b5b71a7a934fc07333fe64bc576f"
+      }
+    },
+    {
+      "game_id": "a90797a02abbdd7e4127",
+      "inputs_key": "06c214e51c9b209ff3af42dd2e6e97ab3d64b00d753b8ad599f4746fe14a8563",
+      "seconds": 2.5776120420196094,
+      "screened_moves": 50,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a90797a02abbdd7e4127_searches.jsonl": "f3be14d2ee507749321f77aa5d9cb983458c582ad060b68ac80484490b7d02a8",
+        "data/local/learning_pilot/a90797a02abbdd7e4127_moves.jsonl": "40e7191223fd63e0ca6df97ff0cdf6fd95afe68b512cbbcaa98ad9e5fe18ec5f"
+      }
+    },
+    {
+      "game_id": "a9b2009437da5b9160a4",
+      "inputs_key": "9bf951fbef801d49077fee45f000604dc5923165d8872124d55cb86c08b6981f",
+      "seconds": 1.919302374997642,
+      "screened_moves": 35,
+      "outputs_sha256": {
+        "data/local/learning_pilot/a9b2009437da5b9160a4_searches.jsonl": "20f9f9adf7818fdeafe4b161dab1ff8966ad2add5e8341b397a242884d4a0002",
+        "data/local/learning_pilot/a9b2009437da5b9160a4_moves.jsonl": "84d804040a372d30c593c577a0095e86e0eb85684c5e985ceadd0b12323f7ea9"
+      }
+    },
+    {
+      "game_id": "aa034f247f6172b4caff",
+      "inputs_key": "668590633b9f681e51340a09f8c7c77f47b52566b3cdb91aa46f0cbd3b44d5eb",
+      "seconds": 0.8387983749853447,
+      "screened_moves": 5,
+      "outputs_sha256": {
+        "data/local/learning_pilot/aa034f247f6172b4caff_searches.jsonl": "58853aeafd7213a1800b4f26179750e060f3e8c9d49abfd54e7df76f3de91e97",
+        "data/local/learning_pilot/aa034f247f6172b4caff_moves.jsonl": "6ec0f85ad15a78edba504d216a9e21543614652acbc5c7b38a31f2e2bac4f692"
+      }
+    },
+    {
+      "game_id": "ab4ecb2621db797e5067",
+      "inputs_key": "7ac2eeef4a48c07126c7d902520d2c24bd9bc6a03408259209f6f96c71515dac",
+      "seconds": 2.2690044160117395,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ab4ecb2621db797e5067_searches.jsonl": "cd5de077b3dfd30d0c137b7226fdb86ce50e72cec2f926d5b37b8aaf7dd670fe",
+        "data/local/learning_pilot/ab4ecb2621db797e5067_moves.jsonl": "36b7bbab339276c14d5d4681e49d66b63cc60e136793a6c5684fb9705c0da796"
+      }
+    },
+    {
+      "game_id": "ac8cc4da9b2abfcf69d8",
+      "inputs_key": "590cd554036d382e78ee3937b5c5596892864f9e2dd95e7333f23a2557207af9",
+      "seconds": 1.3303101249912288,
+      "screened_moves": 21,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ac8cc4da9b2abfcf69d8_searches.jsonl": "b5dfa478362e750ce222fb9d0230f41b3570df169d195c7469a803f727f457a1",
+        "data/local/learning_pilot/ac8cc4da9b2abfcf69d8_moves.jsonl": "2e66b7d54ab1f7702b670dfadad0534c139c37f8129517170f949fc1fee000ff"
+      }
+    },
+    {
+      "game_id": "ad6e16e0d2ef0914e21b",
+      "inputs_key": "c207ff509f95473d80f1594a63cb2ada4c88d45674eb5b641f3d957711b3b05f",
+      "seconds": 1.3538051659998018,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ad6e16e0d2ef0914e21b_searches.jsonl": "2912e002a99f48e24d33b7fb693644a35a67202ca00ac8c866153e013cb99b12",
+        "data/local/learning_pilot/ad6e16e0d2ef0914e21b_moves.jsonl": "ddac40c690c25fc657a5f7e9e6bfbefdcbc5297debf46fe59564c48c44b047c6"
+      }
+    },
+    {
+      "game_id": "ad97fddd885494f72992",
+      "inputs_key": "a831d732cd37f21e34c2319b2433bc36b9fb4eadbfd744a62a3f7366ff4b2af3",
+      "seconds": 2.0310163749963976,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ad97fddd885494f72992_searches.jsonl": "0b128fbd905b702a01a88ab1925cba05795bcd1e1737ff289eca365ba47b3eb5",
+        "data/local/learning_pilot/ad97fddd885494f72992_moves.jsonl": "0b088f04442330d4b00960e1fcb5366fe538e969d1f19f7f53b12017f7c43bd1"
+      }
+    },
+    {
+      "game_id": "aed407cf0e498e2e55ba",
+      "inputs_key": "06e8c5253269b67653234619b788dc2a7672106b585b60ab30f80d65caa80cd6",
+      "seconds": 1.9343389589921571,
+      "screened_moves": 39,
+      "outputs_sha256": {
+        "data/local/learning_pilot/aed407cf0e498e2e55ba_searches.jsonl": "26bf97e6d649a3bb13b46686c64b98469852898144c4f431acbd4534b889b38b",
+        "data/local/learning_pilot/aed407cf0e498e2e55ba_moves.jsonl": "2a144fcd13f4ad72d2b5568fe70711c4be744b1fbb40eeb09f4a32b1dff03782"
+      }
+    },
+    {
+      "game_id": "b0fced16a878e01007fe",
+      "inputs_key": "d2dc57c28e60d942ce680ba197d13aa2cc6a8d6f4584a576ccfee582bead8d88",
+      "seconds": 1.619397458009189,
+      "screened_moves": 25,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b0fced16a878e01007fe_searches.jsonl": "fbf52b34bc0d1e6def2c593dd3384560d85970e84455f613c08bda847d03201f",
+        "data/local/learning_pilot/b0fced16a878e01007fe_moves.jsonl": "2ec2aa7324a21090019609aa65ad380b82e41d9fe574a9e153d9448b514a2d49"
+      }
+    },
+    {
+      "game_id": "b11c699c2ed555dc78dc",
+      "inputs_key": "f76c292fbf74c28615c57b543704ab38a559a69dbd34ba2c13f00ded61039e9f",
+      "seconds": 1.5139728329959325,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b11c699c2ed555dc78dc_searches.jsonl": "1ef5be5ba1355af5c7a841bc80535e0fb37327ade2c9e47cce5292426511d1c5",
+        "data/local/learning_pilot/b11c699c2ed555dc78dc_moves.jsonl": "1633045969ed2c3ece4e15e41aa9cd1c75a7d557482235e204f174c943a0a3bd"
+      }
+    },
+    {
+      "game_id": "b14ca5a3ba9f9fbba9ad",
+      "inputs_key": "1af865bb486cc9a183281866d7394afdf0bcc3c0ea7a433452487e480a405dab",
+      "seconds": 2.7510848749952856,
+      "screened_moves": 47,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b14ca5a3ba9f9fbba9ad_searches.jsonl": "2c331b9285702bbd45470d440cf54bdfdc1f9da78fab871b463e62c37f66b92c",
+        "data/local/learning_pilot/b14ca5a3ba9f9fbba9ad_moves.jsonl": "c18bde01f83338817af12c0795950ab6a81b026cbeff5cbc380b4f7fd594f3f6"
+      }
+    },
+    {
+      "game_id": "b2c15352003fa2a64da8",
+      "inputs_key": "aa2d27e1c3d2cda50c1498b5b32b2ab0dfbd7b24d94967a75d4b9067ba1e5af3",
+      "seconds": 1.786759999988135,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b2c15352003fa2a64da8_searches.jsonl": "969380afc34502b5d3e32a462a9e5fc7320365351b58254e0d894bbd3be5931a",
+        "data/local/learning_pilot/b2c15352003fa2a64da8_moves.jsonl": "78501644d962c02705579ee6e8b905164abef636d6ff2f1e7be7008c58049098"
+      }
+    },
+    {
+      "game_id": "b45544310f693a9ae95d",
+      "inputs_key": "066c43dd33103ef0a9accb5774904509636e3fe31d7de604a151c352971b40a0",
+      "seconds": 1.6291392089915462,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b45544310f693a9ae95d_searches.jsonl": "e8c2d1b677b9c67da88fc07091a562e7e99c2d732bb840d0937cdc8d44fa9d2f",
+        "data/local/learning_pilot/b45544310f693a9ae95d_moves.jsonl": "fb180c5f0116f28c7cb4664084fa8b21dfe1727186738ad686c034994e5ab207"
+      }
+    },
+    {
+      "game_id": "b7ecc81e24571d740e55",
+      "inputs_key": "0ec6905b6101c220d3ac92d518de9ee158439b5ce978d6133d8752a0ea152445",
+      "seconds": 2.5625612500007264,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b7ecc81e24571d740e55_searches.jsonl": "a41157ce426dbfe52b7f0defdaf23a56f757379d6208356742265a9be9547447",
+        "data/local/learning_pilot/b7ecc81e24571d740e55_moves.jsonl": "05bc7222083c78414268302b4cba96c47203ddbfabe7e63fff44a929f16ceab7"
+      }
+    },
+    {
+      "game_id": "b8b660db04f107abd548",
+      "inputs_key": "a7e6a5688312fa5faba7fd5b3c489ec51e9b2ddb55d9b954fde1aac607b19129",
+      "seconds": 2.172059750009794,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b8b660db04f107abd548_searches.jsonl": "0c4944e88a814d2dad08b58d4fd1f1ca98acf06f6a2d006f037fb4527aa28ff3",
+        "data/local/learning_pilot/b8b660db04f107abd548_moves.jsonl": "9be09228872c9b9d79b4c42c76b25ab138d79eb1a285121197695544e1464b2f"
+      }
+    },
+    {
+      "game_id": "b94b1ef7ac76ae55b71e",
+      "inputs_key": "98df1f2206858d0e2f07ee8f10c458e97d97b0b79b56e716f93f3a6792ee5f61",
+      "seconds": 1.9861798330093734,
+      "screened_moves": 28,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b94b1ef7ac76ae55b71e_searches.jsonl": "285faff85c07f2518b4829ace893e8465c3baa906da2b24e8d0c5b4942172636",
+        "data/local/learning_pilot/b94b1ef7ac76ae55b71e_moves.jsonl": "07a592b6686035e3a4f61bdb8574fdbcd86741b19e117d45d0836b7ed34696b8"
+      }
+    },
+    {
+      "game_id": "b9b9f021714ed5cb5ecd",
+      "inputs_key": "b452c25d34adfd35af8e7ec08c98add93c69aee3e6e9ed5ce6a0c7a889cd4e06",
+      "seconds": 1.4301470420032274,
+      "screened_moves": 23,
+      "outputs_sha256": {
+        "data/local/learning_pilot/b9b9f021714ed5cb5ecd_searches.jsonl": "c211b0441c5d02b6dd94bc634f3ffba267644cb21a5b4b9359f4d05c6d93d03f",
+        "data/local/learning_pilot/b9b9f021714ed5cb5ecd_moves.jsonl": "fd6505d6fbd2a8b314b7081f62210383f7bb58749f062545302195b0efd0c616"
+      }
+    },
+    {
+      "game_id": "bc00ae40480c3e9a05fa",
+      "inputs_key": "954694c177d5878a982ff4f4a674c3c4b2e0c0e65da9933f7e6f0f508c7c1a0e",
+      "seconds": 1.5862428330001421,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/bc00ae40480c3e9a05fa_searches.jsonl": "a3861e8d9bf3dfa71e7b8f0fc89ee14194617a1c2376f5dbc9ae925841398655",
+        "data/local/learning_pilot/bc00ae40480c3e9a05fa_moves.jsonl": "cbc11f2431fb2a85f4b7c2231d9faa4ae0c474c5ab85e3a41c5244dcd69e7b96"
+      }
+    },
+    {
+      "game_id": "bec80425f9d36e6619a4",
+      "inputs_key": "ed63a927e03ee133aaf9578907b82504b70e860a69ad37ad4ade773e38a0e2f7",
+      "seconds": 1.9946987919975072,
+      "screened_moves": 41,
+      "outputs_sha256": {
+        "data/local/learning_pilot/bec80425f9d36e6619a4_searches.jsonl": "b09da52600315e6c36065379060db6b07ccec7f24f1185533cde92b4ff77eb3a",
+        "data/local/learning_pilot/bec80425f9d36e6619a4_moves.jsonl": "f53a8fae6d31f85e593d2db19fd15065aaf64cf9457efb17f9f5d7c43444298c"
+      }
+    },
+    {
+      "game_id": "bf929b75bc6b2c748ad4",
+      "inputs_key": "2efb3208de0c6283ede40216398c02a3fafe5807216e299879c70e370d5fb2a6",
+      "seconds": 2.693541874992661,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/bf929b75bc6b2c748ad4_searches.jsonl": "1369e0d476b066ce5acf4c46f1b5e7010f7fe4dd3f94106751209d1ee1507f5b",
+        "data/local/learning_pilot/bf929b75bc6b2c748ad4_moves.jsonl": "1c49bce410df9aafdf5e0319ae72f52841e4d09272027b6f3137bcc574b485d9"
+      }
+    },
+    {
+      "game_id": "c26e671a80bf48eb275d",
+      "inputs_key": "cfa8807e0403c1615a7c79e486f4d2c0573e6c7595e988aad71e151c796f42bd",
+      "seconds": 2.1281331249920186,
+      "screened_moves": 40,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c26e671a80bf48eb275d_searches.jsonl": "f762f6a6fc29a6dc016a1709b05c45c5e26e37a6cfbb17f3866a878c843ea906",
+        "data/local/learning_pilot/c26e671a80bf48eb275d_moves.jsonl": "94a500c0dc52b6a96ea01686fb4a59a14f7b79d20d1d617861f506a7fab57ea9"
+      }
+    },
+    {
+      "game_id": "c338d3f688d270e3ef84",
+      "inputs_key": "b85f54654db306c068fe56810ead58bf829a2c1e8559c4c16f53f97cf21b2634",
+      "seconds": 1.2544132499897387,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c338d3f688d270e3ef84_searches.jsonl": "ee5d3a6107fa31312389f050e243822e3b56761069f160d6d1bbbea299815274",
+        "data/local/learning_pilot/c338d3f688d270e3ef84_moves.jsonl": "9e79d603d48535deca8c58fc774cc10aff1fa51ca7dc77fc9e387833b03b178a"
+      }
+    },
+    {
+      "game_id": "c49d02f105432a10aaa8",
+      "inputs_key": "18a2670bf2e1f75cf981287b7aa288f7a56702b9cf2b88f0a6ffb1f34a1f6fda",
+      "seconds": 1.49622420797823,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c49d02f105432a10aaa8_searches.jsonl": "f2dc01da28aac1df165888b934433b0c57e058414bfb257244cfcb901408e595",
+        "data/local/learning_pilot/c49d02f105432a10aaa8_moves.jsonl": "f690944b50db8c96738ed8db93bb721a8cc5550a406cba505a6c5eee94fe21f1"
+      }
+    },
+    {
+      "game_id": "c536aed26bf674fad1b9",
+      "inputs_key": "3570f2ba87d6f512629c627cbf137dda304fa1e5acdb7237052a3fd4aa96c431",
+      "seconds": 1.949786374985706,
+      "screened_moves": 37,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c536aed26bf674fad1b9_searches.jsonl": "93f90a0e4e3b5335458b3bac8b0bed11d09d96bfde8e35c8554c3b2a2f4ab6d9",
+        "data/local/learning_pilot/c536aed26bf674fad1b9_moves.jsonl": "61157b38b2bc9488b3c32001e3c41fddaff2228181df13ab179fdf78d5a745e9"
+      }
+    },
+    {
+      "game_id": "c5d8b04c63a47ce8afd4",
+      "inputs_key": "1f1c3c6d16136af7bb7a411f37495c2ee94ea40d5c264118e40b21a8b3374033",
+      "seconds": 1.3023997909913305,
+      "screened_moves": 18,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c5d8b04c63a47ce8afd4_searches.jsonl": "0513bce58c5784ee917189c656d02ee965e53eb0270f010680b4c3247f3c76de",
+        "data/local/learning_pilot/c5d8b04c63a47ce8afd4_moves.jsonl": "fa29190fa5dcc59747613732a84a5340abc3e07f736f81283b13000a17ceb761"
+      }
+    },
+    {
+      "game_id": "c60c9421cac91abe0b13",
+      "inputs_key": "80fe9d4d52b202832fbe42df2f60e3a0fe48cb82cf4aebd0c8718f06238bb81c",
+      "seconds": 1.4023887919902336,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c60c9421cac91abe0b13_searches.jsonl": "7c651efe02159225d30046228a915d7a8604200b01ba3c63f0dc50951596b8b9",
+        "data/local/learning_pilot/c60c9421cac91abe0b13_moves.jsonl": "d3f5d0985479cb7302bd27caad0f0f1167d772351a409d177f25f10eda18fe75"
+      }
+    },
+    {
+      "game_id": "c9caecdc6771ebc7f28c",
+      "inputs_key": "9ccaa41277d013a63178408dde0d604d4040b76ec38f47507889275787cf0bf4",
+      "seconds": 2.4962065420113504,
+      "screened_moves": 43,
+      "outputs_sha256": {
+        "data/local/learning_pilot/c9caecdc6771ebc7f28c_searches.jsonl": "7e829a2b31c1f5f4317c1f5a4e3f3efffb38242076b2c18a2195807d66ed869a",
+        "data/local/learning_pilot/c9caecdc6771ebc7f28c_moves.jsonl": "943bc8589e6b60d83b847aeb67dae279ee7c9b9d20023d63e3d3d5b1ffa710dc"
+      }
+    },
+    {
+      "game_id": "ca06542fd2c21bb2dc69",
+      "inputs_key": "75f0985412b69d7165d507b4f123a32e2487172559836f48f13f9826cdea8189",
+      "seconds": 1.8517966250074096,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ca06542fd2c21bb2dc69_searches.jsonl": "b9e51c476b0e311fd05c946e808cb1e11f4ad3e12f5a6c3e1893bc4cd052a3af",
+        "data/local/learning_pilot/ca06542fd2c21bb2dc69_moves.jsonl": "7644156a878b2d1e6365b382975b870d9011c2694ecad2deaa8305be4f007ca8"
+      }
+    },
+    {
+      "game_id": "cb46e06248d802abe495",
+      "inputs_key": "95fa3c2d2fd0bf902c0f42fb61924034d9c8fb38038b10e25516e0024d8b8cbb",
+      "seconds": 2.180786791985156,
+      "screened_moves": 38,
+      "outputs_sha256": {
+        "data/local/learning_pilot/cb46e06248d802abe495_searches.jsonl": "fa4cf1d0c5dd407dc6ec6b788901c41dfdc1498cb4e9c3147d24c37c7e71cf6b",
+        "data/local/learning_pilot/cb46e06248d802abe495_moves.jsonl": "1aa39a48c72fef413a4a81143d3035b28429fa2000238a0726feee69adfa1dba"
+      }
+    },
+    {
+      "game_id": "cd8b0fa22dcc70db10b6",
+      "inputs_key": "0a97f2701ea3badacc2962f76197df624857c5f5af399acc690d187b6b859282",
+      "seconds": 1.8625121250224765,
+      "screened_moves": 32,
+      "outputs_sha256": {
+        "data/local/learning_pilot/cd8b0fa22dcc70db10b6_searches.jsonl": "f4ebab422830b3cfde3acd874e4ca059b7c11fe521f115a590beee5af4bb79d7",
+        "data/local/learning_pilot/cd8b0fa22dcc70db10b6_moves.jsonl": "675cfa41d88b9edc25bc5c83b64346629cad8c07170d5a5917de5ee5a633becc"
+      }
+    },
+    {
+      "game_id": "cf31aac441d508bdd42f",
+      "inputs_key": "9a9ca7e3d5be24dbad9e1b57ad74af3de4e9c151bac2a28e1002fa3d1a72a487",
+      "seconds": 1.6047169580124319,
+      "screened_moves": 25,
+      "outputs_sha256": {
+        "data/local/learning_pilot/cf31aac441d508bdd42f_searches.jsonl": "e18ac5ebd20ecdd55baab420372499cfe2e1b6691fb4700adafbcc3d56d204c9",
+        "data/local/learning_pilot/cf31aac441d508bdd42f_moves.jsonl": "558885e707c14137b8f6418991bfa1c145b3b4d39c3d41303f20b876dafa182a"
+      }
+    },
+    {
+      "game_id": "cfba381727383c989d48",
+      "inputs_key": "404ceee8e66d0e2e29bd06f51bfda4c8b161cdfa4e38f99c64caf0e0ba81bed0",
+      "seconds": 1.9676945420214906,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/cfba381727383c989d48_searches.jsonl": "67f116b069c548588af52976ac4916d72e85757fffbd21395419a99e1ec7e1ca",
+        "data/local/learning_pilot/cfba381727383c989d48_moves.jsonl": "d4658d9ac821292bd32791ecd1963e090d0498481617798e97e1a0e49a3d396d"
+      }
+    },
+    {
+      "game_id": "d0171333b6c8f408e150",
+      "inputs_key": "87d9f3ff0b803c0d5ead6f3a3cd267e799c3ea64c532d31d9d91aa4b1968144c",
+      "seconds": 2.270426041999599,
+      "screened_moves": 34,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d0171333b6c8f408e150_searches.jsonl": "e43ba73aed35c6b90cdfc9f8801f6ab1dec8e84b8e1308f7a3fac596410ab026",
+        "data/local/learning_pilot/d0171333b6c8f408e150_moves.jsonl": "a966bc86530ea6f788d14e514a10b0842ee27cc647857f27ffcbcb7c29a268bb"
+      }
+    },
+    {
+      "game_id": "d13f7882c4b0da855ec2",
+      "inputs_key": "c2b1f6a0d7780f12f6474bd15e5e659ce94b50e286cd44f5a8b80b91a9b317b8",
+      "seconds": 2.039425499999197,
+      "screened_moves": 38,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d13f7882c4b0da855ec2_searches.jsonl": "e5780d5d661ef62851bf3cee90dcf493893969b24149f25601415b479d409d88",
+        "data/local/learning_pilot/d13f7882c4b0da855ec2_moves.jsonl": "484b3ccda8390ac4f127eb2fc14b80be73f69d99430053425b86c7d03bfd2dc6"
+      }
+    },
+    {
+      "game_id": "d186e6c942695fbdc1de",
+      "inputs_key": "173ac6b7f1abf25fc28bdac3616ff425872c782a9dc5afacf55eb8e603a8a8c1",
+      "seconds": 1.8246125000005122,
+      "screened_moves": 29,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d186e6c942695fbdc1de_searches.jsonl": "de675f36146eb301e43e102ee4d6c4255a3971121a16bb41669758f744a67627",
+        "data/local/learning_pilot/d186e6c942695fbdc1de_moves.jsonl": "8d95e3641d23aac8acde3608378064322d30dc5dfdeaffb89dfd66e06f253daf"
+      }
+    },
+    {
+      "game_id": "d192e6c9051df88ea571",
+      "inputs_key": "b92ad74fded305449a5164dabefb50ef11c301834dba31684aeeb6c413c56e11",
+      "seconds": 2.278347625018796,
+      "screened_moves": 45,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d192e6c9051df88ea571_searches.jsonl": "51e028ca003b8d3d828a6fde0da3c6a7f2c1e683ffe40afc387aa4d41ef9f2e1",
+        "data/local/learning_pilot/d192e6c9051df88ea571_moves.jsonl": "8d85988d136a99b0e7019cf92c34b31dfeefc0a1db7920c1e704a670c9368a6f"
+      }
+    },
+    {
+      "game_id": "d2368423e5202c8a0d26",
+      "inputs_key": "ffcc11c63576f2879c6dedebb8af47ac0de430d48a31da08bf68f86528809fea",
+      "seconds": 1.6249888339953031,
+      "screened_moves": 27,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d2368423e5202c8a0d26_searches.jsonl": "4d8744b35bed36ec2bb2ab91168fdd39088eaf29ee8cd537ba79be6d87357753",
+        "data/local/learning_pilot/d2368423e5202c8a0d26_moves.jsonl": "536453566cafa708088e3214650db6252bc51283d31eae1e72ce57d068ef9a8e"
+      }
+    },
+    {
+      "game_id": "d24b34cada9c363bcb68",
+      "inputs_key": "5b88ac1cc9577beaa1b74d217d0800b7c99d3b03144a0f78f70b3ad1b92109bd",
+      "seconds": 2.6080341250053607,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d24b34cada9c363bcb68_searches.jsonl": "68bbad89714dca09070baa3fb560c0d83216b931280f1476758807507ed880f2",
+        "data/local/learning_pilot/d24b34cada9c363bcb68_moves.jsonl": "14f0c5ad31d2ec00d1d551e3353bff15f0139c4c0b3419fd9fdd211d00719028"
+      }
+    },
+    {
+      "game_id": "d29c2c72e09511ccac05",
+      "inputs_key": "060b2be0346893be7a46fb379fe8f84d31e65dfbfb35f2f5bee4d22eb10193bd",
+      "seconds": 2.0126040420145728,
+      "screened_moves": 35,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d29c2c72e09511ccac05_searches.jsonl": "6cf53ae5f24fcce77d6c429a1e67b205be9740fea1013120d80fae473b225084",
+        "data/local/learning_pilot/d29c2c72e09511ccac05_moves.jsonl": "b838c110d94844ea31e57641242a89ed8e5740c1946b28f1b4d58ab9ec689d1d"
+      }
+    },
+    {
+      "game_id": "d2be353bfb236e529ac6",
+      "inputs_key": "1834ef7a29d6278de0d065e7a1daa7265d8c1ede873567ef6268321d1df81066",
+      "seconds": 2.4537653750157915,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d2be353bfb236e529ac6_searches.jsonl": "a0accf2d30d140ca76b7136c6b27228ad1f9d86a748095ace7c13a86f3bea873",
+        "data/local/learning_pilot/d2be353bfb236e529ac6_moves.jsonl": "0f7e13cf33c06127d9cb868959245c33fa0c8732431a9b488b12de0251151b04"
+      }
+    },
+    {
+      "game_id": "d34d184754fda851646f",
+      "inputs_key": "036db8725d29d15c7652ad09c020ae9872ab0b7d1e6abe0f5866217fbeabdf95",
+      "seconds": 2.9949629999755416,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d34d184754fda851646f_searches.jsonl": "8d7925b2aa0e06515dc0836938bbbcd8b14a3c69b5a2e027dcbce28c3f3ff7bd",
+        "data/local/learning_pilot/d34d184754fda851646f_moves.jsonl": "0503d355b6dcc909d15ab5c470e654a9bc77d545738f81018eed1c51e618f23b"
+      }
+    },
+    {
+      "game_id": "d6a2085f02fa0d3b5a10",
+      "inputs_key": "56a97e15837c2b1139c39089b3c063f774bc02ff2ea49f2fcddbbdfa31a63091",
+      "seconds": 3.02169395799865,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d6a2085f02fa0d3b5a10_searches.jsonl": "5d2302dc5e33be429b7a625259e6aa0d54c02077348fdafe3e0680566b9899c6",
+        "data/local/learning_pilot/d6a2085f02fa0d3b5a10_moves.jsonl": "9b31833eb4192d168bbf0058b210208f949c669784d6dd7b025770b6696e2801"
+      }
+    },
+    {
+      "game_id": "d7c0d1741184320f00b5",
+      "inputs_key": "87a396cd3c52acbaaf5cb3549c0dfcf0c2da08d851872451cdd60355df63de1a",
+      "seconds": 2.5617988749872893,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d7c0d1741184320f00b5_searches.jsonl": "d69ff0a5fae6b91b002cf69819ce87aad8c122099b5d52209fcb6f7ab042bc67",
+        "data/local/learning_pilot/d7c0d1741184320f00b5_moves.jsonl": "5ec97f586445a4105e2869019978d9a9c4df7db055fb0681d52c5fc993a4e0c3"
+      }
+    },
+    {
+      "game_id": "d7dacdfd555c628a2178",
+      "inputs_key": "a896c8cc6c711411e9682aa57e5286d1cec33cd920890fe6d5bf814a2de16dee",
+      "seconds": 1.214729208004428,
+      "screened_moves": 25,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d7dacdfd555c628a2178_searches.jsonl": "0c5eded77f697795858f7287d27daa65eadf7c246c7f38dd802c113f51cf4d58",
+        "data/local/learning_pilot/d7dacdfd555c628a2178_moves.jsonl": "c361b81e521087cf87cb7819295a89312287cb5c2b7d56bf97a03dbf6fbab6ad"
+      }
+    },
+    {
+      "game_id": "d85f84f342e4071a3ec7",
+      "inputs_key": "4448e60d7b7fc970e6260a4b653093a20bd7441c6f31afdae88521e954d0c5fe",
+      "seconds": 1.982411792007042,
+      "screened_moves": 36,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d85f84f342e4071a3ec7_searches.jsonl": "44f16cdf37c3c79ed3c30f50a5946b6934327797125414d38ac9c1a912b0a98e",
+        "data/local/learning_pilot/d85f84f342e4071a3ec7_moves.jsonl": "a4287a2560d95af5c9324a8440dbda5d0d0731e5de884944e4df8f62bd258a69"
+      }
+    },
+    {
+      "game_id": "d89d9a83ced7ff90991f",
+      "inputs_key": "c8495d47009d3abe1794fd461de7a7b3c1e18a0c7fe11b4e3c7dfb88fe7b3955",
+      "seconds": 0.6820922500046436,
+      "screened_moves": 7,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d89d9a83ced7ff90991f_searches.jsonl": "42347ca47c9c0309fec25c7d5e225328942e6534b1a4858ef2930212c1bf3314",
+        "data/local/learning_pilot/d89d9a83ced7ff90991f_moves.jsonl": "940d0218ad255d81c3b6beadd37950bc386a46db7c7c506a37a2cd45059f43b7"
+      }
+    },
+    {
+      "game_id": "d94523e099cf6b83157c",
+      "inputs_key": "9dfa6e1b9bac039500ed9d8437a0803452acef1c9cbd047eed22a12121262e3e",
+      "seconds": 2.6223202499968465,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d94523e099cf6b83157c_searches.jsonl": "1bd6f7aeeeed614dd3f8c76b800a584d547e60d59a190bd6e386032ef674f8da",
+        "data/local/learning_pilot/d94523e099cf6b83157c_moves.jsonl": "70fb586e6a273b51f29474bb1dcef0cc8bcd6995f6840534c04717b4d3f2e38a"
+      }
+    },
+    {
+      "game_id": "d996695a4152d517ce17",
+      "inputs_key": "5c0acdc5496b05d22514c11c15a0070709f1d80a487047ad5a5a3765dc68e60a",
+      "seconds": 1.6559497909911443,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/d996695a4152d517ce17_searches.jsonl": "270d7d9c234921ebeadf8518f0b349816be1f16c7e40bf6cc44e974a26f82b87",
+        "data/local/learning_pilot/d996695a4152d517ce17_moves.jsonl": "91676de4861e5405925cd7af735401f950e814ba3cb84f695d0937bd80972af8"
+      }
+    },
+    {
+      "game_id": "da49ce1c70451852dc8e",
+      "inputs_key": "a03d442aa96fba6db6fbfcd844eeeeccee744b9c4c1bcc0273346c96723896ae",
+      "seconds": 1.5218604579858948,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/da49ce1c70451852dc8e_searches.jsonl": "688a40ea1127dde0e0fbad17c9cff8c3322ece95269f2290caa5fe1cdbf24a49",
+        "data/local/learning_pilot/da49ce1c70451852dc8e_moves.jsonl": "17c09bf4ea5ff5920c90157540a2fe3a9048efd94d25ae0aa1552a55823ad6c3"
+      }
+    },
+    {
+      "game_id": "da5fa41364876319cbf6",
+      "inputs_key": "d2edd266268333267fdd74c3348a3dfc7615bb6c29edf7d9f405edb2a42511eb",
+      "seconds": 1.3544643750065006,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/da5fa41364876319cbf6_searches.jsonl": "4f018cf76263d5442e53e24594470eb8aca004e34d454453ab753f1473e9c10c",
+        "data/local/learning_pilot/da5fa41364876319cbf6_moves.jsonl": "a17d94697b7c668f6a39de41286e7775595cfd1f5128b158b344044f42b65c62"
+      }
+    },
+    {
+      "game_id": "db8f73a7734229fa0173",
+      "inputs_key": "c1312caa572adeddd9845e67bcd6e59046fe05367741909614b057bb247d33a5",
+      "seconds": 1.1843881249951664,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/db8f73a7734229fa0173_searches.jsonl": "6ebaf512fa3ac1c9ad627946ca2a166f947c86634f58771f0d3d74a935134b3e",
+        "data/local/learning_pilot/db8f73a7734229fa0173_moves.jsonl": "971d44e130b98680e5267d8b65282b29eb5934a720c96dd79cd5ba5f2dbabbe6"
+      }
+    },
+    {
+      "game_id": "dbe8af0983a6dc87e57f",
+      "inputs_key": "572ddfac6e25c7714a4284cd0130faff13cab7b5816a42b05b6f749b9cd89346",
+      "seconds": 1.0658969589858316,
+      "screened_moves": 14,
+      "outputs_sha256": {
+        "data/local/learning_pilot/dbe8af0983a6dc87e57f_searches.jsonl": "6d352306002aca5ff95ce6c9eb793d6a5203f5835501551cab90eea31f52042a",
+        "data/local/learning_pilot/dbe8af0983a6dc87e57f_moves.jsonl": "9b89e3282ff1ec0d40442620d8fe7e4dd7423888c64fa4c94746fd43b7058b6f"
+      }
+    },
+    {
+      "game_id": "de685f3b00213f03db91",
+      "inputs_key": "4d6a8e1735e199532f3db64374ce614b2dc2c86633134964ed2b450f0c3e4fcc",
+      "seconds": 1.405357042007381,
+      "screened_moves": 21,
+      "outputs_sha256": {
+        "data/local/learning_pilot/de685f3b00213f03db91_searches.jsonl": "1f624164194619ec3b30f4757e5850a1ba8b9b210a3122b561114d9c9ef91fbf",
+        "data/local/learning_pilot/de685f3b00213f03db91_moves.jsonl": "30fe14e00536249aea8f7bbc62ff2adfdfb51c70786daba2c789a6e532f3d4fe"
+      }
+    },
+    {
+      "game_id": "df94bd8373aac1b56e41",
+      "inputs_key": "a4227c988c65876512b515f68a5c387784e321a401a4e4a546981db1d46f835f",
+      "seconds": 2.301611667004181,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/df94bd8373aac1b56e41_searches.jsonl": "5a75c1aa9e1a3e4f814bd0efed3d013b13f11535a091264278018381496b3bec",
+        "data/local/learning_pilot/df94bd8373aac1b56e41_moves.jsonl": "20954d6ea1e00efb401b6780b73e2175e09ac71c5475f9102cadc64b54ab957b"
+      }
+    },
+    {
+      "game_id": "e00f4b49019413207659",
+      "inputs_key": "1f6337bb35ced7543bd75f3e26bd11f3704538d9a3ffb56f562dc7e9202ca156",
+      "seconds": 2.197876999998698,
+      "screened_moves": 39,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e00f4b49019413207659_searches.jsonl": "8033d49bed6fd871407d6296429b81184bf2161b300410b121c35e126df4ceb7",
+        "data/local/learning_pilot/e00f4b49019413207659_moves.jsonl": "9d0925f6b2552a83421df078624570aa38fcdcf970e1a64161378d452f2d5824"
+      }
+    },
+    {
+      "game_id": "e02eb481805f4eacf058",
+      "inputs_key": "37bd5184a9ac92a666547165e0c7548a159ece27592acb45330857ec7d666419",
+      "seconds": 1.959954749996541,
+      "screened_moves": 36,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e02eb481805f4eacf058_searches.jsonl": "f3da12b51d39bb27af58d77d8b88ab5db9034949ce554b821351857c61ba2abb",
+        "data/local/learning_pilot/e02eb481805f4eacf058_moves.jsonl": "ae179460f7eab01c7abb50ef0a43fac4d21d17a1d3606117303b7096ce664634"
+      }
+    },
+    {
+      "game_id": "e07d5bc81e061182b4db",
+      "inputs_key": "a60f88fccbf73deaae30f7edabe5fd7b5747be4b37b9772c88ddcec7abab9c65",
+      "seconds": 2.4582416669873055,
+      "screened_moves": 47,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e07d5bc81e061182b4db_searches.jsonl": "82455f8e169dc9bd96db483f87340deb8516fd7348c76ad832edec89820fc15d",
+        "data/local/learning_pilot/e07d5bc81e061182b4db_moves.jsonl": "8a5aae4566fdc3d692525bbf8bebff367aef4f7c1ae37509fc02b7584ca9efe6"
+      }
+    },
+    {
+      "game_id": "e09e29abb6e4f389d0ed",
+      "inputs_key": "830f91d5799f60506ecc7f51158b564f7be68aa688c3b0985f63542d5616b2df",
+      "seconds": 2.8049096670001745,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e09e29abb6e4f389d0ed_searches.jsonl": "5b2bdff62184ffcc05af6d047f43741218250a3553ad8cc806cfe08d714e656b",
+        "data/local/learning_pilot/e09e29abb6e4f389d0ed_moves.jsonl": "6c21cc68cc76a0465c008707377909b2f288c0a0afc159bf76dd39103f12db54"
+      }
+    },
+    {
+      "game_id": "e0cf5be9510f4ee5d0f9",
+      "inputs_key": "b40255997c52a391c2c155e4f8506c473df920140518bd5d6ebfbe68bf7a5437",
+      "seconds": 1.3556029589963146,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e0cf5be9510f4ee5d0f9_searches.jsonl": "89d0f6021fb4db91408fbbf9b59fe5cd211459a15c36715cfcb6a16a8977b67c",
+        "data/local/learning_pilot/e0cf5be9510f4ee5d0f9_moves.jsonl": "805b4e9d110e6e6cede594da01e1bda02eeaad7502c35d16f155028bf6197fcb"
+      }
+    },
+    {
+      "game_id": "e0faacf4e69bf735b310",
+      "inputs_key": "21c6dc9bfe9dfa5b42539aa891b537835e6c8ee934c24c64f3e3672f55ee3d53",
+      "seconds": 4.485216417000629,
+      "screened_moves": 104,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e0faacf4e69bf735b310_searches.jsonl": "5a24d47e4a6bffc4880f520f8ecb10a2066699dd6d1890fe5b14b96d8a3307ce",
+        "data/local/learning_pilot/e0faacf4e69bf735b310_moves.jsonl": "fa262c3f296ada42d83844c03e15baaa5eb4dad4fd9d10101d4b0364058b84b4"
+      }
+    },
+    {
+      "game_id": "e17b3d806c09e2d63c7c",
+      "inputs_key": "7bf61489979517a2d1c431fcabeeb188bcdcfca321da46c5e420b2bd05d79bec",
+      "seconds": 2.579537707992131,
+      "screened_moves": 44,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e17b3d806c09e2d63c7c_searches.jsonl": "a32727343fc9fa7e82db8b4aebbb678a49cfb759d4755eaf9855fa0a22982fca",
+        "data/local/learning_pilot/e17b3d806c09e2d63c7c_moves.jsonl": "1de63789efa4093358412f31da082e4355a0a36197c9349539ae00c9da857ccb"
+      }
+    },
+    {
+      "game_id": "e232c748688aa134d3e9",
+      "inputs_key": "f6e218144685b8ef61e12382f7588a20947b50608d3d7ab232f0a9cd7bf09e3c",
+      "seconds": 3.6677590829785913,
+      "screened_moves": 67,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e232c748688aa134d3e9_searches.jsonl": "bce8daf244ef63e2a82c40fecfecac062468c57956a25080b3a523c01140d697",
+        "data/local/learning_pilot/e232c748688aa134d3e9_moves.jsonl": "b5aeaa5fe5fd372a20983216728f8eb274ea13b8f4db287116d46b3fe09c403b"
+      }
+    },
+    {
+      "game_id": "e4c25a0a6c0dc9568986",
+      "inputs_key": "568407e3bad11a9f7cf4803ab24ac1d754f49f72319f809ebea1248a054d03ff",
+      "seconds": 5.239511041989317,
+      "screened_moves": 104,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e4c25a0a6c0dc9568986_searches.jsonl": "0a9c869e8fc169096373e4dd9ab8e3b0ed583f71903f6d37ca4cda5033e78267",
+        "data/local/learning_pilot/e4c25a0a6c0dc9568986_moves.jsonl": "cf7fd29f9fcb47b2c81e43c6d3e1116fc945cd31eae44463d1d27fba54b7416c"
+      }
+    },
+    {
+      "game_id": "e4ed3c8167ea51f54c11",
+      "inputs_key": "ba44be5b0ae41bf3bbb065c44c8c6329e636b8770629a4dc1f28c44dbdcb3bce",
+      "seconds": 3.2401751660217997,
+      "screened_moves": 71,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e4ed3c8167ea51f54c11_searches.jsonl": "da925ac0e988baf937f87db2d395136093316acab9922ab03aaff71004ee79fe",
+        "data/local/learning_pilot/e4ed3c8167ea51f54c11_moves.jsonl": "4403c8254e8449b36c3e6707509856c706a7b0347c296f681d9c58337ebcdc5b"
+      }
+    },
+    {
+      "game_id": "e5bf9b511684a0844a33",
+      "inputs_key": "79bbf884166c11eeea003bb866349942f1dab0201148077c65b91e13d21da625",
+      "seconds": 2.1341873750207014,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e5bf9b511684a0844a33_searches.jsonl": "eda6af8ce9a6ea5c19faa831c68d6836d44c20d14c32935773eeedf9d0b10541",
+        "data/local/learning_pilot/e5bf9b511684a0844a33_moves.jsonl": "2b982abca4cb6dcdcf4a9e279fc76a44e072e6e012deeb301544859ecd8ea3ff"
+      }
+    },
+    {
+      "game_id": "e5e47c27c893a0fc9e59",
+      "inputs_key": "956d72e85fcb2a88fa405dc58849fcd006e5eaba84d9c0e2d3c3dac78f60b1dd",
+      "seconds": 1.732612166000763,
+      "screened_moves": 33,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e5e47c27c893a0fc9e59_searches.jsonl": "f41c177f75127d89ae1f4d4d6d0c7760e75c9fe0d12ddfa1723889506727ec86",
+        "data/local/learning_pilot/e5e47c27c893a0fc9e59_moves.jsonl": "93dc76b98dc1e32e0dd316d891bc30f5466c5389c6b1aa2375bd7e3ee5c4abec"
+      }
+    },
+    {
+      "game_id": "e6b3f8dfe207b695f1d8",
+      "inputs_key": "8a3046d7ccd274d01a6c852b7b6925b27c363ae6b06ace6ab466d5cf5c135034",
+      "seconds": 2.811266375007108,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e6b3f8dfe207b695f1d8_searches.jsonl": "c1dcf544141a470b69bf21527550296b3e0b29671b99158bcb29ec184cb03af2",
+        "data/local/learning_pilot/e6b3f8dfe207b695f1d8_moves.jsonl": "0a366cbd9324444ceb4a0768d2640e67d0f052f68ef18b87dd1538ac83bd9c04"
+      }
+    },
+    {
+      "game_id": "e7418420062a3a87dec0",
+      "inputs_key": "9359d91d3f0dd52beff77a66659a5d683c01227248c5e1232cef5cd7c813d4b6",
+      "seconds": 1.5640319579979405,
+      "screened_moves": 31,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e7418420062a3a87dec0_searches.jsonl": "31b239de0b20e87ce06adc3c7e2b46c70136f0746c05b671053a38bc5828232f",
+        "data/local/learning_pilot/e7418420062a3a87dec0_moves.jsonl": "372d44a3fac6563b569cd07ded6a26e67dd245df7a64e2c2e88aa39e92307d35"
+      }
+    },
+    {
+      "game_id": "e7c7dcc223ae4db1b057",
+      "inputs_key": "f52d9f62b31fb92b47c641f6e986909a495ba09d9a612e619e1d4ed0b45a5700",
+      "seconds": 1.6111957090033684,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e7c7dcc223ae4db1b057_searches.jsonl": "a5e70a87c5e93f5f3920d839ca356d8e4076975df4a8b60555e957833f811d2b",
+        "data/local/learning_pilot/e7c7dcc223ae4db1b057_moves.jsonl": "b630354cf04295232efbfd80ed35a88a25c28553eed2d95067859ec50416c690"
+      }
+    },
+    {
+      "game_id": "e9e91d4b2e4ae2cb4d54",
+      "inputs_key": "57d9102995e6248fcef240c2f54ff151d22ed2af9879b217a01750d76a6bfb22",
+      "seconds": 0.5278156250133179,
+      "screened_moves": 1,
+      "outputs_sha256": {
+        "data/local/learning_pilot/e9e91d4b2e4ae2cb4d54_searches.jsonl": "603c3b2834ac9c8fab12ad3e542da114856d5f462ac34e08ce43df3d41442a0b",
+        "data/local/learning_pilot/e9e91d4b2e4ae2cb4d54_moves.jsonl": "8bae82de80aef962d2440beb181ad87e5ebf9e26f7572903e498ebfd5e942f90"
+      }
+    },
+    {
+      "game_id": "eaf041d9350dc5c3a477",
+      "inputs_key": "8c2833acce00badfd5d989eb9eb09f2c18d5557335975b63b73645c52636c520",
+      "seconds": 1.6922080420190468,
+      "screened_moves": 29,
+      "outputs_sha256": {
+        "data/local/learning_pilot/eaf041d9350dc5c3a477_searches.jsonl": "33b2168bd586efc0f977894cf7f4ee49e57c3f037e6d86229ff5d698e3df2d5d",
+        "data/local/learning_pilot/eaf041d9350dc5c3a477_moves.jsonl": "545422f3b9c23fba28e9d94ebd45cf46a249dddbe7a19cef7f777c2751eb9a1a"
+      }
+    },
+    {
+      "game_id": "ecd3bc2e1a49c3fb8510",
+      "inputs_key": "83827544627f1ec45b726eaa36dea61305e6c964092b7c5312f500d4871359b5",
+      "seconds": 5.306612874992425,
+      "screened_moves": 104,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ecd3bc2e1a49c3fb8510_searches.jsonl": "c2d4e6ef92aa21629b275782f8f820d8615dafe440f5ffcfa8dd975f7f1f0bc0",
+        "data/local/learning_pilot/ecd3bc2e1a49c3fb8510_moves.jsonl": "ce166097bd0f9fa3affb4b54fd7725e7d23160b9ab235dc0556071184ff5cb38"
+      }
+    },
+    {
+      "game_id": "ed21385e5af8a57e98ec",
+      "inputs_key": "bb824b7524df177637c409236cc2d847c9a8a0d76db2823932f61e126f3711b3",
+      "seconds": 1.6507962500036228,
+      "screened_moves": 30,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ed21385e5af8a57e98ec_searches.jsonl": "14ab79e6d81316254242777d3a9636edf36a2e60e5284e1d5fb77605db0f7446",
+        "data/local/learning_pilot/ed21385e5af8a57e98ec_moves.jsonl": "4a57686f450f7fa67afb785cd3b4ee3c0433ed4184c5d9b9339d36a057fbc408"
+      }
+    },
+    {
+      "game_id": "ed788f5f9b885f31f437",
+      "inputs_key": "af3bb7aa3efbd9ab37281f2911e2ef9a69df76336865457192bb97de47adf6b7",
+      "seconds": 2.7139656670042314,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ed788f5f9b885f31f437_searches.jsonl": "646f39879bf21b83bb8dc35b17cf796adcdc8718839cd74fbcab8127099718bb",
+        "data/local/learning_pilot/ed788f5f9b885f31f437_moves.jsonl": "69647e77ff213c2e5cadb537ff99f1d9954860b1bb9765e40f0d87189df48ee1"
+      }
+    },
+    {
+      "game_id": "ef16948c93be1b5fb6f3",
+      "inputs_key": "3d195f4d281d112f610da3ebcc38696b6fc04b7ce9f8c88b683d9c6e399e10e5",
+      "seconds": 1.5121205000032205,
+      "screened_moves": 24,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ef16948c93be1b5fb6f3_searches.jsonl": "4f4a740fac11e8d11d5ecdaedc5fa06116a52124bbe32778c471610ead1ec243",
+        "data/local/learning_pilot/ef16948c93be1b5fb6f3_moves.jsonl": "b205d16e89f72e41362dcbddccdb7262399c6812a134f7e55983b01fa6d27b04"
+      }
+    },
+    {
+      "game_id": "efba26dfd4a02b4ce31f",
+      "inputs_key": "46c4dfc58f81c43ebac023380bf69488cbb9365a3fb853af97eb1fb339d724bc",
+      "seconds": 3.2762798749899957,
+      "screened_moves": 71,
+      "outputs_sha256": {
+        "data/local/learning_pilot/efba26dfd4a02b4ce31f_searches.jsonl": "8c8a8bb6050ab1a58e26a67b6c707d9bfde7e8f37bef876a5393876568ac69b8",
+        "data/local/learning_pilot/efba26dfd4a02b4ce31f_moves.jsonl": "7f03b03aadfd98a5835056182baf64e8a0386654e793c6a332e3c757498b447e"
+      }
+    },
+    {
+      "game_id": "f0004cf1160da4876e09",
+      "inputs_key": "9234bb468d9179dc2faac55d43795a10079d44963833bbef24d85f8cec56fd7b",
+      "seconds": 1.3968174170004204,
+      "screened_moves": 18,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f0004cf1160da4876e09_searches.jsonl": "6e235c886c3cd561418b5cb3155961584c1e15a9b960f13be52741b1593fe77b",
+        "data/local/learning_pilot/f0004cf1160da4876e09_moves.jsonl": "e694d813f79b3ea4d7c8614f627f481547928811aee315af01816aadfa66348c"
+      }
+    },
+    {
+      "game_id": "f0e15c912627e110e1fa",
+      "inputs_key": "6abbb28397469ae1956f4f846bf71bcc6612f34a383ff7ba82004c566594637b",
+      "seconds": 2.604807208001148,
+      "screened_moves": 48,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f0e15c912627e110e1fa_searches.jsonl": "9f80867d7e5eff056946b44826a763ccbdbb1255b9eb1835c032d356e05f3de9",
+        "data/local/learning_pilot/f0e15c912627e110e1fa_moves.jsonl": "3ff377ee81ad5459ec1af49bb7e1af3f03d574d4ea1bcd9aceaf9ea876acbb74"
+      }
+    },
+    {
+      "game_id": "f17c0425ab07c83133a0",
+      "inputs_key": "4696ea868f75fd64e1a7e725b0d0064b5cc1a9685bce07241539551ca5c8c176",
+      "seconds": 2.834652040997753,
+      "screened_moves": 52,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f17c0425ab07c83133a0_searches.jsonl": "6a1b0e333e2e37d2841125b4970fc9e13d072fe2d6d477990d2d5f8532ad9de7",
+        "data/local/learning_pilot/f17c0425ab07c83133a0_moves.jsonl": "d724af2f554d2c09821cc760e02b692ab78234cc974a5e311f80686b2a492917"
+      }
+    },
+    {
+      "game_id": "f1fa5ceeb6d5217ed2d9",
+      "inputs_key": "3b083d351db40f373bc5509394799f25577ee92e5e852f234d38db0cf8d0c37f",
+      "seconds": 2.059374292002758,
+      "screened_moves": 35,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f1fa5ceeb6d5217ed2d9_searches.jsonl": "92c85b65e489e47f43833a3f1a373e803951a7e004c137293792ea6639e550cf",
+        "data/local/learning_pilot/f1fa5ceeb6d5217ed2d9_moves.jsonl": "cf643f02dbb2c85dd69d5203bb973f24f6859e04839e194e76ae62ab78377a46"
+      }
+    },
+    {
+      "game_id": "f3b94d89a937ebc5434a",
+      "inputs_key": "ea608cca416f54eaf614fd018ecc0509ff9cb45381c14d69959e02cd5ccdc621",
+      "seconds": 1.2105485420033801,
+      "screened_moves": 20,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f3b94d89a937ebc5434a_searches.jsonl": "f2ada6d50afdddb665d0e72499e8f20d40ed41c914e7efe191ebeb6fd8f07952",
+        "data/local/learning_pilot/f3b94d89a937ebc5434a_moves.jsonl": "a937e246e3ff21d91e5352a2af3e26d619ca017f3af0745800ae80c197944ba5"
+      }
+    },
+    {
+      "game_id": "f3c5c7322244368c4ca4",
+      "inputs_key": "3924db14f537b8bd617ec7565eef5f3587d8acaf5e9541c47f7432e0ea22135d",
+      "seconds": 1.5745600840018597,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f3c5c7322244368c4ca4_searches.jsonl": "45a7d42e4d583764758ab3eb595d4b0664cd27d50e818b9aff69ab39bb6104b5",
+        "data/local/learning_pilot/f3c5c7322244368c4ca4_moves.jsonl": "450564bf7e0bf8a1da35ac860663505ac0c10ea6bc5ff3a5860e1a489cc28470"
+      }
+    },
+    {
+      "game_id": "f5d61442d6e2057e36fd",
+      "inputs_key": "6b0f6c726c61810274e95c93912eadc2416555632d55c96bf945180c725f59bc",
+      "seconds": 1.5273037499864586,
+      "screened_moves": 22,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f5d61442d6e2057e36fd_searches.jsonl": "209fdade449e4d6a092d7d5fb5dc72bc4f9f5e25315f9c719cb96bad4dd2cd17",
+        "data/local/learning_pilot/f5d61442d6e2057e36fd_moves.jsonl": "dc56e0a5bef9f7e0ecda9bf3b2b7fcc4df80e28e579a0f9d9ed2f6631d9d79dc"
+      }
+    },
+    {
+      "game_id": "f6a610b64b04f214b70e",
+      "inputs_key": "0edf6ebde57666f5629d01d13e941657289bcb55afefc9d6842276791e424a94",
+      "seconds": 2.7668655830202624,
+      "screened_moves": 47,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f6a610b64b04f214b70e_searches.jsonl": "2bbb5e7e1e1cca9216e3c836a1eee333dbd5a8bd2168c152e2ac68626bbd1de3",
+        "data/local/learning_pilot/f6a610b64b04f214b70e_moves.jsonl": "fa7f02fe94c054d8feb3fce619e5ff0dbafd6e7ae0ce04eb75d43d09cb352baf"
+      }
+    },
+    {
+      "game_id": "f72aaa7920b7cfd41fa5",
+      "inputs_key": "48516fcfe60b9fd54cad40cd3e67874944d58ce84ebe39393b780e7b2c48f948",
+      "seconds": 1.697603791981237,
+      "screened_moves": 30,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f72aaa7920b7cfd41fa5_searches.jsonl": "e30086e389cf7e077d54c2ad19f8e97e90e5006b32b7c7512522779b2b69f402",
+        "data/local/learning_pilot/f72aaa7920b7cfd41fa5_moves.jsonl": "3913c4efc805030952a373ca64677d407586eaee1188536dbf55bb9a4915e93c"
+      }
+    },
+    {
+      "game_id": "f7d2936ad88764d3a7b1",
+      "inputs_key": "6b2eab5528b756380e1757a0bbbd712d253e5d618a13aabf45df28d2318caf50",
+      "seconds": 1.8384047080180608,
+      "screened_moves": 30,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f7d2936ad88764d3a7b1_searches.jsonl": "84d5d8e14dc6855e69ec41a3fdfd0ecc856e5fd730f3ae445c2c3e00230b537a",
+        "data/local/learning_pilot/f7d2936ad88764d3a7b1_moves.jsonl": "1cb2eb147dae8818ec4b0e8c47fcd6092415009316517af4ae90d2ffe7dadfce"
+      }
+    },
+    {
+      "game_id": "f966a3e193da91c8a707",
+      "inputs_key": "bcdf011fe4e43a891b99f4167b4ebd5b9b0063f28890e5e8196082b448b25d7e",
+      "seconds": 2.122798915981548,
+      "screened_moves": 46,
+      "outputs_sha256": {
+        "data/local/learning_pilot/f966a3e193da91c8a707_searches.jsonl": "d696a0beae2618f1841c6cd53b82411cc2f46bbd4f2f11c87f70af17615c7a1a",
+        "data/local/learning_pilot/f966a3e193da91c8a707_moves.jsonl": "54da89104012b966d2590fc412404304b673b2985dbcc25769df250568188e8e"
+      }
+    },
+    {
+      "game_id": "ff0ab3f8eda9fb63abea",
+      "inputs_key": "2bddf2886f9260855c980ead514ad657eb9c72c4783101bf817f9925724aa9f2",
+      "seconds": 2.196046249999199,
+      "screened_moves": 44,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ff0ab3f8eda9fb63abea_searches.jsonl": "922fba52acac04080297bb8623fb647fae61d40407bef6aabbe00fab5218375a",
+        "data/local/learning_pilot/ff0ab3f8eda9fb63abea_moves.jsonl": "5b613a9bd77c5d1449a4bebf5cf37c9f455e66af26f6634ad7a9f69dceea6f88"
+      }
+    },
+    {
+      "game_id": "ff4d20a40a7b1788d99d",
+      "inputs_key": "040fefbc19364460917ba607632219563c3c91fc7c8aef453301e3803c5b6b04",
+      "seconds": 1.241761042008875,
+      "screened_moves": 19,
+      "outputs_sha256": {
+        "data/local/learning_pilot/ff4d20a40a7b1788d99d_searches.jsonl": "a238b56a1b7c18bda95e77b32c03d50732367691af0776354d62fad001ad044e",
+        "data/local/learning_pilot/ff4d20a40a7b1788d99d_moves.jsonl": "94a280d5091115e8d42c7c57bc2f081e46d0f78dd1837b14266a91363730a864"
+      }
+    }
+  ],
+  "limits": [
+    "Documented-event pool only; variance is conditional on event coverage and pilot budget.",
+    "Bootstrap intervals concern the sampled pool; they omit event-selection and engine-judgement uncertainty.",
+    "Within a year-band each player contributes once; game clusters retain both sampled sides. Cross-band gaps are not estimated.",
+    "No historical trend, band-gap effect, or main sample-size choice is inferred from this restricted pilot.",
+    "Arithmetic mean of move accuracy is not Lichess whole-game accuracy.",
+    "Raw native WDL and CP depend on Stockfish version and search budget."
+  ]
+}

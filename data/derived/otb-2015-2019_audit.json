@@ -1,0 +1,11 @@
+{
+  "batch": "otb-2015-2019",
+  "archive": "cache/learning/otb-2015-2019.7z",
+  "archive_sha256": "a034f1d0a7cb70b1a4e947534b33d41f9dd9f9565d071f80febf257148879cef",
+  "pgn": "cache/learning/pgn/otb-2015-2019.pgn",
+  "pgn_sha256": "a382b3ea11168a7c2a9d63c7a73e306468f764ce3f810986e4347ffe3fa587c4",
+  "pgn_bytes": 1887461281,
+  "records": 2126112,
+  "header_audit": "data/derived/otb-2015-2019_headers.json",
+  "header_audit_sha256": "acd01871338791a63727d238503ded72801ac3b5854280664700e2d0d06020a9"
+}

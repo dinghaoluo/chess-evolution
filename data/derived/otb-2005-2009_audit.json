@@ -1,0 +1,11 @@
+{
+  "batch": "otb-2005-2009",
+  "archive": "cache/learning/otb-2005-2009.7z",
+  "archive_sha256": "98e0216203a0c0fa9a55b34f2b32d8d3194c766f7074b7c0a5eb07a2ee2465f4",
+  "pgn": "cache/learning/pgn/otb-2005-2009.pgn",
+  "pgn_sha256": "36112572a67f4c795df18202828404f37bf18bd8df12c765ca7c3d32519eb53c",
+  "pgn_bytes": 1515196607,
+  "records": 1782662,
+  "header_audit": "data/derived/otb-2005-2009_headers.json",
+  "header_audit_sha256": "77d6ba37a5cc6ed5f53f5c7a26473a5fa9dd9093a4d27b61243c4a8cac118699"
+}

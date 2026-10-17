@@ -1,0 +1,11 @@
+{
+  "batch": "otb-2020-2024",
+  "archive": "cache/learning/otb-2020-2024.7z",
+  "archive_sha256": "6275b66dfc8da143b7e87f1b994a40ca72a072bdcbee9d6c641baed6dee44661",
+  "pgn": "cache/learning/pgn/otb-2020-2024.pgn",
+  "pgn_sha256": "1642c6b3e1189354809880b147c3057ed418916133b0b68ee312694929697196",
+  "pgn_bytes": 1227195464,
+  "records": 1083308,
+  "header_audit": "data/derived/otb-2020-2024_headers.json",
+  "header_audit_sha256": "c2d066a18ae599c2581c6ae7b474b938c660251139df5f6dd6bbfeb1fa3dfb3b"
+}
