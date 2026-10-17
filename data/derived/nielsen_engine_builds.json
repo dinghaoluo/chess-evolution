@@ -1,0 +1,132 @@
+[
+  {
+    "name": "stockfish-13",
+    "year": 2021,
+    "engine_id": {
+      "name": "Stockfish 13",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/research/stockfish-13/Stockfish-sf_13/src/stockfish",
+    "binary_sha256": "c47cd7dbfae96a855ff80420eabc08010d1a4ddfb850dfdc69ab248b808af28e",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "SyzygyPath": "",
+      "Contempt": 0,
+      "Analysis Contempt": "Off",
+      "UCI_ShowWDL": true
+    },
+    "archive_sha256": "15d14721b3be17c597535bdbb44fb951a1ee948312d90fbf55fa0e52b8b81d62",
+    "network_sha256": "62ef826d1a6d11b9e814188025aa02a60815c037292e0ef9bbb9bf4f724e5e63",
+    "commit": "3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+    "build_command": [
+      "make",
+      "-j4",
+      "build",
+      "ARCH=apple-silicon",
+      "COMP=clang",
+      "CXX=clang++"
+    ],
+    "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+    "bench_nodes": 3766422,
+    "expected_bench_nodes": 3766422,
+    "bench_log": "cache/research/stockfish-13/bench.log",
+    "bench_log_sha256": "9dc02e7e95f2cf29d8e85139604a7bb240bfde6d85dffcfdd76bbb4d3851f6c9"
+  },
+  {
+    "name": "stockfish-14",
+    "year": 2021,
+    "engine_id": {
+      "name": "Stockfish 14",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/research/stockfish-14/Stockfish-sf_14/src/stockfish",
+    "binary_sha256": "599d49cf816ae8481712b10feb39ab8976002a2e7291b316d07a08fb374e00ee",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "SyzygyPath": "",
+      "UCI_ShowWDL": true
+    },
+    "archive_sha256": "6f35e3e684da87d27d3f29ec7281ac81468a5a86b4d99ac5c599addc984a766c",
+    "network_sha256": "3475407dc19973ea44467678634cce023d620e419770c111cc8937fe6689ec87",
+    "commit": "773dff020968f7a6f590cfd53e8fd89f12e15e36",
+    "build_command": [
+      "make",
+      "-j4",
+      "build",
+      "ARCH=apple-silicon",
+      "COMP=clang",
+      "CXX=clang++"
+    ],
+    "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+    "bench_nodes": 4770936,
+    "expected_bench_nodes": 4770936,
+    "bench_log": "cache/research/stockfish-14/bench.log",
+    "bench_log_sha256": "98ae6db88cf6dac03201b31c310313d1f08b65fcbd08e4aa8669aa03371d37e3"
+  },
+  {
+    "name": "stockfish-15",
+    "year": 2022,
+    "engine_id": {
+      "name": "Stockfish 15",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/research/stockfish-15/Stockfish-sf_15/src/stockfish",
+    "binary_sha256": "321a4f80b03b9340e8f4985a41c04f56de48d5fa0576809a9f8fc565f8eb0c8e",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "SyzygyPath": "",
+      "UCI_ShowWDL": true
+    },
+    "archive_sha256": "0553fe53ea57ce6641048049d1a17d4807db67eecd3531a3749401362a27c983",
+    "network_sha256": "6877cd24400e01b19ff12ae3068ae242152802bdd330e66f7b6703865251d6e3",
+    "commit": "e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+    "build_command": [
+      "make",
+      "-j4",
+      "build",
+      "ARCH=apple-silicon",
+      "COMP=clang",
+      "CXX=clang++"
+    ],
+    "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+    "bench_nodes": 8129754,
+    "expected_bench_nodes": 8129754,
+    "bench_log": "cache/research/stockfish-15/bench.log",
+    "bench_log_sha256": "15711aa7fbacf55bcebb5f73d61f1c7743795ff982cf6f4924cab1838184b4a4"
+  },
+  {
+    "name": "stockfish-16",
+    "year": 2023,
+    "engine_id": {
+      "name": "Stockfish 16",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/research/stockfish-16/Stockfish-sf_16/src/stockfish",
+    "binary_sha256": "37cd1c176f808a542af8c207c4c36ef6eff1df6ceee301f8e3b25375bdaf72d1",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "SyzygyPath": "",
+      "UCI_ShowWDL": true
+    },
+    "archive_sha256": "a1600ebdaf4e324ba3e10cec2e0c9a810dc64c6f0db5cc955b2fd5e1eefa1cc6",
+    "network_sha256": "5af11540bbfefcb54e38c5dd000cab4b469dfa7599a1d55be5d2722c20a8929b",
+    "commit": "68e1e9b3811e16cad014b590d7443b9063b3eb52",
+    "build_command": [
+      "make",
+      "-j4",
+      "build",
+      "ARCH=apple-silicon",
+      "COMP=clang",
+      "CXX=clang++"
+    ],
+    "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+    "bench_nodes": 2593605,
+    "expected_bench_nodes": 2593605,
+    "bench_log": "cache/research/stockfish-16/bench.log",
+    "bench_log_sha256": "5521a36837e8c824ac940127d200a1774f51e5fe72124d78b7462f30c56c8d4e"
+  }
+]

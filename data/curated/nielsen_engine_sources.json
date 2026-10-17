@@ -1,0 +1,82 @@
+[
+  {
+    "name": "stockfish-13",
+    "commit": "3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+    "commit_record_sha256": "2adf0da334991e528729320faa7203a6d79f52ac1da370338921c21d2f7af381",
+    "expected_nodes": 3766422,
+    "year": 2021,
+    "archive": {
+      "file": "cache/research/stockfish-13.tar.gz",
+      "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_13",
+      "sha256": "15d14721b3be17c597535bdbb44fb951a1ee948312d90fbf55fa0e52b8b81d62",
+      "bytes": 181226
+    },
+    "network": {
+      "file": "cache/research/nn-62ef826d1a6d.nnue",
+      "url": "https://tests.stockfishchess.org/api/nn/nn-62ef826d1a6d.nnue",
+      "sha256": "62ef826d1a6d11b9e814188025aa02a60815c037292e0ef9bbb9bf4f724e5e63",
+      "bytes": 21022697
+    }
+  },
+  {
+    "name": "stockfish-14",
+    "commit": "773dff020968f7a6f590cfd53e8fd89f12e15e36",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/773dff020968f7a6f590cfd53e8fd89f12e15e36",
+    "commit_record_sha256": "e2e59e3c67f2c51b705fc70c7172c7d7fa5402f9e0131e1534f93cbec50e1de9",
+    "expected_nodes": 4770936,
+    "year": 2021,
+    "archive": {
+      "file": "cache/research/stockfish-14.tar.gz",
+      "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_14",
+      "sha256": "6f35e3e684da87d27d3f29ec7281ac81468a5a86b4d99ac5c599addc984a766c",
+      "bytes": 183879
+    },
+    "network": {
+      "file": "cache/research/nn-3475407dc199.nnue",
+      "url": "https://tests.stockfishchess.org/api/nn/nn-3475407dc199.nnue",
+      "sha256": "3475407dc19973ea44467678634cce023d620e419770c111cc8937fe6689ec87",
+      "bytes": 47721371
+    }
+  },
+  {
+    "name": "stockfish-15",
+    "commit": "e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+    "commit_record_sha256": "7f99b2257181e7df18b703984addb2c4dbdd36c4aeeae7d86882e6f09d3799c7",
+    "expected_nodes": 8129754,
+    "year": 2022,
+    "archive": {
+      "file": "cache/research/stockfish-15.tar.gz",
+      "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_15",
+      "sha256": "0553fe53ea57ce6641048049d1a17d4807db67eecd3531a3749401362a27c983",
+      "bytes": 189578
+    },
+    "network": {
+      "file": "cache/research/nn-6877cd24400e.nnue",
+      "url": "https://tests.stockfishchess.org/api/nn/nn-6877cd24400e.nnue",
+      "sha256": "6877cd24400e01b19ff12ae3068ae242152802bdd330e66f7b6703865251d6e3",
+      "bytes": 47001499
+    }
+  },
+  {
+    "name": "stockfish-16",
+    "commit": "68e1e9b3811e16cad014b590d7443b9063b3eb52",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/68e1e9b3811e16cad014b590d7443b9063b3eb52",
+    "commit_record_sha256": "860a92faa18a527e324ceb70155799b2d44aa1a81afd7303abba76cdb2f109b3",
+    "expected_nodes": 2593605,
+    "year": 2023,
+    "archive": {
+      "file": "cache/research/stockfish-16.tar.gz",
+      "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_16",
+      "sha256": "a1600ebdaf4e324ba3e10cec2e0c9a810dc64c6f0db5cc955b2fd5e1eefa1cc6",
+      "bytes": 195462
+    },
+    "network": {
+      "file": "cache/research/nn-5af11540bbfe.nnue",
+      "url": "https://tests.stockfishchess.org/api/nn/nn-5af11540bbfe.nnue",
+      "sha256": "5af11540bbfefcb54e38c5dd000cab4b469dfa7599a1d55be5d2722c20a8929b",
+      "bytes": 40119326
+    }
+  }
+]

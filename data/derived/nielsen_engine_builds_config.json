@@ -1,0 +1,10 @@
+{
+  "inputs_sha256": {
+    "data/curated/nielsen_engine_sources.json": "4b066c74429e14c39cf40d30355aff425b2842612d410c22c95631d0e58aadda"
+  },
+  "output_sha256": "8f00b08769f57c298ad7bf29c08907e706192fbe79288202b95054ed5d6954e9",
+  "limits": [
+    "Official apple-silicon make target with clang; one-thread searches.",
+    "Bench agreement checks the release signature, without equal costs per searched node."
+  ]
+}

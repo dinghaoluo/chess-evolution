@@ -1,0 +1,7 @@
+case_id,node_budget,first_matching_tested_release,previous_tested_release,later_disagreements
+nielsen_endgame_28,250000,stockfish-4,fruit-2.1,stockfish-13
+nielsen_endgame_28,1000000,stockfish-4,fruit-2.1,
+nielsen_endgame_28,4000000,stockfish-4,fruit-2.1,
+nielsen_prepared_exchange,250000,stockfish-15,stockfish-14,
+nielsen_prepared_exchange,1000000,stockfish-15,stockfish-14,
+nielsen_prepared_exchange,4000000,stockfish-15,stockfish-14,
