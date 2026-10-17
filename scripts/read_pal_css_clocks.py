@@ -19,8 +19,8 @@ import chess.pgn
 
 
 #%% sources
-DATA = Path('data')
-CACHE = Path('.venv/research-sources')
+DATA = Path('data/derived')
+CACHE = Path('cache/sources')
 # keep stages separate: the 2005 qualifier had a much shorter time control
 SOURCES = [
     ('pal_2005_qualifier', 1, 'qualifier', 1500, 10, '2005/games/freestyle-qual.zip',
@@ -42,9 +42,10 @@ SOURCES = [
 
 #%% main
 def main() -> None:
+    frozen = {row['file']: row['sha256'] for row in json.loads(Path('data/curated/source_files.json').read_text())}
     with (DATA / 'pal_css_2005_games.csv').open() as source:
         winners = list(csv.DictReader(source))
-    with (DATA / 'pal_css_game_reviews.csv').open() as source:
+    with (Path('data/curated') / 'pal_css_game_reviews.csv').open() as source:
         reviews = {row['game_id']: row for row in csv.DictReader(source)}
     additional = CACHE / 'pal_2005_neverfail.zip'
     if not additional.exists():
@@ -55,6 +56,7 @@ def main() -> None:
         archive_url = 'https://en.chessbase.com/portals/4/files/news/' + archive_path
         if not archive.exists():
             archive.write_bytes(urlopen(archive_url, timeout=60).read())
+        assert hashlib.sha256(archive.read_bytes()).hexdigest() == frozen[archive.name], archive.name
         with ZipFile(archive) as source:
             member = next(item for item in source.namelist() if item.lower().endswith('.pgn'))
             raw = source.read(member)
@@ -83,9 +85,24 @@ def main() -> None:
                    'source_issue': reviews.get(game_id, {}).get('reason', '')}
             scores.append(row)
             source_rows.append(row)
+            elapsed = {True: 0, False: 0}
+            missing = {True: 0, False: 0}
             for node in nodes:
+                side = node.ply() % 2 == 1
+                seconds = node.emt()
+                if seconds is None:
+                    missing[side] += 1
+                else:
+                    assert seconds >= 0, (game_id, node.ply())
+                    elapsed[side] += seconds
+                known_control = not tiebreak and increment is not None
                 clocks.append({'game_id': game_id, 'ply': node.ply(), 'move_uci': node.move.uci(),
-                               'move_san': node.san(), 'elapsed_seconds': node.emt()})
+                               'move_san': node.san(), 'elapsed_seconds': seconds,
+                               'white_elapsed_lower_seconds': elapsed[True],
+                               'black_elapsed_lower_seconds': elapsed[False],
+                               'white_missing_times': missing[True], 'black_missing_times': missing[False],
+                               'white_clock_upper_seconds': base + increment * ((node.ply() + 1) // 2) - elapsed[True] if known_control else '',
+                               'black_clock_upper_seconds': base + increment * (node.ply() // 2) - elapsed[False] if known_control else ''})
             if (row['accepted_for_timing'] == '0' or tiebreak or not nodes
                     or game.headers['Result'] not in ['1-0', '0-1', '1/2-1/2']):
                 continue
@@ -133,7 +150,7 @@ def main() -> None:
     metadata = {
         'retrieved_at': '2026-10-15', 'sources': sources,
         'population': 'surviving linked archives, not a complete census of all eight editions',
-        'times': 'elapsed seconds from PGN %emt; no clock inferred where a move time is missing',
+        'times': 'PGN %emt; cumulative elapsed lower bounds and remaining-clock upper bounds after missing times; clocks omitted for unresolved controls and tiebreaks',
         'long_think': 'first move through move 30 using at least 5 percent of the initial time; 2.5 and 10 percent retained',
         '2005_time_controls': 'qualifier 25m+10s; main and regular knockout 60m+15s',
         '2005_rules_url': 'https://en.chessbase.com/post/the-20-000-free-for-all-che-tournament',
@@ -142,7 +159,7 @@ def main() -> None:
                         'third-edition archive linked on computerschach.de not recovered',
                         'seventh and eighth editions have different or unavailable archival coverage'],
         'licence': 'no explicit redistribution licence found; raw PGNs and annotations kept locally; derived timings retained',
-        'review_sha256': hashlib.sha256((DATA / 'pal_css_game_reviews.csv').read_bytes()).hexdigest(),
+        'review_sha256': hashlib.sha256((Path('data/curated') / 'pal_css_game_reviews.csv').read_bytes()).hexdigest(),
         'additional_2005_account': {
             'player': 'Konstantin Orfenov, Neverfail', 'games': 8,
             'archive_url': 'https://en.chessbase.com/portals/4/files/news/2005/games/neverfail.zip',

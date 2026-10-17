@@ -1,0 +1,80 @@
+[
+  {
+    "file": "pal_2005_qualifier.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2005/games/freestyle-qual.zip",
+    "sha256": "bbe7fb7c4ea1af4a4e08ba3aef649c862d268844ec7740df8ee628b5180bc944",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2005_main.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2005/games/freestyle-main.zip",
+    "sha256": "c1c349ee7fc732589306229a440b5e9f27fc896008d64277939ba95fa9b95e07",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_final.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2005/games/freestyle-final.zip",
+    "sha256": "a397a6d08288d80c12280b08e3a38733b856e9e0946b9cdf255933ee4b94cf3c",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2006_final2.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2006/games/freestyle02.zip",
+    "sha256": "d9c757da2990285bf962d54d5d2d220efae63856fd338b2b5198c3016381246e",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2006_final4.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2006/games/freestyle4f.zip",
+    "sha256": "06f08e079a21558c20bf68b86944e5ac49d9b89d9ab519a14c5d52e7c8612787",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2007_final5.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2007/games/freestyle-final5.zip",
+    "sha256": "66fb3f9fa2baeea1cff6c71be178a80a1aeeb2d4d02ba991120756ef63e71595",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2007_final6.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2007/games/freestyle06f.zip",
+    "sha256": "4585dc0b0f03ae7da7814a605a515f1a04b105c4f605be11bb1a64beaa2d9c06",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "wcc_2021_all.pgn",
+    "url": "https://lichess.org/api/broadcast/A6snaCgb.pgn",
+    "sha256": "a0f3336a94e28fd297abf0b46497609e8fa01775e57ced0b5cfb194c90334d46",
+    "licence": "public broadcast; derived measurements distributed"
+  },
+  {
+    "file": "wcc_2023_all.pgn",
+    "url": "https://lichess.org/api/broadcast/lrdHUzyS.pgn",
+    "sha256": "ec7f4fb7598a0a58ca8fcc4dbb74ac091c67f9b1ae3c5ad37bfba4e26dae1278",
+    "licence": "public broadcast; derived measurements distributed"
+  },
+  {
+    "file": "wcc_2024_all.pgn",
+    "url": "https://lichess.org/api/broadcast/n3yHJI5Y.pgn",
+    "sha256": "f77d27f5984c099fffdd62ed44830c910c832faed418420fa24fef5ed22079c9",
+    "licence": "public broadcast; derived measurements distributed"
+  },
+  {
+    "file": "zacks.cbv",
+    "url": "https://en.chessbase.com/portals/4/files/news/2005/csspalzacksgames.cbv",
+    "sha256": "a06d648797519aa1276195935a5734de5a4db217553e18f3170044303dd9164f",
+    "licence": "no explicit redistribution licence identified; downloaded annotations retained locally only"
+  },
+  {
+    "file": "pal_2007_annotations.pgn",
+    "url": "https://en.chessbase.com/portals/4/files/news/2007/games/freestyle-final5an.pgn",
+    "sha256": "3b048cc4d3a70eac1765e6c3689604c59c21ac375dfe9b898b36e60a8d417562",
+    "licence": "no redistribution licence identified; local research copy"
+  },
+  {
+    "file": "pal_2005_neverfail.zip",
+    "url": "https://en.chessbase.com/portals/4/files/news/2005/games/neverfail.zip",
+    "sha256": "f8c438f81ed517cb41b84138f903b086b30d26461a675689b4eed008591d990e",
+    "licence": "no redistribution licence identified; local research copy"
+  }
+]

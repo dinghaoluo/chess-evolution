@@ -16,7 +16,7 @@ import numpy as np
 
 #%% main
 def main() -> None:
-    data = Path('data')
+    data = Path('data/derived')
     with (data / 'pal_css_timing.csv').open() as source:
         pal = list(csv.DictReader(source))
     with (data / 'pal_css_clock_games.csv').open() as source:
@@ -44,40 +44,12 @@ def main() -> None:
         writer.writeheader()
         writer.writerows(summaries)
 
-    #%% title matches
-    with (data / 'opening_thinks.csv').open() as source:
-        players = list(csv.DictReader(source))
-    title_games = []
-    for game_id in dict.fromkeys(row['game_id'] for row in players):
-        sides = [row for row in players if row['game_id'] == game_id]
-        assert len(sides) == 2
-        title_games.append({'game_id': game_id, 'year': sides[0]['year'], 'round': sides[0]['round'],
-                            'mean_minutes_first_20': np.mean([float(row['elapsed_first_20_seconds']) / 60 for row in sides])})
-    with (data / 'championship_opening_time.csv').open('w', newline='') as destination:
-        writer = csv.DictWriter(destination, fieldnames=list(title_games[0]), lineterminator='\n')
-        writer.writeheader()
-        writer.writerows(title_games)
-    annual = []
-    for year in ['2021', '2023', '2024']:
-        rows = [row for row in players if row['year'] == year]
-        complete = [row for row in rows if row['first_5min_missing_before'] == '0']
-        minutes = [row['mean_minutes_first_20'] for row in title_games if row['year'] == year]
-        annual.append({'year': year, 'games': len(minutes), 'sides_with_observed_first_think': len(complete),
-                       'median_first_5min_move': median((int(row['first_5min_ply']) + 1) // 2 for row in complete),
-                       'median_minutes_first_20': median(minutes),
-                       'q25_minutes_first_20': np.quantile(minutes, 0.25),
-                       'q75_minutes_first_20': np.quantile(minutes, 0.75)})
-    with (data / 'championship_clock_years.csv').open('w', newline='') as destination:
-        writer = csv.DictWriter(destination, fieldnames=list(annual[0]), lineterminator='\n')
-        writer.writeheader()
-        writer.writerows(annual)
-
     #%% independent accounts
     with (data / 'championship_clocks.csv').open() as source:
         title_clocks = {(row['game_id'], int(row['ply'])): row for row in csv.DictReader(source)}
     with (data / 'pal_css_move_times.csv').open() as source:
         pal_clocks = {(row['game_id'], int(row['ply'])): row for row in csv.DictReader(source)}
-    with (data / 'preparation_accounts.csv').open() as source:
+    with (Path('data/curated') / 'preparation_accounts.csv').open() as source:
         accounts = list(csv.DictReader(source))
     checks = []
     for account in accounts:
@@ -100,7 +72,7 @@ def main() -> None:
         writer = csv.DictWriter(destination, fieldnames=list(checks[0]), lineterminator='\n')
         writer.writeheader()
         writer.writerows(checks)
-    print(len(summaries), 'PAL/CSS summaries;', len(title_games), 'title games;', len(checks), 'preparation checks')
+    print(len(summaries), 'PAL/CSS summaries;', len(checks), 'preparation checks')
 
 
 if __name__ == '__main__':

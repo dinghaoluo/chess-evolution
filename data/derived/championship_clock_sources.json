@@ -1,0 +1,55 @@
+{
+  "sources": [
+    {
+      "file": "wcc_2021_all.pgn",
+      "url": "https://lichess.org/api/broadcast/A6snaCgb.pgn",
+      "sha256": "a0f3336a94e28fd297abf0b46497609e8fa01775e57ced0b5cfb194c90334d46",
+      "licence": "public broadcast; derived measurements distributed",
+      "classical_games": 11,
+      "downloaded_games": 11,
+      "missing_clocks_through_move_40": []
+    },
+    {
+      "file": "wcc_2023_all.pgn",
+      "url": "https://lichess.org/api/broadcast/lrdHUzyS.pgn",
+      "sha256": "ec7f4fb7598a0a58ca8fcc4dbb74ac091c67f9b1ae3c5ad37bfba4e26dae1278",
+      "licence": "public broadcast; derived measurements distributed",
+      "classical_games": 14,
+      "downloaded_games": 18,
+      "missing_clocks_through_move_40": [
+        {
+          "game_id": "wcc_2023:3",
+          "ply": 4
+        },
+        {
+          "game_id": "wcc_2023:3",
+          "ply": 9
+        },
+        {
+          "game_id": "wcc_2023:3",
+          "ply": 14
+        },
+        {
+          "game_id": "wcc_2023:3",
+          "ply": 15
+        },
+        {
+          "game_id": "wcc_2023:13",
+          "ply": 79
+        }
+      ]
+    },
+    {
+      "file": "wcc_2024_all.pgn",
+      "url": "https://lichess.org/api/broadcast/n3yHJI5Y.pgn",
+      "sha256": "f77d27f5984c099fffdd62ed44830c910c832faed418420fa24fef5ed22079c9",
+      "licence": "public broadcast; derived measurements distributed",
+      "classical_games": 14,
+      "downloaded_games": 14,
+      "missing_clocks_through_move_40": []
+    }
+  ],
+  "population": "all classical games in the 2021, 2023, and 2024 title matches",
+  "identity": "broadcast year and unique classical round; main lines read from that broadcast, without an independent score join",
+  "elapsed_time": "same-player clock difference; missing neighbours stay missing; move forty omitted because the next period may be credited"
+}

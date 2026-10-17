@@ -19,7 +19,7 @@ import chess.pgn
 
 
 #%% source archive
-CACHE = Path('.venv/research-sources')
+CACHE = Path('cache/sources')
 CACHE.mkdir(parents=True, exist_ok=True)
 URL = 'https://en.chessbase.com/portals/4/files/news/2005/csspalzacksgames.cbv'
 archive = CACHE / 'zacks.cbv'
@@ -44,7 +44,7 @@ for i in range(count):
 rewrapped.extend(data[8 + count * entry_size:])
 converted = CACHE / 'zacks_rewrapped.cbv'
 converted.write_bytes(rewrapped)
-converter = '.venv/cbvault/bin/cbvault'
+converter = 'cache/cbvault/bin/cbvault'
 subprocess.run([converter, 'archive', 'extract', str(converted), str(CACHE / 'zacks'),
                 '--threads', '1', '--json'], check=True, stdout=subprocess.DEVNULL)
 export = CACHE / 'pal_css_2005.pgn'
@@ -65,11 +65,11 @@ for ordinal, game in enumerate(games, 1):
         'moves_uci': ' '.join(move.uci() for move in game.mainline_moves()),
         'annotated_positions': sum(bool(node.comment) for node in game.mainline()),
     })
-with Path('data/pal_css_2005_games.csv').open('w', newline='') as destination:
+with Path('data/derived/pal_css_2005_games.csv').open('w', newline='') as destination:
     writer = csv.DictWriter(destination, fieldnames=list(rows[0]), lineterminator='\n')
     writer.writeheader()
     writer.writerows(rows)
-with Path('data/pal_css_2005_decisions.csv').open() as source:
+with Path('data/curated/pal_css_2005_decisions.csv').open() as source:
     for case in csv.DictReader(source):
         game = games[int(case['source_ordinal']) - 1]
         board = game.board()
@@ -80,7 +80,7 @@ with Path('data/pal_css_2005_decisions.csv').open() as source:
         assert moves[int(case['ply']) - 1].uci() == case['move_uci']
         if case['reported_alternative_uci']:
             assert board.parse_uci(case['reported_alternative_uci']) in board.legal_moves
-metadata = json.loads(Path('data/pal_css_2005_sources.json').read_text())
+metadata = json.loads(Path('data/curated/pal_css_2005_sources.json').read_text())
 assert metadata['archive_sha256'] == hashlib.sha256(data).hexdigest()
 assert metadata['export_sha256'] == hashlib.sha256(export.read_bytes()).hexdigest()
 print(f'{len(games)} games read')

@@ -1,0 +1,16 @@
+{
+  "report_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9",
+  "archive_url": "https://en.chessbase.com/portals/4/files/news/2005/csspalzacksgames.cbv",
+  "retrieved_at": "2026-10-15",
+  "archive_sha256": "a06d648797519aa1276195935a5734de5a4db217553e18f3170044303dd9164f",
+  "export_sha256": "d7da135283b0504dee24afdcec9be6e3ac55a6129ba35bb1b516ad11f846f21c",
+  "converter": "cbvault 0.1.4; 149-byte CBV directory entries rewrapped to 173-byte entries; compressed members unchanged",
+  "games": 27,
+  "annotated_games": [
+    13,
+    22,
+    26
+  ],
+  "licence": "no explicit redistribution licence identified; downloaded annotations retained locally only",
+  "review": "all three annotated main lines and their variations; report accounts checked against the game scores"
+}
