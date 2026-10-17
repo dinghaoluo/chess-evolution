@@ -1,0 +1,55 @@
+case_id,node_budget,first_matching_tested_engine,first_matching_tested_year,later_disagreements
+zacks_dobrov_13,250000,stockfish-17.1,2025,
+zacks_dobrov_13,1000000,stockfish-12,2020,
+zacks_dobrov_13,4000000,stockfish-12,2020,
+zacks_dobrov_31,250000,stockfish-17.1,2025,
+zacks_dobrov_31,1000000,stockfish-12,2020,
+zacks_dobrov_31,4000000,stockfish-8,2016,
+zacks_dobrov_35,250000,,,
+zacks_dobrov_35,1000000,,,
+zacks_dobrov_35,4000000,,,
+zacks_dobrov_45,250000,fruit-2.1,2005,stockfish-12 stockfish-17.1
+zacks_dobrov_45,1000000,fruit-2.1,2005,
+zacks_dobrov_45,4000000,fruit-2.1,2005,stockfish-17.1
+zacks_dobrov_49,250000,,,
+zacks_dobrov_49,1000000,stockfish-17.1,2025,
+zacks_dobrov_49,4000000,,,
+zacks_dobrov_54,250000,stockfish-4,2013,
+zacks_dobrov_54,1000000,stockfish-4,2013,
+zacks_dobrov_54,4000000,stockfish-4,2013,stockfish-12
+zacks_dobrov_69,250000,stockfish-12,2020,
+zacks_dobrov_69,1000000,stockfish-12,2020,
+zacks_dobrov_69,4000000,stockfish-12,2020,
+zacks_game13_11,250000,stockfish-12,2020,stockfish-17.1
+zacks_game13_11,1000000,,,
+zacks_game13_11,4000000,stockfish-17.1,2025,
+zacks_game13_15,250000,stockfish-12,2020,
+zacks_game13_15,1000000,stockfish-12,2020,
+zacks_game13_15,4000000,stockfish-8,2016,
+zacks_game13_23,250000,fruit-2.1,2005,stockfish-8 stockfish-17.1
+zacks_game13_23,1000000,stockfish-4,2013,stockfish-12 stockfish-17.1
+zacks_game13_23,4000000,stockfish-4,2013,stockfish-8 stockfish-12 stockfish-17.1
+zacks_game13_43,250000,fruit-2.1,2005,
+zacks_game13_43,1000000,fruit-2.1,2005,
+zacks_game13_43,4000000,fruit-2.1,2005,
+zacks_game22_26,250000,fruit-2.1,2005,stockfish-12 stockfish-17.1
+zacks_game22_26,1000000,fruit-2.1,2005,stockfish-12 stockfish-17.1
+zacks_game22_26,4000000,fruit-2.1,2005,
+zacks_game17_28,250000,,,
+zacks_game17_28,1000000,,,
+zacks_game17_28,4000000,,,
+zacks_game19_4,250000,stockfish-12,2020,stockfish-17.1
+zacks_game19_4,1000000,,,
+zacks_game19_4,4000000,stockfish-4,2013,stockfish-12 stockfish-17.1
+zacks_game13_35,250000,stockfish-8,2016,stockfish-17.1
+zacks_game13_35,1000000,,,
+zacks_game13_35,4000000,,,
+zacks_game22_27,250000,,,
+zacks_game22_27,1000000,,,
+zacks_game22_27,4000000,,,
+nielsen_endgame_28,250000,stockfish-4,2013,
+nielsen_endgame_28,1000000,stockfish-4,2013,
+nielsen_endgame_28,4000000,stockfish-4,2013,
+nielsen_prepared_exchange,250000,stockfish-17.1,2025,
+nielsen_prepared_exchange,1000000,stockfish-17.1,2025,
+nielsen_prepared_exchange,4000000,stockfish-17.1,2025,

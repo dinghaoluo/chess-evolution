@@ -19,6 +19,7 @@ from pal_css_2005_case import DATA, ENGINE, result_rows, search
 
 #%% main
 def main() -> None:
+
     #%% select from the complete evaluation trajectories
     with (DATA / 'pal_css_2005_games.csv').open() as source:
         games = {row['source_ordinal']: row for row in csv.DictReader(source)}
@@ -36,8 +37,10 @@ def main() -> None:
             sign = 1 if ply % 2 == 1 else -1
             change = sign * (float(after['white_expected_score']) - float(before['white_expected_score']))
             candidates.append({**before, 'played_move': played, 'screened_score_change': change})
-        # this is an exploratory screen; a score change alone is not a move loss
-        selected += sorted(candidates, key=lambda row: row['screened_score_change'])[:3]
+        # screen both players separately; the winners chose which games to annotate
+        for side in [1, 0]:
+            own = [row for row in candidates if int(row['ply']) % 2 == side]
+            selected += sorted(own, key=lambda row: row['screened_score_change'])[:3]
 
 
     #%% compare the played move with the screening recommendation
@@ -66,6 +69,13 @@ def main() -> None:
         writer = csv.DictWriter(destination, fieldnames=list(results[0]), lineterminator='\n')
         writer.writeheader()
         writer.writerows(results)
+    metadata = {
+        'binary_sha256': config['binary_sha256'], 'options': config['options'],
+        'selection': 'three largest screened deteriorations per side in each of three annotated games; games remain participant-selected',
+        'trajectory_sha256': hashlib.sha256((DATA / 'pal_css_2005_trajectory.csv').read_bytes()).hexdigest(),
+        'output_sha256': hashlib.sha256((DATA / 'pal_css_2005_turning_points.csv').read_bytes()).hexdigest(),
+    }
+    (DATA / 'pal_css_2005_turning_points_config.json').write_text(json.dumps(metadata, indent=2) + '\n')
 
 
 if __name__ == '__main__':

@@ -1,0 +1,24 @@
+{
+  "name": "stockfish-17.1",
+  "year": 2025,
+  "engine_id": {
+    "name": "Stockfish 17.1",
+    "author": "the Stockfish developers (see AUTHORS file)"
+  },
+  "binary": "cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon",
+  "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "options": {
+    "Threads": 1,
+    "Hash": 64,
+    "UCI_ShowWDL": true,
+    "Skill Level": 20,
+    "UCI_LimitStrength": false,
+    "SyzygyPath": ""
+  },
+  "source_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+  "network": "embedded in the official hashed binary",
+  "python_chess_version": "1.11.2",
+  "hash_policy": "new game before every search",
+  "position_history": "complete game move stack",
+  "syzygy": "disabled"
+}

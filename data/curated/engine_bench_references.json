@@ -1,0 +1,51 @@
+[
+  {
+    "name": "stockfish-4",
+    "commit": "4d120ee02edff250a6661e63d913e70efc37e2b6",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/4d120ee02edff250a6661e63d913e70efc37e2b6",
+    "commit_record_sha256": "1fd89210f14261e346b5a7fa62b2406d8cc91139a82207d1d674108f849cb7d0",
+    "expected_nodes": 4132374
+  },
+  {
+    "name": "stockfish-8",
+    "commit": "369eff437cc081eb4b8ab5f519cf3f86b79e87d0",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/369eff437cc081eb4b8ab5f519cf3f86b79e87d0",
+    "commit_record_sha256": "c74e9641767ea07da1838358c3bcaba18f369e5d25a2387c434be0fa10c7c58c",
+    "expected_nodes": 5926706
+  },
+  {
+    "name": "stockfish-12",
+    "commit": "c306d838697011da0a960758dde3f7ede6849060",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/c306d838697011da0a960758dde3f7ede6849060",
+    "commit_record_sha256": "1a3f155880754143b17b7185aa00afa3091f09de1a0fe323a7d8d26f8e0fe1e1",
+    "expected_nodes": 3624569
+  },
+  {
+    "name": "stockfish-13",
+    "commit": "3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+    "commit_record_sha256": "2adf0da334991e528729320faa7203a6d79f52ac1da370338921c21d2f7af381",
+    "expected_nodes": 3766422
+  },
+  {
+    "name": "stockfish-14",
+    "commit": "773dff020968f7a6f590cfd53e8fd89f12e15e36",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/773dff020968f7a6f590cfd53e8fd89f12e15e36",
+    "commit_record_sha256": "e2e59e3c67f2c51b705fc70c7172c7d7fa5402f9e0131e1534f93cbec50e1de9",
+    "expected_nodes": 4770936
+  },
+  {
+    "name": "stockfish-15",
+    "commit": "e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+    "commit_record_sha256": "7f99b2257181e7df18b703984addb2c4dbdd36c4aeeae7d86882e6f09d3799c7",
+    "expected_nodes": 8129754
+  },
+  {
+    "name": "stockfish-16",
+    "commit": "68e1e9b3811e16cad014b590d7443b9063b3eb52",
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/68e1e9b3811e16cad014b590d7443b9063b3eb52",
+    "commit_record_sha256": "860a92faa18a527e324ceb70155799b2d44aa1a81afd7303abba76cdb2f109b3",
+    "expected_nodes": 2593605
+  }
+]

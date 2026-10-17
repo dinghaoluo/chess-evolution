@@ -1,0 +1,14 @@
+{
+  "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "options": {
+    "Threads": 1,
+    "Hash": 64,
+    "UCI_ShowWDL": true,
+    "Skill Level": 20,
+    "UCI_LimitStrength": false,
+    "SyzygyPath": ""
+  },
+  "selection": "three largest screened deteriorations per side in each of three annotated games; games remain participant-selected",
+  "trajectory_sha256": "a85fa76c610af47e1326618aef752a369e7ca68bd5500e7de5ca50d5c6d6ba01",
+  "output_sha256": "ee05699ce5851670eb3961f523bfd24a52d90e8a0b5d91a3e10014d56d7c4914"
+}

@@ -1,0 +1,591 @@
+{
+  "case_id": "zacks_dobrov_13",
+  "initial_fen": "rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1",
+  "history_uci": "e2e4 c7c5 g1f3 d7d6 d2d4 c5d4 f3d4 g8f6 b1c3 a7a6 f1c4 e7e6",
+  "node_budget": 250000,
+  "engines": [
+    {
+      "name": "fruit-2.1",
+      "year": 2005,
+      "engine_id": {
+        "name": "Fruit 2.1",
+        "author": "Fabien Letouzey"
+      },
+      "binary": "cache/engines/fruit-2.1/engine",
+      "binary_sha256": "68dee5bc910893fa9bb35dd78c6405730b0084cc7d0fa1d1f287ebfd820499b6",
+      "source_url": "https://codeload.github.com/Warpten/Fruit-2.1/tar.gz/09627df3835f205c92ece013219c7a99ac4a023a",
+      "source_sha256": "37e0e8dd09aa53966a24ff328d1ec5a4e7bbca9a3f3a11e399e0be2c3e370624",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++17",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/attack.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/board.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/book.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/eval.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/fen.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/hash.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/list.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/main.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/material.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_check.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_do.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_evasion.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_gen.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_legal.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/option.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pawn.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/piece.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/posix.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/protocol.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pst.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pv.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/random.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/recog.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/search.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/search_full.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/see.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/sort.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/square.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/trans.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/util.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/value.cpp",
+        "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/vector.cpp",
+        "-o",
+        "cache/engines/fruit-2.1/engine"
+      ],
+      "patch": "node-limit stop guard at the existing search_check cadence; search and evaluation otherwise unchanged",
+      "options": {
+        "Hash": 64,
+        "OwnBook": false
+      },
+      "network": null
+    },
+    {
+      "name": "stockfish-4",
+      "year": 2013,
+      "engine_id": {
+        "name": "Stockfish 4 64",
+        "author": "Tord Romstad, Marco Costalba and Joona Kiiski"
+      },
+      "binary": "cache/engines/stockfish-4/engine",
+      "binary_sha256": "cb3d2e7c8a8cdce9b493864572d5081c67865962d0ea81d77c9d24a40f5392d8",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_4",
+      "source_sha256": "3508a3080e9aed3d9c285ebb43f6f952b8f35701969ede782dd7bdf69c1734b9",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++11",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/benchmark.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/bitbase.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/bitboard.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/book.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/endgame.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/evaluate.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/main.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/material.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/misc.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/movegen.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/movepick.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/notation.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/pawns.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/position.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/search.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/thread.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/timeman.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/tt.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/uci.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-4/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "OwnBook": false,
+        "Contempt Factor": 0
+      },
+      "network": null
+    },
+    {
+      "name": "stockfish-8",
+      "year": 2016,
+      "engine_id": {
+        "name": "Stockfish 8 64",
+        "author": "T. Romstad, M. Costalba, J. Kiiski, G. Linscott"
+      },
+      "binary": "cache/engines/stockfish-8/engine",
+      "binary_sha256": "96b33df1c88148e0a9d6e3ad587aacde93030cd8312436fdc6db6bc569509533",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_8",
+      "source_sha256": "e2b77d801d8837c22c2391b8cae08622c1434a2bb5947ddb08b081e1ad35c76c",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++17",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/benchmark.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/bitbase.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/bitboard.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/endgame.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/evaluate.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/main.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/material.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/misc.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/movegen.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/movepick.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/pawns.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/position.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/psqt.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/search.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/syzygy/tbprobe.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/thread.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/timeman.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/tt.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/uci.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-8/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "SyzygyPath": "",
+        "Contempt": 0
+      },
+      "network": null
+    },
+    {
+      "name": "stockfish-12",
+      "year": 2020,
+      "engine_id": {
+        "name": "Stockfish 12",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/engines/stockfish-12/engine",
+      "binary_sha256": "6efcec6276d909adb2c05bd446797e67e0ba6cdeea621760a6a2442c783224e7",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_12",
+      "source_sha256": "d1ec11d1cb8dfc5b33bcd6ec89ed0bafb3951cc1690851448a2696caa2022899",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++17",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "-DNNUE_EMBEDDING_OFF",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/benchmark.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/bitbase.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/bitboard.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/endgame.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/evaluate.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/main.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/material.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/misc.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/movegen.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/movepick.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/nnue/evaluate_nnue.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/nnue/features/half_kp.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/pawns.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/position.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/psqt.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/search.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/syzygy/tbprobe.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/thread.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/timeman.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/tt.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/tune.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/uci.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-12/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "SyzygyPath": "",
+        "Contempt": 0,
+        "Analysis Contempt": "Off",
+        "EvalFile": "cache/engines/stockfish-12/nn-82215d0fd0df.nnue"
+      },
+      "network": {
+        "path": "cache/engines/stockfish-12/nn-82215d0fd0df.nnue",
+        "sha256": "82215d0fd0df3cde17fc47ac024c5b5736823ec390200abdd705c44660c69ee4",
+        "url": "https://tests.stockfishchess.org/api/nn/nn-82215d0fd0df.nnue"
+      }
+    },
+    {
+      "name": "stockfish-17.1",
+      "year": 2025,
+      "engine_id": {
+        "name": "Stockfish 17.1",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon",
+      "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "UCI_ShowWDL": true,
+        "Skill Level": 20,
+        "UCI_LimitStrength": false,
+        "SyzygyPath": ""
+      },
+      "source_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+      "network": "embedded in the official hashed binary"
+    },
+    {
+      "name": "stockfish-13",
+      "year": 2021,
+      "engine_id": {
+        "name": "Stockfish 13",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/research/stockfish-13/Stockfish-sf_13/src/stockfish",
+      "binary_sha256": "c47cd7dbfae96a855ff80420eabc08010d1a4ddfb850dfdc69ab248b808af28e",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "SyzygyPath": "",
+        "Contempt": 0,
+        "Analysis Contempt": "Off",
+        "UCI_ShowWDL": true
+      },
+      "archive_sha256": "15d14721b3be17c597535bdbb44fb951a1ee948312d90fbf55fa0e52b8b81d62",
+      "network_sha256": "62ef826d1a6d11b9e814188025aa02a60815c037292e0ef9bbb9bf4f724e5e63",
+      "commit": "3597f1942ec6f2cfbd50b905683739b0900ff5dd",
+      "build_command": [
+        "make",
+        "-j4",
+        "build",
+        "ARCH=apple-silicon",
+        "COMP=clang",
+        "CXX=clang++"
+      ],
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "bench_nodes": 3766422,
+      "expected_bench_nodes": 3766422,
+      "bench_log": "cache/research/stockfish-13/bench.log",
+      "bench_log_sha256": "9dc02e7e95f2cf29d8e85139604a7bb240bfde6d85dffcfdd76bbb4d3851f6c9"
+    },
+    {
+      "name": "stockfish-14",
+      "year": 2021,
+      "engine_id": {
+        "name": "Stockfish 14",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/research/stockfish-14/Stockfish-sf_14/src/stockfish",
+      "binary_sha256": "599d49cf816ae8481712b10feb39ab8976002a2e7291b316d07a08fb374e00ee",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "SyzygyPath": "",
+        "UCI_ShowWDL": true
+      },
+      "archive_sha256": "6f35e3e684da87d27d3f29ec7281ac81468a5a86b4d99ac5c599addc984a766c",
+      "network_sha256": "3475407dc19973ea44467678634cce023d620e419770c111cc8937fe6689ec87",
+      "commit": "773dff020968f7a6f590cfd53e8fd89f12e15e36",
+      "build_command": [
+        "make",
+        "-j4",
+        "build",
+        "ARCH=apple-silicon",
+        "COMP=clang",
+        "CXX=clang++"
+      ],
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "bench_nodes": 4770936,
+      "expected_bench_nodes": 4770936,
+      "bench_log": "cache/research/stockfish-14/bench.log",
+      "bench_log_sha256": "98ae6db88cf6dac03201b31c310313d1f08b65fcbd08e4aa8669aa03371d37e3"
+    },
+    {
+      "name": "stockfish-15",
+      "year": 2022,
+      "engine_id": {
+        "name": "Stockfish 15",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/research/stockfish-15/Stockfish-sf_15/src/stockfish",
+      "binary_sha256": "321a4f80b03b9340e8f4985a41c04f56de48d5fa0576809a9f8fc565f8eb0c8e",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "SyzygyPath": "",
+        "UCI_ShowWDL": true
+      },
+      "archive_sha256": "0553fe53ea57ce6641048049d1a17d4807db67eecd3531a3749401362a27c983",
+      "network_sha256": "6877cd24400e01b19ff12ae3068ae242152802bdd330e66f7b6703865251d6e3",
+      "commit": "e6e324eb28fd49c1fc44b3b65784f85a773ec61c",
+      "build_command": [
+        "make",
+        "-j4",
+        "build",
+        "ARCH=apple-silicon",
+        "COMP=clang",
+        "CXX=clang++"
+      ],
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "bench_nodes": 8129754,
+      "expected_bench_nodes": 8129754,
+      "bench_log": "cache/research/stockfish-15/bench.log",
+      "bench_log_sha256": "15711aa7fbacf55bcebb5f73d61f1c7743795ff982cf6f4924cab1838184b4a4"
+    },
+    {
+      "name": "stockfish-16",
+      "year": 2023,
+      "engine_id": {
+        "name": "Stockfish 16",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/research/stockfish-16/Stockfish-sf_16/src/stockfish",
+      "binary_sha256": "37cd1c176f808a542af8c207c4c36ef6eff1df6ceee301f8e3b25375bdaf72d1",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "SyzygyPath": "",
+        "UCI_ShowWDL": true
+      },
+      "archive_sha256": "a1600ebdaf4e324ba3e10cec2e0c9a810dc64c6f0db5cc955b2fd5e1eefa1cc6",
+      "network_sha256": "5af11540bbfefcb54e38c5dd000cab4b469dfa7599a1d55be5d2722c20a8929b",
+      "commit": "68e1e9b3811e16cad014b590d7443b9063b3eb52",
+      "build_command": [
+        "make",
+        "-j4",
+        "build",
+        "ARCH=apple-silicon",
+        "COMP=clang",
+        "CXX=clang++"
+      ],
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "bench_nodes": 2593605,
+      "expected_bench_nodes": 2593605,
+      "bench_log": "cache/research/stockfish-16/bench.log",
+      "bench_log_sha256": "5521a36837e8c824ac940127d200a1774f51e5fe72124d78b7462f30c56c8d4e"
+    }
+  ],
+  "results": [
+    {
+      "engine": "fruit-2.1",
+      "runs": [
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 124,
+          "mover_mate": null,
+          "nodes": 250000,
+          "depth": 8
+        },
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 124,
+          "mover_mate": null,
+          "nodes": 250000,
+          "depth": 8
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-4",
+      "runs": [
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 36,
+          "mover_mate": null,
+          "nodes": 258683,
+          "depth": 9
+        },
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 36,
+          "mover_mate": null,
+          "nodes": 260742,
+          "depth": 9
+        }
+      ],
+      "exact_search_repeatable": false,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-8",
+      "runs": [
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 25,
+          "mover_mate": null,
+          "nodes": 254970,
+          "depth": 13
+        },
+        {
+          "move_uci": "e1g1",
+          "mover_cp": 25,
+          "mover_mate": null,
+          "nodes": 254970,
+          "depth": 13
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-12",
+      "runs": [
+        {
+          "move_uci": "a2a4",
+          "mover_cp": -3,
+          "mover_mate": null,
+          "nodes": 250002,
+          "depth": 15
+        },
+        {
+          "move_uci": "a2a4",
+          "mover_cp": -3,
+          "mover_mate": null,
+          "nodes": 250002,
+          "depth": 15
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-17.1",
+      "runs": [
+        {
+          "move_uci": "c4b3",
+          "mover_cp": 16,
+          "mover_mate": null,
+          "nodes": 250239,
+          "depth": 16
+        },
+        {
+          "move_uci": "c4b3",
+          "mover_cp": 16,
+          "mover_mate": null,
+          "nodes": 250239,
+          "depth": 16
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-13",
+      "runs": [
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 27,
+          "mover_mate": null,
+          "nodes": 250074,
+          "depth": 17
+        },
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 27,
+          "mover_mate": null,
+          "nodes": 250074,
+          "depth": 17
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-14",
+      "runs": [
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 6,
+          "mover_mate": null,
+          "nodes": 250267,
+          "depth": 15
+        },
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 6,
+          "mover_mate": null,
+          "nodes": 250267,
+          "depth": 15
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-15",
+      "runs": [
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 14,
+          "mover_mate": null,
+          "nodes": 250361,
+          "depth": 14
+        },
+        {
+          "move_uci": "a2a4",
+          "mover_cp": 14,
+          "mover_mate": null,
+          "nodes": 250361,
+          "depth": 14
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    },
+    {
+      "engine": "stockfish-16",
+      "runs": [
+        {
+          "move_uci": "c4b3",
+          "mover_cp": 21,
+          "mover_mate": null,
+          "nodes": 250047,
+          "depth": 18
+        },
+        {
+          "move_uci": "c4b3",
+          "mover_cp": 21,
+          "mover_mate": null,
+          "nodes": 250047,
+          "depth": 18
+        }
+      ],
+      "exact_search_repeatable": true,
+      "move_and_score_repeatable": true
+    }
+  ],
+  "limits": [
+    "One selected position, two fresh processes per engine, on this build and machine.",
+    "Requested node limits may overshoot; actual-node differences can prevent exact repeatability.",
+    "This is a repeatability check, without validation of the build against official bench signatures."
+  ],
+  "inputs_sha256": {
+    "data/curated/pal_css_2005_decisions.csv": "427b4b012977ae963222dff3153a2bc0d743e5480be499478141eb68348acd65",
+    "data/derived/engine_builds.json": "51410ca1597c9baf47512542d4d4c2a1d9e99cf2b6518e20cb98bf5bb609efea",
+    "data/derived/nielsen_engine_builds.json": "8f00b08769f57c298ad7bf29c08907e706192fbe79288202b95054ed5d6954e9",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/check_engine_repeatability.py": "44a17ccb7a3f7298e16904f9a3420de674138cd65902f4fc936edbe80945beeb"
+  }
+}

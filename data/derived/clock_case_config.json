@@ -1,0 +1,26 @@
+{
+  "engine": "Stockfish 17.1",
+  "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+  "options": {
+    "Threads": 1,
+    "Hash": 64,
+    "UCI_ShowWDL": true,
+    "Skill Level": 20,
+    "UCI_LimitStrength": false,
+    "SyzygyPath": ""
+  },
+  "inputs_sha256": {
+    "pal_final.zip": "a397a6d08288d80c12280b08e3a38733b856e9e0946b9cdf255933ee4b94cf3c",
+    "pal_2007_annotations.pgn": "3b048cc4d3a70eac1765e6c3689604c59c21ac375dfe9b898b36e60a8d417562",
+    "pal_2007_final5.zip": "66fb3f9fa2baeea1cff6c71be178a80a1aeeb2d4d02ba991120756ef63e71595"
+  },
+  "selection": "two long thinks in the timed 2005 loss; three 2007 participant claims",
+  "method": "full move history, fresh hash; last complete equal-depth MultiPV cycle with distinct roots",
+  "budgets": [
+    1000000,
+    4000000,
+    16000000
+  ],
+  "interpretation": "modern checks of selected moves, not historical engine behaviour or causal effects of thinking time",
+  "output_sha256": "336752420989b83fcc28ff47c08e5528760bc09dbc299da75e5f0e6bd11aaedc"
+}

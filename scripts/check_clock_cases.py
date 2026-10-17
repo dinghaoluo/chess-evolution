@@ -23,35 +23,33 @@ from pal_css_2005_case import ENGINE, search
 #%% cases
 # the later examples test specific accounts, not an error rate for all games
 CASES = [
-    ('zacks_tank_loss_12', 'pal_final.zip', 11, 23, None),
-    ('zacks_tank_loss_14', 'pal_final.zip', 11, 27, None),
-    ('nielsen_endgame_28', 'pal_2007_annotations.pgn', 1, 55, None),
-    ('nielsen_prepared_exchange', 'pal_2007_final5.pgn', 2, 52, None),
-    ('nielsen_prepared_long_think', 'pal_2007_final5.pgn', 2, 68, None),
-    ('ding_game3_18', 'wcc_2024_all.pgn', 3, 36, 'Be7'),
-    ('ding_game7_40', 'wcc_2024_all.pgn', 7, 80, 'Nc8'),
-    ('gukesh_game7_44', 'wcc_2024_all.pgn', 7, 87, 'h4'),
-    ('ding_game11_28', 'wcc_2024_all.pgn', 11, 56, 'Nb4'),
+    ('zacks_tank_loss_12', 'pal_final.zip', 11, 23),
+    ('zacks_tank_loss_14', 'pal_final.zip', 11, 27),
+    ('nielsen_endgame_28', 'pal_2007_annotations.pgn', 1, 55),
+    ('nielsen_prepared_exchange', 'pal_2007_final5.zip', 2, 52),
+    ('nielsen_prepared_long_think', 'pal_2007_final5.zip', 2, 68),
 ]
 
 
 #%% main
 def main() -> None:
-    data = Path('data')
-    cache = Path('.venv/research-sources')
+    data = Path('data/derived')
+    cache = Path('cache/sources')
     config = json.loads((data / 'stockfish_config.json').read_text())
+    frozen = {row['file']: row['sha256'] for row in json.loads(Path('data/curated/source_files.json').read_text())}
     assert hashlib.sha256(ENGINE.read_bytes()).hexdigest() == config['binary_sha256']
     inputs = {}
     rows = []
     with chess.engine.SimpleEngine.popen_uci(str(ENGINE)) as engine:
         engine.configure(config['options'])
-        for case_id, name, ordinal, ply, alternative in CASES:
+        for case_id, name, ordinal, ply in CASES:
             raw = (cache / name).read_bytes()
             inputs[name] = hashlib.sha256(raw).hexdigest()
+            assert inputs[name] == frozen[name], name
             if name.endswith('.zip'):
                 with ZipFile(io.BytesIO(raw)) as archive:
                     raw = archive.read(next(n for n in archive.namelist() if n.lower().endswith('.pgn')))
-            pgn = io.StringIO(raw.decode('utf-8' if name.startswith('wcc') else 'latin-1'))
+            pgn = io.StringIO(raw.decode('latin-1'))
             games = list(iter(lambda: chess.pgn.read_game(pgn), None))
             game = games[ordinal - 1]
             assert not game.errors
@@ -61,9 +59,6 @@ def main() -> None:
                 board.push(move)
             played = moves[ply - 1]
             searches = [('unrestricted', None, 3, nodes) for nodes in [1_000_000, 4_000_000, 16_000_000]]
-            if alternative:
-                candidates = [played, board.parse_san(alternative)]
-                searches += [('reported_pair', candidates, 2, nodes) for nodes in [4_000_000, 16_000_000]]
             for comparison, candidates, multipv, budget in searches:
                 infos = search(engine, board, budget, candidates, multipv)
                 for info in infos:
@@ -85,10 +80,11 @@ def main() -> None:
         writer.writerows(rows)
     metadata = {'engine': 'Stockfish 17.1', 'binary_sha256': config['binary_sha256'],
                 'options': config['options'], 'inputs_sha256': inputs,
-                'selection': 'two long thinks in the timed 2005 loss; three 2007 participant claims; four documented 2024 mistakes',
+                'selection': 'two long thinks in the timed 2005 loss; three 2007 participant claims',
                 'method': 'full move history, fresh hash; last complete equal-depth MultiPV cycle with distinct roots',
                 'budgets': [1000000, 4000000, 16000000],
-                'interpretation': 'modern checks of selected moves, not historical engine behaviour or causal effects of thinking time'}
+                'interpretation': 'modern checks of selected moves, not historical engine behaviour or causal effects of thinking time',
+                'output_sha256': hashlib.sha256((data / 'clock_case_evaluations.csv').read_bytes()).hexdigest()}
     (data / 'clock_case_config.json').write_text(json.dumps(metadata, indent=2) + '\n')
 
 

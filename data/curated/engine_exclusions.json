@@ -1,0 +1,13 @@
+[
+  {
+    "engine": "stockfish-1.0",
+    "release_year": 2008,
+    "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_1.0",
+    "source_sha256": "632c196d1c7607bd9c0c6b0d963ba809c711bebb4e51ee55828afafa1b7c5cb0",
+    "checked_at": "2026-10-16",
+    "status": "excluded_pending_build_validation",
+    "observation": "repeated exit -11 on selected decision positions with the arm64 clang build",
+    "diagnostics": "undefined-behaviour checks reported a final SafetyTable look-ahead and PhaseTable[-1]; bounding these did not establish a working build",
+    "interpretation": "no move results retained and no historical ability inferred from the failed build"
+  }
+]

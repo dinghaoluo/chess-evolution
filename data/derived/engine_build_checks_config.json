@@ -1,0 +1,11 @@
+{
+  "inputs_sha256": {
+    "data/curated/engine_bench_references.json": "746a5ed6bc0c5cdb2c4ab0d8656849049cd35929eb74b416a10d0f88f855d95a",
+    "data/derived/engine_builds.json": "51410ca1597c9baf47512542d4d4c2a1d9e99cf2b6518e20cb98bf5bb609efea"
+  },
+  "outputs_sha256": {
+    "data/derived/engine_bench_checks.json": "779363fd548ba93316a25b61898f1f50e5f25ca7e3808be5130a6fada13e2230",
+    "data/derived/fruit_source.diff": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+    "data/derived/fruit_source_check.json": "28aa009af233dff345a5baba79db2c6950b22985fb85b93b3095f4848184ca4d"
+  }
+}

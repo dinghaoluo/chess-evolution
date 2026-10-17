@@ -1,0 +1,91 @@
+case_id,decision_kind,engine,classes_by_budget,same_class_all_budgets,selected_all_budgets,selected_or_near_equal_all_budgets,classes_by_budget_10cp,selected_or_near_equal_all_budgets_10cp,classes_by_budget_30cp,selected_or_near_equal_all_budgets_30cp
+zacks_dobrov_13,prepared opening choice,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_13,prepared opening choice,stockfish-4,rejected rejected near_equal,0,0,0,rejected rejected near_equal,0,rejected rejected near_equal,0
+zacks_dobrov_13,prepared opening choice,stockfish-8,near_equal near_equal near_equal,1,0,1,rejected near_equal near_equal,0,near_equal near_equal near_equal,1
+zacks_dobrov_13,prepared opening choice,stockfish-12,near_equal selected selected,0,0,1,near_equal selected selected,1,near_equal selected selected,1
+zacks_dobrov_13,prepared opening choice,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_31,prepared move,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_31,prepared move,stockfish-4,near_equal search_reversal search_reversal,0,0,0,near_equal search_reversal search_reversal,0,near_equal near_equal search_reversal,0
+zacks_dobrov_31,prepared move,stockfish-8,near_equal search_reversal selected,0,0,0,rejected search_reversal selected,0,near_equal search_reversal selected,0
+zacks_dobrov_31,prepared move,stockfish-12,search_reversal selected selected,0,0,0,search_reversal selected selected,0,near_equal selected selected,1
+zacks_dobrov_31,prepared move,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_35,revision during play,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_35,revision during play,stockfish-4,near_equal near_equal rejected,0,0,0,near_equal near_equal rejected,0,near_equal near_equal near_equal,1
+zacks_dobrov_35,revision during play,stockfish-8,near_equal near_equal near_equal,1,0,1,search_reversal near_equal search_reversal,0,near_equal near_equal near_equal,1
+zacks_dobrov_35,revision during play,stockfish-12,rejected rejected near_equal,0,0,0,rejected rejected near_equal,0,rejected rejected near_equal,0
+zacks_dobrov_35,revision during play,stockfish-17.1,rejected near_equal rejected,0,0,0,rejected rejected rejected,0,near_equal near_equal near_equal,1
+zacks_dobrov_45,engine recommendation rejected,fruit-2.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_45,engine recommendation rejected,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_45,engine recommendation rejected,stockfish-8,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_45,engine recommendation rejected,stockfish-12,search_reversal selected selected,0,0,0,search_reversal selected selected,0,search_reversal selected selected,0
+zacks_dobrov_45,engine recommendation rejected,stockfish-17.1,near_equal selected near_equal,0,0,1,near_equal selected rejected,0,near_equal selected near_equal,1
+zacks_dobrov_49,time allocation,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_49,time allocation,stockfish-4,near_equal near_equal rejected,0,0,0,near_equal near_equal rejected,0,near_equal near_equal rejected,0
+zacks_dobrov_49,time allocation,stockfish-8,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_dobrov_49,time allocation,stockfish-12,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_dobrov_49,time allocation,stockfish-17.1,near_equal selected rejected,0,0,0,near_equal selected rejected,0,near_equal selected near_equal,1
+zacks_dobrov_54,evaluation disagreement,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_54,evaluation disagreement,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_54,evaluation disagreement,stockfish-8,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_54,evaluation disagreement,stockfish-12,selected selected rejected,0,0,0,selected selected rejected,0,selected selected rejected,0
+zacks_dobrov_54,evaluation disagreement,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_69,retrospective claim,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_dobrov_69,retrospective claim,stockfish-4,rejected rejected search_reversal,0,0,0,rejected rejected search_reversal,0,rejected rejected near_equal,0
+zacks_dobrov_69,retrospective claim,stockfish-8,rejected search_reversal search_reversal,0,0,0,rejected search_reversal search_reversal,0,rejected near_equal search_reversal,0
+zacks_dobrov_69,retrospective claim,stockfish-12,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_dobrov_69,retrospective claim,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_11,opening choice,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game13_11,opening choice,stockfish-4,near_equal near_equal rejected,0,0,0,rejected near_equal rejected,0,near_equal near_equal near_equal,1
+zacks_game13_11,opening choice,stockfish-8,near_equal rejected near_equal,0,0,0,near_equal rejected rejected,0,near_equal rejected near_equal,0
+zacks_game13_11,opening choice,stockfish-12,selected near_equal near_equal,0,0,1,selected rejected rejected,0,selected near_equal near_equal,1
+zacks_game13_11,opening choice,stockfish-17.1,near_equal near_equal selected,0,0,1,near_equal search_reversal selected,0,near_equal near_equal selected,1
+zacks_game13_15,exchange avoidance,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game13_15,exchange avoidance,stockfish-4,rejected rejected near_equal,0,0,0,rejected rejected rejected,0,rejected near_equal near_equal,0
+zacks_game13_15,exchange avoidance,stockfish-8,near_equal near_equal selected,0,0,1,near_equal near_equal selected,1,near_equal near_equal selected,1
+zacks_game13_15,exchange avoidance,stockfish-12,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_15,exchange avoidance,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_23,preparation and published theory,fruit-2.1,selected unavailable unavailable,0,0,0,selected unavailable unavailable,0,selected unavailable unavailable,0
+zacks_game13_23,preparation and published theory,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_23,preparation and published theory,stockfish-8,search_reversal selected rejected,0,0,0,search_reversal selected rejected,0,search_reversal selected near_equal,0
+zacks_game13_23,preparation and published theory,stockfish-12,selected rejected rejected,0,0,0,selected rejected rejected,0,selected rejected rejected,0
+zacks_game13_23,preparation and published theory,stockfish-17.1,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game13_43,search and time pressure,fruit-2.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_43,search and time pressure,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_43,search and time pressure,stockfish-8,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_43,search and time pressure,stockfish-12,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game13_43,search and time pressure,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game22_26,positional plan,fruit-2.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game22_26,positional plan,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game22_26,positional plan,stockfish-8,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+zacks_game22_26,positional plan,stockfish-12,near_equal near_equal selected,0,0,1,near_equal near_equal selected,1,near_equal near_equal selected,1
+zacks_game22_26,positional plan,stockfish-17.1,near_equal near_equal selected,0,0,1,near_equal near_equal selected,1,near_equal near_equal selected,1
+zacks_game17_28,unresolved analysis,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game17_28,unresolved analysis,stockfish-4,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game17_28,unresolved analysis,stockfish-8,near_equal near_equal rejected,0,0,0,rejected rejected rejected,0,near_equal near_equal rejected,0
+zacks_game17_28,unresolved analysis,stockfish-12,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game17_28,unresolved analysis,stockfish-17.1,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game19_4,opening revision,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game19_4,opening revision,stockfish-4,near_equal near_equal selected,0,0,1,near_equal near_equal selected,1,near_equal near_equal selected,1
+zacks_game19_4,opening revision,stockfish-8,near_equal near_equal selected,0,0,1,rejected search_reversal selected,0,near_equal near_equal selected,1
+zacks_game19_4,opening revision,stockfish-12,selected near_equal search_reversal,0,0,0,selected near_equal search_reversal,0,selected near_equal near_equal,1
+zacks_game19_4,opening revision,stockfish-17.1,near_equal near_equal near_equal,1,0,1,near_equal near_equal near_equal,1,near_equal near_equal near_equal,1
+zacks_game13_35,retrospective alternative,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game13_35,retrospective alternative,stockfish-4,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected near_equal rejected,0
+zacks_game13_35,retrospective alternative,stockfish-8,selected rejected rejected,0,0,0,selected rejected rejected,0,selected near_equal rejected,0
+zacks_game13_35,retrospective alternative,stockfish-12,selected rejected rejected,0,0,0,selected rejected rejected,0,selected rejected rejected,0
+zacks_game13_35,retrospective alternative,stockfish-17.1,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game22_27,opponent plan,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+zacks_game22_27,opponent plan,stockfish-4,rejected near_equal near_equal,0,0,0,rejected near_equal near_equal,0,near_equal near_equal near_equal,1
+zacks_game22_27,opponent plan,stockfish-8,rejected near_equal rejected,0,0,0,rejected rejected rejected,0,rejected near_equal rejected,0
+zacks_game22_27,opponent plan,stockfish-12,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+zacks_game22_27,opponent plan,stockfish-17.1,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+nielsen_endgame_28,reported historical engine difficulty,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+nielsen_endgame_28,reported historical engine difficulty,stockfish-4,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+nielsen_endgame_28,reported historical engine difficulty,stockfish-8,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+nielsen_endgame_28,reported historical engine difficulty,stockfish-12,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+nielsen_endgame_28,reported historical engine difficulty,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1
+nielsen_prepared_exchange,reported historical engine difficulty,fruit-2.1,unavailable unavailable unavailable,1,0,0,unavailable unavailable unavailable,0,unavailable unavailable unavailable,0
+nielsen_prepared_exchange,reported historical engine difficulty,stockfish-4,rejected rejected rejected,1,0,0,rejected rejected rejected,0,rejected rejected rejected,0
+nielsen_prepared_exchange,reported historical engine difficulty,stockfish-8,rejected rejected near_equal,0,0,0,rejected rejected near_equal,0,rejected rejected near_equal,0
+nielsen_prepared_exchange,reported historical engine difficulty,stockfish-12,rejected rejected near_equal,0,0,0,rejected rejected near_equal,0,rejected near_equal near_equal,0
+nielsen_prepared_exchange,reported historical engine difficulty,stockfish-17.1,selected selected selected,1,1,1,selected selected selected,1,selected selected selected,1

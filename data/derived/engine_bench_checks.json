@@ -1,0 +1,32 @@
+[
+  {
+    "engine": "stockfish-4",
+    "binary_sha256": "cb3d2e7c8a8cdce9b493864572d5081c67865962d0ea81d77c9d24a40f5392d8",
+    "nodes": 4132374,
+    "expected_nodes": 4132374,
+    "matches_official": true,
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/4d120ee02edff250a6661e63d913e70efc37e2b6",
+    "log": "cache/research/stockfish-4-bench.log",
+    "log_sha256": "9345209ad275b6d3a64160d537477fcba912919244348652f8cf170b405f1286"
+  },
+  {
+    "engine": "stockfish-8",
+    "binary_sha256": "96b33df1c88148e0a9d6e3ad587aacde93030cd8312436fdc6db6bc569509533",
+    "nodes": 5926706,
+    "expected_nodes": 5926706,
+    "matches_official": true,
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/369eff437cc081eb4b8ab5f519cf3f86b79e87d0",
+    "log": "cache/research/stockfish-8-bench.log",
+    "log_sha256": "52a1d9ce423af1e9e31146efdb3cfc0004c581b913f20d928db5f1ae2bec6da3"
+  },
+  {
+    "engine": "stockfish-12",
+    "binary_sha256": "6efcec6276d909adb2c05bd446797e67e0ba6cdeea621760a6a2442c783224e7",
+    "nodes": 3624569,
+    "expected_nodes": 3624569,
+    "matches_official": true,
+    "source_url": "https://github.com/official-stockfish/Stockfish/commit/c306d838697011da0a960758dde3f7ede6849060",
+    "log": "cache/research/stockfish-12-bench.log",
+    "log_sha256": "6d9414d657137db4471bfb865ae7f27ac5cec42426975b90d8cbeec8f7ff7353"
+  }
+]

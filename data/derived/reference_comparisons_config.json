@@ -1,0 +1,100 @@
+{
+  "reference": {
+    "name": "fruit-2.1",
+    "year": 2005,
+    "engine_id": {
+      "name": "Fruit 2.1",
+      "author": "Fabien Letouzey"
+    },
+    "binary": "cache/engines/fruit-2.1/engine",
+    "binary_sha256": "68dee5bc910893fa9bb35dd78c6405730b0084cc7d0fa1d1f287ebfd820499b6",
+    "source_url": "https://codeload.github.com/Warpten/Fruit-2.1/tar.gz/09627df3835f205c92ece013219c7a99ac4a023a",
+    "source_sha256": "37e0e8dd09aa53966a24ff328d1ec5a4e7bbca9a3f3a11e399e0be2c3e370624",
+    "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+    "command": [
+      "clang++",
+      "-O3",
+      "-DNDEBUG",
+      "-std=c++17",
+      "-pthread",
+      "-fno-strict-aliasing",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/attack.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/board.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/book.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/eval.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/fen.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/hash.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/list.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/main.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/material.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_check.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_do.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_evasion.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_gen.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/move_legal.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/option.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pawn.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/piece.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/posix.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/protocol.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pst.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/pv.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/random.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/recog.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/search.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/search_full.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/see.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/sort.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/square.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/trans.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/util.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/value.cpp",
+      "cache/engines/fruit-2.1/Fruit-2.1-09627df3835f205c92ece013219c7a99ac4a023a/src/vector.cpp",
+      "-o",
+      "cache/engines/fruit-2.1/engine"
+    ],
+    "patch": "node-limit stop guard at the existing search_check cadence; search and evaluation otherwise unchanged",
+    "options": {
+      "Hash": 64,
+      "OwnBook": false
+    },
+    "network": null
+  },
+  "modern": {
+    "name": "stockfish-17.1",
+    "year": 2025,
+    "engine_id": {
+      "name": "Stockfish 17.1",
+      "author": "the Stockfish developers (see AUTHORS file)"
+    },
+    "binary": "cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon",
+    "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+    "options": {
+      "Threads": 1,
+      "Hash": 64,
+      "UCI_ShowWDL": true,
+      "Skill Level": 20,
+      "UCI_LimitStrength": false,
+      "SyzygyPath": ""
+    },
+    "source_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+    "network": "embedded in the official hashed binary"
+  },
+  "nominal_nodes_per_second": [
+    10000,
+    100000
+  ],
+  "modern_nodes": 4000000,
+  "hash_policy": "fresh process for each search; full game history",
+  "population": "sixteen participant-selected decisions; missing move times retained explicitly",
+  "interpretation": "deviation from a reference engine under assumed speeds; neither the team engines nor equal historical compute; modern WDL differences are model outputs",
+  "inputs_sha256": {
+    "data/curated/pal_css_2005_decisions.csv": "427b4b012977ae963222dff3153a2bc0d743e5480be499478141eb68348acd65",
+    "data/derived/pal_css_2005_games.csv": "cf61fb4ce4566473d0953d812a2bdaaf39d3344899734b253c005bbc30e674f1",
+    "data/derived/pal_css_clock_games.csv": "c9eb571f1b59243f0ee807f325bdaf197e0ed30a1c03955d027d9986efb64a9e",
+    "data/derived/pal_css_move_times.csv": "2447af0fe80c6570857b84cded417ff139aadfd4f1a11782160cb6196fa8a34c"
+  },
+  "output_sha256": "ce55744c7d4cf48967026b80629002f6ade85b9e850b22d23dc87b294ec4f42c",
+  "status": "uncalibrated archival scenarios; excluded from the essay on 16 October 2026"
+}

@@ -7,7 +7,6 @@ check the reported decisions and evaluation changes in the annotated PAL/CSS gam
 '''
 
 #%% imports
-import argparse
 import csv
 import hashlib
 import json
@@ -18,8 +17,8 @@ import chess.engine
 
 
 #%% inputs
-DATA = Path('data')
-ENGINE = Path('.venv/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon')
+DATA = Path('data/derived')
+ENGINE = Path('cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon')
 BUDGETS = [1_000_000, 4_000_000, 16_000_000]
 
 
@@ -29,6 +28,11 @@ def search(
         moves: list[chess.Move] | None = None, multipv: int = 2,
 ) -> list[dict]:
     iteration = {}
+    completed = []
+    roots = list(board.legal_moves) if moves is None else moves
+    if not roots:
+        raise ValueError('search requires at least one legal move')
+    multipv = min(multipv, len(roots))
     # a node limit can interrupt the next iteration after only one candidate
     with engine.analysis(board, chess.engine.Limit(nodes=nodes), multipv=multipv,
                          root_moves=moves, game=object()) as analysis:
@@ -46,7 +50,9 @@ def search(
                 if (len({candidate['depth'] for candidate in candidates}) == 1
                         and len({candidate['pv'][0] for candidate in candidates}) == multipv):
                     completed = candidates
-        total_nodes = max(info['nodes'] for info in analysis.multipv)
+        total_nodes = max((info.get('nodes', 0) for info in analysis.multipv), default=0)
+    if not completed:
+        raise chess.engine.EngineError('node budget ended before a complete exact MultiPV cycle')
     return [{**info, 'search_nodes': total_nodes} for info in completed]
 
 
@@ -77,14 +83,11 @@ def result_rows(
 
 #%% comparisons
 def main() -> None:
-    parser = argparse.ArgumentParser()
-    parser.add_argument('--skip-trajectories', action='store_true')
-    args = parser.parse_args()
     config = json.loads((DATA / 'stockfish_config.json').read_text())
     assert hashlib.sha256(ENGINE.read_bytes()).hexdigest() == config['binary_sha256']
     with (DATA / 'pal_css_2005_games.csv').open() as source:
         games = {row['source_ordinal']: row for row in csv.DictReader(source)}
-    with (DATA / 'pal_css_2005_decisions.csv').open() as source:
+    with (Path('data/curated') / 'pal_css_2005_decisions.csv').open() as source:
         cases = list(csv.DictReader(source))
     rows = []
     with chess.engine.SimpleEngine.popen_uci(str(ENGINE)) as engine:
@@ -121,7 +124,7 @@ def main() -> None:
 
         # all supplied positions show whether the chosen moments omit later reversals
         trajectory = []
-        for ordinal in ([] if args.skip_trajectories else ['13', '22', '26']):
+        for ordinal in ['13', '22', '26']:
             board = chess.Board(games[ordinal]['initial_fen'])
             for ply, move in enumerate(games[ordinal]['moves_uci'].split(), 1):
                 if ply >= 11:
@@ -150,13 +153,15 @@ def main() -> None:
         'trajectory': 'unrestricted single PV, 1M nodes, every supplied position from ply 11 in all three annotated scores',
         'interpretation': 'modern evaluations; trajectories locate changes and do not measure move loss',
         'turning_points': {
-            'selection': 'three largest mover-perspective WDL deteriorations per supplied annotated score at 1M nodes, where the played move differed from the recommendation',
+            'selection': 'three largest mover-perspective WDL deteriorations per side in each supplied annotated score at 1M nodes, where the played move differed from the recommendation',
             'comparison': 'shared root search of the played move and the 1M recommendation, at 4M and 16M nodes',
             'interpretation': 'exploratory checks of evaluation changes; not an intervention effect estimate',
             'trajectory_sha256': hashlib.sha256((DATA / 'pal_css_2005_trajectory.csv').read_bytes()).hexdigest(),
         },
-        'inputs': {name: hashlib.sha256((DATA / name).read_bytes()).hexdigest()
-                   for name in ['pal_css_2005_games.csv', 'pal_css_2005_decisions.csv']},
+        'inputs': {str(path): hashlib.sha256(path.read_bytes()).hexdigest()
+                   for path in [DATA / 'pal_css_2005_games.csv', Path('data/curated/pal_css_2005_decisions.csv')]},
+        'outputs': {name: hashlib.sha256((DATA / name).read_bytes()).hexdigest()
+                    for name in ['pal_css_2005_case.csv', 'pal_css_2005_trajectory.csv']},
     }
     (DATA / 'pal_css_2005_case_config.json').write_text(json.dumps(case_config, indent=2) + '\n')
 
