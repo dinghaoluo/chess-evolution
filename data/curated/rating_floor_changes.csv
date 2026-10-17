@@ -1,0 +1,12 @@
+date,date_precision,floor,scope,source_url,page,limit
+1971-07-01,exact,2250,untitled players,https://www.olimpbase.org/Elo/summary.html,unpaginated,first official list; titled players below the floor were included
+1975-01-01,observed by,2200,men,https://www.olimpbase.org/Elo/Elo197501e.html,unpaginated,January list includes lower-rated women; exact earlier effective date unresolved
+1985-07-01,exact,1905,all players,https://www.olimpbase.org/Elo/summary.html,unpaginated,archive reports delisting below 1905; men's higher floor remained
+1987-01-01,exact,2005,women,https://www.olimpbase.org/Elo/summary.html,unpaginated,100-point adjustment except Zsuzsa Polgar; discontinuity beyond simple participation
+1993-01-01,exact,2005,men,https://www.olimpbase.org/Elo/summary.html,unpaginated,rounded historical floor; Sonas retrospective calls this 2000
+2001-10-01,retrospective,1800,standard,https://www.fide.com/docs/presentations/Sonas%20Proposal%20-%20Repairing%20the%20FIDE%20Standard%20Elo%20Rating%20System.pdf,2,Sonas retrospective; published statistics show only four entries in 1800–2000 in October 2001 and substantial entry from July 2002
+2004-07-01,observed by,1600,standard,https://www.fide.com/images/stories/NEWS_2011/fide_news/Agenda_and_Annexes_2011/Annex_66_-_Appendix_3_-_Overall_Tournament_Title_and_Ratings_Statistic.pdf,6,first nonzero 1600–1800 band in this table; regulation effective date unresolved
+2006-01-01,exact,1400,standard,https://fide.com/images/stories/NEWS/download/annexes/EB2005/Annex13.pdf,1,"Qualification Commission decision for 1 January 2006, advancing the July 2006 date in the Titles and Ratings Committee report; observed January list agrees"
+2009-07-01,exact,1200,standard,https://old.fide.com/component/content/article/1-fide-news/4059-changes-to-title-and-rating-regulations-effective-from-july-1st-2009.html,unpaginated,contemporaneous regulation notice
+2012-07-01,exact,1000,standard,https://old.fide.com/component/content/article/1-fide-news/6270-july-2012-fide-rating-list.html,unpaginated,contemporaneous July notice; Sonas retrospective says August
+2024-03-01,exact,1400,standard,https://www.fide.com/new-fide-rating-and-title-regulations-come-into-effect/,unpaginated,one-off increase below 2000 by 0.4 times the gap to 2000; no direct adjustment above 2000

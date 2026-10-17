@@ -1,0 +1,6 @@
+start,end,months,status,source_url,page,limit
+1999-07-01,2009-06-30,,unverified_historical_window,https://www.olimpbase.org/Elo/summary.html,unpaginated,inactive flags available from July 1999; governing look-back window not verified here
+2009-07-01,2014-06-30,12,documented_rule,https://fide.com/images/stories/NEWS_2008/79th_fide_congress/annex_70_2008.pdf,4,November 2008 minutes state one year without games; implementation history before this decision remains unverified
+2014-07-01,2020-10-31,12,documented_rule,https://handbook.fide.com/chapter/B022014,7.23a,one year without rated games; later handbook versions retain the rule
+2020-11-01,2022-12-31,24,temporary_council_decision,https://www.fide.com/resolution-of-fide-council-regarding-the-rating-list/,unpaginated,2 November 2020 announcement applies from November; end date labelled in October 2022 Council annex 5.3.2a
+2023-01-01,,12,documented_reversion,https://doc.fide.com/docs/DOC/2022%20Online%20FC%20October/Annex%205.3.2a_1.pdf,1,table labels new version 1 January 2023; old column repeats one-year baseline despite its temporary-COVID heading; 2022 QC report explicitly describes 24 months and recommends reversal

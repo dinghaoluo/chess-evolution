@@ -1,0 +1,17 @@
+{
+  "source_url": "https://database.lichess.org/#standard_games",
+  "accessed": "2026-10-16",
+  "inputs_sha256": {
+    "cache/research/lichess-database-20261016.html": "2b1db536724631cd0a21e24bff3693b26037676e4f91489072f584be51e24b0d",
+    "scripts/online_participation.py": "ecd27b3b3c43d16a1ec9b972b0a40b77f1f2835637eec46c5ddfbd6717376310"
+  },
+  "outputs_sha256": {
+    "data/derived/online_standard_games.csv": "826463fd7131895a162f10d64ab7b72c4328ac75e55464199aadf745298d583a"
+  },
+  "limits": [
+    "Monthly export counts, summed only for complete calendar years.",
+    "Standard denotes the chess variant, including fast clocks; it does not mean classical time control.",
+    "Games are not unique people, FIDE members, employment, or a causal engine effect.",
+    "No time-control-specific rapid growth series was verified."
+  ]
+}

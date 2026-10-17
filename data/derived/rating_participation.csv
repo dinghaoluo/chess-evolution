@@ -1,0 +1,57 @@
+year,date,threshold,listed_total,observed_minimum,zero_rating_entries,membership_2250,active_2250,living_title_holders,new_open_titles,new_women_titles,summary_total,summary_difference,status,limit
+1971,1971-01-01,2250,547,2200,0,,,,,,547,0,unofficial_excluded,January 1971 is unofficial; excluded from the main official-list series
+1972,1972-01-01,2250,,,,,,,,,,,unavailable,no January list linked by the historical summary; no substitution of another month
+1973,1973-01-01,2250,,,,,,,,,,,unavailable,no January list linked by the historical summary; no substitution of another month
+1974,1974-01-01,2250,,,,,,,,,,,unavailable,no January list linked by the historical summary; no substitution of another month
+1975,1975-01-01,2250,1534,1800,0,1161,,,,,1543,-9,available,"active status unavailable before July 1999, even where the reconstructed list contains flags; text-list total differs from the published summary by -9 entries"
+1976,1976-01-01,2250,1658,1800,0,1239,,,,,1658,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1977,1977-01-01,2250,1908,1800,0,1383,,,,,1908,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1978,1978-01-01,2250,2047,1800,0,1463,,,,,2047,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1979,1979-01-01,2250,2445,1800,0,1770,,,,,2445,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1980,1980-01-01,2250,2897,1800,0,1894,,,,,2897,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1981,1981-01-01,2250,3334,1800,0,2088,,,,,3334,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1982,1982-01-01,2250,3826,1800,0,2319,,,,,3826,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1983,1983-01-01,2250,4211,1800,0,2522,,,,,4211,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1984,1984-01-01,2250,4151,1800,0,2525,,,,,4151,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1985,1985-01-01,2250,4673,1800,0,2789,,,,,4673,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1986,1986-01-01,2250,4803,1905,0,3127,,,,,4803,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1987,1987-01-01,2250,5200,2005,0,3434,,,,,5200,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1988,1988-01-01,2250,6041,2005,0,4051,,,,,6041,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1989,1989-01-01,2250,6915,2005,0,4630,,,,,6915,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1990,1990-01-01,2250,9187,2005,0,5967,,,,,9187,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1991,1991-01-01,2250,10132,2005,0,6570,,,,,10132,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1992,1992-01-01,2250,10951,2005,0,7185,,,,,10951,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1993,1993-01-01,2250,12629,2005,0,7893,,,,,12629,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1994,1994-01-01,2250,14521,2005,0,8280,,,,,14521,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1995,1995-01-01,2250,17010,2005,0,8787,,,,,17010,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1996,1996-01-01,2250,19808,2005,0,9250,,,,,19808,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1997,1997-01-01,2250,22742,2005,0,9733,,,,,22742,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1998,1998-01-01,2250,27111,2005,0,10372,,,,,27111,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+1999,1999-01-01,2250,29991,2001,0,10817,,,,,29991,0,available,"active status unavailable before July 1999, even where the reconstructed list contains flags"
+2000,2000-01-01,2250,33383,2001,0,11393,8359,,,,33383,0,available,
+2001,2001-01-01,2250,36978,2001,0,11629,8829,,,,36978,0,available,
+2002,2002-01-01,2250,29283,2001,0,,8594,,,,,,membership_coverage_gap,"only 84 of 8678 entries at 2250+ are flagged inactive, against 2800 in January 2001; total-membership coverage not reconciled"
+2003,2003-01-01,2250,45016,1802,0,12330,8913,,,,,,available,
+2004,2004-01-01,2250,50458,1801,0,12486,9068,,,,,,available,
+2005,2005-01-01,2250,58649,1603,0,12816,9216,,546,188,,,available,
+2006,2006-01-01,2250,67436,1429,87,12927,9276,,570,147,,,available,
+2007,2007-01-01,2250,77056,1401,0,13274,9305,,723,179,,,available,
+2008,2008-01-01,2250,87075,1401,0,13435,9073,,669,156,,,available,
+2009,2009-01-01,2250,99232,1401,9,13530,7754,,733,214,,,available,
+2010,2010-01-01,2250,109556,1212,3,13174,7400,,678,236,,,available,
+2011,2011-01-01,2250,122615,1203,2,13255,7562,,,,,,available,Nov10 header is stale: January URL and Carlsen 2814/Anand 2810/Aronian 2805 agree with the contemporary FIDE January announcement
+2012,2012-01-01,2250,139007,1201,6,13398,7568,,,,,,available,
+2013,2013-01-01,2250,151297,1006,0,12931,7230,,,,,,available,
+2014,2014-01-01,2250,171842,1002,0,13403,7312,,,,,,available,
+2015,2015-01-01,2250,197568,1001,0,13466,7119,,,,,,available,
+2016,2016-01-01,2250,231178,1001,0,13621,7280,,,,,,available,
+2017,2017-01-01,2250,265108,1001,0,13794,7356,,,,,,available,
+2018,2018-01-01,2250,296050,1001,0,13787,7252,,,,,,available,
+2019,2019-01-01,2250,325190,1001,0,13757,7100,,,,,,available,
+2020,2020-01-01,2250,354588,1001,0,13683,6924,,,,,,available,
+2021,2021-01-01,2250,362902,1001,0,13652,7091,,,,,,available,
+2022,2022-01-01,2250,377518,1001,0,13600,6287,,,,,,available,
+2023,2023-01-01,2250,405510,1001,0,13423,5913,,,,,,available,
+2024,2024-01-01,2250,440385,1001,0,13197,5767,,,,,,available,
+2025,2025-01-01,2250,486934,1400,0,13219,5770,,,,,,available,
+2026,2026-01-01,2250,531422,1400,0,13344,5830,,,,,,available,
