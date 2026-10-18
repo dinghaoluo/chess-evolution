@@ -1,0 +1,602 @@
+[
+  {
+    "file": "cache/research/2024olm.pgn",
+    "url": "https://www.olimpbase.org/ob-games/2024olm.pgn",
+    "sha256": "61242d368d2e25a190fb72f1735b4a4db5d83020bcc8a10836971a5c00aa2175",
+    "bytes": 3208648
+  },
+  {
+    "file": "cache/research/2024olw.pgn",
+    "url": "https://www.olimpbase.org/ob-games/2024olw.pgn",
+    "sha256": "d6cad62ee6f4ea10be6cb253a7a781cf8248c7575658a8c24c9d73e3882bb5d1",
+    "bytes": 2736365
+  },
+  {
+    "file": "cache/research/agarwal-2023-original.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w31422/revisions/w31422.rev0.pdf",
+    "sha256": "f10f096b1aecb54c970f8e5e9345360c3c2d355056dc3a21d80a64f45c418e24",
+    "bytes": 913326
+  },
+  {
+    "file": "cache/research/agarwal-2023.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w31422/w31422.pdf",
+    "sha256": "e5e59d94ffda6c1b29fbdbb957f9c0040f1b98511adde10965b490d81b291921",
+    "bytes": 4042086
+  },
+  {
+    "file": "cache/research/agarwal-supplied.pdf",
+    "sha256": "e5e59d94ffda6c1b29fbdbb957f9c0040f1b98511adde10965b490d81b291921",
+    "bytes": 4042086,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "w31422.pdf"
+  },
+  {
+    "file": "cache/research/anicker-manuscript-supplied.pdf",
+    "sha256": "f6d90712e396586c66873a304d5304582d30c2e44d9dfe9fc815264b1b184863",
+    "bytes": 2897665,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "AI_chess_v3_r2_deanonym.pdf"
+  },
+  {
+    "file": "cache/research/anicker.pdf",
+    "url": "https://link.springer.com/content/pdf/10.1007/s00146-025-02465-w.pdf",
+    "sha256": "bbf305f57f83937d0ae61978c83e21d81964a81095872717277b75c660817c2a",
+    "bytes": 865330
+  },
+  {
+    "file": "cache/research/benidorm-2007.html",
+    "url": "https://en.chessbase.com/post/che-festival-in-benidorm-where-a-new-genre-is-born",
+    "sha256": "27d34dcf454cc90c6b11dcd53b5a7cb9acb064f4d1b3b3b270ffb80d6cbd7466",
+    "bytes": 113945
+  },
+  {
+    "file": "cache/research/bilalic-graf-vaci.pdf",
+    "url": "https://researchportal.northumbria.ac.uk/ws/portalfiles/portal/226824003/British_J_of_Psychology_-_2024_-_Bilali_-_Computers_and_chess_masters_The_role_of_AI_in_transforming_elite_human.pdf",
+    "sha256": "7e1315f2b1948a0971cbe9ececada03796cb81c65d38853c54a775615edbb6c6",
+    "bytes": 3254357
+  },
+  {
+    "file": "cache/research/bilalic-published-supplied.pdf",
+    "sha256": "3bbafecb6725fdc33ed83a5560deb80dd9f7e810266dda8104628835f75bdf8d",
+    "bytes": 3254524,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "British J of Psychology - 2024 - Bilalic\u0301 - Computers and chess masters  The role of AI in transforming elite human.pdf"
+  },
+  {
+    "file": "cache/research/bilalic-supplied.pdf",
+    "sha256": "7e1315f2b1948a0971cbe9ececada03796cb81c65d38853c54a775615edbb6c6",
+    "bytes": 3254357,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "British_J_of_Psychology_-_2024_-_Bilali_-_Computers_and_chess_masters_The_role_of_AI_in_transforming_elite_human.pdf"
+  },
+  {
+    "file": "cache/research/brynjolfsson-v2-supplied.pdf",
+    "sha256": "146dcc7459824f0f1fe4a1f9ac7e8be06ee098b8b34e686a75131b77e42ce951",
+    "bytes": 3374702,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "2304.11771v2.pdf"
+  },
+  {
+    "file": "cache/research/brynjolfsson-v2.pdf",
+    "url": "https://arxiv.org/pdf/2304.11771v2",
+    "sha256": "146dcc7459824f0f1fe4a1f9ac7e8be06ee098b8b34e686a75131b77e42ce951",
+    "bytes": 3374702
+  },
+  {
+    "file": "cache/research/budzyn-wrap-supplied.pdf",
+    "sha256": "4296ea811a437d2749051b11f4300da2d43716705ca10ea7b8ffda4ddf0cfbe9",
+    "bytes": 1115789,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "WRAP-Endoscopist-de-skilling-risk-exposure-artificial-intelligence-colonoscopy-25.pdf"
+  },
+  {
+    "file": "cache/research/budzyn-wrap.pdf",
+    "url": "https://wrap.warwick.ac.uk/id/eprint/191005/3/WRAP-Endoscopist-de-skilling-risk-exposure-artificial-intelligence-colonoscopy-25.pdf",
+    "sha256": "4296ea811a437d2749051b11f4300da2d43716705ca10ea7b8ffda4ddf0cfbe9",
+    "bytes": 1115789
+  },
+  {
+    "file": "cache/research/choi-2023.pdf",
+    "url": "https://arxiv.org/pdf/2310.08704v1",
+    "sha256": "3a46ce2f7e3255c382e27d7a70881ba50106b19385aac853d9bcb5c457c43d54",
+    "bytes": 4439176
+  },
+  {
+    "file": "cache/research/choi-v2.pdf",
+    "sha256": "9b6f7471214f01f976b3141abda60567718c8665b1c7442871249719b6e1b1f0",
+    "bytes": 759973,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "2310.08704v2.pdf"
+  },
+  {
+    "file": "cache/research/commit-sf-12.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_12",
+    "sha256": "1a3f155880754143b17b7185aa00afa3091f09de1a0fe323a7d8d26f8e0fe1e1",
+    "bytes": 6415
+  },
+  {
+    "file": "cache/research/commit-sf-13.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_13",
+    "sha256": "2adf0da334991e528729320faa7203a6d79f52ac1da370338921c21d2f7af381",
+    "bytes": 6357
+  },
+  {
+    "file": "cache/research/commit-sf-14.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_14",
+    "sha256": "e2e59e3c67f2c51b705fc70c7172c7d7fa5402f9e0131e1534f93cbec50e1de9",
+    "bytes": 7014
+  },
+  {
+    "file": "cache/research/commit-sf-15.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_15",
+    "sha256": "7f99b2257181e7df18b703984addb2c4dbdd36c4aeeae7d86882e6f09d3799c7",
+    "bytes": 6526
+  },
+  {
+    "file": "cache/research/commit-sf-16.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_16",
+    "sha256": "860a92faa18a527e324ceb70155799b2d44aa1a81afd7303abba76cdb2f109b3",
+    "bytes": 8185
+  },
+  {
+    "file": "cache/research/commit-sf-4.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_4",
+    "sha256": "1fd89210f14261e346b5a7fa62b2406d8cc91139a82207d1d674108f849cb7d0",
+    "bytes": 7367
+  },
+  {
+    "file": "cache/research/commit-sf-8.json",
+    "url": "https://api.github.com/repos/official-stockfish/Stockfish/commits/sf_8",
+    "sha256": "c74e9641767ea07da1838358c3bcaba18f369e5d25a2387c434be0fa10c7c58c",
+    "bytes": 4355
+  },
+  {
+    "file": "cache/research/debian-fruit-index.html",
+    "url": "https://deb.debian.org/debian/pool/main/f/fruit/",
+    "sha256": "e8e6fc27bdccc5c9005995a014fca82f561d569b19dc4e8800660706ff84499a",
+    "bytes": 2279
+  },
+  {
+    "file": "cache/research/dellacqua-2023.pdf",
+    "sha256": "81614bb0eedad198ebce811c521a6ef303db56a2698660d68b2e70d0293eeb42",
+    "bytes": 3342427,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "SSRN-id4573321.pdf"
+  },
+  {
+    "file": "cache/research/edwards-limelight.pdf",
+    "url": "https://chessjournalism.org/wp-content/uploads/2023/06/in-the-limelight-jon-edwards.pdf",
+    "sha256": "8d2cf303a4372c832c4ed69d0b5edb50a536a391c982190f7fad17b8fcc31909",
+    "bytes": 3855368
+  },
+  {
+    "file": "cache/research/fide-2002.zip",
+    "url": "https://ratings.fide.com/download/jan02frl.zip",
+    "sha256": "2bb57c21b3b64fe0af847d531215c84176702bdd8b011b68c26ee3c8d86e5826",
+    "bytes": 660715
+  },
+  {
+    "file": "cache/research/fide-2010.zip",
+    "url": "https://ratings.fide.com/download/jan10frl.zip",
+    "sha256": "965a6a7a75141e4455a0e77c5b55689c2c2815653e2ee3d5078acbedb8d35903",
+    "bytes": 2220410
+  },
+  {
+    "file": "cache/research/fide-2015.zip",
+    "url": "https://ratings.fide.com/download/standard_jan15frl.zip",
+    "sha256": "0f8e6adab9e93d42a67daca02769a11022859110387e617f58e7346179e838e5",
+    "bytes": 4612778
+  },
+  {
+    "file": "cache/research/fide-2026-index.html",
+    "url": "https://ratings.fide.com/a_download.php?period=2026-01-01",
+    "sha256": "b3242d47a812245d12889845ca1d3dbc306b4b0ff8e4799866bac9325e64a9d1",
+    "bytes": 2363
+  },
+  {
+    "file": "cache/research/fide-annex13-2005.pdf",
+    "url": "https://fide.com/images/stories/NEWS/download/annexes/EB2005/Annex13.pdf",
+    "sha256": "2c84fc7cf84a9214eb86eb5c24f3729ac0d97f34d252a8f191081ac6bb4565fa",
+    "bytes": 21931
+  },
+  {
+    "file": "cache/research/fide-annex14-2005.pdf",
+    "url": "https://fide.com/images/stories/NEWS/download/annexes/EB2005/Annex14.pdf",
+    "sha256": "5eaf297ab07e46ec1a954d10bfceb727f259ad47af82f354002bfe68abbbb86f",
+    "bytes": 65729
+  },
+  {
+    "file": "cache/research/fide-annex70-2008.pdf",
+    "url": "https://fide.com/images/stories/NEWS_2008/79th_fide_congress/annex_70_2008.pdf",
+    "sha256": "c88742d459fd67d26c14c3059279ea842e6d9fcb2e8a6d7e209c62a2350412a3",
+    "bytes": 25865
+  },
+  {
+    "file": "cache/research/fide-download.html",
+    "url": "https://ratings.fide.com/download_lists.phtml",
+    "sha256": "c590e4d65fb957bcb44e3a617d739a3326719182923bd13a155fcf2f312ed1ad",
+    "bytes": 55670
+  },
+  {
+    "file": "cache/research/fide-floor-2009.html",
+    "url": "https://old.fide.com/component/content/article/1-fide-news/4059-changes-to-title-and-rating-regulations-effective-from-july-1st-2009.html",
+    "sha256": "964f5dc3c9fa050f4ec6fdbf328956e3748b84fedbb8c74419b49644d548f0ac",
+    "bytes": 29582
+  },
+  {
+    "file": "cache/research/fide-floor-2012.html",
+    "url": "https://old.fide.com/component/content/article/1-fide-news/6270-july-2012-fide-rating-list.html",
+    "sha256": "80de5ae5aee35889aaf93462bd1dd7c0c8fe2b90375581af326a06789f2f97be",
+    "bytes": 21390
+  },
+  {
+    "file": "cache/research/fide-inactivity-2020.html",
+    "url": "https://www.fide.com/resolution-of-fide-council-regarding-the-rating-list/",
+    "sha256": "592aafb984ba9e5db8e079b65bf823df9df9b64225dff2254e601c6e4cefd0b2",
+    "bytes": 141242
+  },
+  {
+    "file": "cache/research/fide-inactivity-2022-report.pdf",
+    "url": "https://doc.fide.com/docs/DOC/2022%20Online%20FC%20October/Annex%205.3.1.pdf",
+    "sha256": "b48969a3f85e9a6c8b85e040c2841c6011d762588423e5297f9514c10464d85e",
+    "bytes": 1319206
+  },
+  {
+    "file": "cache/research/fide-inactivity-2023-changes.pdf",
+    "url": "https://doc.fide.com/docs/DOC/2022%20Online%20FC%20October/Annex%205.3.2a_1.pdf",
+    "sha256": "ac3fef564e365dc842f8b1e2936a30170dbf1aa9d0a865221ac8fb0d86394a85",
+    "bytes": 655206
+  },
+  {
+    "file": "cache/research/fide-january-2011.html",
+    "url": "https://old.fide.com/component/content/article/1-fide-news/4979-january-2011-rating-list.html",
+    "sha256": "de7d4034d90086442ebab82317fedd7714766c2a1f45f7ae55666b9f6ec784ba",
+    "bytes": 21737
+  },
+  {
+    "file": "cache/research/fide-rules-2014.html",
+    "url": "https://handbook.fide.com/chapter/B022014",
+    "sha256": "803dd3e0d7d6172bf1e25bc05ff59525f5b6fae9cb09d6087b73ce94a191eb17",
+    "bytes": 124392
+  },
+  {
+    "file": "cache/research/fide-rules-2024.html",
+    "url": "https://handbook.fide.com/chapter/B022024",
+    "sha256": "43f8c7b0c85121b33ed0c5bc24bd8da0a62aee899bfc43d015c05c61a695b411",
+    "bytes": 162773
+  },
+  {
+    "file": "cache/research/fide-time-controls-2015.html",
+    "url": "https://old.fide.com/component/content/article/1-fide-news/8709-time-controls-for-fide-world-events.html",
+    "sha256": "51f367e459a52ebac69184f2903a61570cbf63ea072f8aa391281898feb0febd",
+    "bytes": 43643
+  },
+  {
+    "file": "cache/research/fide-title-statistics-2011.pdf",
+    "url": "https://www.fide.com/images/stories/NEWS_2011/fide_news/Agenda_and_Annexes_2011/Annex_66_-_Appendix_3_-_Overall_Tournament_Title_and_Ratings_Statistic.pdf",
+    "sha256": "8879921d17dbdda062431b503016f46df6959b72e0b0ffe58960eceab55b7cef",
+    "bytes": 61439
+  },
+  {
+    "file": "cache/research/fruit-debian.dsc",
+    "url": "https://deb.debian.org/debian/pool/main/f/fruit/fruit_2.1.dfsg-9.dsc",
+    "sha256": "cef9ff0fd950e00d4600ad1c88a6ba97c9addd304e115f56cd3f1135599116cf",
+    "bytes": 1810
+  },
+  {
+    "file": "cache/research/fruit-debian.orig.tar.gz",
+    "url": "https://deb.debian.org/debian/pool/main/f/fruit/fruit_2.1.dfsg.orig.tar.gz",
+    "sha256": "9bf6364a15f697ed8f79757e9f0f4e149987ba33693e3b79f2a210a26b9edcc3",
+    "bytes": 409885
+  },
+  {
+    "file": "cache/research/gaessler-2023.pdf",
+    "sha256": "e26c94cc8c624fe92f1bb3d329d248059b217e816ba544f1f9b4d7a364082be6",
+    "bytes": 2346981,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "Strategic Management Journal - 2023 - Gaessler - Training with AI  Evidence from chess computers.pdf"
+  },
+  {
+    "file": "cache/research/gaessler-preprint.pdf",
+    "url": "https://mackinstitute.wharton.upenn.edu/wp-content/uploads/2023/03/Piezunka-Henning_Training-with-AI-Competing-Against-Humans.pdf",
+    "sha256": "d69225853846e1153cf8ca6c8deca72380198285a52ca69e9d6194ee40bd65b2",
+    "bytes": 2736155
+  },
+  {
+    "file": "cache/research/krakowski-2023.pdf",
+    "sha256": "a563dbfd3799265c0f322f21da31547ccbd641a0711d4dae973fcf8c893e24c4",
+    "bytes": 6798082,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "Strategic Management Journal - 2022 - Krakowski - Artificial intelligence and the changing sources of competitive advantage.pdf"
+  },
+  {
+    "file": "cache/research/lappo-2023.pdf",
+    "url": "https://web.stanford.edu/group/rosenberglab/papers/LappoEtAl2023-ProcRSocB.pdf",
+    "sha256": "bc505bbba8bd48a086c5bb4e8bfd8fc017158bdb0bcb35780abc32d946328d15",
+    "bytes": 1619834
+  },
+  {
+    "file": "cache/research/lappo-supplied.pdf",
+    "sha256": "1dd5f6b71d21c168a11bd72ab4b538e498dc65442b2d77b8eb34d694a4485033",
+    "bytes": 1711188,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "rspb.2023.1634.pdf"
+  },
+  {
+    "file": "cache/research/lichess-database-20261016.html",
+    "url": "https://database.lichess.org/#standard_games",
+    "sha256": "2b1db536724631cd0a21e24bff3693b26037676e4f91489072f584be51e24b0d",
+    "bytes": 473710
+  },
+  {
+    "file": "cache/research/literature/2020-Strittmatter-Sunde-Zegners-life-cycle-patterns-cognitive-performance.pdf",
+    "sha256": "4279d11c1def17143a8d13a8c9b5a889951bee997c2e2ffb039328c3a2a8cad9",
+    "bytes": 1049190,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2020-Strittmatter-Sunde-Zegners-life-cycle-patterns-cognitive-performance",
+    "original_filename": "strittmatter-et-al-2020-life-cycle-patterns-of-cognitive-performance-over-the-long-run.pdf"
+  },
+  {
+    "file": "cache/research/literature/2023-Agarwal-Moehring-Rajpurkar-Salz-combining-human-expertise-ai-original.pdf",
+    "url": "https://www.nber.org/system/files/working_papers/w31422/revisions/w31422.rev0.pdf",
+    "sha256": "f10f096b1aecb54c970f8e5e9345360c3c2d355056dc3a21d80a64f45c418e24",
+    "bytes": 913326,
+    "reading_copy": true,
+    "version_label": "2023-Agarwal-Moehring-Rajpurkar-Salz-combining-human-expertise-ai-original"
+  },
+  {
+    "file": "cache/research/literature/2023-DellAcqua-et-al-navigating-jagged-technological-frontier.pdf",
+    "sha256": "81614bb0eedad198ebce811c521a6ef303db56a2698660d68b2e70d0293eeb42",
+    "bytes": 3342427,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2023-DellAcqua-et-al-navigating-jagged-technological-frontier",
+    "original_filename": "SSRN-id4573321.pdf"
+  },
+  {
+    "file": "cache/research/literature/2023-Gaessler-Piezunka-training-with-ai-chess-computers.pdf",
+    "sha256": "e26c94cc8c624fe92f1bb3d329d248059b217e816ba544f1f9b4d7a364082be6",
+    "bytes": 2346981,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2023-Gaessler-Piezunka-training-with-ai-chess-computers",
+    "original_filename": "Strategic Management Journal - 2023 - Gaessler - Training with AI  Evidence from chess computers.pdf"
+  },
+  {
+    "file": "cache/research/literature/2023-Lappo-Rosenberg-Feldman-cultural-transmission-move-choice-chess.pdf",
+    "sha256": "1dd5f6b71d21c168a11bd72ab4b538e498dc65442b2d77b8eb34d694a4485033",
+    "bytes": 1711188,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2023-Lappo-Rosenberg-Feldman-cultural-transmission-move-choice-chess",
+    "original_filename": "rspb.2023.1634.pdf"
+  },
+  {
+    "file": "cache/research/literature/2024-Bilalic-Graf-Vaci-computers-and-chess-masters-manuscript.pdf",
+    "sha256": "f6d90712e396586c66873a304d5304582d30c2e44d9dfe9fc815264b1b184863",
+    "bytes": 2897665,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2024-Bilalic-Graf-Vaci-computers-and-chess-masters-manuscript",
+    "note": "AI_chess_v3_r2_deanonym.pdf is the Bilalic, Graf, and Vaci manuscript; identity checked on its title page",
+    "original_filename": "AI_chess_v3_r2_deanonym.pdf"
+  },
+  {
+    "file": "cache/research/literature/2024-Bilalic-Graf-Vaci-computers-and-chess-masters.pdf",
+    "sha256": "3bbafecb6725fdc33ed83a5560deb80dd9f7e810266dda8104628835f75bdf8d",
+    "bytes": 3254524,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2024-Bilalic-Graf-Vaci-computers-and-chess-masters",
+    "original_filename": "British J of Psychology - 2024 - Bilalic\u0301 - Computers and chess masters  The role of AI in transforming elite human.pdf"
+  },
+  {
+    "file": "cache/research/literature/2024-Brynjolfsson-Li-Raymond-generative-ai-at-work-v2.pdf",
+    "sha256": "146dcc7459824f0f1fe4a1f9ac7e8be06ee098b8b34e686a75131b77e42ce951",
+    "bytes": 3374702,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2024-Brynjolfsson-Li-Raymond-generative-ai-at-work-v2",
+    "original_filename": "2304.11771v2.pdf"
+  },
+  {
+    "file": "cache/research/literature/2024-Vaccaro-Almaatouq-Malone-when-combinations-humans-ai-useful.pdf",
+    "url": "https://www.nature.com/articles/s41562-024-02024-1.pdf",
+    "sha256": "69ff4683a8513b2247a5375eaa81d8d18b3b8f51a9ba546c4daeb77a13205f74",
+    "bytes": 3103035,
+    "reading_copy": true,
+    "version_label": "2024-Vaccaro-Almaatouq-Malone-when-combinations-humans-ai-useful"
+  },
+  {
+    "file": "cache/research/literature/2025-Anicker-when-machines-take-over.pdf",
+    "url": "https://doi.org/10.1007/s00146-025-02465-w",
+    "sha256": "bbf305f57f83937d0ae61978c83e21d81964a81095872717277b75c660817c2a",
+    "bytes": 865330
+  },
+  {
+    "file": "cache/research/literature/2025-Budzyn-et-al-endoscopist-deskilling-wrap.pdf",
+    "sha256": "4296ea811a437d2749051b11f4300da2d43716705ca10ea7b8ffda4ddf0cfbe9",
+    "bytes": 1115789,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2025-Budzyn-et-al-endoscopist-deskilling-wrap",
+    "original_filename": "WRAP-Endoscopist-de-skilling-risk-exposure-artificial-intelligence-colonoscopy-25.pdf"
+  },
+  {
+    "file": "cache/research/literature/2025-Choi-Kang-Kim-Kim-how-ai-improves-human-decision-making-v2.pdf",
+    "sha256": "9b6f7471214f01f976b3141abda60567718c8665b1c7442871249719b6e1b1f0",
+    "bytes": 759973,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2025-Choi-Kang-Kim-Kim-how-ai-improves-human-decision-making-v2",
+    "original_filename": "2310.08704v2.pdf"
+  },
+  {
+    "file": "cache/research/literature/2026-Agarwal-Moehring-Rajpurkar-Salz-combining-human-expertise-ai-revision.pdf",
+    "sha256": "e5e59d94ffda6c1b29fbdbb957f9c0040f1b98511adde10965b490d81b291921",
+    "bytes": 4042086,
+    "access": "local reading copy; not redistributed",
+    "reading_copy": true,
+    "version_label": "2026-Agarwal-Moehring-Rajpurkar-Salz-combining-human-expertise-ai-revision",
+    "original_filename": "w31422.pdf"
+  },
+  {
+    "file": "cache/research/nn-3475407dc199.nnue",
+    "url": "https://tests.stockfishchess.org/api/nn/nn-3475407dc199.nnue",
+    "sha256": "3475407dc19973ea44467678634cce023d620e419770c111cc8937fe6689ec87",
+    "bytes": 47721371
+  },
+  {
+    "file": "cache/research/nn-5af11540bbfe.nnue",
+    "url": "https://tests.stockfishchess.org/api/nn/nn-5af11540bbfe.nnue",
+    "sha256": "5af11540bbfefcb54e38c5dd000cab4b469dfa7599a1d55be5d2722c20a8929b",
+    "bytes": 40119326
+  },
+  {
+    "file": "cache/research/nn-62ef826d1a6d.nnue",
+    "url": "https://tests.stockfishchess.org/api/nn/nn-62ef826d1a6d.nnue",
+    "sha256": "62ef826d1a6d11b9e814188025aa02a60815c037292e0ef9bbb9bf4f724e5e63",
+    "bytes": 21022697
+  },
+  {
+    "file": "cache/research/nn-6877cd24400e.nnue",
+    "url": "https://tests.stockfishchess.org/api/nn/nn-6877cd24400e.nnue",
+    "sha256": "6877cd24400e01b19ff12ae3068ae242152802bdd330e66f7b6703865251d6e3",
+    "bytes": 47001499
+  },
+  {
+    "file": "cache/research/olimpbase-1975.html",
+    "url": "https://www.olimpbase.org/Elo/Elo197501e.html",
+    "sha256": "2b57bfcf3f8a8cc822566fa5da7ad1f9cd02f81307d0b5aaa35c660a01492f00",
+    "bytes": 289034
+  },
+  {
+    "file": "cache/research/olimpbase-1997.html",
+    "url": "https://www.olimpbase.org/Elo/Elo199701e.html",
+    "sha256": "c569ecfc6a67b970afc8ce5df3526e3b1c78717611908f34911d1cdc891c7e23",
+    "bytes": 4267513
+  },
+  {
+    "file": "cache/research/olimpbase-summary.html",
+    "url": "https://www.olimpbase.org/Elo/summary.html",
+    "sha256": "6ef03854475e2f7599766db44cd6b35c06fe3b894ccb72a94123aa1b42d46817",
+    "bytes": 47051
+  },
+  {
+    "file": "cache/research/olympiad-2024-olimpbase.html",
+    "url": "https://www.olimpbase.org/2024/2024in.html",
+    "sha256": "598f49ff178c1359a9a826740e4ccfd2670eb4c8482b88845c4810627a3cfdc1",
+    "bytes": 20249
+  },
+  {
+    "file": "cache/research/olympiad-2024-regulations.pdf",
+    "url": "https://www.fide.com/FIDE/handbook/Olympiad2024.pdf",
+    "sha256": "249bceab2d21135188382e11a8be3ecc1d1a10b50e85803d20aab34e7928edbc",
+    "bytes": 224786
+  },
+  {
+    "file": "cache/research/olympiad-women-2024-olimpbase.html",
+    "url": "https://www.olimpbase.org/2024w/2024in.html",
+    "sha256": "6d546e551edadf547712ce8d30ed6c30a178f1311e6667d7a437a1d815f5a633",
+    "bytes": 20320
+  },
+  {
+    "file": "cache/research/sonas-rating-repair.pdf",
+    "url": "https://www.fide.com/docs/presentations/Sonas%20Proposal%20-%20Repairing%20the%20FIDE%20Standard%20Elo%20Rating%20System.pdf",
+    "sha256": "cd475f628c4c1f626ff09663d339e6d79db6a44ebb8b4a087b6a4e3bcbc9f6fd",
+    "bytes": 2305001
+  },
+  {
+    "file": "cache/research/stockfish-13.tar.gz",
+    "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_13",
+    "sha256": "15d14721b3be17c597535bdbb44fb951a1ee948312d90fbf55fa0e52b8b81d62",
+    "bytes": 181226
+  },
+  {
+    "file": "cache/research/stockfish-14.tar.gz",
+    "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_14",
+    "sha256": "6f35e3e684da87d27d3f29ec7281ac81468a5a86b4d99ac5c599addc984a766c",
+    "bytes": 183879
+  },
+  {
+    "file": "cache/research/stockfish-15.tar.gz",
+    "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_15",
+    "sha256": "0553fe53ea57ce6641048049d1a17d4807db67eecd3531a3749401362a27c983",
+    "bytes": 189578
+  },
+  {
+    "file": "cache/research/stockfish-16.tar.gz",
+    "url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_16",
+    "sha256": "a1600ebdaf4e324ba3e10cec2e0c9a810dc64c6f0db5cc955b2fd5e1eefa1cc6",
+    "bytes": 195462
+  },
+  {
+    "file": "cache/research/strittmatter-pdf-challenge.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7959507/pdf/pnas.202006653.pdf",
+    "sha256": "bbad1f0ceacba210733c81e5ed277ac1ddad2030af23eb9227610081b8f93dd2",
+    "bytes": 1816,
+    "status": "HTML download challenge; not the paper PDF"
+  },
+  {
+    "file": "cache/research/strittmatter-supplied.pdf",
+    "sha256": "4279d11c1def17143a8d13a8c9b5a889951bee997c2e2ffb039328c3a2a8cad9",
+    "bytes": 1049190,
+    "access": "local reading copy; not redistributed",
+    "original_filename": "strittmatter-et-al-2020-life-cycle-patterns-of-cognitive-performance-over-the-long-run.pdf"
+  },
+  {
+    "file": "cache/research/strittmatter.html",
+    "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7959507/",
+    "sha256": "fc5e40ef6cd04b5319a08e79edbaad08fc97e942f36a87a8e45485c1615dc74c",
+    "bytes": 194020
+  },
+  {
+    "file": "cache/research/twic-freestyle14.pgn",
+    "url": "https://theweekinchess.com/assets/files/pgn/freestyle14.pgn",
+    "sha256": "e08236d718d41be900d45a52422f2e9ff36eb93f591493e5efd3dde89a2f0b87",
+    "bytes": 421581
+  },
+  {
+    "file": "cache/research/vaccaro-2024.pdf",
+    "url": "https://www.nature.com/articles/s41562-024-02024-1.pdf",
+    "sha256": "69ff4683a8513b2247a5375eaa81d8d18b3b8f51a9ba546c4daeb77a13205f74",
+    "bytes": 3103035
+  },
+  {
+    "file": "cache/research/world-team-1985.html",
+    "url": "https://www.olimpbase.org/1985t/1985in.html",
+    "sha256": "15b2423dc4c44adec9a7e5ea5ae68b6d94041950c05b187265f1202e2d4f6eaf",
+    "bytes": 31780
+  },
+  {
+    "file": "cache/research/world-team-1985.zip",
+    "url": "https://www.olimpbase.org/1985t/games/85wtch.zip",
+    "sha256": "be5d92a8ae638d560d20683dde513b3157bb6a73e446e06667f76d658024bb86",
+    "bytes": 61195
+  },
+  {
+    "file": "cache/research/world-team-2005.html",
+    "url": "https://www.olimpbase.org/2005t/2005in.html",
+    "sha256": "5dd4dc850dff69c3b464100bc6b30928ba45c72c73bb6171659dbae1f3085e59",
+    "bytes": 31757
+  },
+  {
+    "file": "cache/research/world-team-2005.zip",
+    "url": "https://www.olimpbase.org/2005t/games/05wtch.zip",
+    "sha256": "55b02b8153f9839c9d0021dee02073aec24845a0650f48b9b79ba194e0424db3",
+    "bytes": 34422
+  },
+  {
+    "file": "cache/research/world-team-2015.html",
+    "url": "https://www.olimpbase.org/2015t/2015in.html",
+    "sha256": "85e64b9154acf4e14de44c15b1a5178ad0cdd6bfd491bbd3cf65fbeb60774a6e",
+    "bytes": 22866
+  },
+  {
+    "file": "cache/research/world-team-2015.zip",
+    "url": "https://www.olimpbase.org/2015t/games/15wtch.zip",
+    "sha256": "252158f2856ab4e0d27792a89d3f734663a5b8ac174ab8528ecc7d2361691a12",
+    "bytes": 43975
+  }
+]
