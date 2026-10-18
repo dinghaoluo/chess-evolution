@@ -1,0 +1,20 @@
+{
+  "inputs_sha256": {
+    "data/derived/learning_pilot_pool.jsonl": "965f6266af59686e3e7e74b63032d4d9e48772aa56c4b6a6716e99630c261cd4",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/count_pawn_patterns.py": "898e7909fbdfe6b60783cf531190a3402800874a8a5023cb361ccce35fea2ceb",
+    "scripts/pawn_patterns.py": "18411aac68597a6748be45b04843068bec10d042b3a0bcad2ea15413fc781e2c",
+    "notes/hypotheses.md": "702d3b3d5e949bcaa3a577832a5b300b373697153b369ab89d81ad057fa8bf66",
+    "data/derived/learning_pilot_sample_config.json": "3b98d15ca0bddb13011580b8dc6ede9230916802a29d2e8ad2a473fbbd446ddd"
+  },
+  "outputs_sha256": {
+    "data/derived/pawn_pattern_player_games.csv": "cbc750b025115721a5b2748e215b7da080e83190ca0655c6ca94af6befc2a1af",
+    "data/derived/pawn_pattern_counts.csv": "027825e850342f66d50912a839ed5b0496657506eb48767fca177fb449e2d732"
+  },
+  "limits": [
+    "Census of eligible mover-rated sides in the restricted verified event pool, not representative historical chess.",
+    "Style events are not quality gains or direct evidence of engine teaching.",
+    "Multiple games per player and both sides per game remain dependent; no trend fit or sampling interval is reported.",
+    "Original mover PGN Elo defines bands; disagreements with independent event-archive ratings are not silently replaced.",
+    "Eligibility exclusions and differing event coverage make cross-year rates unsuitable as a historical adoption curve."
+  ]
+}
