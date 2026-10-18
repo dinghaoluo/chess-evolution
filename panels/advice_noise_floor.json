@@ -1,0 +1,111 @@
+{
+  "title": "Release disagreement and budget sensitivity",
+  "comparisons": [
+    {
+      "first": "stockfish-4",
+      "second": "stockfish-8",
+      "positions": 50,
+      "within_first_agreement": 0.7,
+      "within_second_agreement": 0.7,
+      "mean_budget_disagreement": 0.3,
+      "between_agreement_100000": 0.6,
+      "excess_disagreement_100000": 0.1,
+      "excess_low_100000": -0.020249999999999987,
+      "excess_high_100000": 0.22,
+      "between_agreement_400000": 0.64,
+      "excess_disagreement_400000": 0.06,
+      "excess_low_400000": -0.07,
+      "excess_high_400000": 0.18
+    },
+    {
+      "first": "stockfish-4",
+      "second": "stockfish-12",
+      "positions": 50,
+      "within_first_agreement": 0.7,
+      "within_second_agreement": 0.76,
+      "mean_budget_disagreement": 0.27,
+      "between_agreement_100000": 0.52,
+      "excess_disagreement_100000": 0.21,
+      "excess_low_100000": 0.09,
+      "excess_high_100000": 0.34,
+      "between_agreement_400000": 0.5800000000000001,
+      "excess_disagreement_400000": 0.15,
+      "excess_low_400000": 0.03,
+      "excess_high_400000": 0.28
+    },
+    {
+      "first": "stockfish-4",
+      "second": "stockfish-17.1",
+      "positions": 50,
+      "within_first_agreement": 0.7,
+      "within_second_agreement": 0.84,
+      "mean_budget_disagreement": 0.23,
+      "between_agreement_100000": 0.52,
+      "excess_disagreement_100000": 0.25,
+      "excess_low_100000": 0.11,
+      "excess_high_100000": 0.39,
+      "between_agreement_400000": 0.54,
+      "excess_disagreement_400000": 0.23,
+      "excess_low_400000": 0.1,
+      "excess_high_400000": 0.36
+    },
+    {
+      "first": "stockfish-8",
+      "second": "stockfish-12",
+      "positions": 50,
+      "within_first_agreement": 0.7,
+      "within_second_agreement": 0.76,
+      "mean_budget_disagreement": 0.27,
+      "between_agreement_100000": 0.43999999999999995,
+      "excess_disagreement_100000": 0.29,
+      "excess_low_100000": 0.16,
+      "excess_high_100000": 0.41,
+      "between_agreement_400000": 0.5800000000000001,
+      "excess_disagreement_400000": 0.15,
+      "excess_low_400000": 0.0,
+      "excess_high_400000": 0.31
+    },
+    {
+      "first": "stockfish-8",
+      "second": "stockfish-17.1",
+      "positions": 50,
+      "within_first_agreement": 0.7,
+      "within_second_agreement": 0.84,
+      "mean_budget_disagreement": 0.23,
+      "between_agreement_100000": 0.56,
+      "excess_disagreement_100000": 0.21,
+      "excess_low_100000": 0.09,
+      "excess_high_100000": 0.33,
+      "between_agreement_400000": 0.5800000000000001,
+      "excess_disagreement_400000": 0.19,
+      "excess_low_400000": 0.06,
+      "excess_high_400000": 0.32
+    },
+    {
+      "first": "stockfish-12",
+      "second": "stockfish-17.1",
+      "positions": 50,
+      "within_first_agreement": 0.76,
+      "within_second_agreement": 0.84,
+      "mean_budget_disagreement": 0.2,
+      "between_agreement_100000": 0.62,
+      "excess_disagreement_100000": 0.18,
+      "excess_low_100000": 0.05,
+      "excess_high_100000": 0.31,
+      "between_agreement_400000": 0.62,
+      "excess_disagreement_400000": 0.18,
+      "excess_low_400000": 0.06,
+      "excess_high_400000": 0.31
+    }
+  ],
+  "limits": [
+    "All comparisons use the same 50 presampled positions, one per game; the 500-position agreement estimate is separate.",
+    "The descriptive noise floor is the mean of the two releases' budget-disagreement rates, not an identified measurement-error model.",
+    "Excess disagreement subtracts that floor; its interval uses 2000 paired game bootstraps, seed 20261016.",
+    "Changing nodes changes search effort; this cannot isolate software knowledge from search instability."
+  ],
+  "inputs_sha256": {
+    "data/derived/advice_noise_floor.csv": "efcbc77a2b1ed2c3435215b6b3b9396da60029fe1995db6d21a7b60251d2d141",
+    "data/derived/advice_noise_floor_config.json": "041c7d7aecf42cdb7e3eb5fc0eb7486cfb4a7f71a1ad75a708fc26cbfc9e3ec5"
+  }
+}

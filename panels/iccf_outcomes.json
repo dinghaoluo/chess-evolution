@@ -1,0 +1,345 @@
+{
+  "title": "Recorded outcomes in two ICCF finals",
+  "finals": [
+    {
+      "edition": "32",
+      "start_year": "2020",
+      "end_year": "2022",
+      "games": "136",
+      "draws": "119",
+      "decisive_recorded": "17",
+      "administrative_decisive": "",
+      "co_champions": "1",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s",
+      "administrative_source_url": "",
+      "limit": "crosstable has seventeen total wins; administrative outcomes not audited; two finals cannot identify an engine-progress effect",
+      "outcome_categories": {
+        "reported_batch_resignation": 13,
+        "participant_contested_resignation": 1,
+        "reported_board_win": 1,
+        "reported_input_error": 1,
+        "reported_mating_blunder": 1
+      }
+    },
+    {
+      "edition": "33",
+      "start_year": "2022",
+      "end_year": "2025",
+      "games": "136",
+      "draws": "126",
+      "decisive_recorded": "10",
+      "administrative_decisive": "10",
+      "co_champions": "10",
+      "source_url": "https://www.iccf.com/event?id=100104",
+      "administrative_source_url": "https://webfiles.iccf.com/congress/2024/reports/ICCF%20-%20Title%20Tournament%20Commissioner%20-%20Report%20-%20Congress%20-%202024.pdf",
+      "limit": "all decisive scores awarded after Dronov died; one final cannot identify an engine-progress trend; PGN download link exists but retrieval failed",
+      "outcome_categories": {
+        "administrative_award": 10
+      }
+    }
+  ],
+  "final_32_decisive_games": [
+    {
+      "game_id": "1164251",
+      "winner": "Akdag, Murat",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164251",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164265",
+      "winner": "Mendl, Manuel",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164265",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164278",
+      "winner": "Osipov, Sergey Adolfovich",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164278",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164290",
+      "winner": "Nekhaev, Andrey Ivanovich",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164290",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164301",
+      "winner": "Michálek, Miroslav",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164301",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164311",
+      "winner": "Jónsson, Dađi Örn",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164311",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164321",
+      "winner": "Schwetlick, Thomas",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164321",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164322",
+      "winner": "Edwards, Jon",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164322",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164323",
+      "winner": "Ulbig, Stefan",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164323",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164325",
+      "winner": "Zajontz, Rainer",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164325",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164327",
+      "winner": "Blitsko, Boris Mikhailovich",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164327",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164328",
+      "winner": "Lecroq, Michel",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164328",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164329",
+      "winner": "Neto, Horácio",
+      "loser": "Bock, Steffen",
+      "outcome_category": "reported_batch_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164329",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Bock resigned all thirteen remaining games; cause unknown; not classified as a formal administrative award"
+    },
+    {
+      "game_id": "1164355",
+      "winner": "Neto, Horácio",
+      "loser": "Pessoa, Francisco Azevedo",
+      "outcome_category": "participant_contested_resignation",
+      "result_source_url": "https://www.iccf.com/game?id=1164355",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards disputes the resignation in his annotations; this is a participant allegation without an independently verified ruling"
+    },
+    {
+      "game_id": "1164279",
+      "winner": "Osipov, Sergey Adolfovich",
+      "loser": "Schwetlick, Thomas",
+      "outcome_category": "reported_board_win",
+      "result_source_url": "https://www.iccf.com/game?id=1164279",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Osipov won after Schwetlick chose a dubious line; official score ends after 46.Nf2; formal termination code unavailable"
+    },
+    {
+      "game_id": "1164303",
+      "winner": "Edwards, Jon",
+      "loser": "Michálek, Miroslav",
+      "outcome_category": "reported_input_error",
+      "result_source_url": "https://www.iccf.com/game?id=1164303",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports the opponent input the wrong move and hung a piece; official score ends 31...Kf7 32.Rxh7; no formal administrative award established"
+    },
+    {
+      "game_id": "1164336",
+      "winner": "Lecroq, Michel",
+      "loser": "Schwetlick, Thomas",
+      "outcome_category": "reported_mating_blunder",
+      "result_source_url": "https://www.iccf.com/game?id=1164336",
+      "classification_source_url": "https://new.uschess.org/edwards-32nd-ICCF-ch",
+      "limit": "Edwards reports Schwetlick hung a mate; official score ends 20.Qb3 Qe1+; formal termination code unavailable"
+    }
+  ],
+  "final_32_players": [
+    {
+      "iccf_id": "81204",
+      "player": "Moll, Reinhard",
+      "wins": "0",
+      "draws": "16",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "490165",
+      "player": "Akdag, Murat",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "19094",
+      "player": "Mendl, Manuel",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "141625",
+      "player": "Osipov, Sergey Adolfovich",
+      "wins": "2",
+      "draws": "14",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "141530",
+      "player": "Nekhaev, Andrey Ivanovich",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "130766",
+      "player": "Michálek, Miroslav",
+      "wins": "1",
+      "draws": "14",
+      "losses": "1",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "300204",
+      "player": "Jónsson, Dađi Örn",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "84833",
+      "player": "Bock, Steffen",
+      "wins": "0",
+      "draws": "3",
+      "losses": "13",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "82299",
+      "player": "Schwetlick, Thomas",
+      "wins": "1",
+      "draws": "13",
+      "losses": "2",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "510692",
+      "player": "Edwards, Jon",
+      "wins": "2",
+      "draws": "14",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "89356",
+      "player": "Ulbig, Stefan",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "390491",
+      "player": "Pessoa, Francisco Azevedo",
+      "wins": "0",
+      "draws": "15",
+      "losses": "1",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "81224",
+      "player": "Zajontz, Rainer",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "141537",
+      "player": "Kochemasov, Andrey Leonidovich",
+      "wins": "0",
+      "draws": "16",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "750087",
+      "player": "Blitsko, Boris Mikhailovich",
+      "wins": "1",
+      "draws": "15",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "180109",
+      "player": "Lecroq, Michel",
+      "wins": "2",
+      "draws": "14",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    },
+    {
+      "iccf_id": "390086",
+      "player": "Neto, Horácio",
+      "wins": "2",
+      "draws": "14",
+      "losses": "0",
+      "source_url": "https://www.iccf.com/event?id=85042&order=s"
+    }
+  ],
+  "limits": [
+    "All ten decisive scores in final 33 followed Dronov’s death; they are administrative outcomes.",
+    "Edwards reports thirteen batch resignations by Bock in final 32 and disputes another resignation; these are participant reports, not formal administrative awards.",
+    "Edwards describes an input error, a mating blunder, and a board win for the other three results. Formal termination codes were unavailable.",
+    "Counts come from official crosstables; bulk PGN retrieval was unavailable."
+  ],
+  "inputs_sha256": {
+    "data/curated/iccf_finals.csv": "bd3f2d979ff9c78580395d3db7cb7c1a01d44ac9c0330556816dd390f7f33cb6",
+    "data/curated/iccf_32_decisive_games.csv": "fb4f4adbba6173a22ece3bcc361542a3d2132ff22a1a11defc564adbba7eaf15",
+    "data/curated/iccf_32_players.csv": "8a5a56f5773060bc971788e175b14e456990eb21be6676b274a492851d3f41d9"
+  }
+}

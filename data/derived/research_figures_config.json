@@ -1,0 +1,40 @@
+{
+  "inputs_sha256": {
+    "panels/advice_noise_floor.json": "cfb9c7a959fa2fb7ab09687c7aca69c538d0bc3d15a5374f2cf71ffc05f67e2a",
+    "panels/decision_explorer.json": "dc4916f5fa807cfed174091ff79bd785d2f3874491f4e83d841b4d1616ee6314",
+    "panels/engine_ladder.json": "e1d69c94c00e6a401836e1207a053c1956b6ef5ad76b03519ee0d662f3465d31",
+    "panels/freestyle_history.json": "2eb6c26827b70e62e3a68191752097b685222ab719a5d70693161af1b1d2cdc0",
+    "panels/iccf_outcomes.json": "fcf822d217db8a221c0b6143c56378ed29d2b378258e95e8c8a968eccb47bfcd",
+    "panels/nielsen_releases.json": "ca82809a4389808dc9995b1ac6535f058a7f0f50a119d9190b6bb479d406b5ea",
+    "panels/pal_css_2005_clock.json": "2dd282927ee56340dac4390d906a6a898604189df7d1ef5c138b65bd1ffe99e9",
+    "panels/preparation_accounts.json": "ae1d0eabd50efbf96cf14bfe17c16f6228b7ce0030f7e6e1c9ae2014d372acd0",
+    "panels/prepared_long_think.json": "311a0a47dc8ce3c317fa1444250a4fbd65c785293d7da603286a4abfa83c08b9",
+    "panels/rating_participation.json": "b92f83c99bc8955097eabf4d9a9738946499ff5fa904ff7cf35d415b71969063",
+    "scripts/plot_panels.py": "970b0040e9b645551225b3a84aec7760e926afba9a4926930076ae4406f4a49f",
+    "scripts/plot_research_results.py": "b6979a27e6cf30d65681d86dc85c3d446e62ffefe6261d35de92d59b809088a5",
+    "scripts/style.py": "e3eb4112739846a0e81298f37ef623ad8b236dbe7c8a1d3d3fad8413fa406683",
+    "plots/fonts/Piazzolla-Regular.ttf": "a2a01f7d6e5ded1485318df5fe9774584de1591a8dd78c49a1186c3f7f56e8c7"
+  },
+  "outputs_sha256": {
+    "plots/advice_noise_floor.png": "43b88a6e545dccd66e00d416853b3293eb3be5625541e611a80b8b4a8885ff19",
+    "plots/advice_noise_floor.svg": "f19bc5f82d4d4df0b52a355aa0da1be00cb68e7c69aed8170fe4f29d292dd296",
+    "plots/decision_explorer.png": "e85df477ad3780e31aed387296d03e0157a4ce93e5507e9da43fee132fe5dbff",
+    "plots/decision_explorer.svg": "1e80f098c515df318418c58a968e2cf29d76bb777401c4d63b430bfa2d869fca",
+    "plots/engine_ladder.png": "8584b45b59a67e4515f79b6b8e0b9186cc605e7cee6f31073299dd3fa2d949bf",
+    "plots/engine_ladder.svg": "03a616d02371d78c9fa5e79cfbaf42440eb4ada332c7eae6d2af7c2d217cc303",
+    "plots/freestyle_history.png": "70cb7df2ba1d7ebe5c7bc8fb004299d5e855fd5f88be1bd4b3735e7c14c46059",
+    "plots/freestyle_history.svg": "1dd7d387472ebda0af97d9507295c44b5dad947f09dcfdf25a7df5372ff56540",
+    "plots/iccf_outcomes.png": "aa73b10fdf401281e26c8e7bdc81b88805652efe73df1d34a5e3acdba24e7eb6",
+    "plots/iccf_outcomes.svg": "a864d9037e13208dbad9e96d9abb3be88bbdc73c79029149a389ffc109a4501e",
+    "plots/nielsen_releases.png": "9a0600050e7e9b1aac0a3722a99ccd309ba40f41d15ee04daf23cb9ccb7cd176",
+    "plots/nielsen_releases.svg": "be5b02fe2af6e4a7731b15d0fe5fb8609d64c33998138a35690818c5edbdbe0c",
+    "plots/pal_css_2005_clock.png": "0ef1e9141aaf852d87d87e7cf0052848a8e22e36110549fef82a532cb8af4924",
+    "plots/pal_css_2005_clock.svg": "dd9e22351e4c39bf72fb982ca8f9a92ae6a780e807f18aca5e91329625163765",
+    "plots/preparation_accounts.png": "0de032b5edb47ae3e66fff1004153ddef14a209c09341f442fa29cc837d2a122",
+    "plots/preparation_accounts.svg": "c007c5e7882262e618d92f2d6348ed31be852ea9295ccac3d062c49ae99a7d23",
+    "plots/prepared_long_think.png": "820cfada4c364e48c83103e38ea12880aee8e18e2ca59ff6214afeff186a45dc",
+    "plots/prepared_long_think.svg": "30767068ebba056418028620e1c83308f6e16251fead53a888a010cbc08b98a6",
+    "plots/rating_participation.png": "a0fdda3363068c0099ed0c83ae8c092ea41e5890ae22fe20a65093a293fdd67f",
+    "plots/rating_participation.svg": "331163243660e1bc212985ff68e30aaeac801d39919916917e16931f06523c80"
+  }
+}

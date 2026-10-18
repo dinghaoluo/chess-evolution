@@ -1,0 +1,1738 @@
+{
+  "title": "ZackS against Dobrov",
+  "date": "19 June 2005",
+  "time_control": "60 min + 15 s/move",
+  "moves": [
+    {
+      "ply": 1,
+      "move": 1,
+      "san": "e4",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 60.233333333333334,
+      "black_clock_upper_minutes": 60.0,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 2,
+      "move": 1,
+      "san": "c5",
+      "elapsed_seconds": 56.0,
+      "white_clock_upper_minutes": 60.233333333333334,
+      "black_clock_upper_minutes": 59.31666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 3,
+      "move": 2,
+      "san": "Nf3",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 60.45,
+      "black_clock_upper_minutes": 59.31666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 4,
+      "move": 2,
+      "san": "d6",
+      "elapsed_seconds": 116.0,
+      "white_clock_upper_minutes": 60.45,
+      "black_clock_upper_minutes": 57.63333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 5,
+      "move": 3,
+      "san": "d4",
+      "elapsed_seconds": 3.0,
+      "white_clock_upper_minutes": 60.65,
+      "black_clock_upper_minutes": 57.63333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 6,
+      "move": 3,
+      "san": "cxd4",
+      "elapsed_seconds": 0.0,
+      "white_clock_upper_minutes": 60.65,
+      "black_clock_upper_minutes": 57.88333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 7,
+      "move": 4,
+      "san": "Nxd4",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 60.86666666666667,
+      "black_clock_upper_minutes": 57.88333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 8,
+      "move": 4,
+      "san": "Nf6",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 60.86666666666667,
+      "black_clock_upper_minutes": 58.11666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 9,
+      "move": 5,
+      "san": "Nc3",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 61.1,
+      "black_clock_upper_minutes": 58.11666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 10,
+      "move": 5,
+      "san": "a6",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 61.1,
+      "black_clock_upper_minutes": 58.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 11,
+      "move": 6,
+      "san": "Bc4",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 61.31666666666667,
+      "black_clock_upper_minutes": 58.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 12,
+      "move": 6,
+      "san": "e6",
+      "elapsed_seconds": 27.0,
+      "white_clock_upper_minutes": 61.31666666666667,
+      "black_clock_upper_minutes": 58.15,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 13,
+      "move": 7,
+      "san": "Bb3",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 61.53333333333333,
+      "black_clock_upper_minutes": 58.15,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": [
+        {
+          "account": "Expected the opponent to answer b5, entering a tested line.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 14,
+      "move": 7,
+      "san": "b5",
+      "elapsed_seconds": 62.0,
+      "white_clock_upper_minutes": 61.53333333333333,
+      "black_clock_upper_minutes": 57.36666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 15,
+      "move": 8,
+      "san": "O-O",
+      "elapsed_seconds": 14.0,
+      "white_clock_upper_minutes": 61.55,
+      "black_clock_upper_minutes": 57.36666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 16,
+      "move": 8,
+      "san": "Be7",
+      "elapsed_seconds": 61.0,
+      "white_clock_upper_minutes": 61.55,
+      "black_clock_upper_minutes": 56.6,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 17,
+      "move": 9,
+      "san": "Qf3",
+      "elapsed_seconds": 4.0,
+      "white_clock_upper_minutes": 61.733333333333334,
+      "black_clock_upper_minutes": 56.6,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 18,
+      "move": 9,
+      "san": "Qc7",
+      "elapsed_seconds": 150.0,
+      "white_clock_upper_minutes": 61.733333333333334,
+      "black_clock_upper_minutes": 54.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 19,
+      "move": 10,
+      "san": "Qg3",
+      "elapsed_seconds": 11.0,
+      "white_clock_upper_minutes": 61.8,
+      "black_clock_upper_minutes": 54.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 20,
+      "move": 10,
+      "san": "O-O",
+      "elapsed_seconds": 135.0,
+      "white_clock_upper_minutes": 61.8,
+      "black_clock_upper_minutes": 52.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 21,
+      "move": 11,
+      "san": "Bh6",
+      "elapsed_seconds": 15.0,
+      "white_clock_upper_minutes": 61.8,
+      "black_clock_upper_minutes": 52.35,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 22,
+      "move": 11,
+      "san": "Ne8",
+      "elapsed_seconds": 3.0,
+      "white_clock_upper_minutes": 61.8,
+      "black_clock_upper_minutes": 52.55,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 23,
+      "move": 12,
+      "san": "Rad1",
+      "elapsed_seconds": 6.0,
+      "white_clock_upper_minutes": 61.95,
+      "black_clock_upper_minutes": 52.55,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 24,
+      "move": 12,
+      "san": "Bd7",
+      "elapsed_seconds": 59.0,
+      "white_clock_upper_minutes": 61.95,
+      "black_clock_upper_minutes": 51.81666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 25,
+      "move": 13,
+      "san": "f4",
+      "elapsed_seconds": 18.0,
+      "white_clock_upper_minutes": 61.9,
+      "black_clock_upper_minutes": 51.81666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 26,
+      "move": 13,
+      "san": "Nc6",
+      "elapsed_seconds": 40.0,
+      "white_clock_upper_minutes": 61.9,
+      "black_clock_upper_minutes": 51.4,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 27,
+      "move": 14,
+      "san": "Nxc6",
+      "elapsed_seconds": 11.0,
+      "white_clock_upper_minutes": 61.96666666666667,
+      "black_clock_upper_minutes": 51.4,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 28,
+      "move": 14,
+      "san": "Bxc6",
+      "elapsed_seconds": 82.0,
+      "white_clock_upper_minutes": 61.96666666666667,
+      "black_clock_upper_minutes": 50.28333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 29,
+      "move": 15,
+      "san": "f5",
+      "elapsed_seconds": 11.0,
+      "white_clock_upper_minutes": 62.03333333333333,
+      "black_clock_upper_minutes": 50.28333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 0,
+      "notes": []
+    },
+    {
+      "ply": 30,
+      "move": 15,
+      "san": "Kh8",
+      "elapsed_seconds": null,
+      "white_clock_upper_minutes": 62.03333333333333,
+      "black_clock_upper_minutes": 50.53333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 31,
+      "move": 16,
+      "san": "f6",
+      "elapsed_seconds": 5.0,
+      "white_clock_upper_minutes": 62.2,
+      "black_clock_upper_minutes": 50.53333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "Stephen attributes the idea to an earlier correspondence game.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 32,
+      "move": 16,
+      "san": "gxh6",
+      "elapsed_seconds": 803.0,
+      "white_clock_upper_minutes": 62.2,
+      "black_clock_upper_minutes": 37.4,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 33,
+      "move": 17,
+      "san": "fxe7",
+      "elapsed_seconds": 12.0,
+      "white_clock_upper_minutes": 62.25,
+      "black_clock_upper_minutes": 37.4,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 34,
+      "move": 17,
+      "san": "Qxe7",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 62.25,
+      "black_clock_upper_minutes": 37.63333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 35,
+      "move": 18,
+      "san": "Qf4",
+      "elapsed_seconds": 567.0,
+      "white_clock_upper_minutes": 53.05,
+      "black_clock_upper_minutes": 37.63333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "First move outside reported preparation; intended to prevent Rg8.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 36,
+      "move": 18,
+      "san": "b4",
+      "elapsed_seconds": 166.0,
+      "white_clock_upper_minutes": 53.05,
+      "black_clock_upper_minutes": 35.11666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 37,
+      "move": 19,
+      "san": "Ne2",
+      "elapsed_seconds": 226.0,
+      "white_clock_upper_minutes": 49.53333333333333,
+      "black_clock_upper_minutes": 35.11666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 38,
+      "move": 19,
+      "san": "e5",
+      "elapsed_seconds": 242.0,
+      "white_clock_upper_minutes": 49.53333333333333,
+      "black_clock_upper_minutes": 31.333333333333332,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 39,
+      "move": 20,
+      "san": "Qxh6",
+      "elapsed_seconds": 183.0,
+      "white_clock_upper_minutes": 46.733333333333334,
+      "black_clock_upper_minutes": 31.333333333333332,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 40,
+      "move": 20,
+      "san": "f5",
+      "elapsed_seconds": 214.0,
+      "white_clock_upper_minutes": 46.733333333333334,
+      "black_clock_upper_minutes": 28.016666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 41,
+      "move": 21,
+      "san": "Rxf5",
+      "elapsed_seconds": 281.0,
+      "white_clock_upper_minutes": 42.3,
+      "black_clock_upper_minutes": 28.016666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 42,
+      "move": 21,
+      "san": "Rxf5",
+      "elapsed_seconds": 7.0,
+      "white_clock_upper_minutes": 42.3,
+      "black_clock_upper_minutes": 28.15,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 43,
+      "move": 22,
+      "san": "exf5",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 42.516666666666666,
+      "black_clock_upper_minutes": 28.15,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 44,
+      "move": 22,
+      "san": "Nf6",
+      "elapsed_seconds": 4.0,
+      "white_clock_upper_minutes": 42.516666666666666,
+      "black_clock_upper_minutes": 28.333333333333332,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 45,
+      "move": 23,
+      "san": "Qe3",
+      "elapsed_seconds": 686.0,
+      "white_clock_upper_minutes": 31.333333333333332,
+      "black_clock_upper_minutes": 28.333333333333332,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "Reported engines preferred h3; Qe3 was chosen to displace the opposing queen.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 46,
+      "move": 23,
+      "san": "Qc7",
+      "elapsed_seconds": 6.0,
+      "white_clock_upper_minutes": 31.333333333333332,
+      "black_clock_upper_minutes": 28.483333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 47,
+      "move": 24,
+      "san": "h3",
+      "elapsed_seconds": 10.0,
+      "white_clock_upper_minutes": 31.416666666666668,
+      "black_clock_upper_minutes": 28.483333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 48,
+      "move": 24,
+      "san": "d5",
+      "elapsed_seconds": 140.0,
+      "white_clock_upper_minutes": 31.416666666666668,
+      "black_clock_upper_minutes": 26.4,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 49,
+      "move": 25,
+      "san": "g4",
+      "elapsed_seconds": 19.0,
+      "white_clock_upper_minutes": 31.35,
+      "black_clock_upper_minutes": 26.4,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "Reported time advantage spent investigating plans.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 50,
+      "move": 25,
+      "san": "a5",
+      "elapsed_seconds": 273.0,
+      "white_clock_upper_minutes": 31.35,
+      "black_clock_upper_minutes": 22.1,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 51,
+      "move": 26,
+      "san": "c3",
+      "elapsed_seconds": 27.0,
+      "white_clock_upper_minutes": 31.15,
+      "black_clock_upper_minutes": 22.1,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 52,
+      "move": 26,
+      "san": "a4",
+      "elapsed_seconds": 67.0,
+      "white_clock_upper_minutes": 31.15,
+      "black_clock_upper_minutes": 21.233333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 53,
+      "move": 27,
+      "san": "Bc2",
+      "elapsed_seconds": 7.0,
+      "white_clock_upper_minutes": 31.283333333333335,
+      "black_clock_upper_minutes": 21.233333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 54,
+      "move": 27,
+      "san": "a3",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 31.283333333333335,
+      "black_clock_upper_minutes": 21.466666666666665,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "Fritz 8 reportedly favoured Black here; assessment changed after the game.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 55,
+      "move": 28,
+      "san": "bxa3",
+      "elapsed_seconds": 533.0,
+      "white_clock_upper_minutes": 22.65,
+      "black_clock_upper_minutes": 21.466666666666665,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 56,
+      "move": 28,
+      "san": "bxc3",
+      "elapsed_seconds": 223.0,
+      "white_clock_upper_minutes": 22.65,
+      "black_clock_upper_minutes": 18.0,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 57,
+      "move": 29,
+      "san": "Qxc3",
+      "elapsed_seconds": 248.0,
+      "white_clock_upper_minutes": 18.766666666666666,
+      "black_clock_upper_minutes": 18.0,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 58,
+      "move": 29,
+      "san": "Qb6+",
+      "elapsed_seconds": 214.0,
+      "white_clock_upper_minutes": 18.766666666666666,
+      "black_clock_upper_minutes": 14.683333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 59,
+      "move": 30,
+      "san": "Kf1",
+      "elapsed_seconds": 7.0,
+      "white_clock_upper_minutes": 18.9,
+      "black_clock_upper_minutes": 14.683333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 60,
+      "move": 30,
+      "san": "d4",
+      "elapsed_seconds": 111.0,
+      "white_clock_upper_minutes": 18.9,
+      "black_clock_upper_minutes": 13.083333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 61,
+      "move": 31,
+      "san": "Qb3",
+      "elapsed_seconds": 361.0,
+      "white_clock_upper_minutes": 13.133333333333333,
+      "black_clock_upper_minutes": 13.083333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 62,
+      "move": 31,
+      "san": "Qc5",
+      "elapsed_seconds": 52.0,
+      "white_clock_upper_minutes": 13.133333333333333,
+      "black_clock_upper_minutes": 12.466666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 63,
+      "move": 32,
+      "san": "Rc1",
+      "elapsed_seconds": 10.0,
+      "white_clock_upper_minutes": 13.216666666666667,
+      "black_clock_upper_minutes": 12.466666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 64,
+      "move": 32,
+      "san": "Bd5",
+      "elapsed_seconds": 25.0,
+      "white_clock_upper_minutes": 13.216666666666667,
+      "black_clock_upper_minutes": 12.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 65,
+      "move": 33,
+      "san": "Qb4",
+      "elapsed_seconds": 60.0,
+      "white_clock_upper_minutes": 12.466666666666667,
+      "black_clock_upper_minutes": 12.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 66,
+      "move": 33,
+      "san": "Qc6",
+      "elapsed_seconds": 15.0,
+      "white_clock_upper_minutes": 12.466666666666667,
+      "black_clock_upper_minutes": 12.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 67,
+      "move": 34,
+      "san": "Bd3",
+      "elapsed_seconds": 126.0,
+      "white_clock_upper_minutes": 10.616666666666667,
+      "black_clock_upper_minutes": 12.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 68,
+      "move": 34,
+      "san": "Qd7",
+      "elapsed_seconds": 16.0,
+      "white_clock_upper_minutes": 10.616666666666667,
+      "black_clock_upper_minutes": 12.283333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 69,
+      "move": 35,
+      "san": "Qb6",
+      "elapsed_seconds": 74.0,
+      "white_clock_upper_minutes": 9.633333333333333,
+      "black_clock_upper_minutes": 12.283333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": [
+        {
+          "account": "Report describes a forced win after 34...Qd7.",
+          "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9"
+        }
+      ]
+    },
+    {
+      "ply": 70,
+      "move": 35,
+      "san": "Qe7",
+      "elapsed_seconds": 207.0,
+      "white_clock_upper_minutes": 9.633333333333333,
+      "black_clock_upper_minutes": 9.083333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 71,
+      "move": 36,
+      "san": "Rc7",
+      "elapsed_seconds": 107.0,
+      "white_clock_upper_minutes": 8.1,
+      "black_clock_upper_minutes": 9.083333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 72,
+      "move": 36,
+      "san": "Qd8",
+      "elapsed_seconds": 6.0,
+      "white_clock_upper_minutes": 8.1,
+      "black_clock_upper_minutes": 9.233333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 73,
+      "move": 37,
+      "san": "Qc5",
+      "elapsed_seconds": 21.0,
+      "white_clock_upper_minutes": 8.0,
+      "black_clock_upper_minutes": 9.233333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 74,
+      "move": 37,
+      "san": "h6",
+      "elapsed_seconds": 49.0,
+      "white_clock_upper_minutes": 8.0,
+      "black_clock_upper_minutes": 8.666666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 75,
+      "move": 38,
+      "san": "a4",
+      "elapsed_seconds": 40.0,
+      "white_clock_upper_minutes": 7.583333333333333,
+      "black_clock_upper_minutes": 8.666666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 76,
+      "move": 38,
+      "san": "Rb8",
+      "elapsed_seconds": 18.0,
+      "white_clock_upper_minutes": 7.583333333333333,
+      "black_clock_upper_minutes": 8.616666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 77,
+      "move": 39,
+      "san": "Bb5",
+      "elapsed_seconds": 25.0,
+      "white_clock_upper_minutes": 7.416666666666667,
+      "black_clock_upper_minutes": 8.616666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 78,
+      "move": 39,
+      "san": "h5",
+      "elapsed_seconds": 32.0,
+      "white_clock_upper_minutes": 7.416666666666667,
+      "black_clock_upper_minutes": 8.333333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 79,
+      "move": 40,
+      "san": "g5",
+      "elapsed_seconds": 118.0,
+      "white_clock_upper_minutes": 5.7,
+      "black_clock_upper_minutes": 8.333333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 80,
+      "move": 40,
+      "san": "Ne4",
+      "elapsed_seconds": 14.0,
+      "white_clock_upper_minutes": 5.7,
+      "black_clock_upper_minutes": 8.35,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 81,
+      "move": 41,
+      "san": "Qe7",
+      "elapsed_seconds": 4.0,
+      "white_clock_upper_minutes": 5.883333333333334,
+      "black_clock_upper_minutes": 8.35,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 82,
+      "move": 41,
+      "san": "Qxe7",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 5.883333333333334,
+      "black_clock_upper_minutes": 8.566666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 83,
+      "move": 42,
+      "san": "Rxe7",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 6.1,
+      "black_clock_upper_minutes": 8.566666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 84,
+      "move": 42,
+      "san": "Nxg5",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 6.1,
+      "black_clock_upper_minutes": 8.8,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 85,
+      "move": 43,
+      "san": "Rxe5",
+      "elapsed_seconds": 10.0,
+      "white_clock_upper_minutes": 6.183333333333334,
+      "black_clock_upper_minutes": 8.8,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 86,
+      "move": 43,
+      "san": "Rd8",
+      "elapsed_seconds": 20.0,
+      "white_clock_upper_minutes": 6.183333333333334,
+      "black_clock_upper_minutes": 8.716666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 87,
+      "move": 44,
+      "san": "Nxd4",
+      "elapsed_seconds": 38.0,
+      "white_clock_upper_minutes": 5.8,
+      "black_clock_upper_minutes": 8.716666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 88,
+      "move": 44,
+      "san": "Kg7",
+      "elapsed_seconds": 5.0,
+      "white_clock_upper_minutes": 5.8,
+      "black_clock_upper_minutes": 8.883333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 89,
+      "move": 45,
+      "san": "h4",
+      "elapsed_seconds": 9.0,
+      "white_clock_upper_minutes": 5.9,
+      "black_clock_upper_minutes": 8.883333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 90,
+      "move": 45,
+      "san": "Nf7",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 5.9,
+      "black_clock_upper_minutes": 9.116666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 91,
+      "move": 46,
+      "san": "Re6",
+      "elapsed_seconds": 35.0,
+      "white_clock_upper_minutes": 5.566666666666666,
+      "black_clock_upper_minutes": 9.116666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 92,
+      "move": 46,
+      "san": "Bxa2",
+      "elapsed_seconds": 33.0,
+      "white_clock_upper_minutes": 5.566666666666666,
+      "black_clock_upper_minutes": 8.816666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 93,
+      "move": 47,
+      "san": "Rg6+",
+      "elapsed_seconds": 49.0,
+      "white_clock_upper_minutes": 5.0,
+      "black_clock_upper_minutes": 8.816666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 94,
+      "move": 47,
+      "san": "Kf8",
+      "elapsed_seconds": 5.0,
+      "white_clock_upper_minutes": 5.0,
+      "black_clock_upper_minutes": 8.983333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 95,
+      "move": 48,
+      "san": "Ne6+",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 5.216666666666667,
+      "black_clock_upper_minutes": 8.983333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 96,
+      "move": 48,
+      "san": "Bxe6",
+      "elapsed_seconds": 1.0,
+      "white_clock_upper_minutes": 5.216666666666667,
+      "black_clock_upper_minutes": 9.216666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 97,
+      "move": 49,
+      "san": "fxe6",
+      "elapsed_seconds": 3.0,
+      "white_clock_upper_minutes": 5.416666666666667,
+      "black_clock_upper_minutes": 9.216666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 98,
+      "move": 49,
+      "san": "Nd6",
+      "elapsed_seconds": 3.0,
+      "white_clock_upper_minutes": 5.416666666666667,
+      "black_clock_upper_minutes": 9.416666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 99,
+      "move": 50,
+      "san": "Bd7",
+      "elapsed_seconds": 3.0,
+      "white_clock_upper_minutes": 5.616666666666666,
+      "black_clock_upper_minutes": 9.416666666666666,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 100,
+      "move": 50,
+      "san": "Ke7",
+      "elapsed_seconds": 17.0,
+      "white_clock_upper_minutes": 5.616666666666666,
+      "black_clock_upper_minutes": 9.383333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 101,
+      "move": 51,
+      "san": "Rg7+",
+      "elapsed_seconds": 22.0,
+      "white_clock_upper_minutes": 5.5,
+      "black_clock_upper_minutes": 9.383333333333333,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 102,
+      "move": 51,
+      "san": "Kf6",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 5.5,
+      "black_clock_upper_minutes": 9.6,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 103,
+      "move": 52,
+      "san": "Rh7",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 5.716666666666667,
+      "black_clock_upper_minutes": 9.6,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 104,
+      "move": 52,
+      "san": "Kg6",
+      "elapsed_seconds": 15.0,
+      "white_clock_upper_minutes": 5.716666666666667,
+      "black_clock_upper_minutes": 9.6,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 105,
+      "move": 53,
+      "san": "Rf7",
+      "elapsed_seconds": 29.0,
+      "white_clock_upper_minutes": 5.483333333333333,
+      "black_clock_upper_minutes": 9.6,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 106,
+      "move": 53,
+      "san": "Rb8",
+      "elapsed_seconds": 31.0,
+      "white_clock_upper_minutes": 5.483333333333333,
+      "black_clock_upper_minutes": 9.333333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 107,
+      "move": 54,
+      "san": "Rf4",
+      "elapsed_seconds": 12.0,
+      "white_clock_upper_minutes": 5.533333333333333,
+      "black_clock_upper_minutes": 9.333333333333334,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 108,
+      "move": 54,
+      "san": "Rb1+",
+      "elapsed_seconds": 17.0,
+      "white_clock_upper_minutes": 5.533333333333333,
+      "black_clock_upper_minutes": 9.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 109,
+      "move": 55,
+      "san": "Ke2",
+      "elapsed_seconds": 4.0,
+      "white_clock_upper_minutes": 5.716666666666667,
+      "black_clock_upper_minutes": 9.3,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 110,
+      "move": 55,
+      "san": "Rb2+",
+      "elapsed_seconds": 2.0,
+      "white_clock_upper_minutes": 5.716666666666667,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 111,
+      "move": 56,
+      "san": "Kd3",
+      "elapsed_seconds": 7.0,
+      "white_clock_upper_minutes": 5.85,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 112,
+      "move": 56,
+      "san": "Rb1",
+      "elapsed_seconds": 15.0,
+      "white_clock_upper_minutes": 5.85,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 113,
+      "move": 57,
+      "san": "Kd4",
+      "elapsed_seconds": 20.0,
+      "white_clock_upper_minutes": 5.766666666666667,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 114,
+      "move": 57,
+      "san": "Rd1+",
+      "elapsed_seconds": 15.0,
+      "white_clock_upper_minutes": 5.766666666666667,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    },
+    {
+      "ply": 115,
+      "move": 58,
+      "san": "Ke5",
+      "elapsed_seconds": 10.0,
+      "white_clock_upper_minutes": 5.85,
+      "black_clock_upper_minutes": 9.516666666666667,
+      "white_missing_times": 0,
+      "black_missing_times": 1,
+      "notes": []
+    }
+  ],
+  "evaluations": [
+    {
+      "ply": 11,
+      "white_expected_score": 0.5345
+    },
+    {
+      "ply": 12,
+      "white_expected_score": 0.512
+    },
+    {
+      "ply": 13,
+      "white_expected_score": 0.52
+    },
+    {
+      "ply": 14,
+      "white_expected_score": 0.518
+    },
+    {
+      "ply": 15,
+      "white_expected_score": 0.506
+    },
+    {
+      "ply": 16,
+      "white_expected_score": 0.5
+    },
+    {
+      "ply": 17,
+      "white_expected_score": 0.499
+    },
+    {
+      "ply": 18,
+      "white_expected_score": 0.499
+    },
+    {
+      "ply": 19,
+      "white_expected_score": 0.503
+    },
+    {
+      "ply": 20,
+      "white_expected_score": 0.501
+    },
+    {
+      "ply": 21,
+      "white_expected_score": 0.5185
+    },
+    {
+      "ply": 22,
+      "white_expected_score": 0.518
+    },
+    {
+      "ply": 23,
+      "white_expected_score": 0.5165
+    },
+    {
+      "ply": 24,
+      "white_expected_score": 0.522
+    },
+    {
+      "ply": 25,
+      "white_expected_score": 0.5215
+    },
+    {
+      "ply": 26,
+      "white_expected_score": 0.5185
+    },
+    {
+      "ply": 27,
+      "white_expected_score": 0.512
+    },
+    {
+      "ply": 28,
+      "white_expected_score": 0.5175
+    },
+    {
+      "ply": 29,
+      "white_expected_score": 0.512
+    },
+    {
+      "ply": 30,
+      "white_expected_score": 0.5105
+    },
+    {
+      "ply": 31,
+      "white_expected_score": 0.508
+    },
+    {
+      "ply": 32,
+      "white_expected_score": 0.5105
+    },
+    {
+      "ply": 33,
+      "white_expected_score": 0.501
+    },
+    {
+      "ply": 34,
+      "white_expected_score": 0.513
+    },
+    {
+      "ply": 35,
+      "white_expected_score": 0.508
+    },
+    {
+      "ply": 36,
+      "white_expected_score": 0.502
+    },
+    {
+      "ply": 37,
+      "white_expected_score": 0.5065
+    },
+    {
+      "ply": 38,
+      "white_expected_score": 0.5035
+    },
+    {
+      "ply": 39,
+      "white_expected_score": 0.5035
+    },
+    {
+      "ply": 40,
+      "white_expected_score": 0.506
+    },
+    {
+      "ply": 41,
+      "white_expected_score": 0.608
+    },
+    {
+      "ply": 42,
+      "white_expected_score": 0.5825
+    },
+    {
+      "ply": 43,
+      "white_expected_score": 0.6
+    },
+    {
+      "ply": 44,
+      "white_expected_score": 0.557
+    },
+    {
+      "ply": 45,
+      "white_expected_score": 0.574
+    },
+    {
+      "ply": 46,
+      "white_expected_score": 0.5325
+    },
+    {
+      "ply": 47,
+      "white_expected_score": 0.5495
+    },
+    {
+      "ply": 48,
+      "white_expected_score": 0.527
+    },
+    {
+      "ply": 49,
+      "white_expected_score": 0.528
+    },
+    {
+      "ply": 50,
+      "white_expected_score": 0.5065
+    },
+    {
+      "ply": 51,
+      "white_expected_score": 0.5075
+    },
+    {
+      "ply": 52,
+      "white_expected_score": 0.5005
+    },
+    {
+      "ply": 53,
+      "white_expected_score": 0.5025
+    },
+    {
+      "ply": 54,
+      "white_expected_score": 0.5045
+    },
+    {
+      "ply": 55,
+      "white_expected_score": 0.5025
+    },
+    {
+      "ply": 56,
+      "white_expected_score": 0.505
+    },
+    {
+      "ply": 57,
+      "white_expected_score": 0.5045
+    },
+    {
+      "ply": 58,
+      "white_expected_score": 0.5035
+    },
+    {
+      "ply": 59,
+      "white_expected_score": 0.501
+    },
+    {
+      "ply": 60,
+      "white_expected_score": 0.504
+    },
+    {
+      "ply": 61,
+      "white_expected_score": 0.5005
+    },
+    {
+      "ply": 62,
+      "white_expected_score": 0.5035
+    },
+    {
+      "ply": 63,
+      "white_expected_score": 0.5065
+    },
+    {
+      "ply": 64,
+      "white_expected_score": 0.516
+    },
+    {
+      "ply": 65,
+      "white_expected_score": 0.509
+    },
+    {
+      "ply": 66,
+      "white_expected_score": 0.508
+    },
+    {
+      "ply": 67,
+      "white_expected_score": 0.8395
+    },
+    {
+      "ply": 68,
+      "white_expected_score": 0.906
+    },
+    {
+      "ply": 69,
+      "white_expected_score": 0.8725
+    },
+    {
+      "ply": 70,
+      "white_expected_score": 0.8085
+    },
+    {
+      "ply": 71,
+      "white_expected_score": 0.9855
+    },
+    {
+      "ply": 72,
+      "white_expected_score": 0.9885
+    },
+    {
+      "ply": 73,
+      "white_expected_score": 0.999
+    },
+    {
+      "ply": 74,
+      "white_expected_score": 0.9995
+    },
+    {
+      "ply": 75,
+      "white_expected_score": 0.9995
+    },
+    {
+      "ply": 76,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 77,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 78,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 79,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 80,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 81,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 82,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 83,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 84,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 85,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 86,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 87,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 88,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 89,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 90,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 91,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 92,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 93,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 94,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 95,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 96,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 97,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 98,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 99,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 100,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 101,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 102,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 103,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 104,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 105,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 106,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 107,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 108,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 109,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 110,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 111,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 112,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 113,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 114,
+      "white_expected_score": 1.0
+    },
+    {
+      "ply": 115,
+      "white_expected_score": 1.0
+    }
+  ],
+  "limits": [
+    "Black has a missing move time at ply 30; subsequent clock values are upper bounds.",
+    "Evaluation is the modern engine estimate before each move at 1M nodes, with full game history."
+  ],
+  "inputs_sha256": {
+    "data/derived/pal_css_move_times.csv": "2447af0fe80c6570857b84cded417ff139aadfd4f1a11782160cb6196fa8a34c",
+    "data/derived/pal_css_2005_trajectory.csv": "a85fa76c610af47e1326618aef752a369e7ca68bd5500e7de5ca50d5c6d6ba01",
+    "data/curated/pal_css_2005_decisions.csv": "427b4b012977ae963222dff3153a2bc0d743e5480be499478141eb68348acd65"
+  }
+}

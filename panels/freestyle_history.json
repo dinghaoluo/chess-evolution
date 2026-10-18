@@ -1,0 +1,160 @@
+{
+  "title": "Freestyle winners and reported entry types",
+  "events": [
+    {
+      "event_id": "pal_1",
+      "edition": "1",
+      "year": "2005",
+      "winner": "ZackS",
+      "entry_type": "human_engine",
+      "winner_points": "",
+      "format": "knockout",
+      "source_url": "https://en.chessbase.com/post/dark-horse-zacks-wins-freestyle-che-tournament",
+      "limit": "winner verified; no complete field classification"
+    },
+    {
+      "event_id": "pal_2",
+      "edition": "2",
+      "year": "2006",
+      "winner": "Zor_champ",
+      "entry_type": "human_involvement_unknown",
+      "winner_points": "5.5",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/zor-champ-wins-freestyle-tournament",
+      "limit": "Hydra-run account; report does not specify live human assistance"
+    },
+    {
+      "event_id": "pal_3",
+      "edition": "3",
+      "year": "2006",
+      "winner": "Rajlich",
+      "entry_type": "human_engine",
+      "winner_points": "",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/rajlich-wins-sixth-pal-c-freestyle-tournament",
+      "limit": "third-edition winner identified retrospectively; games not recovered"
+    },
+    {
+      "event_id": "pal_4",
+      "edition": "4",
+      "year": "2006",
+      "winner": "Xakru",
+      "entry_type": "human_engine",
+      "winner_points": "6.0",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/the-freestyle-champion-is-xakru-dammit-",
+      "limit": "increment disputed between announcement and report"
+    },
+    {
+      "event_id": "pal_5",
+      "edition": "5",
+      "year": "2007",
+      "winner": "Flying Saucers",
+      "entry_type": "human_engine",
+      "winner_points": "6.5",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/freestyle-che-teaching-an-engine-how-to-fly",
+      "limit": "participant accounts and final scores"
+    },
+    {
+      "event_id": "pal_6",
+      "edition": "6",
+      "year": "2007",
+      "winner": "Rajlich",
+      "entry_type": "human_engine",
+      "winner_points": "6.0",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/rajlich-wins-sixth-pal-c-freestyle-tournament",
+      "limit": "Vasik and Iweta Rajlich; independent entrants changed mode during the main event"
+    },
+    {
+      "event_id": "pal_7",
+      "edition": "7",
+      "year": "2007",
+      "winner": "Ibermax (Anson Williams)",
+      "entry_type": "human_engine",
+      "winner_points": "7",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/che-festival-in-benidorm-where-a-new-genre-is-born",
+      "limit": "Nelson Hernandez identifies Williams as captain of winning Ibermax team; +6 =2 -1; no final PGN archive recovered"
+    },
+    {
+      "event_id": "pal_8",
+      "edition": "8",
+      "year": "2008",
+      "winner": "",
+      "entry_type": "unverified",
+      "winner_points": "",
+      "format": "round_robin",
+      "source_url": "https://en.chessbase.com/post/eighth-pal-c-freestyle-qualifier",
+      "limit": "qualifier and announcement verified; final winner not verified from a primary report"
+    },
+    {
+      "event_id": "infinity_2014",
+      "edition": "",
+      "year": "2014",
+      "winner": "Intagrand",
+      "entry_type": "human_engine",
+      "winner_points": "20.5",
+      "format": "round_robin",
+      "source_url": "https://theweekinchess.com/chessnews/events/intagrand-wins-the-freestyle-battle-2014",
+      "limit": "TWIC crosstable gives 20.5/29; prose incorrectly says 29 points"
+    }
+  ],
+  "hydra": [
+    {
+      "edition": "1",
+      "stage": "main",
+      "account": "zor_champ",
+      "entry_type": "engine_only",
+      "engine": "Hydra Chimera",
+      "source_url": "https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament",
+      "limit": "team reports no human involvement",
+      "games": "8",
+      "wins": "2",
+      "draws": "3",
+      "losses": "3",
+      "points": "3.5"
+    },
+    {
+      "edition": "1",
+      "stage": "main",
+      "account": "ares01",
+      "entry_type": "human_engine",
+      "engine": "Hydra Scylla",
+      "source_url": "https://en.chessbase.com/post/hydra-mies-the-quarter-finals-of-freestyle-tournament",
+      "limit": "team reports human intervention and untested software",
+      "games": "8",
+      "wins": "2",
+      "draws": "4",
+      "losses": "2",
+      "points": "4.0"
+    }
+  ],
+  "comparisons": [
+    {
+      "event_id": "infinity_2014",
+      "stage": "after_round_18_of_29",
+      "human_wins": "24",
+      "draws": "59",
+      "engine_wins": "13",
+      "human_white_games": "54",
+      "human_black_games": "42",
+      "source_url": "https://gwern.net/doc/www/www.infinitychess.com/2e38d048d76721a8837bf0bd309978835692c242.html",
+      "limit": "reported interim aggregate; entrants could change mode by round; unequal colours and hardware; no per-game mode labels recovered",
+      "games": "96",
+      "human_points": "53.5",
+      "engine_points": "42.5"
+    }
+  ],
+  "limits": [
+    "Hydra results are against the field; opponent modes are unclassified, and Ares01 had human intervention.",
+    "The 2014 comparison is an interim report after eighteen rounds, with a 54–42 colour imbalance.",
+    "Entrants could change mode between games; no complete centaur-versus-engine census is inferred."
+  ],
+  "inputs_sha256": {
+    "data/derived/freestyle_events.csv": "fa3bd461b349e33c7a3cb96bf5bfb181c053c632e390f6c1e0f10e149144b663",
+    "data/derived/hydra_results.csv": "5e0722c8872394d8378c4ae83630bf5dcc750c4c06cb459f316472828d18a6c1",
+    "data/derived/freestyle_comparisons.csv": "738001f15cb9a201d591520eea8760e2548ecb33696117fc4959c0f014534f18"
+  }
+}

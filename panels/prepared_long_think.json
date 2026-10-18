@@ -1,0 +1,608 @@
+{
+  "title": "Checking a prepared move",
+  "date": "23 March 2007",
+  "moves": [
+    {
+      "ply": 1,
+      "move": 1,
+      "san": "e4",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 0.21666666666666667,
+      "nielsen_elapsed_minutes": 0.0
+    },
+    {
+      "ply": 2,
+      "move": 1,
+      "san": "c5",
+      "elapsed_seconds": 5.0,
+      "rodo_elapsed_minutes": 0.21666666666666667,
+      "nielsen_elapsed_minutes": 0.08333333333333333
+    },
+    {
+      "ply": 3,
+      "move": 2,
+      "san": "Nf3",
+      "elapsed_seconds": 10.0,
+      "rodo_elapsed_minutes": 0.38333333333333336,
+      "nielsen_elapsed_minutes": 0.08333333333333333
+    },
+    {
+      "ply": 4,
+      "move": 2,
+      "san": "d6",
+      "elapsed_seconds": 6.0,
+      "rodo_elapsed_minutes": 0.38333333333333336,
+      "nielsen_elapsed_minutes": 0.18333333333333332
+    },
+    {
+      "ply": 5,
+      "move": 3,
+      "san": "d4",
+      "elapsed_seconds": 9.0,
+      "rodo_elapsed_minutes": 0.5333333333333333,
+      "nielsen_elapsed_minutes": 0.18333333333333332
+    },
+    {
+      "ply": 6,
+      "move": 3,
+      "san": "cxd4",
+      "elapsed_seconds": 4.0,
+      "rodo_elapsed_minutes": 0.5333333333333333,
+      "nielsen_elapsed_minutes": 0.25
+    },
+    {
+      "ply": 7,
+      "move": 4,
+      "san": "Nxd4",
+      "elapsed_seconds": 7.0,
+      "rodo_elapsed_minutes": 0.65,
+      "nielsen_elapsed_minutes": 0.25
+    },
+    {
+      "ply": 8,
+      "move": 4,
+      "san": "Nf6",
+      "elapsed_seconds": 15.0,
+      "rodo_elapsed_minutes": 0.65,
+      "nielsen_elapsed_minutes": 0.5
+    },
+    {
+      "ply": 9,
+      "move": 5,
+      "san": "Nc3",
+      "elapsed_seconds": 19.0,
+      "rodo_elapsed_minutes": 0.9666666666666667,
+      "nielsen_elapsed_minutes": 0.5
+    },
+    {
+      "ply": 10,
+      "move": 5,
+      "san": "a6",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 0.9666666666666667,
+      "nielsen_elapsed_minutes": 0.7166666666666667
+    },
+    {
+      "ply": 11,
+      "move": 6,
+      "san": "Be3",
+      "elapsed_seconds": 12.0,
+      "rodo_elapsed_minutes": 1.1666666666666667,
+      "nielsen_elapsed_minutes": 0.7166666666666667
+    },
+    {
+      "ply": 12,
+      "move": 6,
+      "san": "e5",
+      "elapsed_seconds": 28.0,
+      "rodo_elapsed_minutes": 1.1666666666666667,
+      "nielsen_elapsed_minutes": 1.1833333333333333
+    },
+    {
+      "ply": 13,
+      "move": 7,
+      "san": "Nb3",
+      "elapsed_seconds": 11.0,
+      "rodo_elapsed_minutes": 1.35,
+      "nielsen_elapsed_minutes": 1.1833333333333333
+    },
+    {
+      "ply": 14,
+      "move": 7,
+      "san": "Be6",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 1.35,
+      "nielsen_elapsed_minutes": 1.4
+    },
+    {
+      "ply": 15,
+      "move": 8,
+      "san": "f3",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 1.5666666666666667,
+      "nielsen_elapsed_minutes": 1.4
+    },
+    {
+      "ply": 16,
+      "move": 8,
+      "san": "Be7",
+      "elapsed_seconds": 16.0,
+      "rodo_elapsed_minutes": 1.5666666666666667,
+      "nielsen_elapsed_minutes": 1.6666666666666667
+    },
+    {
+      "ply": 17,
+      "move": 9,
+      "san": "Qd2",
+      "elapsed_seconds": 9.0,
+      "rodo_elapsed_minutes": 1.7166666666666666,
+      "nielsen_elapsed_minutes": 1.6666666666666667
+    },
+    {
+      "ply": 18,
+      "move": 9,
+      "san": "O-O",
+      "elapsed_seconds": 14.0,
+      "rodo_elapsed_minutes": 1.7166666666666666,
+      "nielsen_elapsed_minutes": 1.9
+    },
+    {
+      "ply": 19,
+      "move": 10,
+      "san": "O-O-O",
+      "elapsed_seconds": 11.0,
+      "rodo_elapsed_minutes": 1.9,
+      "nielsen_elapsed_minutes": 1.9
+    },
+    {
+      "ply": 20,
+      "move": 10,
+      "san": "Nbd7",
+      "elapsed_seconds": 6.0,
+      "rodo_elapsed_minutes": 1.9,
+      "nielsen_elapsed_minutes": 2.0
+    },
+    {
+      "ply": 21,
+      "move": 11,
+      "san": "g4",
+      "elapsed_seconds": 19.0,
+      "rodo_elapsed_minutes": 2.216666666666667,
+      "nielsen_elapsed_minutes": 2.0
+    },
+    {
+      "ply": 22,
+      "move": 11,
+      "san": "b5",
+      "elapsed_seconds": 12.0,
+      "rodo_elapsed_minutes": 2.216666666666667,
+      "nielsen_elapsed_minutes": 2.2
+    },
+    {
+      "ply": 23,
+      "move": 12,
+      "san": "g5",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 2.433333333333333,
+      "nielsen_elapsed_minutes": 2.2
+    },
+    {
+      "ply": 24,
+      "move": 12,
+      "san": "b4",
+      "elapsed_seconds": 7.0,
+      "rodo_elapsed_minutes": 2.433333333333333,
+      "nielsen_elapsed_minutes": 2.316666666666667
+    },
+    {
+      "ply": 25,
+      "move": 13,
+      "san": "Ne2",
+      "elapsed_seconds": 14.0,
+      "rodo_elapsed_minutes": 2.6666666666666665,
+      "nielsen_elapsed_minutes": 2.316666666666667
+    },
+    {
+      "ply": 26,
+      "move": 13,
+      "san": "Ne8",
+      "elapsed_seconds": 8.0,
+      "rodo_elapsed_minutes": 2.6666666666666665,
+      "nielsen_elapsed_minutes": 2.45
+    },
+    {
+      "ply": 27,
+      "move": 14,
+      "san": "f4",
+      "elapsed_seconds": 15.0,
+      "rodo_elapsed_minutes": 2.9166666666666665,
+      "nielsen_elapsed_minutes": 2.45
+    },
+    {
+      "ply": 28,
+      "move": 14,
+      "san": "a5",
+      "elapsed_seconds": 12.0,
+      "rodo_elapsed_minutes": 2.9166666666666665,
+      "nielsen_elapsed_minutes": 2.65
+    },
+    {
+      "ply": 29,
+      "move": 15,
+      "san": "f5",
+      "elapsed_seconds": 15.0,
+      "rodo_elapsed_minutes": 3.1666666666666665,
+      "nielsen_elapsed_minutes": 2.65
+    },
+    {
+      "ply": 30,
+      "move": 15,
+      "san": "a4",
+      "elapsed_seconds": 10.0,
+      "rodo_elapsed_minutes": 3.1666666666666665,
+      "nielsen_elapsed_minutes": 2.816666666666667
+    },
+    {
+      "ply": 31,
+      "move": 16,
+      "san": "Nbd4",
+      "elapsed_seconds": 30.0,
+      "rodo_elapsed_minutes": 3.6666666666666665,
+      "nielsen_elapsed_minutes": 2.816666666666667
+    },
+    {
+      "ply": 32,
+      "move": 16,
+      "san": "exd4",
+      "elapsed_seconds": 47.0,
+      "rodo_elapsed_minutes": 3.6666666666666665,
+      "nielsen_elapsed_minutes": 3.6
+    },
+    {
+      "ply": 33,
+      "move": 17,
+      "san": "Nxd4",
+      "elapsed_seconds": 18.0,
+      "rodo_elapsed_minutes": 3.966666666666667,
+      "nielsen_elapsed_minutes": 3.6
+    },
+    {
+      "ply": 34,
+      "move": 17,
+      "san": "b3",
+      "elapsed_seconds": 8.0,
+      "rodo_elapsed_minutes": 3.966666666666667,
+      "nielsen_elapsed_minutes": 3.7333333333333334
+    },
+    {
+      "ply": 35,
+      "move": 18,
+      "san": "Kb1",
+      "elapsed_seconds": 16.0,
+      "rodo_elapsed_minutes": 4.233333333333333,
+      "nielsen_elapsed_minutes": 3.7333333333333334
+    },
+    {
+      "ply": 36,
+      "move": 18,
+      "san": "bxc2+",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 4.233333333333333,
+      "nielsen_elapsed_minutes": 3.95
+    },
+    {
+      "ply": 37,
+      "move": 19,
+      "san": "Nxc2",
+      "elapsed_seconds": 15.0,
+      "rodo_elapsed_minutes": 4.483333333333333,
+      "nielsen_elapsed_minutes": 3.95
+    },
+    {
+      "ply": 38,
+      "move": 19,
+      "san": "Bb3",
+      "elapsed_seconds": 19.0,
+      "rodo_elapsed_minutes": 4.483333333333333,
+      "nielsen_elapsed_minutes": 4.266666666666667
+    },
+    {
+      "ply": 39,
+      "move": 20,
+      "san": "axb3",
+      "elapsed_seconds": 18.0,
+      "rodo_elapsed_minutes": 4.783333333333333,
+      "nielsen_elapsed_minutes": 4.266666666666667
+    },
+    {
+      "ply": 40,
+      "move": 20,
+      "san": "axb3",
+      "elapsed_seconds": 8.0,
+      "rodo_elapsed_minutes": 4.783333333333333,
+      "nielsen_elapsed_minutes": 4.4
+    },
+    {
+      "ply": 41,
+      "move": 21,
+      "san": "Na3",
+      "elapsed_seconds": 9.0,
+      "rodo_elapsed_minutes": 4.933333333333334,
+      "nielsen_elapsed_minutes": 4.4
+    },
+    {
+      "ply": 42,
+      "move": 21,
+      "san": "Ne5",
+      "elapsed_seconds": 9.0,
+      "rodo_elapsed_minutes": 4.933333333333334,
+      "nielsen_elapsed_minutes": 4.55
+    },
+    {
+      "ply": 43,
+      "move": 22,
+      "san": "h4",
+      "elapsed_seconds": 20.0,
+      "rodo_elapsed_minutes": 5.266666666666667,
+      "nielsen_elapsed_minutes": 4.55
+    },
+    {
+      "ply": 44,
+      "move": 22,
+      "san": "Ra4",
+      "elapsed_seconds": 20.0,
+      "rodo_elapsed_minutes": 5.266666666666667,
+      "nielsen_elapsed_minutes": 4.883333333333334
+    },
+    {
+      "ply": 45,
+      "move": 23,
+      "san": "Bd4",
+      "elapsed_seconds": 21.0,
+      "rodo_elapsed_minutes": 5.616666666666666,
+      "nielsen_elapsed_minutes": 4.883333333333334
+    },
+    {
+      "ply": 46,
+      "move": 23,
+      "san": "Qa8",
+      "elapsed_seconds": 29.0,
+      "rodo_elapsed_minutes": 5.616666666666666,
+      "nielsen_elapsed_minutes": 5.366666666666666
+    },
+    {
+      "ply": 47,
+      "move": 24,
+      "san": "Qe3",
+      "elapsed_seconds": 15.0,
+      "rodo_elapsed_minutes": 5.866666666666666,
+      "nielsen_elapsed_minutes": 5.366666666666666
+    },
+    {
+      "ply": 48,
+      "move": 24,
+      "san": "Kh8",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 5.866666666666666,
+      "nielsen_elapsed_minutes": 5.583333333333333
+    },
+    {
+      "ply": 49,
+      "move": 25,
+      "san": "Bb5",
+      "elapsed_seconds": 704.0,
+      "rodo_elapsed_minutes": 17.6,
+      "nielsen_elapsed_minutes": 5.583333333333333
+    },
+    {
+      "ply": 50,
+      "move": 25,
+      "san": "Ra5",
+      "elapsed_seconds": 25.0,
+      "rodo_elapsed_minutes": 17.6,
+      "nielsen_elapsed_minutes": 6.0
+    },
+    {
+      "ply": 51,
+      "move": 26,
+      "san": "Bc3",
+      "elapsed_seconds": 158.0,
+      "rodo_elapsed_minutes": 20.233333333333334,
+      "nielsen_elapsed_minutes": 6.0
+    },
+    {
+      "ply": 52,
+      "move": 26,
+      "san": "Rxb5",
+      "elapsed_seconds": 77.0,
+      "rodo_elapsed_minutes": 20.233333333333334,
+      "nielsen_elapsed_minutes": 7.283333333333333
+    },
+    {
+      "ply": 53,
+      "move": 27,
+      "san": "Nxb5",
+      "elapsed_seconds": 63.0,
+      "rodo_elapsed_minutes": 21.283333333333335,
+      "nielsen_elapsed_minutes": 7.283333333333333
+    },
+    {
+      "ply": 54,
+      "move": 27,
+      "san": "Qa2+",
+      "elapsed_seconds": 95.0,
+      "rodo_elapsed_minutes": 21.283333333333335,
+      "nielsen_elapsed_minutes": 8.866666666666667
+    },
+    {
+      "ply": 55,
+      "move": 28,
+      "san": "Kc1",
+      "elapsed_seconds": 21.0,
+      "rodo_elapsed_minutes": 21.633333333333333,
+      "nielsen_elapsed_minutes": 8.866666666666667
+    },
+    {
+      "ply": 56,
+      "move": 28,
+      "san": "Nc4",
+      "elapsed_seconds": 9.0,
+      "rodo_elapsed_minutes": 21.633333333333333,
+      "nielsen_elapsed_minutes": 9.016666666666667
+    },
+    {
+      "ply": 57,
+      "move": 29,
+      "san": "Qd3",
+      "elapsed_seconds": 25.0,
+      "rodo_elapsed_minutes": 22.05,
+      "nielsen_elapsed_minutes": 9.016666666666667
+    },
+    {
+      "ply": 58,
+      "move": 29,
+      "san": "Qa1+",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 22.05,
+      "nielsen_elapsed_minutes": 9.233333333333333
+    },
+    {
+      "ply": 59,
+      "move": 30,
+      "san": "Qb1",
+      "elapsed_seconds": 13.0,
+      "rodo_elapsed_minutes": 22.266666666666666,
+      "nielsen_elapsed_minutes": 9.233333333333333
+    },
+    {
+      "ply": 60,
+      "move": 30,
+      "san": "Qa4",
+      "elapsed_seconds": 14.0,
+      "rodo_elapsed_minutes": 22.266666666666666,
+      "nielsen_elapsed_minutes": 9.466666666666667
+    },
+    {
+      "ply": 61,
+      "move": 31,
+      "san": "Nd4",
+      "elapsed_seconds": 1189.0,
+      "rodo_elapsed_minutes": 42.083333333333336,
+      "nielsen_elapsed_minutes": 9.466666666666667
+    },
+    {
+      "ply": 62,
+      "move": 31,
+      "san": "d5",
+      "elapsed_seconds": 30.0,
+      "rodo_elapsed_minutes": 42.083333333333336,
+      "nielsen_elapsed_minutes": 9.966666666666667
+    },
+    {
+      "ply": 63,
+      "move": 32,
+      "san": "Rh3",
+      "elapsed_seconds": 155.0,
+      "rodo_elapsed_minutes": 44.666666666666664,
+      "nielsen_elapsed_minutes": 9.966666666666667
+    },
+    {
+      "ply": 64,
+      "move": 32,
+      "san": "Bd6",
+      "elapsed_seconds": 18.0,
+      "rodo_elapsed_minutes": 44.666666666666664,
+      "nielsen_elapsed_minutes": 10.266666666666667
+    },
+    {
+      "ply": 65,
+      "move": 33,
+      "san": "Rf3",
+      "elapsed_seconds": 55.0,
+      "rodo_elapsed_minutes": 45.583333333333336,
+      "nielsen_elapsed_minutes": 10.266666666666667
+    },
+    {
+      "ply": 66,
+      "move": 33,
+      "san": "Ne5",
+      "elapsed_seconds": 34.0,
+      "rodo_elapsed_minutes": 45.583333333333336,
+      "nielsen_elapsed_minutes": 10.833333333333334
+    },
+    {
+      "ply": 67,
+      "move": 34,
+      "san": "Rff1",
+      "elapsed_seconds": 27.0,
+      "rodo_elapsed_minutes": 46.03333333333333,
+      "nielsen_elapsed_minutes": 10.833333333333334
+    },
+    {
+      "ply": 68,
+      "move": 34,
+      "san": "Nc7",
+      "elapsed_seconds": 1060.0,
+      "rodo_elapsed_minutes": 46.03333333333333,
+      "nielsen_elapsed_minutes": 28.5
+    },
+    {
+      "ply": 69,
+      "move": 35,
+      "san": "h5",
+      "elapsed_seconds": 14.0,
+      "rodo_elapsed_minutes": 46.266666666666666,
+      "nielsen_elapsed_minutes": 28.5
+    },
+    {
+      "ply": 70,
+      "move": 35,
+      "san": "Rc8",
+      "elapsed_seconds": 948.0,
+      "rodo_elapsed_minutes": 46.266666666666666,
+      "nielsen_elapsed_minutes": 44.3
+    },
+    {
+      "ply": 71,
+      "move": 36,
+      "san": "f6",
+      "elapsed_seconds": 1127.0,
+      "rodo_elapsed_minutes": 65.05,
+      "nielsen_elapsed_minutes": 44.3
+    },
+    {
+      "ply": 72,
+      "move": 36,
+      "san": "gxf6",
+      "elapsed_seconds": 228.0,
+      "rodo_elapsed_minutes": 65.05,
+      "nielsen_elapsed_minutes": 48.1
+    },
+    {
+      "ply": 73,
+      "move": 37,
+      "san": "Kd2",
+      "elapsed_seconds": 212.0,
+      "rodo_elapsed_minutes": 68.58333333333333,
+      "nielsen_elapsed_minutes": 48.1
+    },
+    {
+      "ply": 74,
+      "move": 37,
+      "san": "dxe4",
+      "elapsed_seconds": 315.0,
+      "rodo_elapsed_minutes": 68.58333333333333,
+      "nielsen_elapsed_minutes": 53.35
+    }
+  ],
+  "prepared_exchange_move": 26,
+  "last_reported_prepared_move": 34,
+  "source_url": "https://en.chessbase.com/post/freestyle-che-teaching-an-engine-how-to-fly",
+  "limits": [
+    "Nielsen identifies 34...Nc7 as his last prepared move; the 26...Rxb5 sacrifice was prepared too.",
+    "Cumulative elapsed time excludes increment; all supplied move times are present; the game ends on move 37."
+  ],
+  "inputs_sha256": {
+    "data/derived/pal_css_move_times.csv": "2447af0fe80c6570857b84cded417ff139aadfd4f1a11782160cb6196fa8a34c"
+  }
+}

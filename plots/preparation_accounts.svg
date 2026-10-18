@@ -1,0 +1,2396 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="792pt" height="410.4pt" viewBox="0 0 792 410.4" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-16T19:56:27.042894</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.1, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 410.4
+L 792 410.4
+L 792 0
+L 0 0
+z
+" style="fill: #f2f2ed"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 47.52 86.64
+L 357.4296 86.64
+L 357.4296 49.248
+L 47.52 49.248
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <!-- account -->
+     <g style="fill: #2c3133" transform="translate(185.129488 71.944) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-f7" d="M 2739 -38
+Q 2534 -38 2364 109
+Q 2195 256 2131 550
+L 2208 2490
+Q 1779 2829 1158 2829
+Q 1037 2829 915 2813
+Q 794 2797 685 2765
+L 966 2912
+L 851 1997
+Q 634 2035 525 2144
+Q 416 2253 416 2413
+Q 416 2624 566 2800
+Q 717 2976 973 3078
+Q 1229 3181 1536 3181
+Q 1875 3181 2166 3046
+Q 2458 2912 2675 2662
+L 2675 442
+L 3309 474
+Q 3277 307 3190 192
+Q 3104 77 2985 19
+Q 2867 -38 2739 -38
+z
+M 1306 -64
+Q 864 -58 598 176
+Q 333 410 333 781
+Q 333 960 416 1097
+Q 499 1235 710 1347
+Q 922 1459 1312 1577
+Q 1702 1696 2310 1843
+L 2310 1536
+L 781 1242
+L 947 1325
+Q 915 1229 899 1120
+Q 883 1011 883 922
+Q 883 653 1008 512
+Q 1133 371 1395 371
+Q 1587 371 1798 444
+Q 2010 518 2246 685
+L 2246 576
+Q 2048 378 1824 214
+Q 1600 51 1306 -64
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-114" d="M 1594 -51
+Q 1216 -51 928 150
+Q 640 352 477 710
+Q 314 1069 314 1536
+Q 314 2042 499 2410
+Q 685 2778 1011 2979
+Q 1338 3181 1760 3181
+Q 1971 3181 2179 3133
+Q 2387 3085 2586 3002
+L 2496 2605
+Q 2093 2797 1606 2797
+Q 1427 2797 1248 2749
+Q 1069 2701 909 2598
+L 1133 2784
+Q 979 2522 899 2218
+Q 819 1914 819 1606
+Q 819 1216 950 937
+Q 1082 659 1309 508
+Q 1536 358 1830 358
+Q 2010 358 2208 416
+Q 2406 474 2618 589
+L 2656 493
+Q 2195 -51 1594 -51
+z
+M 2381 2086
+L 2112 3002
+L 2586 3002
+L 2566 2086
+L 2381 2086
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-175" d="M 1664 -58
+Q 1254 -58 950 137
+Q 646 333 480 685
+Q 314 1037 314 1510
+Q 314 2010 493 2384
+Q 672 2758 992 2969
+Q 1312 3181 1734 3181
+Q 2150 3181 2457 2982
+Q 2765 2784 2937 2432
+Q 3110 2080 3110 1606
+Q 3110 1107 2928 732
+Q 2746 358 2422 150
+Q 2099 -58 1664 -58
+z
+M 1702 282
+Q 1971 282 2169 435
+Q 2368 589 2483 880
+Q 2598 1171 2598 1574
+Q 2598 1971 2486 2246
+Q 2374 2522 2169 2669
+Q 1965 2816 1690 2816
+Q 1517 2816 1315 2752
+Q 1114 2688 870 2560
+L 1146 2771
+Q 992 2483 909 2182
+Q 826 1882 826 1542
+Q 826 1152 938 867
+Q 1050 582 1245 432
+Q 1440 282 1702 282
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-1ba" d="M 3008 410
+L 3642 448
+Q 3603 288 3520 179
+Q 3437 70 3328 16
+Q 3219 -38 3104 -38
+Q 2963 -38 2835 35
+Q 2707 109 2614 253
+Q 2522 397 2490 602
+L 2541 2502
+L 2208 2918
+Q 2592 3136 3008 3187
+L 3008 410
+z
+M 1728 -45
+Q 1690 -51 1651 -54
+Q 1613 -58 1581 -58
+Q 1274 -58 1021 70
+Q 768 198 557 467
+L 998 717
+Q 1357 397 1766 397
+Q 2150 397 2534 698
+L 2547 570
+Q 2362 365 2160 211
+Q 1958 58 1728 -45
+z
+M 557 467
+L 614 2502
+L 275 2918
+Q 672 3136 1075 3187
+L 1075 557
+L 557 467
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-16b" d="M 218 0
+L 218 154
+Q 301 192 406 230
+Q 512 269 666 294
+L 723 2502
+L 390 2918
+Q 742 3130 1139 3187
+L 1190 2554
+L 1190 282
+L 1670 160
+L 1670 0
+L 218 0
+z
+M 2150 0
+L 2150 154
+Q 2234 192 2339 230
+Q 2445 269 2592 294
+L 2662 2438
+L 3117 2669
+L 3117 282
+L 3603 160
+L 3603 0
+L 2150 0
+z
+M 1146 2419
+L 1139 2547
+Q 1318 2758 1523 2912
+Q 1728 3066 1952 3168
+Q 1990 3174 2028 3174
+Q 2067 3174 2099 3174
+Q 2400 3174 2653 3052
+Q 2906 2931 3117 2669
+L 2662 2438
+Q 2317 2733 1933 2733
+Q 1542 2733 1146 2419
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-1b2" d="M 1133 3642
+L 1133 3110
+L 2221 3110
+L 2189 2810
+L 1133 2810
+L 1133 397
+L 2214 410
+Q 2125 256 1987 153
+Q 1850 51 1686 -3
+Q 1523 -58 1357 -58
+Q 1114 -58 906 51
+Q 698 160 602 371
+L 678 2810
+L 211 2810
+L 211 2918
+Q 410 3130 637 3312
+Q 864 3494 1133 3642
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-f7"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(52.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(96.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(139.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(193.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(251.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(310.109375 0)"/>
+     </g>
+    </g>
+    <g id="patch_3">
+     <path d="M 357.4296 86.64
+L 465.5376 86.64
+L 465.5376 49.248
+L 357.4296 49.248
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <!-- reported move -->
+     <g style="fill: #2c3133" transform="translate(379.838288 71.944) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-19c" d="M 2336 2643
+Q 1709 2682 1146 2368
+L 1146 2477
+Q 1331 2694 1529 2860
+Q 1728 3027 1952 3155
+Q 2067 3149 2169 3117
+Q 2272 3085 2362 3027
+L 2336 2643
+z
+M 218 0
+L 218 154
+Q 307 192 412 230
+Q 518 269 666 294
+L 723 2502
+L 390 2918
+Q 742 3130 1139 3187
+L 1190 2470
+L 1190 301
+L 1894 160
+L 1894 0
+L 218 0
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-122" d="M 1632 -51
+Q 1235 -51 937 144
+Q 640 339 477 694
+Q 314 1050 314 1517
+Q 314 1997 486 2374
+Q 659 2752 976 2963
+Q 1293 3174 1715 3174
+Q 2054 3174 2310 3030
+Q 2566 2886 2707 2627
+Q 2848 2368 2848 2022
+L 2829 1606
+Q 2464 1542 2128 1507
+Q 1792 1472 1424 1449
+Q 1056 1427 608 1421
+L 608 1722
+L 2374 1747
+L 2387 2029
+Q 2387 2387 2185 2601
+Q 1984 2816 1658 2816
+Q 1517 2816 1360 2771
+Q 1203 2726 1062 2643
+Q 928 2406 857 2134
+Q 787 1862 787 1594
+Q 787 998 1075 678
+Q 1363 358 1856 358
+Q 2278 358 2810 602
+L 2848 506
+Q 2579 230 2268 89
+Q 1958 -51 1632 -51
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-199" d="M 1632 -58
+Q 1421 -58 1187 -16
+Q 954 26 698 109
+L 813 486
+Q 1069 397 1277 352
+Q 1485 307 1651 307
+Q 2157 307 2438 630
+Q 2720 954 2720 1549
+Q 2720 1869 2637 2147
+Q 2554 2426 2381 2662
+L 2688 2374
+Q 2259 2726 1824 2726
+Q 1446 2726 1069 2426
+L 1062 2573
+Q 1242 2765 1430 2912
+Q 1619 3059 1824 3174
+Q 1850 3174 1875 3177
+Q 1901 3181 1920 3181
+Q 2317 3181 2608 2976
+Q 2899 2771 3056 2419
+Q 3213 2067 3213 1619
+Q 3213 1094 3017 720
+Q 2822 346 2467 144
+Q 2112 -58 1632 -58
+z
+M 147 -1254
+L 147 -1101
+Q 237 -1062 336 -1020
+Q 435 -979 589 -954
+L 646 2502
+L 314 2918
+Q 506 3021 688 3091
+Q 870 3162 1062 3187
+L 1114 2554
+L 1114 -966
+L 1722 -1094
+L 1722 -1254
+L 147 -1254
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-11b" d="M 1600 -58
+Q 1216 -58 928 137
+Q 640 333 477 681
+Q 314 1030 314 1504
+Q 314 2291 746 2736
+Q 1178 3181 1907 3181
+Q 2106 3181 2323 3145
+Q 2541 3110 2771 3040
+L 2688 2605
+Q 2195 2816 1766 2816
+Q 1536 2816 1321 2755
+Q 1107 2694 902 2579
+L 1107 2726
+Q 960 2490 886 2182
+Q 813 1875 813 1549
+Q 813 1178 921 918
+Q 1030 659 1225 528
+Q 1421 397 1670 397
+Q 1850 397 2045 467
+Q 2240 538 2445 691
+L 2445 550
+Q 2285 378 2093 221
+Q 1901 64 1677 -51
+Q 1658 -51 1638 -54
+Q 1619 -58 1600 -58
+z
+M 3008 -38
+Q 2867 -38 2736 35
+Q 2605 109 2515 253
+Q 2426 397 2394 602
+L 2451 4064
+L 2131 4518
+Q 2310 4621 2496 4685
+Q 2682 4749 2912 4781
+L 2912 410
+L 3539 448
+Q 3501 288 3421 179
+Q 3341 70 3232 16
+Q 3123 -38 3008 -38
+z
+M 2630 4858
+L 2624 4864
+L 2630 4864
+L 2630 4858
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-7f7" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-169" d="M 218 0
+L 218 154
+Q 301 192 406 230
+Q 512 269 666 294
+L 723 2502
+L 390 2918
+Q 742 3130 1139 3187
+L 1190 2554
+L 1190 282
+L 1670 160
+L 1670 0
+L 218 0
+z
+M 2150 0
+L 2150 154
+Q 2234 192 2339 230
+Q 2445 269 2592 294
+L 2662 2438
+L 3149 2618
+L 3117 2534
+L 3117 282
+L 3603 160
+L 3603 0
+L 2150 0
+z
+M 2662 2438
+Q 2317 2733 1933 2733
+Q 1542 2733 1146 2419
+L 1139 2547
+Q 1318 2758 1523 2912
+Q 1728 3066 1952 3168
+Q 1990 3174 2028 3174
+Q 2067 3174 2099 3174
+Q 2413 3174 2672 3040
+Q 2931 2906 3149 2618
+L 2662 2438
+z
+M 4083 0
+L 4083 154
+Q 4166 192 4272 230
+Q 4378 269 4525 294
+L 4589 2438
+L 5056 2669
+L 5056 282
+L 5536 160
+L 5536 0
+L 4083 0
+z
+M 4589 2438
+Q 4256 2733 3866 2733
+Q 3475 2733 3078 2419
+L 3072 2547
+Q 3258 2758 3459 2912
+Q 3661 3066 3885 3168
+Q 3923 3174 3961 3174
+Q 4000 3174 4032 3174
+Q 4333 3174 4585 3052
+Q 4838 2931 5056 2669
+L 4589 2438
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-1d6" d="M 1338 -32
+L 218 3059
+L 787 3059
+L 1734 224
+L 1619 224
+L 2611 3059
+L 3002 3059
+L 2003 358
+Q 1965 243 1926 169
+Q 1888 96 1824 54
+Q 1760 13 1648 -6
+Q 1536 -26 1338 -32
+z
+M 595 2739
+Q 429 2771 278 2825
+Q 128 2880 -13 2957
+L -13 3123
+L 1286 3123
+L 1286 2957
+L 595 2739
+z
+M 2822 2739
+Q 2406 2790 2003 2957
+L 2003 3123
+L 3194 3123
+L 3194 2957
+L 2822 2739
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-19c"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(37.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(87.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(142.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(195.609375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(234.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(269.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(318.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(375.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(393.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(481.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(534.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(582.8125 0)"/>
+     </g>
+    </g>
+    <g id="patch_4">
+     <path d="M 465.5376 86.64
+L 631.3032 86.64
+L 631.3032 49.248
+L 465.5376 49.248
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <!-- claim -->
+     <g style="fill: #2c3133" transform="translate(536.175088 71.944) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-160" d="M 192 0
+L 192 154
+Q 275 192 380 230
+Q 486 269 640 294
+L 710 4064
+L 365 4512
+Q 550 4614 745 4684
+Q 941 4755 1165 4781
+L 1165 282
+L 1645 160
+L 1645 0
+L 192 0
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-147" d="M 276 0
+L 276 154
+Q 372 198 484 236
+Q 596 275 724 294
+L 781 2502
+L 448 2918
+Q 634 3027 829 3094
+Q 1024 3162 1248 3187
+L 1248 282
+L 1728 160
+L 1728 0
+L 276 0
+z
+M 1082 4550
+Q 1184 4454 1257 4329
+Q 1331 4205 1350 4077
+Q 1267 3974 1139 3900
+Q 1011 3827 883 3808
+Q 781 3898 707 4022
+Q 634 4147 608 4282
+Q 698 4384 822 4454
+Q 947 4525 1082 4550
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-114"/>
+      <use xlink:href="#Piazzolla-Thin-160" transform="translate(45.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(74.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(127.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(156.109375 0)"/>
+     </g>
+    </g>
+    <g id="patch_5">
+     <path d="M 631.3032 86.64
+L 768.24 86.64
+L 768.24 49.248
+L 631.3032 49.248
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <!-- first long think -->
+     <g style="fill: #2c3133" transform="translate(667.158319 71.944) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-1f1" d="M 295 2810
+L 295 2912
+Q 416 2989 547 3040
+Q 679 3091 832 3110
+Q 845 3526 938 3840
+Q 1031 4154 1194 4362
+Q 1357 4570 1587 4672
+Q 1818 4774 2106 4774
+Q 2151 4774 2208 4774
+Q 2266 4774 2324 4762
+L 2324 4294
+Q 2208 4314 2099 4317
+Q 1991 4320 1882 4320
+Q 1773 4320 1658 4313
+Q 1543 4307 1434 4288
+Q 1364 4154 1328 3843
+Q 1293 3533 1300 3110
+L 2221 3110
+L 2189 2810
+L 295 2810
+z
+M 1312 2963
+L 1312 282
+L 1927 160
+L 1927 0
+L 352 0
+L 352 154
+Q 436 192 541 230
+Q 647 269 788 294
+L 839 2963
+L 1312 2963
+z
+M 2464 0
+L 2464 154
+Q 2560 198 2672 236
+Q 2784 275 2912 294
+L 2969 2502
+L 2636 2918
+Q 2822 3027 3017 3094
+Q 3212 3162 3436 3187
+L 3436 282
+L 3916 160
+L 3916 0
+L 2464 0
+z
+M 3271 4550
+Q 3373 4454 3446 4329
+Q 3520 4205 3539 4077
+Q 3456 3974 3328 3900
+Q 3200 3827 3072 3808
+Q 2970 3898 2896 4022
+Q 2823 4147 2797 4282
+Q 2887 4384 3011 4454
+Q 3136 4525 3271 4550
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-1a4" d="M 1395 -45
+Q 1178 -45 928 -9
+Q 678 26 410 102
+L 608 506
+Q 902 416 1180 371
+Q 1459 326 1734 326
+Q 1837 326 1939 336
+Q 2042 346 2144 358
+L 1926 256
+Q 2061 320 2160 445
+Q 2259 570 2259 717
+Q 2259 864 2131 973
+Q 2003 1082 1798 1181
+Q 1594 1280 1366 1382
+Q 1139 1485 934 1609
+Q 730 1734 602 1913
+Q 474 2093 474 2336
+Q 474 2733 822 2957
+Q 1171 3181 1741 3181
+Q 1939 3181 2160 3155
+Q 2381 3130 2618 3066
+L 2477 2643
+Q 2202 2726 1936 2768
+Q 1670 2810 1446 2810
+Q 1344 2810 1245 2800
+Q 1146 2790 1037 2778
+L 1203 2854
+Q 1069 2790 1008 2672
+Q 947 2554 947 2438
+Q 947 2278 1075 2160
+Q 1203 2042 1408 1942
+Q 1613 1843 1840 1744
+Q 2067 1645 2272 1520
+Q 2477 1395 2605 1222
+Q 2733 1050 2733 813
+Q 2733 410 2361 182
+Q 1990 -45 1395 -45
+z
+M 410 102
+L 435 1069
+L 659 1069
+L 928 109
+L 410 102
+z
+M 2387 2163
+L 2099 3072
+L 2618 3066
+L 2605 2163
+L 2387 2163
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-13b" d="M 1587 -1325
+Q 947 -1325 579 -1072
+Q 211 -819 205 -365
+Q 352 -147 566 13
+Q 781 173 1056 269
+L 1165 269
+Q 909 64 813 -86
+Q 717 -237 717 -365
+Q 717 -634 973 -790
+Q 1229 -947 1677 -947
+Q 2163 -947 2464 -761
+Q 2765 -576 2765 -269
+Q 2765 -160 2717 -41
+Q 2669 77 2579 179
+L 973 179
+Q 813 288 729 438
+Q 646 589 646 717
+Q 646 890 758 1040
+Q 870 1190 1050 1286
+L 1037 627
+L 2528 627
+Q 2733 627 2905 521
+Q 3078 416 3177 233
+Q 3277 51 3277 -179
+Q 3277 -518 3062 -777
+Q 2848 -1037 2467 -1181
+Q 2086 -1325 1587 -1325
+z
+M 1651 1082
+Q 1043 1082 710 1347
+Q 378 1613 378 2080
+Q 378 2426 541 2672
+Q 704 2918 1011 3049
+Q 1318 3181 1747 3181
+Q 2355 3181 2697 2915
+Q 3040 2650 3040 2176
+Q 3040 1843 2870 1593
+Q 2701 1344 2393 1213
+Q 2086 1082 1651 1082
+z
+M 1677 1414
+Q 2080 1414 2307 1612
+Q 2534 1811 2534 2157
+Q 2534 2477 2310 2653
+Q 2086 2829 1702 2829
+Q 1562 2829 1398 2806
+Q 1235 2784 1082 2739
+Q 986 2560 938 2390
+Q 890 2221 890 2086
+Q 890 1779 1101 1596
+Q 1312 1414 1677 1414
+z
+M 2611 2842
+Q 2547 2957 2508 3078
+Q 2470 3200 2470 3283
+Q 2470 3520 2624 3651
+Q 2778 3782 3059 3782
+Q 3149 3782 3245 3766
+Q 3341 3750 3462 3706
+L 3418 3360
+L 2765 3360
+L 2669 2842
+L 2611 2842
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-142" d="M 192 0
+L 192 154
+Q 275 192 380 230
+Q 486 269 640 294
+L 710 4064
+L 365 4512
+Q 550 4614 745 4684
+Q 941 4755 1165 4781
+L 1165 282
+L 1645 160
+L 1645 0
+L 192 0
+z
+M 2125 0
+L 2125 154
+Q 2208 192 2313 230
+Q 2419 269 2566 294
+L 2630 2438
+L 3091 2669
+L 3091 282
+L 3578 160
+L 3578 0
+L 2125 0
+z
+M 1120 2419
+L 1114 2547
+Q 1293 2758 1497 2912
+Q 1702 3066 1926 3168
+Q 1965 3174 2003 3174
+Q 2042 3174 2074 3174
+Q 2374 3174 2627 3052
+Q 2880 2931 3091 2669
+L 2630 2438
+Q 2298 2733 1907 2733
+Q 1517 2733 1120 2419
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-15d" d="M 192 0
+L 192 154
+Q 282 192 387 230
+Q 493 269 640 294
+L 710 4064
+L 365 4512
+Q 550 4614 745 4684
+Q 941 4755 1165 4781
+L 1165 282
+L 1645 160
+L 1645 0
+L 192 0
+z
+M 2669 -51
+L 1350 1645
+L 2566 3059
+L 2950 3059
+L 2950 2989
+L 1709 1562
+L 1722 1901
+L 3219 83
+Q 3091 38 2953 3
+Q 2816 -32 2669 -51
+z
+M 2630 2739
+Q 2445 2765 2285 2822
+Q 2125 2880 1978 2957
+L 1978 3123
+L 3213 3123
+L 3213 2957
+L 2630 2739
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-1f1"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(62.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(101.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(150.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(186.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-160" transform="translate(204.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(233.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(286.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(345.078125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(399.671875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(417.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(454.265625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(512.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(541.375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-15d" transform="translate(599.96875 0)"/>
+     </g>
+    </g>
+    <g id="patch_6">
+     <path d="M 47.52 124.032
+L 357.4296 124.032
+L 357.4296 86.64
+L 47.52 86.64
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <!-- ZackS v Dobrov (2005 main) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 109.336) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-ee" d="M 435 0
+L 435 166
+L 3104 3872
+L 973 3827
+L 774 2874
+L 576 2874
+L 557 4192
+L 3834 4192
+L 3834 4032
+L 1171 320
+L 3437 378
+L 3629 1344
+L 3827 1344
+L 3853 0
+L 435 0
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-ac" d="M 1830 -64
+Q 1523 -64 1203 -16
+Q 883 32 557 128
+L 762 499
+Q 1056 416 1373 374
+Q 1690 333 2022 333
+Q 2221 333 2419 345
+Q 2618 358 2816 390
+L 2598 326
+Q 2726 390 2832 489
+Q 2938 589 3002 710
+Q 3066 832 3066 960
+Q 3066 1171 2890 1331
+Q 2714 1491 2438 1628
+Q 2163 1766 1856 1907
+Q 1549 2048 1270 2221
+Q 992 2394 816 2621
+Q 640 2848 640 3168
+Q 640 3501 848 3744
+Q 1056 3987 1430 4118
+Q 1805 4250 2317 4250
+Q 2592 4250 2873 4211
+Q 3155 4173 3424 4102
+L 3283 3718
+Q 2995 3789 2700 3824
+Q 2406 3859 2112 3859
+Q 1907 3859 1708 3840
+Q 1510 3821 1312 3782
+L 1549 3853
+Q 1376 3757 1267 3603
+Q 1158 3450 1158 3264
+Q 1158 3034 1334 2861
+Q 1510 2688 1785 2547
+Q 2061 2406 2371 2268
+Q 2682 2131 2957 1964
+Q 3232 1798 3408 1577
+Q 3584 1357 3584 1056
+Q 3584 717 3363 464
+Q 3142 211 2748 73
+Q 2355 -64 1830 -64
+z
+M 1094 122
+L 557 128
+L 582 1357
+L 787 1357
+L 1094 122
+z
+M 3181 2912
+L 2886 4102
+L 3424 4102
+L 3386 2912
+L 3181 2912
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-24" d="M 2573 4192
+Q 3136 4192 3549 3942
+Q 3962 3693 4189 3235
+Q 4416 2778 4416 2157
+Q 4416 1510 4176 1027
+Q 3936 544 3504 272
+Q 3072 0 2509 0
+L 307 0
+L 307 173
+Q 454 224 627 262
+Q 800 301 998 320
+L 1056 3866
+L 307 4006
+L 307 4192
+L 2573 4192
+z
+M 2874 358
+Q 3360 576 3609 1011
+Q 3859 1446 3859 2093
+Q 3859 2547 3760 2873
+Q 3661 3200 3475 3411
+Q 3290 3622 3046 3728
+Q 2803 3834 2509 3834
+L 1338 3834
+L 1562 4051
+L 1562 141
+L 1338 358
+L 2874 358
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-113" d="M 563 154
+L 787 486
+Q 1043 397 1251 352
+Q 1459 307 1626 307
+Q 2131 307 2409 630
+Q 2688 954 2688 1549
+Q 2688 1869 2608 2147
+Q 2528 2426 2355 2662
+L 2662 2374
+Q 2227 2726 1792 2726
+Q 1421 2726 1037 2426
+L 1037 2573
+Q 1216 2765 1405 2912
+Q 1594 3059 1798 3174
+Q 1824 3174 1849 3177
+Q 1875 3181 1888 3181
+Q 2291 3181 2582 2976
+Q 2874 2771 3030 2419
+Q 3187 2067 3187 1619
+Q 3187 1094 2992 720
+Q 2797 346 2441 144
+Q 2086 -58 1606 -58
+Q 1376 -58 1113 -6
+Q 851 45 563 154
+z
+M 563 154
+L 634 4064
+L 314 4518
+Q 499 4621 691 4688
+Q 883 4755 1094 4781
+L 1094 243
+L 563 154
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-7ca" d="M 1907 -1306
+Q 1197 -774 806 13
+Q 416 800 416 1734
+Q 416 2662 806 3452
+Q 1197 4243 1907 4768
+L 2042 4621
+Q 1466 4064 1165 3328
+Q 864 2592 864 1734
+Q 864 870 1165 131
+Q 1466 -608 2042 -1158
+L 1907 -1306
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-73a" d="M 512 0
+L 512 429
+Q 518 704 672 944
+Q 826 1184 1072 1392
+Q 1318 1600 1590 1798
+Q 1862 1997 2105 2195
+Q 2349 2394 2502 2605
+Q 2656 2816 2656 3053
+Q 2656 3232 2582 3363
+Q 2509 3494 2349 3603
+L 2682 3411
+Q 2227 3514 1792 3514
+Q 1517 3514 1248 3482
+Q 979 3450 710 3386
+L 627 3776
+Q 960 3853 1257 3891
+Q 1555 3930 1811 3930
+Q 2445 3930 2803 3709
+Q 3162 3488 3162 3059
+Q 3162 2771 3008 2524
+Q 2854 2278 2611 2064
+Q 2368 1850 2096 1654
+Q 1824 1459 1577 1264
+Q 1331 1069 1177 864
+Q 1024 659 1018 422
+L 1011 0
+L 512 0
+z
+M 730 0
+L 730 346
+L 3149 403
+L 3155 0
+L 730 0
+z
+M 2790 0
+L 3098 1280
+L 3296 1280
+L 3309 0
+L 2790 0
+z
+M 646 2477
+L 627 3776
+L 1126 3782
+L 838 2477
+L 646 2477
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-738" d="M 1952 -51
+Q 1504 -51 1165 192
+Q 826 435 637 867
+Q 448 1299 448 1882
+Q 448 2483 646 2940
+Q 845 3398 1200 3657
+Q 1555 3917 2016 3917
+Q 2477 3917 2819 3673
+Q 3162 3430 3354 2992
+Q 3546 2554 3546 1978
+Q 3546 1382 3347 924
+Q 3149 467 2790 208
+Q 2432 -51 1952 -51
+z
+M 1990 301
+Q 2291 301 2524 505
+Q 2758 710 2886 1081
+Q 3014 1453 3014 1952
+Q 3014 2438 2889 2793
+Q 2765 3149 2531 3344
+Q 2298 3539 1971 3539
+Q 1792 3539 1613 3475
+Q 1434 3411 1306 3283
+Q 1146 2957 1059 2605
+Q 973 2253 973 1888
+Q 973 1414 1101 1056
+Q 1229 698 1456 499
+Q 1683 301 1990 301
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-73d" d="M 1773 -58
+Q 1517 -58 1232 -13
+Q 947 32 653 115
+L 736 480
+Q 1037 403 1302 364
+Q 1568 326 1805 326
+Q 2240 326 2637 461
+Q 2733 614 2781 771
+Q 2829 928 2829 1069
+Q 2829 1408 2605 1625
+Q 2381 1843 1978 1843
+L 755 1843
+L 947 2227
+L 2022 2227
+Q 2637 2227 2979 1942
+Q 3322 1658 3322 1146
+Q 3322 582 2912 262
+Q 2502 -58 1773 -58
+z
+M 1184 115
+L 653 115
+L 685 1242
+L 870 1242
+L 1184 115
+z
+M 755 1843
+L 755 3859
+L 1146 3859
+L 1133 2035
+L 755 1843
+z
+M 3021 3469
+L 947 3494
+L 755 3859
+L 3021 3859
+L 3021 3469
+z
+M 2944 2675
+L 2637 3859
+L 3155 3859
+L 3136 2675
+L 2944 2675
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-7cb" d="M 192 4774
+Q 902 4250 1292 3459
+Q 1683 2669 1683 1741
+Q 1683 800 1292 13
+Q 902 -774 192 -1299
+L 51 -1152
+Q 627 -595 931 137
+Q 1235 870 1235 1741
+Q 1235 2598 931 3334
+Q 627 4070 51 4621
+L 192 4774
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-ee"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(67 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(119.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-15d" transform="translate(165.609375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-ac" transform="translate(217.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(281.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(299.609375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(349.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-24" transform="translate(367.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(443.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-113" transform="translate(496.921875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(551.421875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(588.734375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(640.9375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(690.84375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(708.640625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(741.4375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(801.03125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(863.4375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73d" transform="translate(925.84375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(985.75 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(1003.546875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(1092.34375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(1145.046875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(1173.953125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(1232.546875 0)"/>
+     </g>
+    </g>
+    <g id="patch_7">
+     <path d="M 357.4296 124.032
+L 465.5376 124.032
+L 465.5376 86.64
+L 357.4296 86.64
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <!-- 6 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 109.336) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-73e" d="M 1901 -51
+Q 1171 -51 832 393
+Q 493 838 493 1786
+Q 493 2874 934 3408
+Q 1376 3942 2272 3942
+Q 2464 3942 2675 3916
+Q 2886 3891 3123 3840
+L 3008 3424
+Q 2586 3571 2112 3571
+Q 1869 3571 1625 3520
+Q 1382 3469 1152 3366
+L 1370 3488
+Q 1184 3181 1085 2733
+Q 986 2285 986 1773
+Q 986 1018 1210 672
+Q 1434 326 1926 326
+Q 2317 326 2537 540
+Q 2758 755 2758 1146
+Q 2758 1504 2550 1680
+Q 2342 1856 1926 1856
+L 704 1856
+L 704 2221
+L 1990 2221
+Q 2598 2221 2924 1942
+Q 3251 1664 3251 1152
+Q 3251 595 2886 272
+Q 2522 -51 1901 -51
+z
+M 2912 2720
+L 2624 3840
+L 3123 3840
+L 3098 2720
+L 2912 2720
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-73e"/>
+     </g>
+    </g>
+    <g id="patch_8">
+     <path d="M 465.5376 124.032
+L 631.3032 124.032
+L 631.3032 86.64
+L 465.5376 86.64
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <!-- first unprepared move -->
+     <g style="fill: #2c3133" transform="translate(482.11416 109.336) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-1f1"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(62.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(101.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(150.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(186.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(204.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(263.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(321.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(376.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(413.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(463.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(518.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(571.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(608.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(657.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(714.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(732.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(821 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(873.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(921.90625 0)"/>
+     </g>
+    </g>
+    <g id="patch_9">
+     <path d="M 631.3032 124.032
+L 768.24 124.032
+L 768.24 86.64
+L 631.3032 86.64
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <!-- 6 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 109.336) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73e"/>
+     </g>
+    </g>
+    <g id="patch_10">
+     <path d="M 47.52 161.424
+L 357.4296 161.424
+L 357.4296 124.032
+L 47.52 124.032
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <!-- ZackS v Dobrov (2005 final) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 146.728) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-ee"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(67 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(119.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-15d" transform="translate(165.609375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-ac" transform="translate(217.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(281.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(299.609375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(349.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-24" transform="translate(367.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(443.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-113" transform="translate(496.921875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(551.421875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(588.734375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(640.9375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(690.84375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(708.640625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(741.4375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(801.03125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(863.4375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73d" transform="translate(925.84375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(985.75 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1f1" transform="translate(1003.546875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(1066.140625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(1124.734375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-160" transform="translate(1177.4375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(1206.03125 0)"/>
+     </g>
+    </g>
+    <g id="patch_11">
+     <path d="M 357.4296 161.424
+L 465.5376 161.424
+L 465.5376 124.032
+L 357.4296 124.032
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <!-- 18 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 146.728) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-739" d="M 230 0
+L 230 173
+Q 454 230 672 265
+Q 890 301 1101 320
+L 1152 3507
+L 275 3507
+L 275 3674
+L 1331 3923
+L 1651 3923
+L 1651 320
+L 2483 198
+L 2483 0
+L 230 0
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-740" d="M 1843 -64
+Q 1440 -64 1126 67
+Q 813 198 637 428
+Q 461 659 461 960
+Q 461 1331 739 1628
+Q 1018 1926 1523 2093
+L 1626 1946
+Q 1248 1754 1072 1533
+Q 896 1312 896 1030
+Q 896 685 1177 486
+Q 1459 288 1926 288
+Q 2170 288 2451 346
+Q 2630 442 2736 589
+Q 2842 736 2842 890
+Q 2842 1094 2678 1241
+Q 2515 1389 2256 1517
+Q 1997 1645 1705 1773
+Q 1414 1901 1155 2057
+Q 896 2214 729 2425
+Q 563 2637 563 2925
+Q 563 3219 739 3452
+Q 915 3686 1219 3817
+Q 1523 3949 1914 3949
+Q 2272 3949 2557 3830
+Q 2842 3712 3005 3501
+Q 3168 3290 3168 3014
+Q 3168 2650 2899 2336
+Q 2630 2022 2150 1837
+L 2042 1990
+Q 2400 2214 2566 2441
+Q 2733 2669 2733 2938
+Q 2733 3258 2502 3427
+Q 2272 3597 1862 3597
+Q 1754 3597 1629 3584
+Q 1504 3571 1376 3546
+Q 1216 3456 1123 3315
+Q 1030 3174 1030 3014
+Q 1030 2803 1193 2646
+Q 1357 2490 1616 2358
+Q 1875 2227 2163 2096
+Q 2451 1965 2710 1811
+Q 2970 1658 3133 1459
+Q 3296 1261 3296 979
+Q 3296 685 3107 448
+Q 2918 211 2588 73
+Q 2259 -64 1843 -64
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-739"/>
+      <use xlink:href="#Piazzolla-Thin-740" transform="translate(40.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_12">
+     <path d="M 465.5376 161.424
+L 631.3032 161.424
+L 631.3032 124.032
+L 465.5376 124.032
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <!-- first unprepared move -->
+     <g style="fill: #2c3133" transform="translate(482.11416 146.728) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-1f1"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(62.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(101.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(150.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(186.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(204.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(263.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(321.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(376.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(413.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(463.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(518.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(571.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(608.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(657.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(714.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(732.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(821 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(873.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(921.90625 0)"/>
+     </g>
+    </g>
+    <g id="patch_13">
+     <path d="M 631.3032 161.424
+L 768.24 161.424
+L 768.24 124.032
+L 631.3032 124.032
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <!-- 18 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 146.728) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-739"/>
+      <use xlink:href="#Piazzolla-Thin-740" transform="translate(40.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_14">
+     <path d="M 47.52 198.816
+L 357.4296 198.816
+L 357.4296 161.424
+L 47.52 161.424
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_13">
+     <!-- Nepomniachtchi (2021, game 4) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 184.12) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-72" d="M 3149 4192
+L 4966 4192
+L 4966 4026
+Q 4794 3974 4627 3936
+Q 4461 3898 4288 3878
+L 4282 0
+L 3731 0
+L 1286 3693
+L 1408 3731
+L 1408 320
+L 2195 192
+L 2195 0
+L 314 0
+L 314 173
+Q 486 230 656 265
+Q 826 301 992 320
+L 1056 3866
+L 307 4006
+L 307 4192
+L 1594 4192
+L 4045 486
+L 3936 454
+L 3872 3885
+L 3149 4006
+L 3149 4192
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-7b3" d="M 614 -621
+L 768 294
+L 1293 269
+Q 1203 38 1078 -192
+Q 954 -422 794 -653
+L 614 -621
+z
+M 826 6
+L 595 448
+Q 704 544 819 601
+Q 934 659 1062 691
+Q 1146 608 1200 505
+Q 1254 403 1293 269
+L 826 6
+z
+" transform="scale(0.015625)"/>
+       <path id="Piazzolla-Thin-73c" d="M 1312 0
+L 1312 160
+Q 1491 218 1660 253
+Q 1830 288 1997 307
+L 2054 3552
+L 2150 3501
+L 480 1242
+L 410 1408
+L 3315 1408
+L 3315 1082
+L 224 1082
+L 154 1331
+L 2035 3859
+L 2509 3859
+L 2509 301
+L 3136 179
+L 3136 0
+L 1312 0
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-72"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(78.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(128.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(183.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(236.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(325.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(384.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(413.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(465.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(511.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(570 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(605.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(651.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(709.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(738.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(756.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(788.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(848.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(910.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-739" transform="translate(970.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7b3" transform="translate(1010.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(1038.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(1056.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(1111.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(1163.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(1252.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(1302.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(1320.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(1376.1875 0)"/>
+     </g>
+    </g>
+    <g id="patch_15">
+     <path d="M 357.4296 198.816
+L 465.5376 198.816
+L 465.5376 161.424
+L 357.4296 161.424
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_14">
+     <!-- 32 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 184.12) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-73b" d="M 576 122
+L 685 467
+Q 973 397 1219 361
+Q 1466 326 1670 326
+Q 2150 326 2428 518
+Q 2707 710 2707 1075
+Q 2707 1421 2464 1622
+Q 2221 1824 1792 1824
+L 1325 1824
+L 1325 2195
+L 1664 2195
+Q 1946 2195 2163 2284
+Q 2381 2374 2502 2547
+Q 2624 2720 2624 2950
+Q 2624 3110 2563 3244
+Q 2502 3379 2394 3488
+Q 2150 3558 1811 3558
+Q 1581 3558 1318 3526
+Q 1056 3494 762 3424
+L 653 3763
+Q 973 3853 1267 3897
+Q 1562 3942 1818 3942
+Q 2234 3942 2531 3833
+Q 2829 3725 2989 3520
+Q 3149 3315 3149 3034
+Q 3149 2688 2925 2425
+Q 2701 2163 2291 2042
+Q 2752 1952 2995 1696
+Q 3238 1440 3238 1050
+Q 3238 698 3046 454
+Q 2854 211 2512 76
+Q 2170 -58 1715 -58
+Q 1459 -58 1171 -13
+Q 883 32 576 122
+z
+M 608 1280
+L 806 1280
+L 1101 122
+L 576 122
+L 608 1280
+z
+M 685 2624
+L 653 3763
+L 1178 3770
+L 877 2624
+L 685 2624
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-73b"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(58.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_16">
+     <path d="M 465.5376 198.816
+L 631.3032 198.816
+L 631.3032 161.424
+L 465.5376 161.424
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_15">
+     <!-- known through -->
+     <g style="fill: #2c3133" transform="translate(482.11416 184.12) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-1d7" d="M 3117 -32
+L 2010 3059
+L 2547 3059
+L 3494 224
+L 3366 224
+L 4365 3059
+L 4774 3059
+L 3763 358
+Q 3725 243 3686 169
+Q 3648 96 3587 54
+Q 3526 13 3414 -6
+Q 3302 -26 3117 -32
+z
+M 1344 -32
+L 224 3059
+L 787 3059
+L 1741 224
+L 1613 224
+L 2394 2464
+L 2592 1984
+L 1997 358
+Q 1952 237 1913 163
+Q 1875 90 1814 51
+Q 1754 13 1642 -6
+Q 1530 -26 1344 -32
+z
+M 595 2739
+Q 429 2771 278 2825
+Q 128 2880 -13 2957
+L -13 3123
+L 1286 3123
+L 1286 2957
+L 595 2739
+z
+M 2368 2739
+Q 2214 2771 2060 2825
+Q 1907 2880 1773 2957
+L 1773 3123
+L 3046 3123
+L 3046 2957
+L 2368 2739
+z
+M 4589 2739
+Q 4378 2765 4173 2819
+Q 3968 2874 3770 2957
+L 3770 3123
+L 4960 3123
+L 4960 2957
+L 4589 2739
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-15d"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(52.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(110.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d7" transform="translate(163.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(240.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(299.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(316.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(353.78125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(411.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(449.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(502.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(561.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(615.703125 0)"/>
+     </g>
+    </g>
+    <g id="patch_17">
+     <path d="M 631.3032 198.816
+L 768.24 198.816
+L 768.24 161.424
+L 631.3032 161.424
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <!-- 18 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 184.12) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-739"/>
+      <use xlink:href="#Piazzolla-Thin-740" transform="translate(40.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_18">
+     <path d="M 47.52 236.208
+L 357.4296 236.208
+L 357.4296 198.816
+L 47.52 198.816
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <!-- Gukesh (2024, game 3) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 221.512) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-44" d="M 2611 -51
+Q 1581 -51 1021 499
+Q 461 1050 461 2080
+Q 461 2765 733 3251
+Q 1005 3738 1513 4000
+Q 2022 4262 2733 4262
+Q 2976 4262 3267 4224
+Q 3558 4186 3853 4115
+L 3706 3680
+Q 3430 3763 3145 3804
+Q 2861 3846 2573 3846
+Q 2234 3846 1891 3776
+Q 1549 3706 1222 3571
+L 1562 3738
+Q 1293 3373 1155 2953
+Q 1018 2534 1018 2061
+Q 1018 1222 1450 774
+Q 1882 326 2662 326
+Q 2899 326 3161 371
+Q 3424 416 3718 506
+L 3853 115
+Q 3507 32 3196 -9
+Q 2886 -51 2611 -51
+z
+M 3309 115
+L 3334 1773
+L 2451 1907
+L 2451 2099
+L 4410 2099
+L 4410 1933
+Q 4288 1888 4147 1849
+Q 4006 1811 3853 1786
+L 3853 115
+L 3309 115
+z
+M 3654 2867
+L 3296 4115
+L 3853 4115
+L 3853 2867
+L 3654 2867
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-44"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(73.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-15d" transform="translate(132.3125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(182.015625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(232.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(280.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(338.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(356.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(389.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(449.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(511.5 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(571.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7b3" transform="translate(626.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(654.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(672.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(727.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(779.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(868.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(918.78125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73b" transform="translate(936.578125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(994.78125 0)"/>
+     </g>
+    </g>
+    <g id="patch_19">
+     <path d="M 357.4296 236.208
+L 465.5376 236.208
+L 465.5376 198.816
+L 357.4296 198.816
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_18">
+     <!-- 13 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 221.512) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-739"/>
+      <use xlink:href="#Piazzolla-Thin-73b" transform="translate(40.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_20">
+     <path d="M 465.5376 236.208
+L 631.3032 236.208
+L 631.3032 198.816
+L 465.5376 198.816
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_19">
+     <!-- known through -->
+     <g style="fill: #2c3133" transform="translate(482.11416 221.512) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-15d"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(52.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(110.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d7" transform="translate(163.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(240.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(299.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(316.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(353.78125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(411.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(449.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(502.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(561.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-142" transform="translate(615.703125 0)"/>
+     </g>
+    </g>
+    <g id="patch_21">
+     <path d="M 631.3032 236.208
+L 768.24 236.208
+L 768.24 198.816
+L 631.3032 198.816
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_20">
+     <!-- 14 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 221.512) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-739"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(40.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_22">
+     <path d="M 47.52 273.6
+L 357.4296 273.6
+L 357.4296 236.208
+L 47.52 236.208
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_21">
+     <!-- Ding (2024, game 3) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 258.904) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-24"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(76.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(105.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(163.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(218.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(236.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(268.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(328.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(390.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(450.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7b3" transform="translate(506.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(534.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(551.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(606.578125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(659.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(748.078125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(798.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73b" transform="translate(815.96875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(874.171875 0)"/>
+     </g>
+    </g>
+    <g id="patch_23">
+     <path d="M 357.4296 273.6
+L 465.5376 273.6
+L 465.5376 236.208
+L 357.4296 236.208
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_22">
+     <!-- 7 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 258.904) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-73f" d="M 333 2483
+L 307 3859
+L 806 3859
+L 531 2483
+L 333 2483
+z
+M 442 3437
+L 442 3859
+L 2848 3859
+L 2848 3469
+L 442 3437
+z
+M 3085 3712
+L 1434 0
+L 986 0
+L 2714 3859
+L 3085 3859
+L 3085 3712
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-73f"/>
+     </g>
+    </g>
+    <g id="patch_24">
+     <path d="M 465.5376 273.6
+L 631.3032 273.6
+L 631.3032 236.208
+L 465.5376 236.208
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_23">
+     <!-- unprepared by -->
+     <g style="fill: #2c3133" transform="translate(482.11416 258.904) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-1dd" d="M -173 -1178
+L -141 -813
+L 1011 -883
+Q 1171 -672 1286 -486
+Q 1402 -301 1494 -83
+Q 1587 134 1696 422
+L 2605 3059
+L 3002 3059
+L 1997 314
+Q 1696 -518 1334 -908
+Q 973 -1299 474 -1299
+Q 326 -1299 163 -1267
+Q 0 -1235 -173 -1178
+z
+M 1299 58
+L 218 3059
+L 781 3059
+L 1747 160
+L 1299 58
+z
+M 602 2739
+Q 435 2765 281 2822
+Q 128 2880 -13 2957
+L -13 3123
+L 1286 3123
+L 1286 2957
+L 602 2739
+z
+M 2822 2739
+Q 2611 2765 2406 2819
+Q 2202 2874 2003 2957
+L 2003 3123
+L 3194 3123
+L 3194 2957
+L 2822 2739
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-1ba"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(58.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(117 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(171.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(209.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(259.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(314.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(366.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(404.21875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(452.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(509.71875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-113" transform="translate(527.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1dd" transform="translate(581.015625 0)"/>
+     </g>
+    </g>
+    <g id="patch_25">
+     <path d="M 631.3032 273.6
+L 768.24 273.6
+L 768.24 236.208
+L 631.3032 236.208
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_24">
+     <!-- 9 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 258.904) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-741" d="M 1869 3942
+Q 2598 3942 2940 3497
+Q 3283 3053 3283 2099
+Q 3283 1018 2841 483
+Q 2400 -51 1498 -51
+Q 1312 -51 1101 -25
+Q 890 0 653 45
+L 768 461
+Q 1190 326 1670 326
+Q 2163 326 2624 518
+L 2406 403
+Q 2586 704 2688 1152
+Q 2790 1600 2790 2112
+Q 2790 2880 2563 3222
+Q 2336 3565 1850 3565
+Q 1459 3565 1238 3347
+Q 1018 3130 1018 2746
+Q 1018 2387 1222 2211
+Q 1427 2035 1843 2035
+L 3072 2035
+L 3072 1670
+L 1786 1670
+Q 1171 1670 848 1948
+Q 525 2227 525 2739
+Q 525 3296 886 3619
+Q 1248 3942 1869 3942
+z
+M 858 1171
+L 1146 45
+L 653 45
+L 672 1171
+L 858 1171
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-741"/>
+     </g>
+    </g>
+    <g id="patch_26">
+     <path d="M 47.52 310.992
+L 357.4296 310.992
+L 357.4296 273.6
+L 47.52 273.6
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_25">
+     <!-- Ding (2024, game 11) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 296.296) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-24"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(76.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(105.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(163.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(218.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(236.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(268.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(328.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(390.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(450.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7b3" transform="translate(506.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(534.1875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-13b" transform="translate(551.984375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(606.578125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(659.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(748.078125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(798.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-739" transform="translate(815.96875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-739" transform="translate(856.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(896.375 0)"/>
+     </g>
+    </g>
+    <g id="patch_27">
+     <path d="M 357.4296 310.992
+L 465.5376 310.992
+L 465.5376 273.6
+L 357.4296 273.6
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_26">
+     <!-- 4 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 296.296) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73c"/>
+     </g>
+    </g>
+    <g id="patch_28">
+     <path d="M 465.5376 310.992
+L 631.3032 310.992
+L 631.3032 273.6
+L 465.5376 273.6
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_27">
+     <!-- unprepared by -->
+     <g style="fill: #2c3133" transform="translate(482.11416 296.296) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-1ba"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(58.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(117 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(171.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(209.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(259.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(314.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(366.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(404.21875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(452.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(509.71875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-113" transform="translate(527.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1dd" transform="translate(581.015625 0)"/>
+     </g>
+    </g>
+    <g id="patch_29">
+     <path d="M 631.3032 310.992
+L 768.24 310.992
+L 768.24 273.6
+L 631.3032 273.6
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_28">
+     <!-- 4 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 296.296) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73c"/>
+     </g>
+    </g>
+    <g id="patch_30">
+     <path d="M 47.52 348.384
+L 357.4296 348.384
+L 357.4296 310.992
+L 47.52 310.992
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_29">
+     <!-- Nielsen v Rodo (2007) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 333.688) scale(0.1 -0.1)">
+      <defs>
+       <path id="Piazzolla-Thin-a4" d="M 3846 326
+L 4467 192
+L 4467 0
+L 3341 0
+L 3130 1165
+Q 3066 1542 2899 1689
+Q 2733 1837 2381 1837
+L 1325 1837
+L 1325 2195
+L 2662 2195
+Q 3021 2362 3187 2573
+Q 3354 2784 3354 3066
+Q 3354 3424 3120 3629
+Q 2886 3834 2483 3834
+L 1562 3834
+L 1562 320
+L 2246 192
+L 2246 0
+L 307 0
+L 307 173
+Q 410 224 582 259
+Q 755 294 998 320
+L 1056 3866
+L 307 4006
+L 307 4192
+L 2579 4192
+Q 3174 4192 3532 3910
+Q 3891 3629 3891 3168
+Q 3891 2771 3635 2464
+Q 3379 2157 2957 2035
+Q 3264 1958 3433 1750
+Q 3603 1542 3680 1158
+L 3846 326
+z
+" transform="scale(0.015625)"/>
+      </defs>
+      <use xlink:href="#Piazzolla-Thin-72"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(81.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(110 0)"/>
+      <use xlink:href="#Piazzolla-Thin-160" transform="translate(160.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(188.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(237.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(287.375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(345.96875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(363.765625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(413.671875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-a4" transform="translate(431.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(501.859375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(555.265625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(612.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(665.578125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(683.375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(716.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(775.765625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(838.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73f" transform="translate(900.578125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(951.671875 0)"/>
+     </g>
+    </g>
+    <g id="patch_31">
+     <path d="M 357.4296 348.384
+L 465.5376 348.384
+L 465.5376 310.992
+L 357.4296 310.992
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_30">
+     <!-- 34 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 333.688) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73b"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(58.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_32">
+     <path d="M 465.5376 348.384
+L 631.3032 348.384
+L 631.3032 310.992
+L 465.5376 310.992
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_31">
+     <!-- last prepared move -->
+     <g style="fill: #2c3133" transform="translate(482.11416 333.688) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-160"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(28.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(81.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(129.890625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(166.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(184.484375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(239.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(276.59375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(326.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(381.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(434.390625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(471.703125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(520.296875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(577.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-169" transform="translate(595 0)"/>
+      <use xlink:href="#Piazzolla-Thin-175" transform="translate(683.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(736 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(784.703125 0)"/>
+     </g>
+    </g>
+    <g id="patch_33">
+     <path d="M 631.3032 348.384
+L 768.24 348.384
+L 768.24 310.992
+L 631.3032 310.992
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_32">
+     <!-- 34 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 333.688) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73b"/>
+      <use xlink:href="#Piazzolla-Thin-73c" transform="translate(58.203125 0)"/>
+     </g>
+    </g>
+    <g id="patch_34">
+     <path d="M 47.52 385.776
+L 357.4296 385.776
+L 357.4296 348.384
+L 47.52 348.384
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_33">
+     <!-- Nielsen v ZackS (2007) -->
+     <g style="fill: #2c3133" transform="translate(78.51096 371.08) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-72"/>
+      <use xlink:href="#Piazzolla-Thin-147" transform="translate(81.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(110 0)"/>
+      <use xlink:href="#Piazzolla-Thin-160" transform="translate(160.09375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(188.6875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(237.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(287.375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(345.96875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1d6" transform="translate(363.765625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(413.671875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-ee" transform="translate(431.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(498.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-114" transform="translate(551.171875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-15d" transform="translate(597.078125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-ac" transform="translate(649.375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(713.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7ca" transform="translate(731.078125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73a" transform="translate(763.875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(823.46875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-738" transform="translate(885.875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-73f" transform="translate(948.28125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7cb" transform="translate(999.375 0)"/>
+     </g>
+    </g>
+    <g id="patch_35">
+     <path d="M 357.4296 385.776
+L 465.5376 385.776
+L 465.5376 348.384
+L 357.4296 348.384
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_34">
+     <!-- 7 -->
+     <g style="fill: #2c3133" transform="translate(368.2404 371.08) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73f"/>
+     </g>
+    </g>
+    <g id="patch_36">
+     <path d="M 465.5376 385.776
+L 631.3032 385.776
+L 631.3032 348.384
+L 465.5376 348.384
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_35">
+     <!-- unprepared by -->
+     <g style="fill: #2c3133" transform="translate(482.11416 371.08) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-1ba"/>
+      <use xlink:href="#Piazzolla-Thin-16b" transform="translate(58.40625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(117 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(171.796875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(209.109375 0)"/>
+      <use xlink:href="#Piazzolla-Thin-199" transform="translate(259.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-f7" transform="translate(314.203125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-19c" transform="translate(366.90625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-122" transform="translate(404.21875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-11b" transform="translate(452.8125 0)"/>
+      <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(509.71875 0)"/>
+      <use xlink:href="#Piazzolla-Thin-113" transform="translate(527.515625 0)"/>
+      <use xlink:href="#Piazzolla-Thin-1dd" transform="translate(581.015625 0)"/>
+     </g>
+    </g>
+    <g id="patch_37">
+     <path d="M 631.3032 385.776
+L 768.24 385.776
+L 768.24 348.384
+L 631.3032 348.384
+z
+" style="fill: #f2f2ed; stroke: #d4d8d2; stroke-width: 0.4; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_36">
+     <!-- 7 -->
+     <g style="fill: #2c3133" transform="translate(644.99688 371.08) scale(0.1 -0.1)">
+      <use xlink:href="#Piazzolla-Thin-73f"/>
+     </g>
+    </g>
+   </g>
+  </g>
+  <g id="text_37">
+   <!-- Preparation accounts and first long thinks -->
+   <g style="fill: #2c3133" transform="translate(63.36 36.396) scale(0.18 -0.18)">
+    <defs>
+     <path id="Piazzolla-Thin-a1" d="M 2515 4192
+Q 2938 4192 3232 4051
+Q 3526 3910 3686 3641
+Q 3846 3373 3846 2995
+Q 3846 2592 3657 2291
+Q 3469 1990 3129 1820
+Q 2790 1651 2336 1651
+L 1286 1651
+L 1286 2010
+L 2758 2010
+Q 3046 2202 3177 2426
+Q 3309 2650 3309 2950
+Q 3309 3386 3075 3610
+Q 2842 3834 2394 3834
+L 1562 3834
+L 1562 320
+L 2445 192
+L 2445 0
+L 307 0
+L 307 173
+Q 416 230 582 265
+Q 749 301 992 320
+L 1056 3866
+L 307 4006
+L 307 4192
+L 2515 4192
+z
+" transform="scale(0.015625)"/>
+    </defs>
+    <use xlink:href="#Piazzolla-Thin-a1"/>
+    <use xlink:href="#Piazzolla-Thin-19c" transform="translate(65.203125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-122" transform="translate(102.515625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-199" transform="translate(152.609375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-f7" transform="translate(207.609375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-19c" transform="translate(260.3125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-f7" transform="translate(299.21875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(351.921875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-147" transform="translate(388.71875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-175" transform="translate(417.625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-16b" transform="translate(470.828125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(529.421875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-f7" transform="translate(547.21875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-114" transform="translate(599.921875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-114" transform="translate(643.421875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-175" transform="translate(686.921875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1ba" transform="translate(740.328125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-16b" transform="translate(798.734375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(857.328125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(894.125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(942.71875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-f7" transform="translate(960.515625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-16b" transform="translate(1013.21875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-11b" transform="translate(1071.8125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(1128.71875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1f1" transform="translate(1146.515625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-19c" transform="translate(1209.109375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(1248.015625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(1296.609375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(1333.40625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-160" transform="translate(1351.203125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-175" transform="translate(1379.796875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-16b" transform="translate(1433 0)"/>
+    <use xlink:href="#Piazzolla-Thin-13b" transform="translate(1491.59375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-7f7" transform="translate(1546.1875 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1b2" transform="translate(1563.984375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-142" transform="translate(1600.78125 0)"/>
+    <use xlink:href="#Piazzolla-Thin-147" transform="translate(1658.984375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-16b" transform="translate(1687.890625 0)"/>
+    <use xlink:href="#Piazzolla-Thin-15d" transform="translate(1746.484375 0)"/>
+    <use xlink:href="#Piazzolla-Thin-1a4" transform="translate(1798.78125 0)"/>
+   </g>
+  </g>
+ </g>
+</svg>

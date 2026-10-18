@@ -1,0 +1,133 @@
+{
+  "title": "Preparation accounts and first long thinks",
+  "cases": [
+    {
+      "case_id": "zacks_early_unknown",
+      "population": "pal",
+      "game_id": "pal_2005_main:51",
+      "side": "white",
+      "claim_type": "first_unprepared_move",
+      "ply": "11",
+      "move_san": "g4",
+      "account": "Stephen reported leaving his own preparation before this move.",
+      "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9",
+      "label": "ZackS v Dobrov (2005 main)",
+      "account_move": 6,
+      "first_long_think_move": 6,
+      "threshold_seconds": 180.0
+    },
+    {
+      "case_id": "zacks_final_unknown",
+      "population": "pal",
+      "game_id": "pal_final:18",
+      "side": "white",
+      "claim_type": "first_unprepared_move",
+      "ply": "35",
+      "move_san": "Qf4",
+      "account": "Stephen identified this as his first unprepared choice; Qe3 had been prepared.",
+      "source_url": "https://en.chessbase.com/post/pal-c-report-from-the-dark-horse-s-mouth/9",
+      "label": "ZackS v Dobrov (2005 final)",
+      "account_move": 18,
+      "first_long_think_move": 18,
+      "threshold_seconds": 180.0
+    },
+    {
+      "case_id": "nepo_memory_game",
+      "population": "championship",
+      "game_id": "wcc_2021:4",
+      "side": "black",
+      "claim_type": "known_through",
+      "ply": "64",
+      "move_san": "Kg8",
+      "account": "FIDE paraphrases Nepomniachtchi speaking to NRK: he recalled preparation throughout; his first long think followed Carlsen's new idea on move eighteen.",
+      "source_url": "https://www.fide.com/fide-world-championship-dubai-2021-closing-window/",
+      "label": "Nepomniachtchi (2021, game 4)",
+      "account_move": 32,
+      "first_long_think_move": 18,
+      "threshold_seconds": 300.0
+    },
+    {
+      "case_id": "gukesh_prepared_thirteen",
+      "population": "championship",
+      "game_id": "wcc_2024:3",
+      "side": "white",
+      "claim_type": "known_through",
+      "ply": "25",
+      "move_san": "hxg4",
+      "account": "Gukesh said that he was prepared until move thirteen.",
+      "source_url": "https://www.fide.com/gukesh-strikes-back-to-tie-fide-world-championship/",
+      "label": "Gukesh (2024, game 3)",
+      "account_move": 13,
+      "first_long_think_move": 14,
+      "threshold_seconds": 300.0
+    },
+    {
+      "case_id": "ding_unknown_after_h3",
+      "population": "championship",
+      "game_id": "wcc_2024:3",
+      "side": "black",
+      "claim_type": "unprepared_by",
+      "ply": "14",
+      "move_san": "Bf5",
+      "account": "Ding said that he had no knowledge after White's seventh move.",
+      "source_url": "https://www.fide.com/gukesh-strikes-back-to-tie-fide-world-championship/",
+      "label": "Ding (2024, game 3)",
+      "account_move": 7,
+      "first_long_think_move": 9,
+      "threshold_seconds": 300.0
+    },
+    {
+      "case_id": "ding_memory_failure",
+      "population": "championship",
+      "game_id": "wcc_2024:11",
+      "side": "black",
+      "claim_type": "unprepared_by",
+      "ply": "8",
+      "move_san": "Nf6",
+      "account": "Ding recalled an earlier game but could not remember its continuation on move four.",
+      "source_url": "https://www.fide.com/fide-world-championship-game-11-ding-collapses-under-pressure-as-gukesh-takes-the-lead/",
+      "label": "Ding (2024, game 11)",
+      "account_move": 4,
+      "first_long_think_move": 4,
+      "threshold_seconds": 300.0
+    },
+    {
+      "case_id": "nielsen_prepared_deep_think",
+      "population": "pal",
+      "game_id": "pal_2007_final5:2",
+      "side": "black",
+      "claim_type": "last_prepared_move",
+      "ply": "68",
+      "move_san": "Nc7",
+      "account": "Nielsen identified Nc7 as his last prepared move, but checked two alternatives during play.",
+      "source_url": "https://en.chessbase.com/post/freestyle-che-teaching-an-engine-how-to-fly",
+      "label": "Nielsen v Rodo (2007)",
+      "account_move": 34,
+      "first_long_think_move": 34,
+      "threshold_seconds": 180.0
+    },
+    {
+      "case_id": "nielsen_familiar_unprepared",
+      "population": "pal",
+      "game_id": "pal_2007_final5:40",
+      "side": "black",
+      "claim_type": "unprepared_by",
+      "ply": "14",
+      "move_san": "Be7",
+      "account": "Nielsen said that he had prepared nothing for this familiar position and wanted to avoid drifting into an unpleasant line.",
+      "source_url": "https://en.chessbase.com/post/freestyle-che-teaching-an-engine-how-to-fly",
+      "label": "Nielsen v ZackS (2007)",
+      "account_move": 7,
+      "first_long_think_move": 7,
+      "threshold_seconds": 180.0
+    }
+  ],
+  "limits": [
+    "Known-through and unprepared-by claims are bounds; a long think does not identify the preparation endpoint.",
+    "PAL/CSS threshold: five percent of the starting clock; classical threshold: five minutes."
+  ],
+  "inputs_sha256": {
+    "data/curated/preparation_accounts.csv": "a1cc38d24f4c8f9f0976b033e8de873f9db88fa7dfed64e1ee982e829a82e565",
+    "data/derived/preparation_clock_checks.csv": "81741fbec3ac7430e69678662fbab0a24e5d00480c3763c0b560cf3676a64e8d"
+  }
+}
