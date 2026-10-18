@@ -1,6 +1,6 @@
 # January rated-list participation
 
-Headline growth depends on definition: listed 2250+ entries rose from 9,733 to 13,344 between 1997 and 2026; active entries fell from 9,305 to 5,830 between 2007 and 2026; the threshold check gives a different result from a 2000 baseline: active 2000+ increased by 6.8%, while 2250+ fell 30.3% and 2400+ fell 7.2%.
+Headline growth depends on definition: listed 2250+ entries rose from 9,733 to 13,344 between 1997 and 2026; active entries fell from 9,305 to 5,830 between 2007 and 2026. From a 2000 baseline, active 2000+ increased by 6.8%, while 2250+ fell 30.3% and 2400+ fell 7.2%.
 
 | January | active 2000+ | active 2250+ | active 2400+ |
 |---|---:|---:|---:|

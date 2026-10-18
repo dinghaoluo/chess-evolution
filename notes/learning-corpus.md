@@ -10,7 +10,7 @@ Five documented events supply 5,780 eligible games: thirteen from 1985, fifteen 
 
 The frozen seed and one-player-year cap yield 252 of the target 750 player-games; nearest-January joins match 234 identities (92.9%) and supply 219 usable birth years (86.9%); both PGN and independent event ratings remain recorded where they conflict.
 
-Sparse early strata, imperfect identities, and rating provenance prevent historical band or age comparisons. The corpus is capped: no further event pass is used in this round, and the pilot remains a methods result while the essay uses published learning evidence.
+Too few verified early games and unresolved identity and rating conflicts prevent historical band or age comparisons. Corpus expansion stopped with the pilot; published studies supply the historical learning evidence.
 
 [Coverage](../data/derived/learning_pilot_coverage.csv); [birth-year join](../data/derived/learning_pilot_birth_years.csv); [methods](methods.md#capped-learning-pilot).
 
