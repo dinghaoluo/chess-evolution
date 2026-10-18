@@ -1,0 +1,20 @@
+{
+  "inputs_sha256": {
+    "data/derived/advice_config.json": "00b47c35485d4e0952b931b5ad8959ad0325f7d7856f6cd2d940a2aff00591a9",
+    "data/derived/advice_preferences.csv": "9dd2df3297dfc7f2335f6461650b46daa5272c435fc5591fbd1dc51c35f086cc",
+    "data/derived/advice_judgements.csv": "0bba8aabf8dc2fd8b6e9407824510845e8cfe576bdc5367ebde80d4e1a198fd7",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/summarise_advice.py": "3eea65af6b91d592d855697618b51e7c438a20878452f233c5f00107810adcfb"
+  },
+  "outputs_sha256": {
+    "data/derived/advice_summary.csv": "9d774c54eb321c93c1ca0a000f2860cb6988f780be719d9ac56f8ec4e9edc338"
+  },
+  "bootstrap": "2000 sampled-game/position resamples, seed 20261016; one position per game",
+  "limits": [
+    "The finite source pool is dominated by the 2024 Olympiad and cannot support historical human learning or skill trends.",
+    "Preference agreement is distinct from modern-judge quality; no engine release is ground truth.",
+    "This run covers four Stockfish releases only; it does not estimate preference changes from Fruit 2.1 or untested releases.",
+    "Confidence intervals resample sampled games/positions and omit corpus-selection and judge uncertainty.",
+    "Opening turnover and Maia mapping are outside this analysis.",
+    "Loss is relative to the modern screening recommendation under its shared-root rescore; negative signed differences remain in the raw table."
+  ]
+}

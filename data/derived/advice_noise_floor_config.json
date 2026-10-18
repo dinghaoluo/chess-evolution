@@ -1,0 +1,15 @@
+{
+  "inputs_sha256": {
+    "data/derived/advice_preferences.csv": "9dd2df3297dfc7f2335f6461650b46daa5272c435fc5591fbd1dc51c35f086cc",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/advice_noise_floor.py": "94e776098edb16f8245e42565592df68ae7d43b5d3e93cd74ed4f632fce405d2"
+  },
+  "outputs_sha256": {
+    "data/derived/advice_noise_floor.csv": "efcbc77a2b1ed2c3435215b6b3b9396da60029fe1995db6d21a7b60251d2d141"
+  },
+  "limits": [
+    "All comparisons use the same 50 presampled positions, one per game; the 500-position agreement estimate is separate.",
+    "The descriptive noise floor is the mean of the two releases' budget-disagreement rates, not an identified measurement-error model.",
+    "Excess disagreement subtracts that floor; its interval uses 2000 paired game bootstraps, seed 20261016.",
+    "Changing nodes changes search effort; this cannot isolate software knowledge from search instability."
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "protocol": {
+    "recorded": "2026-10-16",
+    "reason": "newly read literature, 16 October 2026",
+    "positions": 500,
+    "seed": 20261016,
+    "sampling": "one independently hashed position per game, mover Elo at least 2200, moves 9\u201340; cycle year, Elo band, moves 9\u201320/21\u201340 and below-20/at-least-20-piece strata until 500 positions",
+    "eligibility": "verified classical event pool; exact independent score/result and compatible participant names required; no Pan-Pacific records without an independent score",
+    "engines": [
+      "stockfish-4",
+      "stockfish-8",
+      "stockfish-12",
+      "stockfish-17.1"
+    ],
+    "node_budget": 100000,
+    "judge": "stockfish-17.1",
+    "judge_nodes": 100000,
+    "judge_search": "one shared-root MultiPV search over distinct release recommendations; common completed depth; native mover WDL",
+    "stability_positions": 50,
+    "stability_nodes": 400000,
+    "rationale": "The 25k learning pilot changed 44/229 recommendations at 100k, with 33/229 expected-loss changes above 0.02. Use 100k with a presampled 400k check for this finite descriptive advice comparison; this does not establish adequate main learning budgets.",
+    "limits": [
+      "The finite source pool is dominated by the 2024 Olympiad and cannot support historical human learning or skill trends.",
+      "Preference agreement is distinct from modern-judge quality; no engine release is ground truth.",
+      "Fruit is excluded because it ignores root restriction; no software claim is made for untested releases.",
+      "Confidence intervals resample sampled games/positions and omit corpus-selection and judge uncertainty.",
+      "Opening turnover and Maia mapping are outside this analysis."
+    ]
+  },
+  "engines": [
+    {
+      "name": "stockfish-4",
+      "year": 2013,
+      "engine_id": {
+        "name": "Stockfish 4 64",
+        "author": "Tord Romstad, Marco Costalba and Joona Kiiski"
+      },
+      "binary": "cache/engines/stockfish-4/engine",
+      "binary_sha256": "cb3d2e7c8a8cdce9b493864572d5081c67865962d0ea81d77c9d24a40f5392d8",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_4",
+      "source_sha256": "3508a3080e9aed3d9c285ebb43f6f952b8f35701969ede782dd7bdf69c1734b9",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++11",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/benchmark.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/bitbase.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/bitboard.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/book.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/endgame.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/evaluate.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/main.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/material.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/misc.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/movegen.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/movepick.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/notation.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/pawns.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/position.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/search.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/thread.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/timeman.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/tt.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/uci.cpp",
+        "cache/engines/stockfish-4/Stockfish-sf_4/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-4/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "OwnBook": false,
+        "Contempt Factor": 0
+      },
+      "network": null
+    },
+    {
+      "name": "stockfish-8",
+      "year": 2016,
+      "engine_id": {
+        "name": "Stockfish 8 64",
+        "author": "T. Romstad, M. Costalba, J. Kiiski, G. Linscott"
+      },
+      "binary": "cache/engines/stockfish-8/engine",
+      "binary_sha256": "96b33df1c88148e0a9d6e3ad587aacde93030cd8312436fdc6db6bc569509533",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_8",
+      "source_sha256": "e2b77d801d8837c22c2391b8cae08622c1434a2bb5947ddb08b081e1ad35c76c",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++17",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/benchmark.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/bitbase.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/bitboard.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/endgame.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/evaluate.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/main.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/material.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/misc.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/movegen.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/movepick.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/pawns.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/position.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/psqt.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/search.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/syzygy/tbprobe.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/thread.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/timeman.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/tt.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/uci.cpp",
+        "cache/engines/stockfish-8/Stockfish-sf_8/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-8/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "SyzygyPath": "",
+        "Contempt": 0
+      },
+      "network": null
+    },
+    {
+      "name": "stockfish-12",
+      "year": 2020,
+      "engine_id": {
+        "name": "Stockfish 12",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/engines/stockfish-12/engine",
+      "binary_sha256": "6efcec6276d909adb2c05bd446797e67e0ba6cdeea621760a6a2442c783224e7",
+      "source_url": "https://codeload.github.com/official-stockfish/Stockfish/tar.gz/sf_12",
+      "source_sha256": "d1ec11d1cb8dfc5b33bcd6ec89ed0bafb3951cc1690851448a2696caa2022899",
+      "compiler": "Apple clang version 12.0.5 (clang-1205.0.22.9)",
+      "command": [
+        "clang++",
+        "-O3",
+        "-DNDEBUG",
+        "-std=c++17",
+        "-pthread",
+        "-fno-strict-aliasing",
+        "-DIS_64BIT",
+        "-DUSE_PTHREADS",
+        "-DNNUE_EMBEDDING_OFF",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/benchmark.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/bitbase.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/bitboard.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/endgame.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/evaluate.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/main.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/material.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/misc.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/movegen.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/movepick.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/nnue/evaluate_nnue.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/nnue/features/half_kp.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/pawns.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/position.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/psqt.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/search.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/syzygy/tbprobe.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/thread.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/timeman.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/tt.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/tune.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/uci.cpp",
+        "cache/engines/stockfish-12/Stockfish-sf_12/src/ucioption.cpp",
+        "-o",
+        "cache/engines/stockfish-12/engine"
+      ],
+      "patch": "",
+      "options": {
+        "Hash": 64,
+        "Threads": 1,
+        "SyzygyPath": "",
+        "Contempt": 0,
+        "Analysis Contempt": "Off",
+        "EvalFile": "cache/engines/stockfish-12/nn-82215d0fd0df.nnue"
+      },
+      "network": {
+        "path": "cache/engines/stockfish-12/nn-82215d0fd0df.nnue",
+        "sha256": "82215d0fd0df3cde17fc47ac024c5b5736823ec390200abdd705c44660c69ee4",
+        "url": "https://tests.stockfishchess.org/api/nn/nn-82215d0fd0df.nnue"
+      }
+    },
+    {
+      "name": "stockfish-17.1",
+      "year": 2025,
+      "engine_id": {
+        "name": "Stockfish 17.1",
+        "author": "the Stockfish developers (see AUTHORS file)"
+      },
+      "binary": "cache/engines/stockfish-17.1/stockfish/stockfish-macos-m1-apple-silicon",
+      "binary_sha256": "9345c44970093cabed9757be86a9ca86809a5b6ca1bdc654cf51a5eed7568858",
+      "options": {
+        "Threads": 1,
+        "Hash": 64,
+        "UCI_ShowWDL": true,
+        "Skill Level": 20,
+        "UCI_LimitStrength": false,
+        "SyzygyPath": ""
+      },
+      "source_url": "https://github.com/official-stockfish/Stockfish/releases/tag/sf_17.1",
+      "network": "embedded in the official hashed binary"
+    }
+  ],
+  "sample_sha256_before_search": "d47a9ee678bba6991694733fa1a1d00d0418b1856511d80912dd89df5696d105",
+  "coverage": {
+    "1985": 13,
+    "2005": 41,
+    "2015": 85,
+    "2024": 361
+  },
+  "inputs_sha256": {
+    "data/derived/learning_pilot_pool.jsonl": "965f6266af59686e3e7e74b63032d4d9e48772aa56c4b6a6716e99630c261cd4",
+    "/Users/dinghaoluo/Library/Mobile Documents/com~apple~CloudDocs/projects/chess-evolution/scripts/compare_advice.py": "5e028bcffad3fd68bc13949402e11da880c646d7285ff81b5bbca5b58b51d02a",
+    "scripts/pal_css_2005_case.py": "c090bacba0405f775aa219a1f69199c8808ccec3e7a832149572a3e855756300",
+    "data/derived/engine_builds.json": "51410ca1597c9baf47512542d4d4c2a1d9e99cf2b6518e20cb98bf5bb609efea",
+    "data/curated/advice_protocol_before_search.json": "81044e17212063ab5a6308e9fa280963c5f2c60351b380d79d7d678ce616ea33"
+  },
+  "outputs_sha256": {
+    "data/derived/advice_sample.csv": "d47a9ee678bba6991694733fa1a1d00d0418b1856511d80912dd89df5696d105",
+    "data/derived/advice_preferences.csv": "9dd2df3297dfc7f2335f6461650b46daa5272c435fc5591fbd1dc51c35f086cc",
+    "data/derived/advice_judgements.csv": "0bba8aabf8dc2fd8b6e9407824510845e8cfe576bdc5367ebde80d4e1a198fd7",
+    "data/derived/advice_searches.jsonl": "ecbcdf5fe65d77a9ebcd5fb0f66d8f14cd00fcb6d3afc91cf6be6dc9548c40ec",
+    "data/derived/advice_agreement.csv": "697a2187724b1c831e1a4cdf06f1b2fea092ddf03807d099b49f5eb4cfbce310"
+  },
+  "limits": [
+    "The finite source pool is dominated by the 2024 Olympiad and cannot support historical human learning or skill trends.",
+    "Preference agreement is distinct from modern-judge quality; no engine release is ground truth.",
+    "This run covers four Stockfish releases only; it does not estimate preference changes from Fruit 2.1 or untested releases.",
+    "Confidence intervals resample sampled games/positions and omit corpus-selection and judge uncertainty.",
+    "Opening turnover and Maia mapping are outside this analysis."
+  ],
+  "interpretation_protocol_sha256": "65f18371b074e92031ac741e0a32d76e6719b889bd5e8e6e8e0e220e46c1f1eb",
+  "interpretation_protocol": "data/curated/advice_protocol.json",
+  "protocol_amendment": {
+    "recorded": "2026-10-16",
+    "reason": "correction of a methodological claim after the run; sampling and search parameters unchanged",
+    "original_sha256": "81044e17212063ab5a6308e9fa280963c5f2c60351b380d79d7d678ce616ea33",
+    "correction": "The original reason given for excluding Fruit was wrong: ignored root restriction does not prevent judging its unrestricted recommendation with a modern engine. Fruit was not run in this sample; the result remains limited to the four named Stockfish releases."
+  }
+}

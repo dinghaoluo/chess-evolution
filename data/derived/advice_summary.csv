@@ -1,0 +1,5 @@
+engine,positions,mean_nonnegative_loss,bootstrap_low,bootstrap_high,above_0_02,above_0_05,judge_reversals,stability_positions,stable_recommendations,stability_loss_change_above_0_02,stability_loss_change_p95
+stockfish-4,500,0.023646,0.017968875000000002,0.029825375,87,58,37,50,35,13,0.17769999999999994
+stockfish-8,500,0.017980999999999997,0.012669225,0.023326524999999997,63,39,41,50,35,10,0.12512499999999996
+stockfish-12,500,0.009652,0.006143925,0.014164449999999999,42,23,47,50,38,8,0.11919999999999985
+stockfish-17.1,500,0.0,0.0,0.0,0,0,0,50,42,0,0.0

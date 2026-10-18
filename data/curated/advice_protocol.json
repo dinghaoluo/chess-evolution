@@ -1,0 +1,34 @@
+{
+  "recorded": "2026-10-16",
+  "reason": "newly read literature, 16 October 2026",
+  "positions": 500,
+  "seed": 20261016,
+  "sampling": "one independently hashed position per game, mover Elo at least 2200, moves 9\u201340; cycle year, Elo band, moves 9\u201320/21\u201340 and below-20/at-least-20-piece strata until 500 positions",
+  "eligibility": "verified classical event pool; exact independent score/result and compatible participant names required; no Pan-Pacific records without an independent score",
+  "engines": [
+    "stockfish-4",
+    "stockfish-8",
+    "stockfish-12",
+    "stockfish-17.1"
+  ],
+  "node_budget": 100000,
+  "judge": "stockfish-17.1",
+  "judge_nodes": 100000,
+  "judge_search": "one shared-root MultiPV search over distinct release recommendations; common completed depth; native mover WDL",
+  "stability_positions": 50,
+  "stability_nodes": 400000,
+  "rationale": "The 25k learning pilot changed 44/229 recommendations at 100k, with 33/229 expected-loss changes above 0.02. Use 100k with a presampled 400k check for this finite descriptive advice comparison; this does not establish adequate main learning budgets.",
+  "limits": [
+    "The finite source pool is dominated by the 2024 Olympiad and cannot support historical human learning or skill trends.",
+    "Preference agreement is distinct from modern-judge quality; no engine release is ground truth.",
+    "This run covers four Stockfish releases only; it does not estimate preference changes from Fruit 2.1 or untested releases.",
+    "Confidence intervals resample sampled games/positions and omit corpus-selection and judge uncertainty.",
+    "Opening turnover and Maia mapping are outside this analysis."
+  ],
+  "amendment": {
+    "recorded": "2026-10-16",
+    "reason": "correction of a methodological claim after the run; sampling and search parameters unchanged",
+    "original_sha256": "81044e17212063ab5a6308e9fa280963c5f2c60351b380d79d7d678ce616ea33",
+    "correction": "The original reason given for excluding Fruit was wrong: ignored root restriction does not prevent judging its unrestricted recommendation with a modern engine. Fruit was not run in this sample; the result remains limited to the four named Stockfish releases."
+  }
+}
